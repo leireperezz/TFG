@@ -1,6 +1,3 @@
-#tengo que quitar la pregunta de que alineamiento quieres y añadir la ruta de la carpeta con los alineamientos seleccionados
-#hay que modificar el nombre del archivo que espera ya que no son iguales
-
 # Get equivalent positions for ClinVar variants using Pfam alignments
 # This code was adapted from Sergi Soldevila in order to consider all Pfam codes, not only the first.
 
