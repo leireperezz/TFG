@@ -22,7 +22,7 @@ os.makedirs(output_dir, exist_ok=True)
 
 ##### ALIGNMENT SOURCE DIRECTORIES #####
 
-# Update these paths to point to your actual alignment data folders
+# Input directories for each alignment type
 seed_dir = "../6_Alignment_quality_comparison/6_1_Filter_shared_sequences/data/Pfam_SEED_HUMAN_2024_03_20"
 full_dir = "../6_Alignment_quality_comparison/6_1_Filter_shared_sequences/data/Pfam_HUMAN_InterPro_2023-07-03"
 rec_dir = "../4_Generate_alignments/4_3_Postprocess_alignments/results"
