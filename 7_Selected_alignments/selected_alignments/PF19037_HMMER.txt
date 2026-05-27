@@ -1,0 +1,4 @@
+MON1A_HUMAN/414-511            .-SLVFSILLARNQLVALVRRKD...Q.FLHPIDLHLLFNLISSSSSFR.......................................................................................................EGEAWTPVCLPKFNAaGFFHAHISYLEpDTDLCLLLVSTDRED.FFAVSDCRRRF--q..
+HPS1_HUMAN/205-403             e--ALHAFLLVHSKLLAFYSSHS...AsSLRPADLLALILLVQDLYPSEstaeddiqpsprrarssqnipvqqawsphstgptggssaetetdsfslpeeyftpapspgdqssgstiwleggtppmdalqiaedtlqtlvphcpvpsgprriFLDANVKESYCPLVP.HTMYCLPLWQ-.GINLVLLTRSPSAPLaLVLSQLMD-----gfs
+FUZZY_HUMAN/175-269            g--TTFVSLVVSGRVVAATEGWW...-.RLGTPEAVLLPWLVGSLPPQT.......................................................................................................--ARDYPVYLPHGSP.TVPHRLLTLTL.LPSLELCLLCGPSPPlSQLYPQLLERWWQ...
+MON1B_HUMAN/276-368            s------VLAVGGRLITAAQERNvlaEcRLDPADLQLLLDWVGA-PAFA.......................................................................................................AGEAWAPVCLPRFNPdGFFYAYVARLD.AMPVCLLLLGTQREA.FHAMAACR-----r..
