@@ -12,15 +12,6 @@ from colorama import Fore, Style
 from Bio.Data.IUPACData import protein_letters_3to1
 
 
-""" # Create the parser
-parser = argparse.ArgumentParser()
-# Add an argument
-parser.add_argument('--version_pattern', type=str, help='Version pattern')
-#parser.add_argument('--up_low_case', type=str, help='Keep pfam vs upperCase')
-# Parse the arguments
-args = parser.parse_args()
-"""
-
 #full_vs_seed = input("Write the desired alignment type. (Mix condition prioritizes seed alignment and uses full ones when seed is not found)\nYou can choose between:\n\tfull\n\tseed\n\tseed+full(mix)\nPlease, write the version as indicated: ")
 
 
@@ -248,40 +239,7 @@ for gnomad_file in gnomad_file_list:
     print(Fore.MAGENTA + '--Start aligning positions--')
     print(Style.RESET_ALL)
 
-    """
-    if full_vs_seed == 'mix':
-        initial_length = len(gnomad)
-        # First call with full_vs_seed = 'seed'
-        gnomad = pos_align(gnomad, full_vs_seed='seed')
-
-        # Filter out rows where Pos_align is already filled
-        seed_rows = gnomad[gnomad['Pos_align'] != 0]
-        #print(f'FILLED ROWS SEED: {len(seed_rows)}')
-
-        # Filter out rows where Pos_align is not filled
-        unfilled_rows = gnomad[gnomad['Pos_align'] == 0]
-        #print(f'UNFILLED ROWS: {len(unfilled_rows)}')
-
-        # Second call with full_vs_seed = 'full' for unfilled rows
-        #print(f'ROWS trying FULL: {len(unfilled_rows)}')
-        full_rows = pos_align(unfilled_rows, full_vs_seed='full')
-        full_rows = full_rows[full_rows['Pos_align'] != 0]
-        #print(f'ROWS FILLED FULL: {len(full_rows)}')
-
-        # Concatenate the filled and unfilled rows back into a single DataFrame
-        gnomad = pd.concat([seed_rows, full_rows])
-        #print(f'LENGTH AFTER MIX: {len(gnomad)}')
-        # This won't remove anything but just to assure that all is correct:
-        gnomad = gnomad[gnomad['Pos_align'] != 0]
-
-        # Sort the DataFrame by index to match the original order
-        gnomad = gnomad.sort_index()
-        print(f'Rows with alignment: {len(gnomad)}')
-        print(f'We could not find seed nor full alignments in: {initial_length - len(gnomad)} rows.')
-
-    else:
-        gnomad = pos_align(gnomad, full_vs_seed)
-    """
+    
     gnomad = pos_align(gnomad)
 
     # Remove 0s
@@ -294,17 +252,7 @@ for gnomad_file in gnomad_file_list:
     elif 'r4' in gnomad_file:
         gnomad_v = 'r4'
     
-   
-    '''
-    if full_vs_seed == 'full':
-        #output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_FULL_PFAM_interpro{args.version_pattern}.txt"
-        output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_FULL_PFAM_interpro{version_pattern}.txt"
-    elif full_vs_seed == 'seed':
-        #output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_SEED_PFAM_interpro{args.version_pattern}.txt"
-        output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_SEED_PFAM_interpro{version_pattern}.txt"
-    elif full_vs_seed == 'mix':
-        output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_SEED+FULL_PFAM_interpro{version_pattern}.txt"
-'''
+
     output_file = f"{output_path}/gnomad_{gnomad_v}_pos_align_REC{version_pattern}.txt"
     output_file = os.path.normpath(output_file)
     filtered_gnomad.to_csv(output_file, sep="\t", index=False)
