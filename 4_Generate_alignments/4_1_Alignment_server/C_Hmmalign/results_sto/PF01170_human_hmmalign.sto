@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q7Z4G4|PF01170|190-320         ...k---RHFIGNTSMDAGLSFIMANHGKVKENDIVFDPFVGTGGLLIACAHFGAYVY---GTDIDYNTVHGLGKATRKNQKWRGPDENI------RANLRQYGLEKYyLDVLVSDASKPSwRKGTYFDAIITDPPYGIRESTR---------------------.--------------------..------------
+#=GR Q7Z4G4|PF01170|190-320 PP ...5...99*************************************************...56678888889999999999******876......5799999999852455555666555435559************97765........................................................
+Q9BTF0|PF01170|274-412         ....---RAYIKTAGLRSTIAWAMASLADIKAGAFVLDPMCGLGTILLEAAKEWPDVY------------------------YVGADVSDSQLLGTWDNLKAAGLEDK.IELLKISVIELP.LPSESVDIIISDIPFGKKFKLGKDIK----SILQEMERVLHVG.GTIVLLLSED----------..------------
+#=GR Q9BTF0|PF01170|274-412 PP .......667889*********************************************........................79************************.************.********************999996....5789999999999.9999999886........................
+Q9BV44|PF01170|294-476         nith------FGPTTLRSTLAYGMLRLCDPLPYDIIVDPMCGTGAIPIEGATEWSDCFHIAG-------------DNNPLAVNRAANNIASLLTKSQIKEGKPSWGLP.IDAVQWDICNLP.LRTGSVDIIVTDLPFGKRMGSKKRNWNLYPACLREMSRVCTPTtGRAVLLTQDTKCFTKALSGMrhVWRKVDTVWVNV
+#=GR Q9BV44|PF01170|294-476 PP 9864......57**********************************************7665.............9999999**************************.************.****************************************9988******************99899**********9
+#=GC PP_cons                   .......788789*********************************************76656678888889999999999*9****998******89********98.888888999888.8888**************9998**98****89999*****999.******9998********99..9**********9
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx
+
+Q7Z4G4|PF01170|190-320         ------rt
+#=GR Q7Z4G4|PF01170|190-320 PP ......57
+Q9BTF0|PF01170|274-412         ------h.
+#=GR Q9BTF0|PF01170|274-412 PP ......7.
+Q9BV44|PF01170|294-476         GGL---r.
+#=GR Q9BV44|PF01170|294-476 PP 987...5.
+#=GC PP_cons                   987.....
+#=GC RF                        xxxxxx..
+//

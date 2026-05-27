@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q00722|PF08703|878-1153         ..MKEAAEPRTASLEELRELKGVVKLQRRHEKELRELERRGARRWEELLQRGAAQLAELGPPGvggvGACK....LGPGKGsRKKRSLPREE-.SAGAA..PGEGP..EGVD..GRVRELKDRLELELLRQGEEQYECVLKRKEQHVAEQISKMMELAREKQAAELKALKETSENDTKEMKK...KLETKRLERIQGMTK
+#=GR Q00722|PF08703|878-1153 PP ..5899*****************************************************************....**************999..59***..*****..****..********************************************************************...***************
+Q01970|PF08703|944-1200         .s--ILSEVAPTPLDELRGHKALVKLRSRQERDLRELRKKHQRKAVTLTRRLLDGLAQAQAEG....----....------.-RCRLRPGAL-.GGAAD..VEDTK..EGEDeaKRYQEFQNRQVQSLLELREAQVDAEAQRRLEHLRQALQRLREVVLDANTTQFKRLKEMNEREKKELQK...ILDRKRHNSISEAK-
+#=GR Q01970|PF08703|944-1200 PP .6..789********************************************************....................999999555..89999..99999..9999645666****************************************************************...**************.
+Q15147|PF08703|917-1172         vr-----------IEDLKQMKAYLKHLKKQQKELNSLKKKHAKEHSTMQKLHCTQVDKIVAQY....DKEKstheKILEKAmKKKGGSNCLEM.KKETEikIQTLT..SDHK..SKVKEIVAQHTKEWSEMINTHSAEEQEIRDLHLSQQCELLKKLLINAHEQQTQQLKLSHDRESKEMRAhqaKISMENSKAISQ-DK
+#=GR Q15147|PF08703|917-1172 PP 75...........89****************************99998888888887777766....55441110445556667777888888.665551044555..5556..8999**************************************************************76111444444444544.45
+Q9NQ66|PF08703|901-1172         .v---LTEVEAQTIEELKQQKSFVKLQKKHYKEMKDLVKRHHKKTTDLIKEHTTKYNEIQNDYlrrrAALE....KSA-KKdSKKKSEPSSPDhGSSTI..EQDLAalDAEM.tQKLIDLKDKQQQQLLNLRQEQYYSEKYQKREHIKLLIQKLTDVAEECQNNQLKKLKEICEKEKKELKK...KMDKKRQEKITEAK-
+#=GR Q9NQ66|PF08703|901-1172 PP .6...79****************************************************999844433333....344.44589999887754377777..77755213332.35666****************************************************************...**************.
+#=GC PP_cons                    ..58889******9**********************************999999999999998....6666....666867.89999997776.78888..88877..7777..7788**************************************************************99...999999999999*88
+#=GC RF                         ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxx....xxxxxx.xxxxxxxxxxx.xxxxx..xxxxx..xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx
+
+Q00722|PF08703|878-1153         VTTDKMAQERLKREINNSHIQEVVQVIKQMTENLERHQEKLEEKQAACLEQIREMEKQFQK.EALAEYEARMKGLEAEVKESVRACLRTCFPSE....
+#=GR Q00722|PF08703|878-1153 PP *************************************************************.******************************86....
+Q01970|PF08703|944-1200         -MRDKHKKEAELTEINRRHITESVNSIRRLEEAQKQRHDRLVAGQQQVLQQLAEEEPKLLA.QLAQECQEQRARLPQEIRRSLLGEMPE-----glg.
+#=GR Q01970|PF08703|944-1200 PP .9***********************************************************.*********************998865.....678.
+Q15147|PF08703|917-1172         SIKNKAERERRVRELNSSNTKKFLEERKRLAMKQSKEMDQLKKVQLEHLEFLEKQNEQAKEmQQMVKLEAEMD---------------------rrpa
+#=GR Q15147|PF08703|917-1172 PP 999*************************************************999999765366677888776.....................5789
+Q9NQ66|PF08703|901-1172         -SKDKSQMEEEKTEMIRSYIQEVVQYIKRLEEAQSKRQEKLVEKHKEIRQQILDEKPKLQV.ELEQEYQDKFKRLPLEILEFVQEAMK------gk..
+#=GR Q9NQ66|PF08703|901-1172 PP .************************************************************.*********************99886......68..
+#=GC PP_cons                    99********************************************************999.99999999999**********999888***86....
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

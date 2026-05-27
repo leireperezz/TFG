@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O14994|PF02750|193-395         NSLYSVYNFCSKPWVFSQLIKIFHSLGPEKFPLVEQTFFPNHKPMVTAPHFPVVVKLGHAHAGMGKIKVENQLDFQDITSVVAMAKTYATTEAFIDSKYDIRIQKIGSNYKAYMRTSISGNWKANTGSAMLEQVAMTERYRLWVDSCSEMFGGLDICAVKAVHSKDGRDYIIEVMDSSMPLIGEHVEEDRQLMADLVVSK
+#=GR O14994|PF02750|193-395 PP 8*******************************************************************************************************************************************************************************************************
+P17600|PF02750|214-416         NSLHSVYNFCDKPWVFAQMVRLHKKLGTEEFPLIDQTFYPNHKEMLSSTTYPVVVKMGHAHSGMGKVKVDNQHDFQDIASVVALTKTYATAEPFIDAKYDVRVQKIGQNYKAYMRTSVSGNWKTNTGSAMLEQIAMSDRYKLWVDTCSEIFGGLDICAVEALHGKDGRDHIIEVVGSSMPLIGDHQDEDKQLIVELVVNK
+#=GR P17600|PF02750|214-416 PP 8*******************************************************************************************************************************************************************************************************
+Q92777|PF02750|214-416         NSLESIYNFCDKPWVFAQLVAIYKTLGGEKFPLIEQTYYPNHKEMLTLPTFPVVVKIGHAHSGMGKVKVENHYDFQDIASVVALTQTYATAEPFIDSKYDIRVQKIGNNYKAYMRTSISGNWKTNTGSAMLEQIAMSDRYKLWVDTCSEMFGGLDICAVKAVHGKDGKDYIFEVMDCSMPLIGEHQVEDRQLITELVISK
+#=GR Q92777|PF02750|214-416 PP 8*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                   8*******************************************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O14994|PF02750|193-395         MSQ
+#=GR O14994|PF02750|193-395 PP *98
+P17600|PF02750|214-416         MAQ
+#=GR P17600|PF02750|214-416 PP *97
+Q92777|PF02750|214-416         MNQ
+#=GR Q92777|PF02750|214-416 PP *98
+#=GC PP_cons                   *98
+#=GC RF                        xxx
+//

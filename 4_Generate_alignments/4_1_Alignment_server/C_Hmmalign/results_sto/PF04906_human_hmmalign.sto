@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q9BSA4|PF04906|10-437         -APWWVVWLHSVPHVGLRLQPVNSTFSPGDESYQESLLFLGLVAAVCLGLNLIFLVAYLVCACHCRRDDAV..qTKQHHSCCITWTAVVAGLICCAAVGVGFYGNSETNDGAYQLMYSLDDANHTFSGIDALVSGTTQKMKVDLEQHLARLSEIFAARGDYLQTLKFIQQMAGSVVVQLSGLPVWREVTMELTKLSDQTG
+#=GR Q9BSA4|PF04906|10-437 PP .79************************************************************99999776..6777889************************************************************************************************************************
+Q9C0H2|PF04906|8-430          -APWWVSLLHRLPHFDLSWEATSSQFRPEDTDYQQALLLLGAAALACLALDLLFLLFYSFWLCCRRRKSEE...HLDADCCCTAWCVIIATLVCSAGIAVGFYGNGETSDGIHRATYSLRHANRTVAGVQDRVWDTAVGLNHTAEPSLQTLERQLAGRPEPLRAVQRLQGLLETLLGYTAAIPFWRNTAVSLEVLAEQVD
+#=GR Q9C0H2|PF04906|8-430  PP .79********************************************************************...******************************************************************************************************************************
+Q9H313|PF04906|9-442          -PSAWVHLLHQLPRADFQLRPVPSVFAPQEQEYQQALLLVAALAGLGLGLSLIFIAVYLIRFCCCRPPEPPgskIPSPGGGCVTWSCIVALLAGCTGIGIGFYGNSETSDGVSQLSSALLHANHTLSTIDHLVLETVERLGEAVRTELTTLEEVLEPRTELVAAARGARRQAEAAAQQLQGLAFWQGVPLSPLQVAENVS
+#=GR Q9H313|PF04906|9-442  PP .689***************************************************************9887776678889************************************************************************************************************************
+#=GC PP_cons                  .79****************************************************************9988...888899************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9BSA4|PF04906|10-437         YVEYYRWLSYLLLFILDLVICLIACLGLAKRSKCLLASMLCCGALSLLLSWASLAADGSAAVATSDFCVAPDTFILNVTEGQ..ISTEVTRYYLYCSQSGSSPFQQTLTTFQRALTTMQIQVAGLLQFAVPLFSTAEEDLLAIQLLLNSSESSLHQLTAMVDCRGLHKDYLDALAGICYDGLQGLLYLGLFSFLAALAFS
+#=GR Q9BSA4|PF04906|10-437 PP **********************************************************************************..********************************************************************************************************************
+Q9C0H2|PF04906|8-430          LYDWYRWLGYLGLLLLDVIICLLVLVGLIRSSKGILVGVCLLGVLALVISWGALGLELAVSVGSSDFCVDPDAYVTKMVEEYsvLSGDILQYYLACSPRAANPFQQKLSGSHKALVEMQDVVAELLRTVPWEQPATKDPLLRVQEVLNGTEVNLQHLTALVDCRSLHLDYVQALTGFCYDGVEGLIYLALFSFVTALMFS
+#=GR Q9C0H2|PF04906|8-430  PP ********************************************************************************9999********************************************************************************************************************
+Q9H313|PF04906|9-442          FVEEYRWLAYVLLLLLELLVCLFTLLGLAKQSKWLVIVMTVMSLLVLVLSWGSMGLEAATAVGLSDFCSNPDPYVLNLTQEEtgLSSDILSYYLLCNRAVSNPFQQRLTLSQRALANIHSQLLGLEREAVPQFPSAQKPLLSLEETLNVTEGNFHQLVALLHCRSLHKDYGAALRGLCEDALEGLLFLLLFSLLSAGALA
+#=GR Q9H313|PF04906|9-442  PP *********************************************************************************99*********************************************************************************************************************
+#=GC PP_cons                  *********************************************************************************9..********************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9BSA4|PF04906|10-437         TMICAGPRAWKHFTTRNRDYDDIDDDDPFNPQ----a..
+#=GR Q9BSA4|PF04906|10-437 PP ******************************98....6..
+Q9C0H2|PF04906|8-430          SIVCSVPHTW---QQKRGPDEDGEEEA---------apg
+#=GR Q9C0H2|PF04906|8-430  PP **********...77777888887774.........689
+Q9H313|PF04906|9-442          TALCSLPRAWALFPPSD-DYDDTDDDDPFNPQESKR...
+#=GR Q9H313|PF04906|9-442  PP ***************99.**************9987...
+#=GC PP_cons                  *************99999999999998****99987...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

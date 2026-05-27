@@ -1,0 +1,31 @@
+# STOCKHOLM 1.0
+
+O60519|PF07716|26-75             ........lk----AKLERS.--RQSARECRARKKLRYQYLEELVSSRERAICALREELEMYKQW.
+#=GR O60519|PF07716|26-75     PP ........96....566677...***************************************996.
+P17676|PF07716|271-323           ..........-SDEYKIRRE.RNNIAVRKSRDKAKMRNLETQHKVLELTAENERLQKKVEQLSRE.
+#=GR P17676|PF07716|271-323   PP ...........79*******.*****************************************997.
+P17861|PF07716|69-120            .........p--EEKALRRKlKNRVAAQTARDRKKARMSELEQQVVDLEEENQKLLLENQLL---r
+#=GR P17861|PF07716|69-120    PP .........6..89999**************************************8887766...6
+P35638|PF07716|103-151           rkrkqsghsp----------.-----ARAGKQRMKEKEQENERKVAQLAEENERLKQEIERLTRE.
+#=GR P35638|PF07716|103-151   PP 8666666665................777799******************************998.
+P49715|PF07716|282-334           ..........-SNEYRVRRE.RNNIAVRKSRDKAKQRNVETQQKVLELTSDNDRLRKRVEQLSRE.
+#=GR P49715|PF07716|282-334   PP ...........689******.*****************************************997.
+P49716|PF07716|191-242           ..........-SPEYRQRRE.RNNIAVRKSRDKAKRRNQEMQQKLVELSAENEKLHQRVEQLTR-.
+#=GR P49716|PF07716|191-242   PP ...........689******.*****************************************85..
+P53567|PF07716|62-114            ..........-SDEYRQRRE.RNNMAVKKSRLKSKQKAQDTLQRVNQLKEENERLEAKIKLLTKE.
+#=GR P53567|PF07716|62-114    PP ...........79*******.******************************************98.
+Q10586|PF07716|254-307           ..........KDEKYWSRRY.KNNEAAKRSRDARRLKENQISVRAAFLEKENALLRQEVVAVRQE.
+#=GR Q10586|PF07716|254-307   PP ..........79********.****************************************9998.
+Q10587|PF07716|232-285           ..........KDEKYWTRRK.KNNVAAKRSRDARRLKENQITIRAAFLEKENTALRTEVAELRKE.
+#=GR Q10587|PF07716|232-285   PP ..........79********.******************************************98.
+Q15744|PF07716|204-256           .........s--LEYRLRRE.RNNIAVRKSRDKAKRRILETQQKVLEYMAENERLRSRVEQLTQE.
+#=GR Q15744|PF07716|204-256   PP .........5..69******.******************************************98.
+Q16534|PF07716|224-277           ..........KDDKYWARRR.KNNMAAKRSRDARRLKENQIAIRASFLEKENSALRQEVADLRKE.
+#=GR Q16534|PF07716|224-277   PP ..........79********.******************************************98.
+Q16649|PF07716|72-123            ..........KDAMYWEKRR.KNNEAAKRSREKRRLNDLVLENKLIALGEENATLKAELLSLK--.
+#=GR Q16649|PF07716|72-123    PP ..........7999******.**************************************9986...
+A0A5F9ZHS7|PF07716|42-92         .......dtv----YWEKRR.KNNEAAKRSREKRRLNDAAIEGRLAALMEENALLKGELKALK--.
+#=GR A0A5F9ZHS7|PF07716|42-92 PP .......876....9*****.****************************************97...
+#=GC PP_cons                     ..........789*9*****.****************************************9988.
+#=GC RF                          ..........xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

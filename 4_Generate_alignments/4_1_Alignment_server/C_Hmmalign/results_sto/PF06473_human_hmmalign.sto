@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q14512|PF06473|8-231          .LLSFLLLAAQVLLVEGKKKVKNGLHSKVvseqkdtLGNTQIKQKSRPGNKGKFVTKDQANCRWAA....TEQ...eEGISLKVECTQL.DHEFSCVFAGNPTSCLKL-KDERVYWKQVARNLRSQKDICRYSKtAVKTRVC.RKDFPESSLKLVSS.........TLFGNTKPRKEKTEMSPREHIKG-------.--.
+#=GR Q14512|PF06473|8-231  PP .699********************99999999999955556666666678****************....***...*************.******************.*********************************.**************.........********************654...........
+Q8TAT2|PF06473|14-258         .-LLLLLSGCLLAAARREKGAASNVAEPV.......-------PGPTGGSSGRFLSPEQHACSWQLllpaPEA...aAGSELALRCQSPdGARHQCAYRGHPERCAAYAARRAHFWKQVLGGLRKKRRPCHDPA.PLQARLCaGKKGHGAELRLVPRaspparptvAGFAGESKPRARNRGRTRERASGPAAGTPPpQSa
+#=GR Q8TAT2|PF06473|14-258 PP ..689999999999999999999888888..............889999*****************9997444...6***********9899******************************************.*******978888********9*******99999999999*****************99995559
+Q9BYJ0|PF06473|19-223         g----------------------------.......--QAPRQKQGSTGEEFHFQTGGRDSCTMRP....SSLgqgaGEVWLRVDCRNT.DQTYWCEYRGQPSMCQAFAADPKPYWNQALQELRRLHHACQGAP.VLRPSVC.REAGPQAHMQQVTSsl.....kgSPEPNQQPEAGTPSLRPKATVKLTEATQLG.KD.
+#=GR Q9BYJ0|PF06473|19-223 PP 6.....................................789*************************....755446799**********.********************************************.*******.**************55.....54455555555555555555554444443333.56.
+#=GC PP_cons                  .6799************999999999988.......55677888888999****************....766....9***********.********************************************.*******.99999*********.........888888888888888888887767776666.55.
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxx....xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.
+
+Q14512|PF06473|8-231          ......--KETTPSSLAV..TQTMATKAPECVE-DPD.MANQRKTALEFCGETWSSLCTFFLSIVQD
+#=GR Q14512|PF06473|8-231  PP ........6788999999..*************.***.**************************996
+Q8TAT2|PF06473|14-258         ppkenpSERKTNEGKRKA..ALVPNEERPMGTGPDPDgLDGNAELTETYCAEKWHSLCNFFVNFWNG
+#=GR Q8TAT2|PF06473|14-258 PP ******************..*********************************************97
+Q9BYJ0|PF06473|19-223         ......SMEELGKAKPTTrpTAKPTQPGPRPGGN---.-EEAKKKAWEHCWKPFQALCAFLISFFRG
+#=GR Q9BYJ0|PF06473|19-223 PP ......9999999999997777777788887774.....5*************************87
+#=GC PP_cons                  ......998999999999..99999999999997***.*8*************************97
+#=GC RF                       ......xxxxxxxxxxxx..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

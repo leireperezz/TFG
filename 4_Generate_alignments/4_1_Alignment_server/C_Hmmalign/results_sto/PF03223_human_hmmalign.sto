@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P21283|PF03223|4-370         FWLISAPGEKTCQQTWEKLHAATSKNNNLAVTSKFNIPDLKVGTLDVLVGLSDELAKLDAFVEGVVKKVAQYMADVLEDSKDKVQENLLANGVDLVTYITRFQWDMAKYPIKQSLKNISEIIAKGVTQIDNDLKSRASAYNNLKGNLQNLERKNAGSLLTRSLAEIVKKDDFVLDSEYLVTLLVVVPKLNHNDWIKQYET
+#=GR P21283|PF03223|4-370 PP 8************************99*****************************************************************************************************************************************************************************
+Q8NEY4|PF03223|4-417         FWLISAPGDKENLQALERMNTVTSKSN-LSYNTKFAIPDFKVGTLDSLVGLSDELGKLDTFAESLIRRMAQSVVEVMEDSKGKVQEHLLANGVDLTSFVTHFEWDMAKYPVKQPLVSVVDTIAKQLAQIEMDLKSRTAAYNTLKTNLENLEKKSMGNLFTRTLSDIVSKEDFVLDSEYLVTLLVIVPKPNYSQWQKTYES
+#=GR Q8NEY4|PF03223|4-417 PP 8***********************776.9***************************************************************************************************************************************************************************
+#=GC PP_cons                 8***********************888*9***************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P21283|PF03223|4-370         LAEMVVPRSSNVLSEDQDSYLCNVTLFRKAVDDFRHKARENKFIVRDFQYNEEEMKADKEEMNRLSTDKKKQFG..............................................PLVRWLKVNFSEAFIAWIHVKALRVFVESVLRYGLPVNFQAMLLQP.NKKTLKKLREVLHELYKHLDSSAAAIID----A
+#=GR P21283|PF03223|4-370 PP **************************************************************************..............................................**********************************************.********************66555442....4
+Q8NEY4|PF03223|4-417         LSDMVVPRSTKLITEDKEGGLFTVTLFRKVIEDFKTKAKENKFTVREFYYDEKEIEREREEMARLLSDKKQQYQtscvalkkgsstfpdhkvkvtplgnpdrpaagqtdreresegegegPLLRWLKVNFSEAFIAWIHIKALRVFVESVLRYGLPVNFQAVLLQPhKKSSTKRLREVLNSVFRHLDEVAATSILDASV-
+#=GR Q8NEY4|PF03223|4-417 PP **********************************************************************************************************************************************************************888999***************888887777665.
+#=GC PP_cons                 **************************************************************************..............................................**********************************************.9999****************7777655576654
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P21283|PF03223|4-370         PMDIPGLNLSQQEYYPYV
+#=GR P21283|PF03223|4-370 PP 569**************9
+Q8NEY4|PF03223|4-417         --EIPGLQLNNQDYFPYV
+#=GR Q8NEY4|PF03223|4-417 PP ..899************9
+#=GC PP_cons                 5689*************9
+#=GC RF                      xxxxxxxxxxxxxxxxxx
+//

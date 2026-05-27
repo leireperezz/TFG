@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q12774|PF15441|1-478         MEAEEAQRGASPPISAIEEFSIIPEAPMRSSQVSALGLEAQEDEDPSYKWREEHRLSATQQSELRDVCDYAIETMPSFPKEGSADVEPNQESLVAEACDTPEHWEAVPQSLAGRQARTLAPPELWACPIQSEHLDMAPFSSDLGSeEEEVEFWPGLTSLTLGSGQAEEEEETSSDNSGQTRYYSPCEEHPAETNQNEGSE
+#=GR Q12774|PF15441|1-478 PP *************************************************************************************************************************************************7789***************************************************
+A5YM69|PF15441|1-478         MEAEEAQHGASPPISAIEEFSIIPEAPMRSSQVSALGLEAQEDEDPSYKWREEHRLSATQQSELRDVCDYAIETMPSFPKEGSADVEPNQESLVAEACDTPEHWEAVPQSLAGRQARTLAPPELWACPIQSEHLDMAPFSSDLGSeEEEVEFWPGLTSLTLGSGQAEEEEETSSDNSGQTRYYSPCEEHPAETNQNEGAE
+#=GR A5YM69|PF15441|1-478 PP *************************************************************************************************************************************************7789***************************************************
+#=GC PP_cons                 *************************************************************************************************************************************************.789***************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12774|PF15441|1-478         SGTIRQGEELPPEELQESQG---LLHPQEVQVLEEQGQQEAGFRGEGTLREDVCADGLLGE-EQMIEQVNDEKGEQKQKQEQVQ-DVMLGRQGERMGLTGEPEGLNDGEWEQEDMERKAQGQGGPEQGEERKRELQVPEENRADSQDEKSQTFLGKSEEVTGKQEDHGIKEKGVPVSGQE------AKEPESWDGGRLGA
+#=GR Q12774|PF15441|1-478 PP ********************...**************************************.**********************.9*********************************************************************************************6......9*************
+A5YM69|PF15441|1-478         SGTIRQGEELPSEELQESQG---LLHPQEVQVLEEQGQQEAGFRGEGTLREDVCADGLLGE-EQMIEQVNDEKGEQKQKQEQVQ-DVMLGRQGERMGLTGEPEGLNDGEWEQEDMERKAQGQGGPEQGEERKRELQVPEENRADSQDEKSQTFLGKSEEVTGKQEDHGIKEKGVPVSGQE------AKEPESWDGGRLGA
+#=GR A5YM69|PF15441|1-478 PP ********************...**************************************.**********************.9*********************************************************************************************6......9*************
+#=GC PP_cons                 ********************...**************************************.**********************.9*********************************************************************************************6......9*************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12774|PF15441|1-478         VGRARSREEENEHHGPSMPALIAPEDSPHCDLFPGASYLMTQIPGTQTESRAEELSPAALSPSLEPIRCSHQPISLLGSFLTEESPDKE
+#=GR Q12774|PF15441|1-478 PP ***************************************************************************************86
+A5YM69|PF15441|1-478         VGRARSREEENEHHGPSMPALIAPEDSPHCDLFPGASYLVTQIPGTQTESRAEELSPAALSPLLEPIRCSHQPISLLGSFLTEESPDKE
+#=GR A5YM69|PF15441|1-478 PP ***************************************************************************************86
+#=GC PP_cons                 ***************************************************************************************86
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

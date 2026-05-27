@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+O15519|PF01335|4-76            ...e---VIHQVEEALDTDEKEMLLFLCRDVaID.VV----PPNVRDLLDILRERGKLSVG---DLAELLYRVRRFDLLKRILKMD--r.
+#=GR O15519|PF01335|4-76    PP ...6...689*******************99554.44....3599*************875...589***************9976..6.
+O15519|PF01335|93-173          ....YRVLMAEIGEDLDKSDVSSLIFLMKDY.MG.RGKISKEKSFLDLVVELEKLNLVAPDQLDLLEKCLKNIHRIDLKTKIQKYKQ-..
+#=GR O15519|PF01335|93-173  PP ....8**************************.**.**************************************************96...
+O75618|PF01335|28-103          rmfd------IVGTHLTHRDVRVLSFLFVDV.ID.DHERGLIRNGRDFLLALERQGRCDESNFRQVLQLLRIITRHDLLPYV------tl
+#=GR O75618|PF01335|28-103  PP 8665......5789*****************.**.********************************************876......69
+Q13158|PF01335|4-83            ....FLVLLHSVSSSLSSSELTELKFLCLGR.VG.KRKLERVQSGLDLFSMLLEQNDLEPGHTELLRELLASLRRHDLLRRVDDFE--..
+#=GR Q13158|PF01335|4-83    PP ....679************************.**.************************************************986....
+Q14790|PF01335|3-84            ....FSRNLYDIGEQLDSEDLASLKFLSLDY.IP.QRKQEPIKDALMLFQRLQEKRMLEESNLSFLKELLFRINRLDLLITYLNTRKE..
+#=GR Q14790|PF01335|3-84    PP ....6778***********************.**.*********************************************99999886..
+Q14790|PF01335|101-180         ....YRVMLYQISEEVSRSELRSFKFLLQEE.IS.KCKLDDDMNLLDIFIEMEKRVILGEGKLDILKRVCAQINKS-LLKIINDYEE-..
+#=GR Q14790|PF01335|101-180 PP ....8**************************.**.*****************************************.********85...
+Q15121|PF01335|5-84            ..gt---LLQDLTNNITLEDLEQLKSACKED.IP.SEKSEEITTGSAWFSFLESHNKLDKDNLSYIEHIFEISRRPDLLTMVVDYR--t.
+#=GR Q15121|PF01335|5-84    PP ..95...89**********************.**.***********************************************9997..6.
+Q8WXF8|PF01335|27-107          ...h--RMFEVVGGQLTECELELLAFLLDEA.PGaAGGLARARSGLELLLELERRGQCDESNLRLLGQLLRVLARHDLLPHLARK---rr
+#=GR Q8WXF8|PF01335|27-107  PP ...6..67888999***************99.774669******************************************98765...57
+Q92851|PF01335|20-100          ....FREKLLIIDSNLGVQDVENLKFLCIGL.VP.NKKLEKSSSASDVFEHLLAEDLLSEEDPFFLAELLYIIRQKKLLQHLNCTK--e.
+#=GR Q92851|PF01335|20-100  PP ....89*************************.**.**********************************************87765..5.
+Q92851|PF01335|115-191         ....FRNLLYELSEGIDSENLKDMIFLLKDS.LP.KTEM----TSLSFLAFLEKQGKIDEDNLTCLEDLCKTVVPK-LLRNIEKYKRE..
+#=GR Q92851|PF01335|115-191 PP ....9**************************.**.*988....99*******************************.*********97..
+#=GC PP_cons                   ....89999*9********************.99.99****99**************************************9998776..
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

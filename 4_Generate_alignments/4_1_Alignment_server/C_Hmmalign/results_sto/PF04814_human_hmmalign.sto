@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P20823|PF04814|8-168          LQTELLAALLESGLSKEALIQALGEPGPY-LLAGEGPLDKGESCGGGR.....GELAELPNGLGE---------TRGSEDETDDDGEDF-TPPIL......................................---KELENLSPEEAAHQKAVVETLLQEDPWRVAKMVKSYLQQHNIPQREVVDTTGLNQSHLSQHLN.
+#=GR P20823|PF04814|8-168  PP 7****************************.9999**999999999999.....************.........9**************.*****.........................................***************************************************************.
+P35680|PF04814|8-174          LQQELLSALLSSGVTKEVLVQALEELLPS-PNFGVKLETLPLSPGSGAepdtkPVFHTLTNGHAK---------GRLSGDEGSEDGDDYDTPPIL......................................---KELQALNTEEAAEQRAEVDRMLSEDPWRAAKMIKGYMQQHNIPQREVVDVTGLNQSHLSQHLN.
+#=GR P35680|PF04814|8-174  PP 7****************************.**************888776777788889999888.........9********************.........................................***************************************************************.
+Q6NT76|PF04814|25-226         EQIDLLQRLRRTGMTKHEILHALETLDRLDQEHSDK-FGRRSSYGGSS....yG---NSTNNVPASSSTATASTQTQHSGMSPSPSNSYDTSPQPcttnqngrennerlstsngkmsptryhansmgqrsysfEASE--EDLDVDD------KVEELMRRDSSVIKEEIKAFLANRRISQAVVAQVTGISQSRISHWLLq
+#=GR Q6NT76|PF04814|25-226 PP 7********************************999.66666665554....24...3344444434555555555555999*****************************************99888887433333..5888888......***********************************************9
+#=GC PP_cons                  7************************************88888887777.....79997777777734555555588888****************......................................3338**8999999*****************************************************.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+P20823|PF04814|8-168          KGTPMKTQKRAALYTWYVR
+#=GR P20823|PF04814|8-168  PP *****************97
+P35680|PF04814|8-174          KGTPMKTQKRAALYTWYVR
+#=GR P35680|PF04814|8-174  PP *****************97
+Q6NT76|PF04814|25-226         QGSDLSEQKKRAFYRWYQ-
+#=GR Q6NT76|PF04814|25-226 PP *****************5.
+#=GC PP_cons                  *****************87
+#=GC RF                       xxxxxxxxxxxxxxxxxxx
+//

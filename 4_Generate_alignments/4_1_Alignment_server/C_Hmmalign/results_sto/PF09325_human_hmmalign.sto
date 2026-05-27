@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O60749|PF09325|283-513         ......r---MVNKAADAVNKM.....TIKMNESDAWFEEKQQQFENLDQQLRKLHVSVEALVCHRKELSANTAAFAKSAAMLGNSEDHTALSRALSQLAEVEEKIDQLHQEQAFADFYMFSELLSDYIRLIAAVKGVFDHRMKCWQKWEDAQITLLKKREAEAKMMVA--NKPDKIQQAKNEIREWEAKVQQGERDFEQ
+#=GR O60749|PF09325|283-513 PP ......5...789*********.....**********************************************************************************************************************************************..9999*************************
+Q13596|PF09325|286-516         .......--KMFNKATDAVSKM.....TIKMNESDIWFEEKLQEVECEEQRLRKLHAVVETLVNHRKELALNTAQFAKSLAMLGSSEDNTALSRALSQLAEVEEKIEQLHQEQANNDFFLLAELLSDYIRLLAIVRAAFDQRMKTWQRWQDAQATLQKKREAEARLLWA--NKPDKLQQAKDEILEWESRVTQYERDFER
+#=GR Q13596|PF09325|286-516 PP .........689**********.....**********************************************************************************************************************************************..9999*************************
+Q86XE0|PF09325|186-330         vksadea-----------LITG.....MSGLKEVDDFFEHERTFLLEYHTRIRDACLRADRVMRAHKCLADDYIPISAALSSLGTQEVNQLRTSFL-KLAELFERLRKLEGRVASDEDLKLSDMLRYYMRDSQAAKDLLYRRLRALADYENANKALDKART---------------------------------------
+#=GR Q86XE0|PF09325|186-330 PP 8766655...........5555.....77789********************************************************98877766.7************************************************************997.......................................
+Q9UNH7|PF09325|187-392         .....ff-----KNMVKSADGV....iVSGVKDVDDFFEHERTFLLEYHNRVKDASAKSDRMTRSHKSAADDYNRIGSSLYALGTQD-STDICKFFLKVSELFDKTRKIEARVSADEDLKLSDLLKYYLRESQAAKDLLYRRSRSLVDYENANKALDKARAKNKDVLQA------------------ETSQQLCCQKFEK
+#=GR Q9UNH7|PF09325|187-392 PP .....75.....5666666665....68889****************************************************9865.899*****************************************************************9998876555555..................55568899*****
+Q9Y5X3|PF09325|180-391         ......k--EMFGGFFKSVVKSadevlFTGVKEVDDFFEQEKNFLINYYNRIKDSCVKADKMTRSHKNVADDYIHTAACLHSLA-LEEPTVIKKYLLKVAELFEKLRKVEGRVSSDEDLKLTELLRYYMLNIEAAKDLLYRRTKALIDYENSNKALDKARLKS------------------KDVKLAEAHQQECCQKFEQ
+#=GR Q9Y5X3|PF09325|180-391 PP ......7..5677777777777666688999**********************9999999999999*****************8.899*****************************************************************9998876443..................35666688889********
+#=GC PP_cons                   .........5788888888888.....8999****************************************************9*99*99999999*9**********************************************************9999887888888..9999******889999888899*******
+#=GC RF                        .......xxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O60749|PF09325|283-513         ISKTIRKEVGRFEKERVKDFKTVIIKYLESLVQTQQQLIKYWEAFLP-...
+#=GR O60749|PF09325|283-513 PP *********************************************85....
+Q13596|PF09325|286-516         ISTVVRKEVIRFEKEKSKDFKNHVIKYLETLLYSQQQLAKYWEAFLP-...
+#=GR Q13596|PF09325|286-516 PP *********************************************85....
+Q86XE0|PF09325|186-330         ------------------------------------------------r..
+#=GR Q86XE0|PF09325|186-330 PP ................................................6..
+Q9UNH7|PF09325|187-392         ISESAKQELIDFKTRRVAAFRKNLVELAELELKHAK------------gnl
+#=GR Q9UNH7|PF09325|187-392 PP ************************999999988876............799
+Q9Y5X3|PF09325|180-391         LSESAKEELINFKRKRVAAFRKNLIEMSELEIKHAR------------nnv
+#=GR Q9Y5X3|PF09325|180-391 PP ***************************999999865............688
+#=GC PP_cons                   ******************************999988*********85....
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

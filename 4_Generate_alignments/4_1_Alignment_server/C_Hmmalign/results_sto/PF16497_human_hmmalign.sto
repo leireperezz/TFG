@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+P06126|PF16497|1-196          ..........MLFLLLPLLAVLP-GDGNADGLKEPLSFHVTWIASFYNHSWKQNLVSGWLSDLQTHTWD..SNSSTIVFLCPWSRGNFSNEEWKELETLFRIRTIRSFEGIRRYAHELQFEYPFEIQVTGGCELHSGKV.SGSFLQLAYQGSDFVSFQ..NNSWLPYPVAGNM.AKHFCKVLN.QNQHENDITHNLLSDT
+#=GR P06126|PF16497|1-196  PP ..........8999999999987.57899****************************************..********************************************************************.******************..*************.*********.****************
+P15812|PF16497|30-204         ........aa----------------------EEQLSFRMLQTSSFANHSWAHSEGSGWLGDLQTHGWD..TVLGTIRFLKPWSHGNFSKQELKNLQSLFQLYFHSFIQIVQASAGQFQLEYPFEIQILAGCRM---NA.PQIFLNMAYQGSDFLSFQ..GISWEPSPGAGIR.AQNICKVLN.RYLDIKEILQSLLGHT
+#=GR P15812|PF16497|30-204 PP ........75......................6899*********************************..*************************************************************98...67.889***************..*************.*********.****************
+P15813|PF16497|1-198          ..........MGCLLFLLLWALLQAWGSAEVPQRLFPLRCLQISSFANSSWTRTDGLAWLGELQTHSWS..NDSDTVRSLKPWSQGTFSDQQWETLQHIFRVYRSSFTRDVKEFAKMLRLSYPLELQVSAGCEVHPGNA.SNNFFHVAFQGKDILSFQ..GTSWEPTQEAPLW.VNLAIQVLN.QDKWTRETVQWLLNGT
+#=GR P15813|PF16497|1-198  PP ..........99*********************************************************..********************************************************************.******************..*************.*********.****************
+P29016|PF16497|1-198          ..........MLLLPFQLLAVLFPGGNSEHAFQGPTSFHVIQTSSFTNSTWAQTQGSGWLDDLQIHGWD..SDSGTAIFLKPWSKGNFSDKEVAELEEIFRVYIFGFAREVQDFAGDFQMKYPFEIQGIAGCELHSGGA.IVSFLRGALGGLDFLSVK..NASCVPSPEGGSR.AQKFCALII.QYQGIMETVRILLYET
+#=GR P29016|PF16497|1-198  PP ..........899********************************************************..********************************************************************.******************..*************.*********.****************
+P29017|PF16497|1-197          ..........MLFLQFLLLALLLPGGDNADASQEHVSFHVIQIFSFVNQSWARGQGSGWLDELQTHGWD..SESGTIIFLHNWSKGNFSNEELSDLELLFRFYLFGLTREIQDHASQDYSKYPFEVQVKAGCELHSGKS.PEGFFQVAFNGLDLLSFQ..NTTWVPSPGCGSL.AQSVCHLLNhQYEGVTETVYNLIRST
+#=GR P29017|PF16497|1-197  PP ..........99*********************************************************..********************************************************************.******************..*************.*********5689*************
+Q9UNN8|PF16497|8-192          illlsgwafc-----------------SQDASDGLQRLHMLQISYFRDPYHVWYQGNASLGGHLTHVLEgpDTNTTIIQLQPLQE----PESWARTQSGLQSYLLQFHGLVRLVHQERTLAFPLTIRCFLGCELPPEGSrAHVFFEVAVNGSSFVSFRpeRALWQADTQVTSGvVTFTLQQLN.AYNRTRYELREFLEDT
+#=GR Q9UNN8|PF16497|8-192  PP 9877776655.................5677777789*************************99999873346779999*99876....579*****************999999999****************986553899**************8324568887776655157789****.****************
+#=GC PP_cons                  ..........89**********9*99*99999999**********************************..999**********9****9**********************************************999.9*****************..999****999999.99*******.9***************
+#=GC RF                       ..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxx
+
+P06126|PF16497|1-196          CPRFILGLLDAGKA-.
+#=GR P06126|PF16497|1-196  PP ************97..
+P15812|PF16497|30-204         CPRFLAGLMEAGESE.
+#=GR P15812|PF16497|30-204 PP ************987.
+P15813|PF16497|1-198          CPQFVSGLLESGKSE.
+#=GR P15813|PF16497|1-198  PP *************97.
+P29016|PF16497|1-198          CPRYLLGVLNAGKAD.
+#=GR P29016|PF16497|1-198  PP *************98.
+P29017|PF16497|1-197          CPRFLLGLLDAGK--.
+#=GR P29017|PF16497|1-197  PP ************8...
+Q9UNN8|PF16497|8-192          CVQYVQ---------k
+#=GR Q9UNN8|PF16497|8-192  PP *99985.........8
+#=GC PP_cons                  *****9******987.
+#=GC RF                       xxxxxxxxxxxxxxx.
+//

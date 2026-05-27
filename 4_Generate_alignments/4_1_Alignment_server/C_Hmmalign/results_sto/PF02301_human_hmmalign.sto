@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q13257|PF02301|16-191         .SAEIVAEFFSFGINSILYQRGIYPSETFTRVQK---YGLTLLVTTD-.---LE.LIKYLNN-VVEQLKdwlyKCSVQKLVVVISNIESGE--VLERWQFDIECDKTAKD--------------------DSAPREKSQKAIQDEIRSVIRQITATVTFLPLLE--VSCSFDLLIYTDkdlvVPEKWE--------ES--
+#=GR Q13257|PF02301|16-191 PP .899*****************************9...9*****7777.....77.9999977.9999988888************877775..***********553322....................2678999*************************99..******9988888********3........22..
+Q86X24|PF02301|26-220         .SLVLVKRLLAVSVSCITYLRGIFPECAYGTRYL-DDLCVKILREDKNcPGSTQ.LVKWM-LGCYDALQ....KKYLRMVVLAVYTNPEDPQTISECYQFKFKYTNNGPLMDFISKNQ-------------SNESSMLSTDTKKASILLIRKIYILMQNLGPLPNDVCLTMKLFYYDE...vTPPDYQPPGFKDGDCEG-
+#=GR Q86X24|PF02301|26-220 PP .899******************************.99*****************.*****.99******....*************************************99999998.............578899999**************************************...******************.
+Q9UI95|PF02301|20-103         c------EFLEVAVHLILYVREVYPVGIFQKRKK---YNVPVQMSCH-.PELNQyIQDTL-HCVKPLLE....KNDVEKVVVVILDKEHRP---VEKFVFEI----------------------------------------------------------------------------....------------------
+#=GR Q9UI95|PF02301|20-103 PP 9......79************************9...7777776666..888887999**.88******....************999998...9***9987..................................................................................................
+Q8N7B1|PF02301|31-228         .SLKMVKKLFATSISCITYLRGLFPESSYGERHL-DDLSLKILREDKKcPGSLH.IIRWI-QGCFDALE....KRYLRMAVLTLYTDPMGSEKVTEMYQFKFKYTKEGATMDFDSHSSST-----------SFESGTNNEDIKKASVLLIRKLYILMQDLEPLPNNVVLTMKLHYYNA...vTPHDYQPLGFKEGVNSH-
+#=GR Q8N7B1|PF02301|31-228 PP .99*******************************.99*****************.*****.99******....****************************************9999864...........7889999****************************************...******************.
+#=GC PP_cons                  .89****9**************************.999999998888*.99999.99***799******....************999998**********9**887777*999999864..........26789999************************************9999....*****8********77*.
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxx
+
+Q13257|PF02301|16-191         -GPQFITNSEEVRLRSFTTTIH.
+#=GR Q13257|PF02301|16-191 PP .367777777777777777766.
+Q86X24|PF02301|26-220         --VIFEGEPMYLNVGEVSTPFH.
+#=GR Q86X24|PF02301|26-220 PP ..*******************9.
+Q9UI95|PF02301|20-103         ----------------------t
+#=GR Q9UI95|PF02301|20-103 PP ......................6
+Q8N7B1|PF02301|31-228         -FLLFDKEPINVQVGFVSTGFH.
+#=GR Q8N7B1|PF02301|31-228 PP .********************9.
+#=GC PP_cons                  .789999999999999999998.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5W0A0|PF14977|473-673         gd---GKLILYPNKNVYQILFPDGTGQIHYPSGNLAMLILYA-KMKKFTYIILEDSL.EGRIRALINNSGNATFYDENSD...IWLNLSSNLGYYFPKDK-RQKAWNWWNLNIHVHAPPVQPISLKINEYIQVQIRSQDKIIFCFTYEQKQICLNLGTRY.............KFVIP..-EVLSEMKKKTILeaePGPT
+#=GR Q5W0A0|PF14977|473-673 PP 75...67789*******************************9.6667**********.**********************...****************9.***********************************************************.............****9...**********99*99****
+Q7L0X2|PF14977|423-625         .n--ELLEKHYKHGSKFLTSFPDGTTQIFYPSGNLAIIRVPNKVNG-FTCIVQEDMPtNPAILAVLDSSGRSSCYHPNGN...VWVYINILGGQYSDQAGNRIRAWNWSNSITSSPFVSFKPVFLALNRYIGVRILEQDKISITFLAMGQQARISVGTKV.............KLPNPeeIPILRYVSGDDLL...LLAS
+#=GR Q7L0X2|PF14977|423-625 PP .6..6789**********************************7776.*********************************...*****************************************************************************.............*****99999**********...****
+Q8ND61|PF14977|361-568         ..QHCQEGKAPKKAFKFHYTFYDGSSFVYYPSGNVAVCQIPTCCRGRTITCLFNDIP.GFSLLALFNTEGQGCVHYNLKTscpYVLILDEEGGTTNDQQGYVVHKWSW-----TSRTETLLSLEYKVNEEMKLKVLGQDSITVTFTSLNETVTLTVSANNcphgmaydkrlnrRISNM..DDKVYKMSRA---...LAEI
+#=GR Q8ND61|PF14977|361-568 PP ..5778999************************************************.**************************************************.....****************************************************9999887544444..8999***999......****
+#=GC PP_cons                   ..57678899********************************88889**********.**********************...*****************************************************************************.............88887..89***********...****
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxx..xxxxxxxxxxxxx...xxxx
+
+Q5W0A0|PF14977|473-673         AQKIRVLLGKMNRLLNYATTPDLENF....
+#=GR Q5W0A0|PF14977|473-673 PP ***********************986....
+Q7L0X2|PF14977|423-625         LIKIRRLFHKLEGCVNFPSSQVWEKL....
+#=GR Q7L0X2|PF14977|423-625 PP ***********************986....
+Q8ND61|PF14977|361-568         KKRFQKTVTQFINSILLAAG------lfti
+#=GR Q8ND61|PF14977|361-568 PP ***************99986......5678
+#=GC PP_cons                   ******************99***986....
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

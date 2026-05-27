@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P10155|PF05731|17-328          a--NSQDGYVWQVTDMNRLHRFLCFGSEGGTyyiKEQKLGLENAEalirlieDGRGCEVIQEIKSFsqegrTTKQEPMLFALAICSQCSDISTKQA----AFKAVSEVCR------------IPTHLFTFIQFKKDLKESM--KCGMWGRALRKAIADwyneKGGMALALAVTKYKQRNGWSHKDLLRLSHL---..--K
+#=GR P10155|PF05731|17-328  PP 6..8899***********************************************************9999999***********988777666665....5*********............***************9877..9999***********9999*****************************3.......2
+Q99973|PF05731|226-676         .TSGDSESHPEPTDHVLQEKKMALLSLLCST...LVSEVNMNNTS.......DPTLAAIFEICREL.....ALLEPEFILKASLYARQQLNVRNVANNILAIAAFLPACRPHLRRYFCAIVQLPSDWIQVAELYQSLAEGDKNKLVPLPACLRTAMTD....KFAQFDEYQLAKYNPRKHRAKRHPRRPPRSPGMepPFS
+#=GR Q99973|PF05731|226-676 PP .689***************************...***********.......**************.....*************************************************************99************************....*****************************999988888
+#=GC PP_cons                   .68899*************************...***********.......**************.....**************99988888888****8********************************9****998**99*************....*****************************6999..885
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx.......xxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxx
+
+P10155|PF05731|17-328          PSSEGLAIVTKYITK..-----GWKEVHELY--KEKALSVETEKLLKYLEAVEKVKRTRDELEVIHLI-EEH----------RL-------------------VREHLLTNHLKSKEVWKALLQ--EMPLTALLRNLGKMTANSVLEPGnsEVsLVCEKLCNEKLLKKARIHPFHILIA---------------------
+#=GR P10155|PF05731|17-328  PP 334467888888888.......555555544..2223555888*************************.***..........**...................*********************..7*******************976443359**********************88.....................
+Q99973|PF05731|226-676         H--RCFPRYIGFLREeqRKFEKAGDTVSEKK----------NPPRFTLKKLVQRLHIHKPAQHVQALLGYRYPSNLQLFSRSRLPGPWDSSRAGKRMKLSRPETWERELSLRGNKASVWEELIENGKLPFMAMLRNLCNLLRVGISSRH..HE.LILQRLQHAKSVIHSRQFPFRFLNAHDAIDALEAQLRNQALPFPSN
+#=GR Q99973|PF05731|226-676 PP 7..7*********99999*************..........************************************************************************************************************..**.**********************************************
+#=GC PP_cons                   534689999999999..9****777777777..2223555899***********************************************************************************9*******************988..77.***********************99*********************
+#=GC RF                        xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P10155|PF05731|17-328          ...............-----------------------------------------------------------------------l
+#=GR P10155|PF05731|17-328  PP ......................................................................................7
+Q99973|PF05731|226-676         itlmrriltrneknrPRRRFLCHLSRQQLRMAMRIPVLYEQLKREKLRVHKARQWKYDGEMLNRYRQALETAVNLSVKHSLPLLPG.
+#=GR Q99973|PF05731|226-676 PP *************99999****************************************************************9986.
+#=GC PP_cons                   ...............999****************************************************************9986.
+#=GC RF                        ...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q52LJ0|PF10239|35-330         -LTKAAEGGLSSPEFSELCIWLGSQIKSLCNLE.......ESITSA-GRDDLESFQLEISGFLKEMACPYSVLISGDIKDRLKKKEDCLKLLLFLSTELQASQILQNK...--..-KHKNSQLDKNSEVYQEVQAMFDTLGIPK-STTSDIPHMLNQVESKVKDILSKVQKNHVGKPLLKMDLNSEQAEQLERINDALSC
+#=GR Q52LJ0|PF10239|35-330 PP .689*****************************.......****96.9************************************************************........8899999********************9.999****************************************************
+Q8NCA5|PF10239|29-327         -LSQAVSAGASSPEFTKLCAWLVSELRVLCKLE.......ENVQATNSPSEAEEFQLEVSGLLGEMNCPYLSLTSGDVTKRLLIQKNCLLLLTYLISELEAARMLCVN...--..APPKKAQEGGGSEVFQELKGICIALGMSKPPANITMFQFFSGIEKKLKETLAKVPPNHVGKPLLKKPMGPAHWEKIEAINQAIAN
+#=GR Q8NCA5|PF10239|29-327 PP .689*****************************.......********************************************************************.......6799999999***************************************************************************
+Q17RN3|PF10239|29-334         ----AASRGASCPDFRGLCVRLAAELATLGALEqqreagaEVLSAGDGPGAEEDFLRQLGSLLRELHCPDRALCGGDGAAALREPGAGLRLLRFLCSELQATRLLCLRsllDPspRPPLGEGVVEGAGMVQELDLTLQALGLPRPAPGTPASQLLQELHAKISELQPSLPPGSL-QPLLSCSLDAPRWEALESLSQSLRD
+#=GR Q17RN3|PF10239|29-334 PP ....6789*************************9999999999999***********************************************************999555225488889999***************************************************.9************************
+#=GC PP_cons                  .689899**************************.......*****9************************************************************99...22..778999999****************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q52LJ0|PF10239|35-330         EYECRRRMLMKRLDVTVQSFGWSDRAKVKTDDIARIYQPKRYALSPKTTITMAHLLAAREDLSKIIRTSSGTSREKTACAINKVLMGRVPDRGGRPNEIEPPPPEMPPWQKRQE
+#=GR Q52LJ0|PF10239|35-330 PP ****************************************************************************************************************96
+Q8NCA5|PF10239|29-327         EYEVRRKLLIKRLDVTVQSFGWSDRAKSQTEKLAKVYQPKRSVLSPKTTISVAHLLAARQDLSKILRTSSGSIREKTACAINKVLMGRVPDRGGRPNEIEPPPPEMPPWQKRQD
+#=GR Q8NCA5|PF10239|29-327 PP ****************************************************************************************************************96
+Q17RN3|PF10239|29-334         QYRCRRCLLLKRLDLTTSAFHWSDRAEAQGEAMRAVLIPIREVLTPESDISIAHVLAARADLSCLVPATSVAVRRGTCCAINKVLMGNVPDRGGRPNELEPP---MPTWRSRRE
+#=GR Q17RN3|PF10239|29-334 PP ******************************************************************************************************...******986
+#=GC PP_cons                  ****************************************************************************************************************96
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

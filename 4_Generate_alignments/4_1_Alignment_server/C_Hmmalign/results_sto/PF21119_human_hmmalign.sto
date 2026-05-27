@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P21817|PF21119|1662-2126         HSHTLRLYRAVCALGNNRVAHALCSHVDQAQLLHALEDAHLPGPLRAGYYDLLISIHLESACRSRRSMLSEYIVPLTPETRAITLFPPGrstengHPRHGLPGVGVTTSLRPPHHFSPPCFVAALPaagaaEAPARLSPAIPLEALRDKALRMLGEAVRDGGQHARDPVGGSVEFQFVPVLKLVSTLLVMGIFGDEDVKQ
+#=GR P21817|PF21119|1662-2126 PP 9**************************************************************************************9989999999*************************998889999999******************************************************************
+Q15413|PF21119|1558-1988         HYHTLRLYSAVCALGNSRVAYALCSHVDLSQLFYAIDNKYLPGLLRSGFYDLLISIHLASAKERKLMMKNEYIIPITSTTRNIRLFPDE......SKRHGLPGVGLRTCLKPGFRFSTPCFVVTGE.....-DHQKQSPEIPLESLRTKALSMLTEAVQCSGAHIRDPVGGSVEFQFVPVLKLIGTLLVMGVFDDDDVRQ
+#=GR Q15413|PF21119|1558-1988 PP 9****************************************************************************************......***************************9997......9999****************************************************************
+Q92736|PF21119|1654-2090         HYHTLRLYSAVCALGNHRVAHALCSHVDEPQLLYAIENKYMPGLLRAGYYDLLIDIHLSSYATARLMMNNEYIVPMTEETKSITLFPDE......NKKHGLPGIGLSTSLRPRMQFSSPSFVSISN.....-ECYQYSPEFPLDILKSKTIQMLTEAVKEGSLHARDPVGGTTEFLFVPLIKLFYTLLIMGIFHNEDLKH
+#=GR Q92736|PF21119|1654-2090 PP 9****************************************************************************************......******************************8......********************************************************************
+#=GC PP_cons                     9****************************************************************************************......****************************998.....999******************************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P21817|PF21119|1662-2126         ILKMIEPEVFTEEEEEEdeeeegeeedeeekeedeeetaqekedeekeeeeaaeGEKEEGLEEGLLQMKLPESVKLQMCHLLEYFCDQELQHRVESLAAFAERYVDKLQANQRSRYGLLIKAFSMTAAETARRTREFRSPPQEQINMLLQFKDGTDEEDCPLPEEIRQDLLDFHQDLLAHCGIQLDGE.EEEPEEETTLG
+#=GR P21817|PF21119|1662-2126 PP *************99999**********************************98888999********************************************************************************************************************************.***********
+Q15413|PF21119|1558-1988         ILLLIDPSVFGEHSAGTeegaekeevt................qveekaveageKAGKEAPVKGLLQTRLPESVKLQMCELLSYLCDCELQHRVEAIVAFGDIYVSKLQANQKFRYNELMQALNMSAALTARKTKEFRSPPQEQINMLLNF---QLGENCPCPEEIREELYDFHEDLLLHCGVPLEEE.E-EEEEDTSWT
+#=GR Q15413|PF21119|1558-1988 PP *************988889********................**********9999****************************************************************************************999988...7899***************************999.8.89999****
+Q92736|PF21119|1654-2090         ILQLIEPSVFKEAATPEeesdtlekelsv.............ddaklqgageeeAKGGKRPKEGLLQMKLPEPVKLQMCLLLQYLCDCQVRHRIEAIVAFSDDFVAKLQDNQRFRYNEVMQALNMSAALTARKTKEFRSPPQEQINMLLNFK--DDKSECPCPEEIRDQLLDFHEDLMTHCGIELDEDgSLDGNSDLTIR
+#=GR Q92736|PF21119|1654-2090 PP ************9988889**********.............*********998888999*****************************************************************************************996..57789****************************98899********
+#=GC PP_cons                     *************9988.....................................899999****************************************************************************************9998**78999****************************9.99999******
+#=GC RF                          xxxxxxxxxxxxxxxxx.....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+P21817|PF21119|1662-2126         SRLMSLLEKVRLVKKKEEKPEEERSAEESKprSLQELVSHMVVRWAQEDFVQSPELVRAMFSLLHR
+#=GR P21817|PF21119|1662-2126 PP *************9999988777666555456*********************************9
+Q15413|PF21119|1558-1988         GKLCALVYKIKGPPKPEKEQPTEEEERCPT..TLKELISQTMICWAQEDQIQDSELVRMMFNLLRR
+#=GR Q15413|PF21119|1558-1988 PP ******************************..********************************98
+Q92736|PF21119|1654-2090         GRLLSLVEKVTYLKKKQAEKPVESDSKKSS..TLQQLISETMVRWAQESVIEDPELVRAMFVLLHR
+#=GR Q92736|PF21119|1654-2090 PP ******************************..*********************************9
+#=GC PP_cons                     *****************9999999988888..*********************************9
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

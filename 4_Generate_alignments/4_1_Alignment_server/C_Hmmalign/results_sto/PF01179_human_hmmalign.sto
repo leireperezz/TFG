@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O75106|PF01179|319-720         .-VQGNLVVSSLWSFTFGHGVFSGLRIFDVRFQGERIAYEVSVQECVSIYGADSPKTMLTRYLDSS-FGLGRNSRGLVRGVDCPYQATMVDIHILVGKGAVQLLPGAVCVFEEAQGlPLRRH..HNYLQNH.fYGGLASSALVVRSVSSVGNYDYIWDFVLYPNGALEGRVHATGYINTAFLKG-GEEgLLFGNRVGERV
+#=GR O75106|PF01179|319-720 PP ..689999999*******************************************************.*******************************************************..******9.9**************************************************5.555488*********
+P19801|PF01179|312-713         l--EGNAVLYGGWSFAFRLRSSSGLQVLNVHFGGERIAYEVSVQEAVALYGGHTPAGMQTKYLDVG-WGLGSVTHELAPGIDCPETATFLDTFHYYDADDPVHYPRALCLFEMPTGvPLRRHfnSNFKGGFnfYAGLKGQVLVLRTTSTVYNYDYIWDFIFYPNGVMEAKMHATGYVHATFYTPEGL-.-RHGTRLHTHL
+#=GR P19801|PF01179|312-713 PP 6..799************************************************************.*******************************************************7666666635899************************************************7665...6*********
+Q16853|PF01179|325-723         .-VQGSRVASSLWTFSFGLGAFSGPRIFDVRFQGERLVYEISLQEALAIYGGNSPAAMTTRYVDGG-FGMGKYTTPLTRGVDCPYLATYVDWHFLLESQAPKTIRDAFCVFEQNQGlPLRRH.hSDLYSHY..FGGLAETVLVVRSMSTLLNYDYVWDTVFHPSGAIEIRFYATGYISSAFLF--GAT.GKYGNQVSEHT
+#=GR Q16853|PF01179|325-723 PP ..678999999*******************************************************.******************************************************9.67777777..*************************************************9..567.78*********
+#=GC PP_cons                   ..6799999*********************************************************.*************************************************.*****..7888887..**************************************************66556.87*********
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx..xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+O75106|PF01179|319-720         LGTVHTHAFHFKLDLDVAGLKNWVVAEDVVFKPVAApWNpeHWLQRPQ.....LTRQVLGKEDLTAFSLGSPLPRYLYLASN-QTNAWGHQRGYRIQIHSPLGIHIPLESDMERALSWGRYQLVVTQRKEEESQSSSIYHQNDIWTPTVTFADFI-NNETLLGEDLVAWVTASFLHIPHAEDIPntVTLGNRVGFLLRPY
+#=GR O75106|PF01179|319-720 PP *******************************77776644445666667.....*********************99999887.99***************98888****************************************668*******.9*******************************************
+P19801|PF01179|312-713         IGNIHTHLVHYRVDLDVAGTKNSFQTLQMKL---ENiTN..PWSPRHRvvqptLEQTQYSWERQAAFRFKRKLPKYLLFTSP-QENPWGHKRTYRLQIHSMADQVLPPGWQEEQAITWARYPLAVTKYRESELCSSSIYHQNDPWHPPVVFEQFLHNNENIENEDLVAWVTVGFLHIPHSEDIPntATPGNSVGFLLRPF
+#=GR P19801|PF01179|312-713 PP *****************************99...33489..99999778889899999****************99999999.89****************9*******************************************5569************************************99*************
+Q16853|PF01179|325-723         LGTVHTHSAHFKVDLDVAGLENWVWAEDMVFVPMAV.--..PWSPEHQlqrlqVTRKLLEMEEQAAFLVGSATPRYLYLASN-HSNKWGHPRGYRIQMLSFAGEPLPQNSSMARGFSWERYQLAVTQRKEEEPSSSSVFNQNDPWAPTVDFSDFI-NNETIAGKDLVAWVTAGFLHIPHAEDIPntVTVGNGVGFFLRPY
+#=GR Q16853|PF01179|325-723 PP *******************************87764.....444443344455**********************9999987.89***************888889999************************************668*******.9*******************************************
+#=GC PP_cons                   ******************************977755.67..6666656.....*********************99999988.89***************98999****************************************667************************************..**************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx..xxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx
+
+O75106|PF01179|319-720         NFFDEDPSIFSPGS----vy
+#=GR O75106|PF01179|319-720 PP ********998876....57
+P19801|PF01179|312-713         NFFPEDPSLASR------dt
+#=GR P19801|PF01179|312-713 PP ********9876......68
+Q16853|PF01179|325-723         NFFDEDPSFYSAD-----si
+#=GR Q16853|PF01179|325-723 PP *******987765.....68
+#=GC PP_cons                   ********987766......
+#=GC RF                        xxxxxxxxxxxxxxxxxx..
+//

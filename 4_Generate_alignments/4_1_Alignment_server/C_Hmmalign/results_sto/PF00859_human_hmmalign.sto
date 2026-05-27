@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O00712|PF00859|209-415         EDSFVKSGVFNVSELVRVSRTPITQGTGVNFPIGEIPsQPYYHDMNS.GVNLQRSLSSPPS.--S.KRPKTISIDENMEPSPTGD.FY....PSPSSPAAGSRTW-HERDQDMSSPTTMKKPEKPLFSSASPQDSSPRLSTFPQHHHPGIpgVAHSVIStRTPP.PPSPLPFPTQAILpPAPSSYFSHPTIRYPPHLnPQ
+#=GR O00712|PF00859|209-415 PP 69**********************************999********.*************...*.*******************.**....*************.**********************************************************.***********************************
+P08651|PF00859|217-503         QESFVTSGVFSVTELIQVSRTPVVTGTGPNFSLGELQ.GHLAYDLNPaSTGLRRTLPSTSS.SGS.KRHKSGSMEEDVDTSPGGD.YY....TSPSSPTSSSRNWTEDMEGGISSPVKKTEMDKSPFNSPSPQD-SPRLSSFTQHHRPVI..AVHSGIA.RSPH.PSSALHFPTTSILpQTASTYFPHTAIRYPPHLnPQ
+#=GR P08651|PF00859|217-503 PP 89***********************************.*********99************.***.*******************.**....****************************************99.9**************..*******.****.*************99********************
+Q12857|PF00859|214-501         QDSFVTSGVFSVTELVRVSQTPIAAGTGPNFSLSDLE.SSSYYSMSP.-GAMRRSLPSTSS.TSStKRL--KSVEDEMD-SPGEEpFYtgqgRSPGSG-SQSSGW-HEVEPGMPSPTTLKKSEKSGFSSPSPSQTSSLGTAFTQHHRPVI..---TGPR.ASPHaTPSTLHFPTSPII.QQPGPYFSHPAIRYHP--.-Q
+#=GR Q12857|PF00859|214-501 PP 8************************************.********9..79**********.5441555..5*******.**********999**999.9*****.********************************************.....****.****99************.***************9....9
+Q14938|PF00859|213-495         QDCFVTSGVWNVTELVRVSQTPVATASGPNFSLADLE.SPSYYNINQ.VTLGRRSITSPPStSTT.KRPK--SIDDSEMESPVDDvFYpgtgRSPAAGSSQSSGWPNDVDAG---PASLKKSGKLDFCSALSSQGSSPRMAFTHHPLPVL..---AGVRpGSPRaTASALHFPSTSII.QQSSPYFTHPTIRYHHHH.GQ
+#=GR Q14938|PF00859|213-495 PP 8************************************.*********.************95566.7777..**************************************98...8899*******************************.....*********99************.******************.**
+#=GC PP_cons                   79***********************************.*********.*9***********.777.8889*8*************.**....***********************99*********************************..*******.****.*************.******************.**
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxx.xx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxx.xxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xx
+
+O00712|PF00859|209-415         DTLKNYVP--SYDPSSPQTSQ.....-----------------------------------.------------------------------------------------
+#=GR O00712|PF00859|209-415 PP ********..********997.........................................................................................
+P08651|PF00859|217-503         DPLKDLVSLAC-DPASQQPGP.....LNGSGQLKMPSHCLSAQMLAPPP--PGLPRLALPP.ATKP-ATTSEGGATSPTSPSYSPPDTSPANRSFVGLGPRDPAGIYQAQ
+#=GR P08651|PF00859|217-503 PP ***********.*********.....***********************..9*********.****.7889999**********************************98
+Q12857|PF00859|214-501         ETLKEFVQLVCPD-AGQQAGQvgflnPNGSSQGKVHNPFLPTPMLPPPPPPPMARPVPLPVpDTKPPTTSTEGGAASPTSPTYSTPSTSPANR-FVSVGPRDPSFVNIPQ
+#=GR Q12857|PF00859|214-501 PP ***********99.899999999999*******************************************************************.************9987
+Q14938|PF00859|213-495         DSLKEFVQFVCSDGSGQATGQ.....PNGSGQGKVPGSF-----LLPPP-PPVARPVPLPMpDSKSTSTAPDGAALTPPSPSFATTGASSANR-FVSIGPRDGNFLNIPQ
+#=GR Q14938|PF00859|213-495 PP *********************.....*************.....88888.8******************************************.*************987
+#=GC PP_cons                   ***********9********9.....******************99999*9**********.*****999*************************************987
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

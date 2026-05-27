@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q12887|PF01040|169-416         ..VVSTTAAG..FALA-PGPFDWPCFLLTSVGTGLASCAANSINQFFEVPFDSNMNRTKNRPLVRGQISPLLAVSFATCCAVPGVAIL.....tLGVNPLTGALGLFNIFLYtCCYT..-PLKRISIANTWVGAVVGAIPPVMGWTA.ATGSL.DAGAFLLGGILYSWQFPHFNALSWGLREDYSRGGYCMMSVTHpglC
+#=GR Q12887|PF01040|169-416 PP ..57899999..***9.9**********************************************************************.....************************...***************************.*****.**********99999999999999999999************9666
+Q96H96|PF01040|91-333          .l---PCTWSigLAAEPGCFPDWYMLSLFGTGAILMRGAGCTINDMWDQDYDKKVTRTANRPIAAGDISTFQSFVFLGGQLTLALGVL......LCLNYYSIALGAGSLLLV.ITYP..-LMKRISYWPQLALGLTFNWGALLGWSA.IKGSCdPSVCLPLYFSGVMWTLIYDTIYAHQDKRDDVLIGLKSTALRF...G
+#=GR Q96H96|PF01040|91-333  PP .6...555555599999999********************************************************************......******************.****...***************************.*****88888889999999*****************************...*
+Q9Y5Z9|PF01040|62-314          lt---PVALGsaLAYRSHGVLDPRLLVGCAVAVLAVHGAGNLVNTYYDFSKGIDHKKSDDRTLVDRILEPQDVVRFGVFLYTLGCVCAaclyylSPLKLEHLALIYFGGLSGsFLYTggIGFKYVAL-GDLIILITFGPLAVMFAYAiQVGSL.AIFPLVYAIPLALSTEAILHSNNTRDMESDREAGIVTLAILI...G
+#=GR Q9Y5Z9|PF01040|62-314  PP 65...56666689*************************************************************************999*96555555678899999999999**************.**********999999999888999.******************************************...*
+#=GC PP_cons                   ..57867777..999999**********************************************************************......88889999**********.****..****************************.99***.999999****99******************************...9
+#=GC RF                        ..xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxx.xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...x
+
+Q12887|PF01040|169-416         RRVALR-..HCLALLVLSAA--APVLDITTWTFPIMALPINAYISYLGFRFYVDADRRSSRRLF-FCS--l............
+#=GR Q12887|PF01040|169-416 PP 666666...44444444444..678888888888888889999999999999999999999999.765..7............
+Q96H96|PF01040|91-333          ENTKPWLsgFSVAMLGALS---LVGVNSGQTAPYYAALGAVGAHLTHQIYTLDIHRPEDCWNKF------.............
+#=GR Q96H96|PF01040|91-333  PP ******7665555555555...59*************************************987...................
+Q9Y5Z9|PF01040|62-314          PTFSYIL..YNTLLFLPYLV--FSILATHCTISLALPLLTIPMAFSLERQFR------------------sqafnklpqrtak
+#=GR Q9Y5Z9|PF01040|62-314  PP *******..9999****999..566666666666666666666655554444..................4566677777899
+#=GC PP_cons                   9999998..66666666667..578888888888888888888888888888******999988.765...............
+#=GC RF                        xxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............
+//

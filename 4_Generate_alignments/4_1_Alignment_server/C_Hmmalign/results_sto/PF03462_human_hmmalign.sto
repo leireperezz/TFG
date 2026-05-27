@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O75570|PF03462|83-282         ..s--KEYQTLEQCLQHIPVNE--ENRRSLNRRHAELAPLAAIYQEIQETEQAIEELESMCKslnkQDEKQLQELALEERQTIDQKINMLYNELFQSLVPKEKYDKNDVILEVTAGrtTGGDICQQFTREIFDMYQNYSCYKHWQFELLNYTPADYGGLHHAAARISGDGVYKHLKYEGGIHRVQRIPEvglSSRMQRIH
+#=GR O75570|PF03462|83-282 PP ..6..78999999999877654..6668********************************99998666689*********************************************999**********************************************************************66567899***
+Q9UGC7|PF03462|64-221         lla---------------------------------------VIKLLNEKERELRETEHLLH....DENEDLRKLAENEITLCQKEITQLKHQIILLLVPSEETDENDLILEVTAG..VGGQEAMLFTSEIFDMYQQYAAFKRWHFETLEYFPSELGGLRHASASIGGSEAYRHMKFEGGVHRVQRVPK...TEKQGRVH
+#=GR Q9UGC7|PF03462|64-221 PP 876.......................................5677899999**********....**************************************************..***********************************************************************...********
+#=GC PP_cons                  .....78999999999877654..6668**************7888999************9....8889**********************************************..***********************************************************************...8999****
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx
+
+O75570|PF03462|83-282         TGTMSV
+#=GR O75570|PF03462|83-282 PP ****98
+Q9UGC7|PF03462|64-221         TSTMTV
+#=GR Q9UGC7|PF03462|64-221 PP *****9
+#=GC PP_cons                  ****98
+#=GC RF                       xxxxxx
+//

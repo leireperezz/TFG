@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O94766|PF03360|96-312          LSQTLSLVPRLHWLLVEDAEGPTPLVSGLLAASGLLFTHLVVLTPKAqrlRE.GEPGWV..HPRGVEQRNKALDWLRGRggavggekdpPPPGTQGVVYFADDDNTYSRELFEEMRWTRGVSVWPVGLVGGLRFEGPQVQD-GRVVGFHTAWEPSRPFPVDMAGFAVALPLLLDKPNAQFDST-APRGHLESSLLSHL-V
+#=GR O94766|PF03360|96-312  PP 79*******************************************9977434.788899..****************76*****99988444457*********************************************8.8*************************************999.999***********.8
+Q9NPZ5|PF03360|101-304         LANTFRQVAQLHWILVEDAAARSELVSRFLARAGLPSTHLHVPTPRR...Y-.--KRPG..LPRATEQRNAGLAWLRQRh........qHQRAQPGVLFFADDDNTYSLELFQEMRTTRKVSVWPVGLVGGRRYERPLVEN-GKVVGWYTGWRADRPFAIDMAGFAVSLQVILSNPKAVFKRRGSQPGMQESDFLKQI-T
+#=GR Q9NPZ5|PF03360|101-304 PP 79*****************************************9999...8....4556..9***************767........6555668*********************************************8.8*******************************************************.9
+Q9P2W7|PF03360|105-315         MANTLLHVPNLHWLVVEDAPRRTPLTARLLRDTGLNYTHLHVETPRN...YKlRGDARDprIPRGTMQRNLALRWLRETf........pRNSSQPGVVYFADDDNTYSLELFEEMRSTRRVSVWPVAFVGGLRYEAPRVNGAGKVVGWKTVFDPHRPFAIDMAGFAVNLRLILQRSQAYFKLRGVKGGYQESSLLREL-V
+#=GR Q9P2W7|PF03360|105-315 PP 79*********************************************...664433333569***************76*........9777789*******************************************************************************************************.7
+#=GC PP_cons                   79*******************************************99...65.565666..9***************76..........556668*********************************************9*9*******************************************************.8
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xx.xxxxxx..xxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O94766|PF03360|96-312          DPKDLEPRAANCTRVLVWHTRTE
+#=GR O94766|PF03360|96-312  PP *********************97
+Q9NPZ5|PF03360|101-304         TVEELEPKANNCTKVLVWHTRTE
+#=GR Q9NPZ5|PF03360|101-304 PP *********************97
+Q9P2W7|PF03360|105-315         TLNDLEPKAANCTKILVWHTRTE
+#=GR Q9P2W7|PF03360|105-315 PP 9********************97
+#=GC PP_cons                   *********************97
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx
+//

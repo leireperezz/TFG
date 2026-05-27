@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O15230|PF06008|2192-2450         LRGINASSMAWARLHRLNASIADLQSQLRSPLGPRHETAQQLEVLEQQSTSLGQDARRLGGQAVGTRDQASQLLAGTEATLGHAKTLLAAIRAVDRTLSELMSQTGHLGL..aNASAPSGEQLLRTLAEVERLLWEMRARD.LGAPQAAAEAELAAAQRLLARVQEQLSSLWEENQALATQTRDRLAQHEAGLMDLREAL
+#=GR O15230|PF06008|2192-2450 PP 689***********************************************************************************************************..*****************************.**********************************************************
+P24043|PF06008|1593-1853         VMSIN-LTGPLPAPYKMLYGLENMTQELKHLLSPQRAPERLIQLAEGNLNTLVTEMNELLTRATKVTADGEQTGQDAERTNTRAKSLGEFIKELARDAEAVNEKAIKLNEtlgTRDEAFERNLEGLQKEIDQMIKELRRKN.LETQKEIAEDELVAAEALLKKVKKLFGESRGENEEMEKDLREKLADYKNKVDDAWDLL
+#=GR P24043|PF06008|1593-1853 PP 79***.**********************************************************************************************************99999************************.**********************************************************
+P25391|PF06008|1575-1831         VLSLN-LTGIIPVPYGILSNLENTTKYLQESLLKENMQKDLGKIK---LEGVAEETDNLQKKLTRMLASTQKVNRATERIFKESQDLAIAIERLQMSITEIMEKT-TLNQtldEDFLLPNSTLQNMQQNGTSLLEIMQIRD.FTQLHQNATLELKAAEDLLSQIQENYQKPLEELEVLKEAASHVLSKHNNELKAAEALV
+#=GR P25391|PF06008|1575-1831 PP 789**.***************************************...*********************************************************.9**********************************.**********************************************************
+Q16363|PF06008|298-555           VLSVSSGAAAHRHVNEINATIYLLKTKLSERENQYALRKIQINNAENTMKSLLSDVEELVEKENQASRKGQLVQKESMDTINHASQLVEQAHDMRDKIQEINNKMLYYGE...-EHELSPKEISEKLVLAQKMLEEIRSRQpFFTQRELVDEEADEAYELLSQAESW-QRLHNETRTLFPVVLEQLDDYNAKLSDLQEAL
+#=GR Q16363|PF06008|298-555   PP 789**********************************************************************************************************9....9****************************************************.********************************
+Q16787|PF06008|1847-2105         LQGLSASAGLLEQMRHMETQAKDLRNQLLNYRSAISNHGSKIEGLERELTDLNQEFETLQEKAQVNSRKAQTLNNNVNRATQSAKELDVKIKNVIRNVHILLKQISGTDG...EGNNVPSGDFSREWAEAQRMMRELRNRN.FGKHLREAEADKRESQLLLNRIRTWQKTHQGENNGLANSIRDSLNEYEAKLSDLRARL
+#=GR Q16787|PF06008|1847-2105 PP 79************************************************************************************************************...****************************.**********************************************************
+#=GC PP_cons                     79************************************************************************************************************...****************************.**********************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15230|PF06008|2192-2450         NRAVDATREAQELNSRNQERLEEALQRKQELSRDNATLQATLHAARDTLASVFRLLHSLDQA-
+#=GR O15230|PF06008|2192-2450 PP ************************************************************96.
+P24043|PF06008|1593-1853         REATDKIREANRLFAVNQKNMTALEKKKEAVESGKRQIENTLKEGNDILDEANRLADEINSII
+#=GR P24043|PF06008|1593-1853 PP ************************************************************975
+P25391|PF06008|1575-1831         REAEAKMQESNHLLLMVNANLREFSDKKLHVQEEQNLTSELIVQGRGLIDAAAAQTDAVQDAL
+#=GR P25391|PF06008|1575-1831 PP ************************************************************985
+Q16363|PF06008|298-555           DQALNYVRDAEDMNRATAARQRDHEKQQERVREQMEVVNMSLSTSADSLTTPRLTLSELDDII
+#=GR Q16363|PF06008|298-555   PP ************************************************************986
+Q16787|PF06008|1847-2105         QEAAAQAKQANGLNQENERALGAIQRQVKEINSLQSDFTKYLTTADSSLLQTNIALQLMEKSQ
+#=GR Q16787|PF06008|1847-2105 PP ***********************************************************9985
+#=GC PP_cons                     ************************************************************975
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

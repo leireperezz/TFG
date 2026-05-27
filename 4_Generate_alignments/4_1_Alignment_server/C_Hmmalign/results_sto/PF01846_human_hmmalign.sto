@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+O14776|PF01846|662-709           r--MKQFKDMLLERG....VSAFS.........TWEKELHKIVFDPRYLLL..-NPKERKQVFDQY.
+#=GR O14776|PF01846|662-709   PP 6..79**********....*****.........******************...**********99.
+O14776|PF01846|727-776           .QAKEDFKKMMEEAK....FNPRA.........TFSEFAAKHAKDSRFKAI..EKMKDREALFNEF.
+#=GR O14776|PF01846|727-776   PP .59************....*****.........******************..***********97.
+O14776|PF01846|794-843           .KIKSDFFELLSNHH....LDSQS.........RWSKVKDKVESDPRYKAV..DSSSMREDLFKQY.
+#=GR O14776|PF01846|794-843   PP .689***********....*****.........******************..***********99.
+O14776|PF01846|898-949           .EAIQNFKALLSDMV....RSSDV.........SWSDTRRTLRKDHRWESGslLEREEKEKLFNEH.
+#=GR O14776|PF01846|898-949   PP .799***********....*****.........***************766669***********8.
+O14776|PF01846|956-1007          .KKREHFRQLLDETS...aITLTS.........TWKEVKKIIKEDPRCIKF.sSSDRKKQREFEEY.
+#=GR O14776|PF01846|956-1007  PP .68************...******.........******************.88888889999998.
+O14776|PF01846|1015-1071         .-AKADFRTLLKETK...fITYRSkkliqesdqHLKDVEKILQNDKRYLVL.dCVPEERRKL----i
+#=GR O14776|PF01846|1015-1071 PP ..89***********...*********************************.*******987....7
+O75400|PF01846|395-444           .EAKQAFKELLKEKR....VPSNA.........SWEQAMKMIINDPRYSAL..AKLSEKKQAFNAY.
+#=GR O75400|PF01846|395-444   PP .79************....*****.........******************..***********98.
+O75400|PF01846|462-510           .EAKESFQRFLENHE...kMTSTT.........RYKKAEQMFGEMEVWNAI..-SERDRLEIYED-.
+#=GR O75400|PF01846|462-510   PP .79************...******.........******************...*********98..
+O75400|PF01846|609-664           .KNRESFQIFLDELHehgqLHSMS.........SWMELYPTISSDIRFTNMlgQPGSTALDLFKFY.
+#=GR O75400|PF01846|609-664   PP .79*********************.........******************************988.
+O75400|PF01846|746-796           k--ESAFKSMLKQAAp..pIELDA.........VWEDIRERFVKEPAFEDI..TLESERKRIFKDF.
+#=GR O75400|PF01846|746-796   PP 6..79***********..******.........******************..***********98.
+Q13017|PF01846|485-545           .KAKEEFQEMLFEHS...eLFYDLdlnatpssdKMSEIHTVLSEEPRYKAL.qKLAPDRESLLLKH.
+#=GR Q13017|PF01846|485-545   PP .8*************...*888888888999********************.*********99887.
+Q6NWY9|PF01846|278-327           .KAKQAFKELLRDKA....VPSNA.........SWEQAMKMVVTDPRYSAL..PKLSEKKQAFNAY.
+#=GR Q6NWY9|PF01846|278-327   PP .8*************....*****.........******************..***********98.
+Q6NWY9|PF01846|492-547           .KNREAFQTFLDELHetgqLHSMS.........TWMELYPAVSTDVRFANMlgQPGSTPLDLFKFY.
+#=GR Q6NWY9|PF01846|492-547   PP .79*********************.........******************************988.
+Q6NWY9|PF01846|629-679           r--EAAFRSMLRQAVp..aLELGT.........AWEEVRERFVCDSAFEQI..TLESERIRLFREF.
+#=GR Q6NWY9|PF01846|629-679   PP 6..79***********..******.........******************..**********997.
+Q5VWI1|PF01846|455-500           t----HFRDMLLERG....VSAFS.........TWEKELHKIVFDPRYLLL..-NSEERKQIFEQF.
+#=GR Q5VWI1|PF01846|455-500   PP 7....8*********....*****.........******************...**********97.
+Q5VWI1|PF01846|519-567           .-AKEEFKKLLEESK....VSPRT.........TFKEFAEKYGRDQRFRLV..QKRKDQEHFFNQF.
+#=GR Q5VWI1|PF01846|519-567   PP ..89***********....*****.........******************..***********97.
+#=GC PP_cons                     .799***********....*****.........******************..**********998.
+#=GC RF                          .xxxxxxxxxxxxxx....xxxxx.........xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx.
+//

@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+O43405|PF03815|32-121          ......ITCFTRGLDIR------KEKADVLCPGGCPLEE...FSVYGNI..VYASVSSICGAAVHRGVI.SNSGGPVRVYSLPGRENYSSVDANGIQSQMLSRWSASF..
+#=GR O43405|PF03815|32-121  PP ......67888888877......999*************...*******..******************.**********************************9997..
+Q96PD2|PF03815|201-276         .nflep-------------------EFSKYCPAGCLLPF...AEISGTIphGYRDSSPLCMAGVHAGVVsNTLGGQISVVISKGIPYYESSLANNVTS----------v.
+#=GR Q96PD2|PF03815|201-276 PP .98765...................67889*********...******8879*****************8899***********************99..........7.
+Q9H0B8|PF03815|288-379         ......VRCDTKMKDRC----KGSTCNRYQCPAGCLNHK...AKIFGTL..FYESSSSICRAAIHYGIL.DDKGGLVDITRNGKVPFFVKSERHGVQSLSKYKPSSSF..
+#=GR Q9H0B8|PF03815|288-379 PP ......68*********....899***************...*******..******************.*******************************9999887..
+Q9H0B8|PF03815|389-484         ......LDCYTTVAQLCPFEKPATHCPRIHCPAHCKDEPsywAPVFGTN..IYADTSSICKTAVHAGVIsNESGGDVDVMPVDKKKTYVGSLRNGVQSESLG------tp
+#=GR Q9H0B8|PF03815|389-484 PP ......79***************************99998999******..******************999***************************986......58
+Q6UXI7|PF03815|52-133          ...kii-----------------DPEFIVKCPAGCQDPK...YHVYGTD..VYASYSSVCGAAVHSGVL.DNSGGKILVRKVAGQSGYKGSYSNGVQSLSLPRWRESF..
+#=GR Q6UXI7|PF03815|52-133  PP ...876.................56899***********...*******..******************.**********************************9998..
+Q9H336|PF03815|293-384         ......VSCEVRLRDQC----KGTTCNRYECPAGCLDSK...AKVIGSV..HYEMQSSICRAAIHYGII.DNDGGWVDITRQGRKHYFIKSNRNGIQTIGKYQSANSF..
+#=GR Q9H336|PF03815|293-384 PP ......68*********....899***************...*******..******************.****************************9888888876..
+Q9H336|PF03815|394-488         ......VTCETTVEQLCPFHKPASHCPRVYCPRNCMQANphyARVIGTR..VYSDLSSICRAAVHAGVV.RNHGGYVDVMPVDKRKTYIASFQNGIFSESLQN-----p.
+#=GR Q9H336|PF03815|394-488 PP ......69***************************88888999******..******************.******************************986.....7.
+Q8N8Z6|PF03815|167-240         kteysk-----------------------FCPAGCRDVA...GDISGNMvdGYRDTSLLCKAAIHAGIIaDELGGQISVLQRKGISRYEGILANGVLSR---------d.
+#=GR Q8N8Z6|PF03815|167-240 PP 876655.......................5*********...******9667********************************************996.........6.
+#=GC PP_cons                   ......68999999999****999999**9*******99...*******..9*****************.****************************9999999987..
+#=GC RF                        ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

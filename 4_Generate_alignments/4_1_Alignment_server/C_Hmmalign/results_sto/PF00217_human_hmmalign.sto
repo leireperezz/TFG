@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P06732|PF00217|154-366         -VEKLSVEALNSL-TGEFKGKYYPLKSMTEKEQQQLIDDHFLFdkpvsplllaSGMARDWPDARGIWHNDNKSFLVWVNEEDHLRVISMEKGGNMKEVFRRFCVGLQKIEEIFkkaghPFMWNQHLGYVLTCPSNLGTGLRGGVHVKLAHLSKH---PKFEEILTRLRLQKRGTGGVDTAAVGSVFDVSNADRLGSSEVE
+#=GR P06732|PF00217|154-366 PP .6788899*****.*************************************************************************************************99999999***********************************...7******************************************
+P12277|PF00217|154-366         -IEKLAVEALSSL-DGDLAGRYYALKSMTEAEQQQLIDDHFLFdkpvsplllaSGMARDWPDARGIWHNDNKTFLVWVNEEDHLRVISMQKGGNMKEVFTRFCTGLTQIETLFkskdyEFMWNPHLGYILTCPSNLGTGLRAGVHIKLPNLGKH---EKFSEVLKRLRLQKRGTGGVDTAAVGGVFDVSNADRLGFSEVE
+#=GR P12277|PF00217|154-366 PP .6788999*****.************************************************************************************************99899999************************************...6******************************************
+P12532|PF00217|186-399         EVERVVVDALSGL-KGDLAGRYYRLSEMTEAEQQQLIDDHFLFdkpvsplltaAGMARDWPDARGIWHNNEKSFLIWVNEEDHTRVISMEKGGNMKRVFERFCRGLKEVERLIqergwEFMWNERLGYILTCPSNLGTGLRAGVHIKLPLLSKD---SRFPKILENLRLQKRGTGGVDTAATGGVFDISNLDRLGKSEVE
+#=GR P12532|PF00217|186-399 PP 689999*******.********************************************************************************************************************************************...6999999************************************
+P17540|PF00217|187-400         EVENVAITALEGL-KGDLAGRYYKLSEMTEQDQQRLIDDHFLFdkpvsplltcAGMARDWPDARGIWHNYDKTFLIWINEEDHTRVISMEKGGNMKRVFERFCRGLKEVERLIqergwEFMWNERLGYILTCPSNLGTGLRAGVHVRIPKLSKD---PRFSKILENLRLQKRGTGGVDTAAVADVYDISNIDRIGRSEVE
+#=GR P17540|PF00217|187-400 PP 57888999*****.********************************************************************************************************************************************...7******************************************
+#=GC PP_cons                   57889999*****.*****************************..........**********************************************************99.....************************************...7******************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P06732|PF00217|154-366         QVQLVVDGVKLMVEMEKK-.
+#=GR P06732|PF00217|154-366 PP ****************96..
+P12277|PF00217|154-366         LVQMVVDGVKLLIEMEQ--r
+#=GR P12277|PF00217|154-366 PP ****************8..6
+P12532|PF00217|186-399         LVQLVIDGVNYLIDCER--r
+#=GR P12532|PF00217|186-399 PP ****************8..5
+P17540|PF00217|187-400         LVQIVIDGVNYLVDCEKK-.
+#=GR P17540|PF00217|187-400 PP ****************96..
+#=GC PP_cons                   ****************86..
+#=GC RF                        xxxxxxxxxxxxxxxxxxx.
+//

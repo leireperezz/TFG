@@ -1,0 +1,95 @@
+# STOCKHOLM 1.0
+
+A2VEC9|PF01826|470-525           .CPGGQLYSDC........VSLCPPSCEAVGQGEEe.sCR.........EE..CVS.GCECPRGLFWN-...GTLCVPAAHC.
+#=GR A2VEC9|PF01826|470-525   PP .**********........**********9998888.9**.........**..***.***********....**********.
+A2VEC9|PF01826|828-881           .CPGGQEYREC........APACGQHCGKPED---...CGe.......lGS..CVA.GCNCPLGLLWDP...EGQCVPPSLC.
+#=GR A2VEC9|PF01826|828-881   PP .**********........*********9987......663.......466..***.************...********99.
+A2VEC9|PF01826|1276-1332         .CEGGQVYEAC........GPTCPPTCHEQHPEPGw.hCQ........vVA..CVE.GCFCPEGTLLH-...GGACLEPASC.
+#=GR A2VEC9|PF01826|1276-1332 PP .9*********........**********9999878.9*9........555..***.***********....*********9.
+A2VEC9|PF01826|1813-1869         .CSGELMFQPC........-APCPLTCDDISGQVT...CP.........PDwpCGSpGCWCPEGQVLGS...EGWCVWPRQC.
+#=GR A2VEC9|PF01826|1813-1869 PP .888999****.........89*************...**.........6556**88************...**********.
+A2VEC9|PF01826|2634-2676         p----------........--PCPPSCLDPKANRS...CS.........GH..CVE.GCRCPPGLLLH-...DTRCLPLSEC.
+#=GR A2VEC9|PF01826|2634-2676 PP 6....................7*************...**.........**..***.***********....**********.
+A2VEC9|PF01826|3091-3143         .CPRDKQWLDC........AQG-PASCAELSAPRG...TN.........QT..CHP.GCHCPSGMLLL-...NNVCVPTQDC.
+#=GR A2VEC9|PF01826|3091-3143 PP .**********........877.**********99...99.........99..***.***********....**********.
+A2VEC9|PF01826|3317-3366         g----AEYSPC........GPPCPRSCDDLVH---...CV.........WR..CQP.GCYCPPGQVLSS..nGAICVQPGHC.
+#=GR A2VEC9|PF01826|3317-3366 PP 7....68****........***********76......99.........**..***.***********9..6777******9.
+A2VEC9|PF01826|3530-3586         .CGGGQSLHPC........GQPCPRSCQDLSPGSV...CQp......gsVG..CQP.TCGCPLGQLSQ-...DGLCVPPAHC.
+#=GR A2VEC9|PF01826|3530-3586 PP .999*******........****************...*96......5333..***.**********9....**********.
+A2VEC9|PF01826|4064-4119         .CPAGMEVVTC........ANRCPRRCSDLQEGIV...CQ.........DDqvCQK.GCRCPKGSLEQ-...DGGCVPIGHC.
+#=GR A2VEC9|PF01826|4064-4119 PP .**********........****************...**.........4446***.**********9....*********9.
+A2VEC9|PF01826|4425-4480         .CTPPFEFHAC........GSPCAGLCATHLSHQL...CQd.......lPP..CQP.GCYCPKGLLEQ-...AGGCIPPEEC.
+#=GR A2VEC9|PF01826|4425-4480 PP .888899****........***********99999...**6.......666..***.**********9....**********.
+A2VEC9|PF01826|4680-4726         .--------DC........ANQCPHSCADLWDRVQ...CL........qGP..CRP.GCRCPPGQLVQ-...DGRCVPISSC.
+#=GR A2VEC9|PF01826|4680-4726 PP .........6*........****************...*9........456..***.***********....**********.
+A2VEC9|PF01826|4821-4875         .CPPGQVLSAC........ATSCPCLCWHLQPGAI...CV........qEP..CQP.GCGCPGGQLLH-...NGTCVPPTAC.
+#=GR A2VEC9|PF01826|4821-4875 PP .**********........**************99...*9........456..***.***********....*********9.
+O75443|PF01826|597-650           .CPSFSHYSVC........TSSCPDTCSDLTASRN...CA.........TP..CTE.GCECNQGFVLS-...TSQCVPLHKC.
+#=GR O75443|PF01826|597-650   PP .**********........****************...**.........**..***.***********....**********.
+O75443|PF01826|984-1036          .CPENSHFEEC........-ITCTETCETLTLGPI...CV.........DS..CSE.GCQCDEGYALL-...GSQCVTRSEC.
+#=GR O75443|PF01826|984-1036  PP .**********.........89***********99...**.........**..***.***********....**********.
+O75443|PF01826|1372-1425         .CPPNSHYESC........VSVCQPRCAAIRLKSD...CS.........HY..CVE.GCHCDAGYVLN-...GKSCILPHSC.
+#=GR O75443|PF01826|1372-1425 PP .**********........****************...**.........**..***.***********....*********9.
+P04275|PF01826|295-348           .CPAGMEYRQC........VSPCARTCQSLHINEM...CQ.........ER..CVD.GCSCPEGQLLD-...EGLCVESTEC.
+#=GR P04275|PF01826|295-348   PP .**********........****************...**.........**..***.***********....**********.
+P04275|PF01826|652-707           .CPKGQVYLQC........GTPCNLTCRSLSYPDE..eCN.........EA..CLE.GCFCPPGLYMDE...RGDCVPKAQC.
+#=GR P04275|PF01826|652-707   PP .**********........************9998..9**.........**..***.************...**********.
+P98088|PF01826|338-394           .CPNNMQYHEC........RSPCADTCSNQEHSRA...CE.........DH..CVA.GCFCPEGTVLDDi.gQTGCVPVSKC.
+#=GR P98088|PF01826|338-394   PP .**********........****************...**.........**..***.************9.999********.
+P98088|PF01826|704-761           .CPKSMTYHYH........VSTCQPTCRSLSEGDI..tCS.........VGfiPVD.GCICPKGTFLDD...TGKCVQASNC.
+#=GR P98088|PF01826|704-761   PP .**********........************9987..899.........5545889.************...**********.
+Q02817|PF01826|295-351           .CPGNLVYLES........GSPCMDTCSHLEVSSL...CE.........EH..RMD.GCFCPEGTVYDDi.gDSGCVPVSQC.
+#=GR Q02817|PF01826|295-351   PP .**********........**************99...**.........**..***.*************.99*********.
+Q6W4X9|PF01826|302-357           .CPANQVYQEC........GSACVKTCSNPQHS--...CS.........SS..CTF.GCFCPEGTVLNDlsnNHTCVPVTQC.
+#=GR Q6W4X9|PF01826|302-357   PP .**********........*************9.....**.........**..***.***********99999*********.
+Q6W4X9|PF01826|664-721           .CTGNTTFSYN........SQACERTCLSLSDRAT..eCH.........HSavPVD.GCNCPDGTYLNQ...KGECVRKAQC.
+#=GR Q6W4X9|PF01826|664-721   PP .999*******........***********99988..8*9.........7733667.************...**********.
+Q6W4X9|PF01826|764-827           .CQAPKTFKSCsqssenkfGAACAPTCQMLATGVA...CV........pTK..CEP.GCVCAEGLYENA...DGQCVPPEEC.
+#=GR Q6W4X9|PF01826|764-827   PP .788888888877666666789*************...*8........677..***.************...**********.
+Q6ZRI0|PF01826|780-844           .CEASKEYSPC........VAPCGRTCQDLASPEA...CGvdggddlsrDE..CVE.GCACPPDTYLDT..qADLCVPRNQC.
+#=GR Q6ZRI0|PF01826|780-844   PP .**********........****************...9988888877667..***.***********9..999********.
+Q7Z5P9|PF01826|721-776           .CPEQHIYKEC........GPSNPATCSNVAPFQ-...-D.........SE..CVS.GCTCPEGYLLDDigeKGKCVLKAEC.
+#=GR Q7Z5P9|PF01826|721-776   PP .**********........*************97.....5.........89..***.************999**********.
+Q8N8U9|PF01826|629-682           .CKHGAVYDTC........GPGCIKTCDNWNEIGP...CN.........KP..CVA.GCHCPANLVLH-...KGRCIKPVLC.
+#=GR Q8N8U9|PF01826|629-682   PP .9*********........****************...**.........**..***.***********....******9888.
+Q9HC84|PF01826|329-385           .CPLNMQHQEC........GSPCTDTCSNPQRAQL...CE.........DH..CVD.GCFCPPGTVLDDi.tHSGCLPLGQC.
+#=GR Q9HC84|PF01826|329-385   PP .**********........**************99...**.........**..***.************9.99*********.
+Q9HC84|PF01826|695-752           .CPKSQRYAYV........VDACQPTCRGLSEADV..tCS.........VSfvPVD.GCTCPAGTFLND...AGACVPAQEC.
+#=GR Q9HC84|PF01826|695-752   PP .**********........************9988..9*9.........7745778.************...**********.
+Q9Y493|PF01826|1044-1093         .CPPNARYESC........--ACPASCKSPRPS--...CG.........PL..CRE.GCVCNPGFLFS-...DNHCIQASSC.
+#=GR Q9Y493|PF01826|1044-1093 PP .**********..........9*********99.....*9.........99..***.***********....**********.
+Q9Y493|PF01826|1426-1479         .CPPNSKYSLC........AKPCPDTCHSGFSGMF...CS.........DR..CVE.ACECNPGFVLS-...GLECIPRSQC.
+#=GR Q9Y493|PF01826|1426-1479 PP .**********........**********999999...**.........**..***.***********....**********.
+Q9Y493|PF01826|1812-1867         .CPPGSSYSPC........SSPCPDTCSSINNPRD...CP.........KAlpCAE.SCECQKGHILS-...GTSCVPLGQC.
+#=GR Q9Y493|PF01826|1812-1867 PP .**********........****************...**.........7666***.***********....**********.
+Q9Y493|PF01826|2211-2267         .CPAYSSYTNC........LPSCSPSCWDLDGR--...CEga....kvpSA..CAE.GCICQPGYVLS-...EDKCVPRSQC.
+#=GR Q9Y493|PF01826|2211-2267 PP .**********........*************9.....8765....55566..***.***********....**********.
+Q9Y6R7|PF01826|745-799           .CPANSRYELC........GPACPTSCNGAAAPSN...CS........gRP..CVE.GCVCLPGFVAS-...GGACVPASSC.
+#=GR Q9Y6R7|PF01826|745-799   PP .**********........****************...**........677..***.***********....**********.
+Q9Y6R7|PF01826|1136-1189         .CPPHSHYEAC........SYGCPLSCGDLPVPGG...CG.........SE..CHE.GCVCDEGFALS-...GESCLPLASC.
+#=GR Q9Y6R7|PF01826|1136-1189 PP .**********........****************...**.........**..***.***********....*********9.
+Q9Y6R7|PF01826|1532-1585         .CPPNSHYELC........ADTCSLGCSALSAPPQ...CQ.........DG..CAE.GCQCDSGFLYN-...GQACVPIQQC.
+#=GR Q9Y6R7|PF01826|1532-1585 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|1950-2004         .CPENSHYEVC........GSPCPASCPSPAPLTTpavCE.........GP..CVE.GCQCDAGFVLS-...ADRCVPL---n
+#=GR Q9Y6R7|PF01826|1950-2004 PP .**********........**********998877788**.........**..***.***********....*****97...6
+Q9Y6R7|PF01826|2337-2390         .CPAHSHYELC........GDSCPGSCPSLSAPEG...CE.........SA..CRE.GCVCDAGFVLS-...GDTCVPVGQC.
+#=GR Q9Y6R7|PF01826|2337-2390 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|2733-2786         .CPQNSHYELC........ADTCSLGCSALSAPLQ...CP.........DG..CAE.GCQCDSGFLYN-...GQACVPIQQC.
+#=GR Q9Y6R7|PF01826|2733-2786 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|3151-3205         .CPENSHYEVC........GPPCPASCPSPAPLTTpavCE.........GP..CVE.GCQCDAGFVLS-...ADRCVPL---n
+#=GR Q9Y6R7|PF01826|3151-3205 PP .**********........**********998877788**.........**..***.***********....*****97...6
+Q9Y6R7|PF01826|3538-3591         .CPAHSHYELC........GDSCPGSCPSLSAPEG...CE.........SA..CRE.GCVCDAGFVLS-...GDTCVPVGQC.
+#=GR Q9Y6R7|PF01826|3538-3591 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|3934-3987         .CPQNSHYELC........ADTCSLGCSALSAPLQ...CP.........DG..CAE.GCQCDSGFLYN-...GQACVPIQQC.
+#=GR Q9Y6R7|PF01826|3934-3987 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|4352-4406         .CPENSHYEVC........GPPCPASCPSPAPLTTpavCE.........GP..CVE.GCQCDAGFVLS-...ADRCVPL---n
+#=GR Q9Y6R7|PF01826|4352-4406 PP .**********........**********998877788**.........**..***.***********....*****97...6
+Q9Y6R7|PF01826|4739-4792         .CPAHSHYELC........GDSCPVSCPSLSAPEG...CE.........SA..CRE.GCVCDAGFVLS-...GDTCVPVGQC.
+#=GR Q9Y6R7|PF01826|4739-4792 PP .**********........****************...**.........**..***.***********....**********.
+Q9Y6R7|PF01826|5121-5174         .CPAHSHYSIC........TRTCQGSCAALSGLTG...CT.........TR..CFE.GCECDDRFLLS-...QGVCIPVQDC.
+#=GR Q9Y6R7|PF01826|5121-5174 PP .**********........**************99...**.........**..***.***********....**********.
+Q3ZCN5|PF01826|745-800           .CQKGMLYHHC........SSFCLHSCISLSSPEQ...CS.........DD..CAE.GCNCPEGKFYED..tLNFCVPIFHC.
+#=GR Q3ZCN5|PF01826|745-800   PP .9*********........****************...**.........**..***.**********99..8999****999.
+#=GC PP_cons                     .**********........*************999...*9.........88..***.************...**********.
+#=GC RF                          .xxxxxxxxxx........xxxxxxxxxxxxxxxx...xx.........xx..xxx.xxxxxxxxxxxx...xxxxxxxxxx.
+//

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q16222|PF01704|46-451         .nf---FFQKAIEGFNQSSHQKNVD-ARMEPVPREVlgsaTRDQDQL--..QAWESEGLFqisqNKVAVLLLAGGQGTRLGVAYPKGMYDVGlpSRKTLFQIQAERILklqqvaEKYYGNKCIIPWYIMTSGRTMESTKEFFTkhKYFGlKKENVIFFQQGMLPAMSFDGKIILEEKNK..----VSMAPDGNGGLYRAL
+#=GR Q16222|PF01704|46-451 PP .75...888888889999999***9.9*******9988888999999....7788887777777***************************999*********9998844433344456799********************977888899***********************99985......89*************
+Q16851|PF01704|56-473         ..d--GFRKLFHRFLQEKG--PSVDWGKIQRPPEDS....IQPYEKIKArgLPDNISSVL....NKLVVVKLNGGLGTSMGCKGPKSLIGVR..NENTFLDLTVQQIE......HLNKTYNTDVPLVLMNSFNTDEDTKKILQ..KYNH.CRVKIYTFNQSRYPRINKESLLPVAKDVSysGENTEAWYPPGHGDIYASF
+#=GR Q16851|PF01704|56-473 PP ..5..7**********977..***************....*******443478899****....****************************..**************......*****************************..****.*************************98761145669**************
+Q3KQV9|PF01704|99-439         rqi---------------------------------....---------..-------SL....NKVAVLLLAGGQGTRLGVTYPKGMYRVGlpSRKTLYQLQAERIRrveqlaGERHGTRCTVPWYVMTSEFTLGPTAEFFRehNFFHlDPANVVMFEQRLLPAVTFDGKVILERKDK..----VAMAPDGNGGLYCAL
+#=GR Q3KQV9|PF01704|99-439 PP 876.......................................................58....***************************999*********999885554445567789**********************55445567899********************99985......89*************
+#=GC PP_cons                  .....7999999999998899**************9....999****44..788889978....****************************..*********99999......6677889**********************..7888.999*********************99885..456699*************
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxx..xxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx
+
+Q16222|PF01704|46-451         AAQNIVEDMEQRGIWSIHVYCVDNiLVKVADPRFIGFCIQ....KGADCGAKVVEKTNPTEPVGVVCRVDGVYQVVEYSEI-SLATAQKRSSDGRLLFNAGNIanhFFTVPFLRDVVnvYE..PQLQHHVAQKKiPYVDTQGQLIKPDKPNGIKMEKFvfdifqfaKKFVVYEVLReDEFSPLKNADSqngkdnpttarh
+#=GR Q16222|PF01704|46-451 PP ****************************************....*************************************.8999******************************96556..9********99999998888*********************************99********999***********
+Q16851|PF01704|56-473         YNSGLLDTFIGEGKEYIFVSNIDN.LGATVDLYILNHLMNppngKRCEFVMEVTNKTRADVKGGTLTQYEGKLRLVEIAQVPKAHVDEFKSVSKFKIFNTNNL...WISLAAVKRLQ..EQ..NAIDMEIIVNA.KTLDGGLNVIQLETAVGAAIKSF........ENSLGINVPR.SRFLPVKTTSD............
+#=GR Q16851|PF01704|56-473 PP ************************.*****************99***********************************************************...***********..**..***********.***********************........**********.***********............
+Q3KQV9|PF01704|99-439         EDHKILEDMERRGVEFVHVYCVDNiLVRLADPVFIGFCVL....QGADCGAKVVEKAYPEEPVGVVCQVDGVPQVVEYSEISP-ETAQLRASDGSLLYNAGNIcnhFFTRGFLKAVT..REfePLLKPHVAVKKvPYVDEEGNLVKPLKPNGIKMEKFvfdvfrfaKNFAALEVLReEEFSPLKNAEPadrds.prtarq
+#=GR Q3KQV9|PF01704|99-439 PP ****************************************....*************************************55.55777777999********9*999999999999..664477888999998899999999*********************************889******97544555.555555
+#=GC PP_cons                  ************************.***************....*************************************88988999999***********...**********9..77..999999*9999.99**9999***************........**********.9*******998............
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx..xx..xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxx.xxxxxxxxxxx............
+
+Q16222|PF01704|46-451         ALMSLHHCWVLNAGGHFID------------------------------------------------------engsrlpai
+#=GR Q16222|PF01704|46-451 PP ************9955544......................................................456678899
+Q16851|PF01704|56-473         LLLVMSNLYSLNAGSLTMSEKREFPTVPLVKLGSSFTKVQDYLRRFESIPDMLELDHLTVSGDVTFGKNVSLK.........
+#=GR Q16851|PF01704|56-473 PP ***********************************************************************98.........
+Q3KQV9|PF01704|99-439         ALLTQHY------------------------------------------------------------------rwalrag..
+#=GR Q3KQV9|PF01704|99-439 PP 5555555..................................................................5556677..
+#=GC PP_cons                  8888888******987777****************************************************98.........
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........
+//

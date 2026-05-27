@@ -1,0 +1,101 @@
+# STOCKHOLM 1.0
+
+F5H094|PF07648|460-506           ......NSECNCDESQWE..PVCGNNGITYLSPC---LAGCKSSSGNK...Ep.iVFYNCSC..
+#=GR F5H094|PF07648|460-506   PP ......789*********..**************...***********...66.8*******..
+O00468|PF07648|199-242           ....ks----PCP-SVVA..PVCGSDASTYSNECELQRAQCSQQRRIR...-...LLSRGPC..
+#=GR O00468|PF07648|199-242   PP ....86....699.7778..8***************************.......*******..
+O00468|PF07648|272-317           ......-CPATCRGAPEG..TVCGSDGADYPGECQLLRRACARQENVF...-...KKFDGPC..
+#=GR O00468|PF07648|272-317   PP .......7889**99999..****************************.......******9..
+O00468|PF07648|414-461           cscdrv----TCD-GAYR..PVCAQDGRTYDSDCWRQQAECRQQRAIP...-...SKHQGPC..
+#=GR O00468|PF07648|414-461   PP 765443....455.4555..9***************************.......*******..
+O00468|PF07648|490-534           ......-CLQACS-SLYD..PVCGSDGVTYGSACELEATACTLGREIQ...-...VARKGPC..
+#=GR O00468|PF07648|490-534   PP .......667899.99**..****************************.......*******..
+O00468|PF07648|555-599           ......-CPSECV-ALAQ..PVCGSDGHTYPSECMLHVHACTHQISLH...-...VASAGPC..
+#=GR O00468|PF07648|555-599   PP .......566777.5566..9***************************.......*******..
+O00468|PF07648|618-664           ......CVCPRCEHPPPG..PVCGSDGVTYGSACELREAACLQQTQIE...-...EARAGPC..
+#=GR O00468|PF07648|618-664   PP ......567888888888..****************************.......9999999..
+O00468|PF07648|705-750           ......-CDFSCQSVPGS..PVCGSDGVTYSTECELKKARCESQRGLY...-...VAAQGAC..
+#=GR O00468|PF07648|705-750   PP .......89*********..****************************.......*****99..
+O00468|PF07648|927-969           ......----TCPEANAT..KVCGSDGVTYGNECQLKTIACRQGLQIS...-...IQSLGPC..
+#=GR O00468|PF07648|927-969   PP ..........6*******..****************************.......*******..
+O95633|PF07648|120-167           ......ECAPDCSGLPAR.lQVCGSDGATYRDECELRAARCRGHPDLS...-...VMYRGRC..
+#=GR O95633|PF07648|120-167   PP ......5999********.*****************************.......*******..
+O95633|PF07648|199-243           .....p-----CPVPSSPgqELCGNNNVTYISSCHMRQATCFLGRSIG...-...VRHAGSC..
+#=GR O95633|PF07648|199-243   PP .....6.....8877777756***************************.......*******..
+O95980|PF07648|632-671           ......--PCNCA-DQFV..PVCGQNGRTYPSAC---IARC-VGLQDH...-...QFEFGSC..
+#=GR O95980|PF07648|632-671   PP ........69***.9999..**************...****.566666.......7999999..
+O95980|PF07648|716-742           ......-----CD-QVQD..PVCDTDHMEHNNLCTLYQR---------...-...-------gk
+#=GR O95980|PF07648|716-742   PP ...........77.6788..9***************986.......................59
+O95980|PF07648|750-773           .....c--QPFCR--ATE..PVCGHNGETYSSVC--------------...-...-------a.
+#=GR O95980|PF07648|750-773   PP .....5..55666..556..9*************............................5.
+P19883|PF07648|118-164           ......-CAPDCSNITWK.gPVCGLDGKTYRNECALLKARCKEQPELE...-...VQYQGRC..
+#=GR P19883|PF07648|118-164   PP .......8899*******.*****************************.......*******..
+P19883|PF07648|192-239           ......-CNRICPEPASSeqYLCGNDGVTYSSACHLRKATCLLGRSIG...-...LAYEGKC..
+#=GR P19883|PF07648|192-239   PP .......899****9999855***************************.......*******..
+P19883|PF07648|270-316           ......-CDELCPDSKSD.ePVCASDNATYASECAMKEAACSSGVLLE...-...VKHSGSC..
+#=GR P19883|PF07648|270-316   PP .......899********.99***************************.......*******..
+P46721|PF07648|440-486           ......NVDCNCPSKIWD..PVCGNNGLSYLSAC---LAGCETSIGTG..iN..mVFQNCSC..
+#=GR P46721|PF07648|440-486   PP ......789*********..**************...***********..66..9*******..
+P83105|PF07648|104-152           .....s--TCGCPTLGGA..-VCGSDRRTYPSMCALRAENRAARRLGKv.pA..vPVQWGNC..
+#=GR P83105|PF07648|104-152   PP .....6..79***88777...**********************999996.53..8******9..
+P83110|PF07648|79-126            ....gl-----CR-CRWS.hAVCGTDGHTYANVCALQAASRRALQLSGt.pV..rQLQKGAC..
+#=GR P83110|PF07648|79-126    PP ....96.....66.7899.66***************9999998888887.64..899***99..
+Q08629|PF07648|135-180           .....k--CKPCPVAQSA..MVCGSDGHSYTSKCKLEFHACSTGKSLA...-...TLCDGPC..
+#=GR Q08629|PF07648|135-180   PP .....5..899*******..****************************.......*******..
+Q12841|PF07648|54-98             ......-CIEQCK-PHKR..PVCGSNGKTYLNHCELHRDACLTGSKIQ...-...VDYDGHC..
+#=GR Q12841|PF07648|54-98     PP .......899***.9999..9***************************.......*******..
+Q14515|PF07648|461-509           .....t-----CPPTKPL.dQVCGTDNQTYASSCHLFATKCRLEGTKKg.hQl.qLDYFGAC..
+#=GR Q14515|PF07648|461-509   PP .....5.....9988777.79***************************9.637.8******9..
+Q16270|PF07648|111-156           ......---CVCK-SRY-..PVCGSDGTTYPSGCQLRAASQRAESRGE...KaitQVSKGTC..
+#=GR Q16270|PF07648|111-156   PP .........5676.455...6****************99999988888...44589****99..
+Q6ZQN7|PF07648|502-547           ......NANCNCSRSYYY..PVCG-DGVQYFSPC---FAGCSNPVAHR...Kp.kVYYNCSC..
+#=GR Q6ZQN7|PF07648|502-547   PP ......689*********..****.9********...****7766666...56.6*******..
+Q86UG4|PF07648|504-549           .....e--KCRCSSSIYS..SICGRDDIEYFSPC---FAGCTYSKAQN..qK..kMYYNCSC..
+#=GR Q86UG4|PF07648|504-549   PP .....8..699*******..**************...****8777776..54..6*******..
+Q8IYR6|PF07648|99-143            ......-CQFQCH-TNYI..PVCGSNGDTYQNECFLRRAACKHQKEIT...-...VIARGPC..
+#=GR Q8IYR6|PF07648|99-143    PP .......889***.8888..8***************************.......******9..
+Q8IYR6|PF07648|190-235           ......-CNIDCSGYSFN..PVCASDGSSYNNPCFVREASCIKQEQID...-...IRHLGHC..
+#=GR Q8IYR6|PF07648|190-235   PP .......899***99999..****************************.......*******..
+Q8IZJ3|PF07648|1712-1744         ......-CDHDCG-AQGN..PVCGSDGVVYASACRLREAACRQ-----...-...-------..
+#=GR Q8IZJ3|PF07648|1712-1744 PP .......899999.99**..*********************85.....................
+Q92563|PF07648|136-180           ......--CKPCHMAQLA..SVCGSDGHTYSSVCKLEQQACLSSKQLA...-...VRCEGPC..
+#=GR Q92563|PF07648|136-180   PP ........789*******..****************************.......*******..
+Q92743|PF07648|110-155           ......---CVCA--SSE..PVCGSDANTYANLCQLRAASRRSERLHRp.pV..iVLQRGAC..
+#=GR Q92743|PF07648|110-155   PP .........5566..889..****************9999999999999.75..8******9..
+Q92959|PF07648|447-494           ......--DCSCPDSIFH..PVCGDNGIEYLSPC---HAGCSNINMSSatsKq.lIYLNCSC..
+#=GR Q92959|PF07648|447-494   PP ........69********..**************...****999988898747.9*******..
+Q96BD0|PF07648|505-553           ......NAACSCQPEHYS..PVCGSDGLMYFSLC---HAGCPAATETNvdgQ..kVYRDCSC..
+#=GR Q96BD0|PF07648|505-553   PP ......679*********..**************...***********8764..8*******..
+Q9BQ16|PF07648|137-183           ......STCKQCPVVYPS..PVCGSDGHTYSFQCKLEYQACVLGKQIS...-...VKCEGHC..
+#=GR Q9BQ16|PF07648|137-183   PP ......589****99999..****************************.......*******..
+Q9H3U7|PF07648|40-84             ....cs---LDCAGSPQK..PLCASDGRTFLSRCEFQRAKC-KDPQLE...-...IAYRGNC..
+#=GR Q9H3U7|PF07648|40-84     PP ....65...58*******..*********************.899***.......*******..
+Q9H4F8|PF07648|42-87             ......QCNLHCSRTQPK..PICASDGRSYESMCEYQRAKC-RDPTLG...-...VVHRGRC..
+#=GR Q9H4F8|PF07648|42-87     PP ......6999********..*********************.99****.......*******..
+Q9NPD5|PF07648|460-506           ......NSECNCDESQWE..PVCGNNGITYLSPC---LAGCKSSSGIK..kH..tVFYNCSC..
+#=GR Q9NPD5|PF07648|460-506   PP ......789*********..**************...***********..54..9*******..
+Q9NYB5|PF07648|477-523           ......NSRCKCSETKWE..PMCGENGITYVSAC---LAGCQTSNRSG...Kn.iIFYNCTC..
+#=GR Q9NYB5|PF07648|477-523   PP ......789*********..**************...***********...55.9*******..
+Q9UIG8|PF07648|472-508           ......NNNCECQTDSFT..PVCGADGITYLSAC---FAGCNSTNL--...-...-------tg
+#=GR Q9UIG8|PF07648|472-508   PP ......679*********..**************...****98875................57
+Q9UIK5|PF07648|91-135            ......-CQFKCN-NDYV..PVCGSNGESYQNECYLRQAACKQQSEIL...-...VVSEGSC..
+#=GR Q9UIK5|PF07648|91-135    PP .......7899**.7777..8***************************.......*******..
+Q9UIK5|PF07648|182-227           ......-CNIDCSQTNFN..PLCASDGKSYDNACQIKEASCQKQEKIE...-...VMSLGRC..
+#=GR Q9UIK5|PF07648|182-227   PP .......899********..****************************.......*******..
+Q9Y6L6|PF07648|460-506           ......NSDCNCDESQWE..PVCGNNGITYISPC---LAGCKSSSGNK...Kp.iVFYNCSC..
+#=GR Q9Y6L6|PF07648|460-506   PP ......789*********..**************...***********...77.8*******..
+G3V0H7|PF07648|413-459           ......NSECNCDESQWE..PVCGNNGITYLSPC---LAGCKSSSGNK...Ep.iVFYNCSC..
+#=GR G3V0H7|PF07648|413-459   PP ......789*********..**************...***********...66.8*******..
+Q6MZW2|PF07648|89-133            ......-CLEACR-PSYV..PVCGSDGRFYENHCKLHRAACLLGKRIT...-...VIHSKDC..
+#=GR Q6MZW2|PF07648|89-133    PP .......678999.8999..9***************************.......9999998..
+Q8N475|PF07648|89-133            ......-CMDLCK-RHYK..PVCGSDGEFYENHCEVHRAACLKKQKIT...-...IVHNEDC..
+#=GR Q8N475|PF07648|89-133    PP .......667899.99**..****************************.......9998666..
+Q8WX77|PF07648|106-151           ......---CVCA-QRG-..TVCGSDGRSYPSVCALRLRAR-HTPRAHp.gHl.hKARDGPC..
+#=GR Q8WX77|PF07648|106-151   PP .........5566.444...5***************88776.5555555.634.68888888..
+Q96I82|PF07648|126-168           ......---CACR--SQS..PLCGSDGHTYSQICRL-QEAARARPDAN...L..tVAHPGPC..
+#=GR Q96I82|PF07648|126-168   PP .........5566..888..9***************.66666888888...5..59999999..
+Q9H2Y9|PF07648|556-603           ......NVNCGCKIHEYE..PVCGSDGITYFNPC---LAGCVNSGNLSt.gI..rNYTECTC..
+#=GR Q9H2Y9|PF07648|556-603   PP ......79**********..**************...***********7.54..9*******..
+#=GC PP_cons                     ......688899999999..9*********************999999...5...******9..
+#=GC RF                          ......xxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx...x...xxxxxxx..
+//

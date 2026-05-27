@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P49914|PF01812|10-198         KRSLRGELKQRLRAMSAEERLRQSRVLSQKVIAHSEYQKS.KRI........SIFLSMQDEIETEEIIKDIFQRGKICFIPRYRFQSNHMDMVRIESPEEISLLPKTSWNIPQPGEGDVREEALSt.gGLDLIFMPGLGFDKHGNRLGRGKGYYDAYLKRCLQ.hQEVKPYTLALAFKEQICLQVP...VNENDMKVDEV
+#=GR P49914|PF01812|10-198 PP 899*************************************.***........*************************************************************************9.************************************.9*********************...***********
+Q2M296|PF01812|10-207         KQDIREQ---IWGYMESQNLADFPRPVHHRIPNFKGSYLAcQNIkdldvfarTQEVKVDPDKPLEGVRLLVLQSKKTLLVPTPRLRTGLFNKITPPPGATKDILR--KCATSQGVRNYSVPIGLDsrvLVDLVVVGSVAVSEKGWRIGKGEGYADLEYAMMVSmgAVSKETPVVTIVHDCQVVDIPeelVEEHDITVDYI
+#=GR Q2M296|PF01812|10-207 PP 8999999...9*************************999999*******988888999*****************************776666655555556665..68888********999999999********************************9999*********************444467********
+#=GC PP_cons                  899*************************************.***........999********************************888888888888888888**89999***********99...**********************************9..*********************...789********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx
+
+P49914|PF01812|10-198         LYE
+#=GR P49914|PF01812|10-198 PP 996
+Q2M296|PF01812|10-207         LTP
+#=GR Q2M296|PF01812|10-207 PP *97
+#=GC PP_cons                  *97
+#=GC RF                       xxx
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O95674|PF01148|71-400         v--RGILTLAMIAFFFIIIYLGPMVLMIIVMCVQIKCFHEIITIGYNVYHSYDLPWFrtLSWYFLLCVNYFFYGETVTDYFFTLVQREEPLRILSK---------YHRFISFTLYLIGFCMFVlslvkkhyrlqfymfgwthvtllivvtQSHLVIHNLFEGMIWFIVPISCVICNDIMAYMFGFFFGRT-PLIKLSPKK
+#=GR O95674|PF01148|71-400 PP 6..8999**************************************************************************************997.........9************************************************************************************.*********
+Q92903|PF01148|88-417         i--RGILTLTMISLFFLIIYMGSFMLMLLVLGIQVKCFHEIITIGYRVYHSYDLPWFrtLSWYFLLCVNYFFYGETVADYFATFVQREEQLQFLIR---------YHRFISFALYLAGFCMFVlslvkkhyrlqfymfawthvtllitvtQSHLVIQNLFEGMIWFLVPISSVICNDITAYLFGFFFGRT-PLIKLSPKK
+#=GR Q92903|PF01148|88-417 PP 6..8999**************************************************************************************998.........9************************************************************************************.*********
+#=GC PP_cons                  ...8999**************************************************..**********************************997.........9*****************...........................****************************************.*********
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95674|PF01148|71-400         TWEGFIGGFFATVVFGLLLSYVMSGYRcfvcpveynndtnsftvdcepsdlfrlqeynipgviqsvigwktvrmyPFQIHSIALSTFASLIGPFGGFFASGFKRAFKIKDFANTIPGHGGIMDRFDCQYLMATFVNVYIASF
+#=GR O95674|PF01148|71-400 PP *************************99***************************************************************************************************************9876
+Q92903|PF01148|88-417         TWEGFIGGFFSTVVFGFIAAYVLSKYQyfvcpveyrsdvnsfvtecepselfqlqtyslppflkavlrqervslyPFQIHSIALSTFASLIGPFGGFFASGFKRAFKIKDFANTIPGHGGIMDRFDCQYLMATFVHVYITSF
+#=GR Q92903|PF01148|88-417 PP **************************9***************************************************************************************************************9876
+#=GC PP_cons                  *************************99................................................***************************************************************9876
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxx................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

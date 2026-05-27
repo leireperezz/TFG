@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q9H019|PF05308|10-253         .IPIWQNKPHGAARSVVRRIGTNLPLKPCARASFETLPNISD--LCLRDVPPVPTLADIAWIAADEEETYARVRSDTRP-.LRHTWKPSPLIVMQRNASVPNLRGSEERLLALKKPALPALSRTTELQDELSHLRSQIAKIVAADAASAS..-------LTPDFLSPGSSNVSSPL--........-.-PCFGSSFHStt
+#=GR Q9H019|PF05308|10-253 PP .58***************************************..99*********************************..7******************************************************************99.........99*************88.............9***999999*
+Q15390|PF05308|23-251         v--LWSRKPYGSSRSIVRKIGTNLSLIQCPRVQFQINSHATEWSPSHPGEDAVASFADVGWVAKEEGECSARLRTEVRSRpPLQDDLLFFEKAPSRQISLPDLSQEEPQLKTPALANEEALQKICALENELAALRAQIAKIVTQQEQQNL..TA-------GDL----DSTTFGT---........I.PPHPPPPPPP..
+#=GR Q15390|PF05308|23-251 PP 6..8****************************************************************************999*******************************************************************..22.......221....1111111...........2.3444444444..
+Q6P444|PF05308|24-286         l--IWENKDYGSTRSIVRIIGKMLPLEPCRRPNFELIPLLNS-VDSDNCGSMVPSFADILYVANDEEASYLRFRNSIWKN.-EEEKVEIFHPLRLVRDPLSPAVRQKETVKNDLPVNEAAIRKIAALENELTFLRSQIAAIVEMQELKNStnSSSFGLSDERISLGQLSSSRAAHLSVdpdqlpgsVlSPPPPPPLPPqf
+#=GR Q6P444|PF05308|24-286 PP 6..8**************************************.************************************8..********************************************************************99999999****************9944568888863356666666669*
+#=GC PP_cons                  .588***************************************************************************9.8*******************************************************************9..559999*9*777****7777776944........2.4666666666..
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxx........x.xxxxxxxxxx..
+
+Q9H019|PF05308|10-253         sfvisditeeteVEVPELPSVPLLCSASPECCKPEHKAACSsSEEDDCVSLSKASSFADMMGILKDFHRMK--
+#=GR Q9H019|PF05308|10-253 PP **********9988899*****************99999998999************************98..
+Q15390|PF05308|23-251         ............--LPPPALGLHQSTSAVDLIKERREKRAN.AGKTLVKNNPKKPEMPNMLEILKEMNSVKLR
+#=GR Q15390|PF05308|23-251 PP ..............4457789****************9999.******************************9
+Q6P444|PF05308|24-286         ssl...qppcfpPVQPGSNNICDSDNPATEMSKQNPAANKT.-NYSHHSKSQRNKDIPNMLDVLKDMNKVKLR
+#=GR Q6P444|PF05308|24-286 PP ***...******999**************************..*****************************9
+#=GC PP_cons                  ............89788999*****************9999.9***************************9*9
+#=GC RF                       ............xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

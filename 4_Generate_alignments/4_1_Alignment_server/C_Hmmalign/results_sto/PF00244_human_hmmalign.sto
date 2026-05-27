@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+
+P27348|PF00244|9-229          KAKLAEQAERYDDMATCMKAVTEQGAELSNEERNLLSVAYKNVVGGRRSAWRVISSIEQKTDTS--DKKLQLIKDYREKVESELRSICTTVLELLDKYLIANA..TNPESKVFYLKMKGDYFRYLAEVACGDDRKQTIDNSQGAYQEAFDISKKEMQPTHPIRLGLALNFSVFYYEILNNPELACTLAKTAFDEAIAELD
+#=GR P27348|PF00244|9-229  PP 69**********************************************************9876..79********************************99*..***********************************************************************************************
+P31946|PF00244|11-231         KAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRSSWRVISSIEQKTERN--EKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNA..TQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYYEILNSPEKACSLAKTAFDEAIAELD
+#=GR P31946|PF00244|11-231 PP 69**********************************************************9887..79***********************************..***********************************************************************************************
+P31947|PF00244|9-231          KAKLAEQAERYEDMAAFMKGAVEKGEELSCEERNLLSVAYKNVVGGQRAAWRVLSSIEQKSNEEGSEEKGPEVREYREKVETELQGVCDTVLGLLDSHLIKEA..GDAESRVFYLKMKGDYYRYLAEVATGDDKKRIIDSARSAYQEAMDISKKEMPPTNPIRLGLALNFSVFHYEIANSPEEAISLAKTTFDEAMADLH
+#=GR P31947|PF00244|9-231  PP 69**************************************************************************************************99*..***********************************************************************************************
+P61981|PF00244|10-234         KARLAEQAERYDDMAAAMKNVTELNEPLSNEERNLLSVAYKNVVGARRSSWRVISSIEQKTSADGNEKKIEMVRAYREKIEKELEAVCQDVLSLLDNYLIKNCseTQYESKVFYLKMKGDYYRYLAEVATGEKRATVVESSEKAYSEAHEISKEHMQPTHPIRLGLALNYSVFYYEIQNAPEQACHLAKTAFDDAIAELD
+#=GR P61981|PF00244|10-234 PP 69**************************************************************************************************98766788********************************************************************************************
+P62258|PF00244|11-232         -AKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLKMIREYRQMVETELKLICCDILDVLDKHLIPAA..NTGESKVFYYKMKGDYHRYLAEFATGNDRKEAAENSLVAYKAASDIAMTELPPTHPIRLGLALNFSVFYYEILNSPDRACRLAKAAFDDAIAELD
+#=GR P62258|PF00244|11-232 PP .8***************************************************************************************************9*..***********************************************************************************************
+P63104|PF00244|9-229          KAKLAEQAERYDDMAACMKSVTEQGAELSNEERNLLSVAYKNVVGARRSSWRVVSSIEQKTEGA--EKKQQMAREYREKIETELRDICNDVLSLLEKFLIPNA..SQAESKVFYLKMKGDYYRYLAEVAAGDDKKGIVDQSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYYEILNSPEKACSLAKTAFDEAIAELD
+#=GR P63104|PF00244|9-229  PP 69**********************************************************9876..79***********************************..***********************************************************************************************
+Q04917|PF00244|11-234         -ARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLSLLDKFLIKNCndFQYESKVFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEISKEQMQPTHPIRLGLALNFSVFYYEIQNAPEQACLLAKQAFDDAIAELD
+#=GR Q04917|PF00244|11-234 PP .79*************************************************************************************************98844456********************************************************************************************
+#=GC PP_cons                  69***********************************************************998**99********************************999..999********************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P27348|PF00244|9-229          TLNEDSYKDSTLIMQLLRDNLTLWT
+#=GR P27348|PF00244|9-229  PP ************************8
+P31946|PF00244|11-231         TLNEESYKDSTLIMQLLRDNLTLWT
+#=GR P31946|PF00244|11-231 PP ************************8
+P31947|PF00244|9-231          TLSEDSYKDSTLIMQLLRDNLTLWT
+#=GR P31947|PF00244|9-231  PP ************************8
+P61981|PF00244|10-234         TLNEDSYKDSTLIMQLLRDNLTLWT
+#=GR P61981|PF00244|10-234 PP ************************8
+P62258|PF00244|11-232         TLSEESYKDSTLIMQLLRDNLTLWT
+#=GR P62258|PF00244|11-232 PP ************************8
+P63104|PF00244|9-229          TLSEESYKDSTLIMQLLRDNLTLWT
+#=GR P63104|PF00244|9-229  PP ************************8
+Q04917|PF00244|11-234         TLNEDSYKDSTLIMQLLRDNLTLWT
+#=GR Q04917|PF00244|11-234 PP ************************8
+#=GC PP_cons                  ************************8
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxx
+//

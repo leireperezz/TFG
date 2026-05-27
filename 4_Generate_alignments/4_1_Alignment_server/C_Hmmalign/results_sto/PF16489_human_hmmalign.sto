@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+O14514|PF16489|639-752           .....YRNIQMMTREHLakaqRGLPGEGVSEVIQTLVEISQDG.TSYSGDLLSTIDVLRNMTEIFRRA---................--YYSPTPGDVQNFVQILSNLLAEENRDKWEEAQLAG--..PNAKELFRLVEDFVDVI-.
+#=GR O14514|PF16489|639-752   PP .....5788999999988999**********************.************************.....................999********************************....*************9765..
+O60241|PF16489|598-705           ....s---LREHLAKGQ....RMLAGEGMSQVVRSLQELLARR.TYYSGDLLFSVDILRNVTDTFKRA---................--TYVPSADDVQRFFQVVSFMVDAENKEKWDDAQQVS--..PGSVHLLRVVEDFIHL--v
+#=GR O60241|PF16489|598-705   PP ....6...677788888....9*********************.************************.....................8999*******************************....*************987..6
+O60242|PF16489|573-685           rhlqh--SIKEHLAKGQ....RMLAGDGMSQVTKTLLDLTQRK.NFYAGDLLMSVEILRNVTDTFKRA---................--SYIPASDGVQNFFQIVSNLLDEENKEKWEDAQQIY--..PGSIELMQVIEDFIHI--v
+#=GR O60242|PF16489|573-685   PP 87664..3455555555....**********************.************************.....................6999*******************************....*************985..7
+O94910|PF16489|537-663           .....VNQVAQKIKSGE....------NAANIASELARHTRGS.-IYAGDVSSSVKLMEQLLDILDAQLQAlrpieresagknynkmHKRERTCKDYIKAVVETVDNLLRPEALESWKDMNATEQV..HTATMLLDVLEEGAFLLA.
+#=GR O94910|PF16489|537-663   PP .....578888999999..........****************..*****************************************977999**********************************..***************998.
+O95490|PF16489|526-652           .....VNQLAQKIRSGE....------NAASLANELAKHTKGP.-VFAGDVSSSVRLMEQLVDILDAQLQElkpsekdsagrsynklQKREKTCRAYLKAIVDTVDNLLRPEALESWKHMNSSEQA..HTATMLLDTLEEGAFVLA.
+#=GR O95490|PF16489|526-652   PP .....69999*******..........****************..******************************************8899***********************************..****************98.
+Q9HAR2|PF16489|555-668           .....VNHITQKLKSGE....------TAANIARELAEQTRNH.-LNAGDITYSVRAMDQLVGLLDVQLRNlt............pgG-KDSAARSLNKAMVETVNNLLQPQALNAWRDLTTSDQL..RAATMLLHTVEESAFVLA.
+#=GR Q9HAR2|PF16489|555-668   PP .....689999999999..........****************..****************************............*72.557789*******************************..****************98.
+Q9HBW9|PF16489|126-237           .....INKTLTKIRSIK....------EPVALLQEVYRNSVTD.-LSPTDIITYIEILAESSSLLGYKNNT...............iSAKDTLSNSTLTEFVKTVNNFVQRDTFVVWDKLSVNHRR..THLTKLMHTVEQATLRIS.
+#=GR Q9HBW9|PF16489|126-237   PP .....699*********..........****************..**************************...............87788999********************************..**************9885.
+Q9HCU4|PF16489|2031-2149         selkg------FAERLQr.neSGLDSGRSQQLALLLRNATQHTaGYFGSDVKVAYQLATRLLAHESTQRGF................GLSATQDVHFTENLLRVGSALLDTANKRHWELIQQTE--..GGTAWLLQHYEAYASALA.
+#=GR Q9HCU4|PF16489|2031-2149 PP 87655......4455555.55999***********************************************................*************************************....***************998.
+Q9NYQ6|PF16489|2111-2228         ...dl----RAMNEKLSr.neTQVDGARALQLVRALRSATQHTgTLFGNDVRTAYQLLGHVLQHESWQQGF................DLAATQDADFHEDVIHSGSALLAPATRAAWEQIQRSE--..GGTAQLLRRLEGYFSNVA.
+#=GR Q9NYQ6|PF16489|2111-2228 PP ...85....455555555.55**************************************************................*************************************....**************9987.
+Q9NYQ7|PF16489|2184-2306         ..rel----SLLLDGLEl.nkTALDTMEAKKLAQRLREVTGHTdHYFSQDVRVTARLLAHLLAFESHQQGF................GLTATQDAHFNENLLWAGSALLAPETGDLWAALGQRAPGgsPGSAGLVRHLEEYAATLA.
+#=GR Q9NYQ7|PF16489|2184-2306 PP ..865....555666667.7899************************************************................***********************************98445588999***********98.
+#=GC PP_cons                     .....688877777787....9*********************.***************************................898999*******************************99..**************9887.
+#=GC RF                          .....xxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxx.
+//

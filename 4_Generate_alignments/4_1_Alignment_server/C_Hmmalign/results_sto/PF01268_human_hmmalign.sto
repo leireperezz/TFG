@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+P11586|PF01268|318-935         -SDIDISRSCKPKPIGKLAREIGLLSEEVELYGETKAKVLLSALERL-KHRPDGKYVVVTGITPTPLGEGKSTTTIGLVQALGaHLYQNVFACVRQPSQGPTFGIKGGAAGGGYSQVIPMEEFNLHLTGDIHAITAANNLVAAAIDARIFHELTqtdkalfnrlvpsvngvrrfsdiqirrlkrlgiektdpttltdeei
+#=GR P11586|PF01268|318-935 PP .79*****************************************876.9*********************************99********************************************************************999*********************************************
+Q6UB35|PF01268|361-978         -SDIEISRGQTPKAVDVLAKEIGLLADEIEIYGKSKAKVRLSVLERL-KDQADGKYVLVAGITPTPLGEGKSTVTIGLVQALTaHLNVNSFACLRQPSQGPTFGVKGGAAGGGYAQVIPMEEFNLHLTGDIHAITAANNLLAAAIDTRILHENTqtdkalynrlvplvngvrefseiqlarlkklginktdpstlteeev
+#=GR Q6UB35|PF01268|361-978 PP .79*****************************************876.9*********************************99********************************************************************************************************************
+#=GC PP_cons                   .79*****************************************876.9*********************************9.*********************************************************************9..............................................
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............................................
+
+P11586|PF01268|318-935         nrfarLDIDPETITWQRVLDTNDRFLRKITIGQAPTEKGHTRTAQFDISVASEIMAVLALTTSLEDMRERLGKMVVASSKKGEPVSAEDLGVSGALTVLMKDAIKPNLMQTLEGTPVFVHAGPFANIAHGNSSIIADRIALKLvgpEGFVVTEAGFGADIGMEKFFNIKCRYSGLCPHVVVLVATVRALKMHGGgp....
+#=GR P11586|PF01268|318-935 PP ***********************************************************************************************************************************************9999***********************************************88....
+Q6UB35|PF01268|361-978         skfarLDIDPSTITWQRVLDTNDRFLRKITIGQGNTEKGHYRQAQFDIAVASEIMAVLALTDSLADMKARLGRMVVASDKSGQPVTADDLGVTGALTVLMKDAIKPNLMQTLEGTPVFVHAGPFANIAHGNSSVLADKIALKLvgeEGFVVTEAGFGADIGMEKFFNIKCRASGLVPNVVVLVATVRALKMHGGgpsvta
+#=GR Q6UB35|PF01268|361-978 PP ***********************************************************************************************************************************************99999**********************************************999887
+#=GC PP_cons                   .....******************************************************************************************************************************************...9***********************************************......
+#=GC RF                        .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+P11586|PF01268|318-935         tvT-AglplpKAYIQENLELVEKGFSNLKKQIENARMFGIPVVVAVNAFKTDTESELDLISRLSREHGAFDAVKCTHWAEGGKGALALAQAVQRAAQ-APSSFQLLYDLKLPVEDKIRIIAQKIYGADDIELLPEAQHKAEVYTKQGFGNLPICMAKTHLSLSHNPEQKGVPTGFILPIRDIRASVGAGFLYPLVGTMST
+#=GR P11586|PF01268|318-935 PP 751.245677***************************************************************************************.66****************************************************************************************************
+Q6UB35|PF01268|361-978         gvPLK.....KEYTEENIQLVADGCCNLQKQIQITQLFGVPVVVALNVFKTDTRAEIDLVCELAKRAGAFDAVPCYHWSVGGKGSVDLARAVREAAS-KRSRFQFLYDVQVPIVDKIRTIAQAVYGAKDIELSPEAQAKIDRYTQQGFGNLPICMAKTHLSLSHQPDKKGVPRDFILPISDVRASIGAGFIYPLVGTMST
+#=GR Q6UB35|PF01268|361-978 PP 76556.....***************************************************************************************.66****************************************************************************************************
+#=GC PP_cons                   ..354.....***************************************************************************************.66****************************************************************************************************
+#=GC RF                        ..xxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P11586|PF01268|318-935         MPGLPTRPCFYDIDLDPEtEQVNGLF
+#=GR P11586|PF01268|318-935 PP ****************9999****98
+Q6UB35|PF01268|361-978         MPGLPTRPCFYDIDLDTEtEQVKGLF
+#=GR Q6UB35|PF01268|361-978 PP *****************999****98
+#=GC PP_cons                   ****************99.9****98
+#=GC RF                        xxxxxxxxxxxxxxxxxx.xxxxxxx
+//

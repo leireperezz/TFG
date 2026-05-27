@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O75170|PF04499|129-531         g--NLIARKTEQVITFLKKKDKFISLVLKHIGTSALMDLLLRLVSCVEPaGLRQDVLHWLNEEKVIQRLVELIHPSQDEDRQSNASQTLCDIVRLGRDQGSQLQEALEPDPLLTALESQDCVEQLLKNMFDGdRTESCLVSGTQVLLTLLETRRVGTEGLVDSFSQG......LERSYAVSSS.-----.VLHGIEPRLK
+#=GR O75170|PF04499|129-531 PP 6..8*********************************************99*********************************************************************************99**************************9998888......8888888888.......**********
+Q5H9R7|PF04499|129-512         s--ILISRKPEQIVDFLKKKHDFVDLIIKHIGTSAIMDLLLRLLTCIEPpQPRQDVLNWLNEEKIIQRLVEIVHPSQEEDRHSNASQSLCEIVRLSRDQMLQIQNSTEPDPLLATLEKQEIIEQLLSNIFHKeKNESAIVSAIQILLTLLETRRPTFEGHI------......EICPPGMSHSaCSVNKsVLEAIRGRLG
+#=GR Q5H9R7|PF04499|129-512 PP 7..69********************************************9********************************************************************************9989***********************9997............79999999987999999**********
+Q9UPN7|PF04499|128-518         .MGILINRKTDQLVSFLRKKDDFVDLLLQHIGTSAIMDLLLRLLTCVERpQLRQDVVNWLNEEKIVQRLIEQIHPSKDENQHSNASQSLCDIIRLSREQMIQVQDSPEPDQLLATLEKQETIEQLLSNMFEGeQSQSVIVSGIQVLLTLLEPRRPRSESVTVNSFFSsvdgqlELLAQGALES.TVSSVgALHALRPRLS
+#=GR Q9UPN7|PF04499|128-518 PP .678******************************************9999**********************************************************************************999***************************998778888886666777776.555556**********
+#=GC PP_cons                   .6789*******************************************9.********************************************************************************99.9*************************99999888......7888888887.77777.**********
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxx.xxxxx.xxxxxxxxxx
+
+O75170|PF04499|129-531         DFHQLLLNPPKKKAILTTIGVLEEPLGNARLHGARLMAALLHTNTPSINQE------------------------------------------------LCRLNTMDLLLDLFFKYTWNNFLHFQVELCIAAILshaareerteasgsesrvepphengnrsL---Etpq.....paaSLPDNTMVTHLFQKCCLVQRIL
+#=GR O75170|PF04499|129-531 PP ***************************************************................................................***********************************99999999999999888888888775550...2555.....55477799*****************
+Q5H9R7|PF04499|129-512         SFHELLLEPPKKSVMKTTWGVLDPPVGNTRLNVIRLISSLLQTNTSSINGD------------------------------------------------LMELNSIGVILNMFFKYTWNNFLHTQVEICIALIL............................ASPFEntenatitdqdSTGDNLLLKHLFQKCQLIERIL
+#=GR Q5H9R7|PF04499|129-512 PP ***************************************************................................................***********************************............................9999999999999998888999****************
+Q9UPN7|PF04499|128-518         CFHQLLLEPPKLEPLQMTWGMLAPPLGNTRLHVVKLLASALSANDAALTHE------------------------------------------------LLALDVPNTMLDLFFHYVFNNFLHAQVEGCVSTMLslg......................pppDSSPE...........TPIQNPVVKHLLQQCRLVERIL
+#=GR Q9UPN7|PF04499|128-518 PP ***************************************************................................................***********************************888......................88877777...........9*********************
+#=GC PP_cons                   ***************************************************................................................***********************************............................68886...........88899*****************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................xxxxx...........xxxxxxxxxxxxxxxxxxxxxx
+
+O75170|PF04499|129-531         EAWEANDHTQAAGGMRRGNMGHLTRIANAVVQNLERGPVQTHISEVIRGLpadCRGRWESFVEETLTETNRRN--t
+#=GR O75170|PF04499|129-531 PP **********************************************************************998..5
+Q5H9R7|PF04499|129-512         EAWEMNEKKQAEGGRRHGYMGHLTRIANCIVHSTDKGPNSALVQQLIKDLpdeVRERWETFCTSSLGETNKRN--t
+#=GR Q5H9R7|PF04499|129-512 PP ***************************************************999*****************98..5
+Q9UPN7|PF04499|128-518         TSWEENDRVQCAGGPRKGYMGHLTRVAGALVQNTEKGPNAEQLRQLLKELpseQQEQWEAFVSGPLAETNKKN--m
+#=GR Q9UPN7|PF04499|128-518 PP ***********************************************************************98..6
+#=GC PP_cons                   **************************************************...9*****************98...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5T6F0|PF23760|75-453         LPSLLKEREFHLGTLNKVFASQWLNHRQVVCGTKCNTLFVVDVQTSQITKIPILKDREPGGV-TQQGCGIHAIELNPSRTLLATGGDNPNSLAIYRLPTLDPVCVGD-DGHKDWIFSIAWISDTMAVSGSRDGSMGLWEVTDDVLTKSDARHNVSRVPVYAHITHKALKDIPKEDTNPDNCKVRALAFNNKNKELGAVSL
+#=GR Q5T6F0|PF23760|75-453 PP 8*********************************************************9865.689*****************************************.6*******************************************************************************************
+Q5VU92|PF23760|83-463         LPELLTERQLELGTVNKVFASQWLNSRQVVCGTKCNTLFVVDVESGHIARIPLLRDSEARLAQDQQGCGIHAIELNPSKTLLATGGENPNSLAIYQLPSLDPLCLGDRHGHKDWIFAVAWLSDTVAVSGSRDGTVALWRMDPDKFDDTVAWHSEVGLPVYAHIRPRDVEAIPRAIINPSNRKVRALACGGKNQELGAVSL
+#=GR Q5VU92|PF23760|83-463 PP 8*******************************************************************************************************************************************************************************************************
+Q5VW00|PF23760|83-463         LPELLTERQLDLGTLNKVFASQWLNARQVVCGTKCNTLFVVDVQSGHITRIPLMRDKEAGLAQAHQGCGIHAIELNPSKTLLATGGENPNSLAIYQLPTLDPLCLGDRHGHKDWIFAVAWLSDTVAVSGSRDGTVALWRMDPDMFNGSIAWHSEVGLPVYAHIRPRDVEAIPRASTNPSNRKVRALAFSGKNQELGAVSL
+#=GR Q5VW00|PF23760|83-463 PP 8*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                  8**********************************************************998*99*******************************************9*******************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5T6F0|PF23760|75-453         DGYFHLWKAENTLSKLLSTKLPYCRENVCLAYGSEWSVYAVGSQAHVSFLDPRQPSYNVKSVCSRERGSGIRSVSFYEHIITVGTGQGSLLFYDIRAQRFLEERLSACYGSKPRLAGENLKLTTGKGWLNHDETWRNYFSDIDFFPNAVYTHCYDSSGTKLFVAGGPLPSGLHGNYAGLWS
+#=GR Q5T6F0|PF23760|75-453 PP ************************************************************************************************************************************************************************************8
+Q5VU92|PF23760|83-463         DGYFHLWKAGSALSRLLSIRLPYFRDNVCLTYCDDMSVYAVGSHSHVSFLDLRQDQQNIRPLCSREGGTGVRSLSFYRHIITVGTGQGSLLFYDVRAQKFLEERASATLESSSGPARRKLRLACGRGWLNHNDFWVNYFGGMEVFPNALYTHCYNWPEMKLFVAGGPLPAGLHGNYAGLWS
+#=GR Q5VU92|PF23760|83-463 PP ************************************************************************************************************************************************************************************8
+Q5VW00|PF23760|83-463         DGYFHLWKARSTLSRLLSIRLPYCRENVCLTYCDELSLYAVGSQSHVSFLDPRQRQQNIRPLCSREGGTGVRSLSFYQHIITVGTGHGSLLFYDIRAQKFLEERASSSLDSMPGPAGRKLKLACGRGWLNQDDVWVNYFGGMGEFPNALYTHCYNWPEMKLFVAGGPLPSGLHGNYAGLWS
+#=GR Q5VW00|PF23760|83-463 PP ************************************************************************************************************************************************************************************8
+#=GC PP_cons                  ************************************************************************************************************************************************************************************8
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

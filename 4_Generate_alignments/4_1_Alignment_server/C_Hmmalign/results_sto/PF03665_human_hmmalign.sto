@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O43402|PF03665|4-202         -VKLTTQAYCKMVLHGAKYPHCAVNGLLVAEKQKPRKehlplggpgahhTLFVDCIPLFHGTLALAPMLEVALTLIDSWCKDHSYVIAGYYQANERVKDASPNQVAEKVASRIAEGFSDTALIMVDNTKFTMDCVA-PTIHVYEHHENRWRCRDPHHDYCED---WPEAQRISASLLDSRSYETLVDFDNHLDDIRNDWT
+#=GR O43402|PF03665|4-202 PP .5789****************************99999**********************************************************************************************9999.666***********87766666654...88*********************************
+Q9Y3B6|PF03665|3-191         EVEISALAYVKMCLHAARYPHAAVNGLFLAPAPRSGE...........cLCLTDCVPLFHSHLALSVMLEVALNQVDVWGAQAGLVVAGYYHANAAVNDQSPGPLALKIAGRIAEFFPDAVLIMLDNQKLVPQPRVPPV-IVLENQGLRWVPKDKNLVMWRD---WEESRQMVGALLEDRAHQHLVDFDCHLDDIRQDWT
+#=GR Q9Y3B6|PF03665|3-191 PP 689*****************************99999...........899*******************************************************************************888888666.99**********9999999886...67*********************************
+#=GC PP_cons                 67899***************************99999............9********************************************************************************99999966669**********98888887765...78*********************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43402|PF03665|4-202         NPEI
+#=GR O43402|PF03665|4-202 PP *985
+Q9Y3B6|PF03665|3-191         NQRL
+#=GR Q9Y3B6|PF03665|3-191 PP *975
+#=GC PP_cons                 *975
+#=GC RF                      xxxx
+//

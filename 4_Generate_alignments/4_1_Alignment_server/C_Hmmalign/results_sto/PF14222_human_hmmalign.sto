@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O94915|PF14222|117-649         ERRDLAVDFIFCLVLVEVLKQIPVHPVPDPLVHEVLNLAFKHFKHKEGYSGTNTGNVHIIADLYAEVIGVLAQSKFQAVRKKFVTELKELRQKEQSPHVVQSVISLIMGMKFFRVKMYPVEDFEASFQFMQECAQYFLEVKDKDIKHALAGLFVEILIPVAAAVKNEVNVPCLKNFVEMLYQTTFELSSRKKHSLALYPL
+#=GR O94915|PF14222|117-649 PP 8*******************************************************************************************************************************************************************************************************
+Q5TBA9|PF14222|165-697         ERRDLAIDFIFSLVLIEVLKQIPLHPVIDSLIHDVINLAFKHFKYKEGYLGPNTGNMHIVADLYAEVIGVLAQAKFPAVKKKFMAELKELRHKEQNPYVVQSIISLIMGMKFFRIKMYPVEDFEASLQFMQECAHYFLEVKDKDIKHALAGLFVEILVPVAAAVKNEVNVPCLRNFVESLYDTTLELSSRKKHSLALYPL
+#=GR Q5TBA9|PF14222|165-697 PP 8*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                   8*******************************************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O94915|PF14222|117-649         ITCLLCVSQKQFFLNNWHIFLQNCLSHLKNKdpKMSRVALESLYRLLWVYVIRIKcESNTVTQSRLMSIVSALFPKGSRSVVPRDTPL-NIFVKIIQFIAQERLDFAMKEIIFDLLSVGKS---TKTFTINPERMNIGLRVFLVIADSLQQKDGEPPMPTTGVILPS--GNTLRVKKIFLNKTlTDEEAKVIGMSVYYPQ
+#=GR O94915|PF14222|117-649 PP ****************************************************************************************.*****************************877...78889********************************998888..4799*********99999*************
+Q5TBA9|PF14222|165-697         VTCLLCVSQKQLFLNRWHIFLNNCLSNLKNKdpKMARVALESLYRLLWVYMIRIKcESNTATQSRLITIITTLFPKGSRGVVPRDMPL-NIFVKIIQFIAQERLDFAMKEIIFDFLCVGKP---AKAFSLNPERMNIGLRAFLVIADSLQQKDGEPPMPVTGAVLPS--GNTLRVKKTYLSKTlTEEEAKMIGMSLYYSQ
+#=GR Q5TBA9|PF14222|165-697 PP ****************************************************************************************.*****************************999...79999**********************************8888..479**********999***************
+#=GC PP_cons                   *******************************..**********************.********************************.*****************************988...78899**********************************8888..479**********9.99**************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+O94915|PF14222|117-649         VRKALDSILRHLDKEVGRPMCM-------------TSVQMSNKEPED---MITGERKPKIDLFRTCIAAIPRLIPDGMSRTDLIELLARLTIHMDEELRALAFNTLQALMLdfPDWREDVLSGFVYFIV---------REVTDVHPTLLDNAVKMLVQLINQWK
+#=GR O94915|PF14222|117-649 PP **********************.............667888899999...9******************************************************************************.........799**********************5
+Q5TBA9|PF14222|165-697         VRKAVDNILRHLDKEVGRCMML-------------TNVQMLNKEPED---MITGERKPKIDLFRTCVAAIPRLLPDGMSKLELIDLLARLSIHMDDELRHIAQNSLQGLLVdfSDWREDVLFGFTNFLL---------REVNDMHHTLLDSSLKLLLQLLTQWK
+#=GR Q5TBA9|PF14222|165-697 PP **********************.............899*********...9**********************************************************999*****************.........7999*********************5
+#=GC PP_cons                   **********************.............788999999999...9***********************************************************9..****************.........7999*********************5
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

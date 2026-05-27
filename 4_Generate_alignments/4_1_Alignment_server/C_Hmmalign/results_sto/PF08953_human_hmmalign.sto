@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+P31146|PF08953|5-69            .-VVRSSKFRHVFGQPAKADQCYEDVRVSQT..TWDSGFCAVNPKFVALICEASGGGAFLVLPLGKTGR
+#=GR P31146|PF08953|5-69    PP ..59***************************..***********************************8
+P57737|PF08953|3-64            r--FRVSKFRHTEARPPRRESWISDIRAGTA..PSCRNHIKSSCSLIAFNSDRP--GVLGIVPLQGQG-
+#=GR P57737|PF08953|3-64    PP 5..8***************************..*********************..7******98765.
+P57737|PF08953|470-532         .----SSKFRHAQGTVLHRDSHITNLKGLNLttPGESDGFCANKLRVAVPLLSSG-GQVAVLELRKPGR
+#=GR P57737|PF08953|470-532 PP .....7*********************98876799*******************8.**********998
+Q9BR76|PF08953|5-70            .KVVRQSKFRHVFGQPVKNDQCYEDIRVSRV..TWDSTFCAVNPKFLAVIVEASGGGAFLVLPLSKTGR
+#=GR Q9BR76|PF08953|5-70    PP .68****************************..***********************************8
+Q9ULV4|PF08953|3-68            .RVVRQSKFRHVFGQAVKNDQCYDDIRVSRV..TWDSSFCAVNPRFVAIIIEASGGGAFLVLPLHKTGR
+#=GR Q9ULV4|PF08953|3-68    PP .68****************************..***********************************8
+Q9UQ03|PF08953|12-75           y---RSSKFRNVYGKVANREHCFDGIPITKN..VHDNHFCAVNTRFLAIVTESAGGGSFLVIPLEQTGR
+#=GR Q9UQ03|PF08953|12-75   PP 5...9**************************..***********************************8
+Q6QEF8|PF08953|4-69            .RVVRQSKFRHVFGQAAKADQAYEDIRVSKV..TWDSSFCAVNPKFLAIIVEAGGGGAFIVLPLAKTGR
+#=GR Q6QEF8|PF08953|4-69    PP .68****************************..***********************************8
+Q92828|PF08953|7-70            y---RSSKFRHVFGKPASKENCYDSVPITRS..VHDNHFCAVNPHFIAVVTECAGGGAFLVIPLHQTGK
+#=GR Q92828|PF08953|7-70    PP 5...9**************************..***********************************8
+#=GC PP_cons                   .679*9*************************..********************************9998
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+Q13206|PF13959|461-510         .DQDLKERAQRCFVSYVR--SVYLMKDKEVFDVSKLPIPEYALSLGLAVAPRV
+#=GR Q13206|PF13959|461-510 PP .799**************..*******************************97
+Q8NHQ9|PF13959|414-463         .DRAVFEKGMKAFVSYVQAYAKHECNL--IFRLKDLDFASLARGFALLRMPKM
+#=GR Q8NHQ9|PF13959|414-463 PP .899***********************..***********************9
+Q9H8H2|PF13959|709-754         s------WAKKALQSFIQAYATYPRELKHIFHVRSLHLGHVAKSFGLRDAPR-
+#=GR Q9H8H2|PF13959|709-754 PP 7......79******************************************8.
+Q9NVP1|PF13959|572-619         .NYFLHKSAQEAYKSYIRAYDSHSLKQ--IFNVNNLNLPQVALSFGFKVPP--
+#=GR Q9NVP1|PF13959|572-619 PP .789***********************..********************99..
+#=GC PP_cons                   .799***9*******************************************98
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O00712|PF03165|70-171          .-QKWASRLLAKLRKDIrqEYREDFVLTVT---GKKHPCCVLS..............................--------N...........PDQKGKIRRIDClrqadKVWRL-DLVMVILFKGIPLESTDgERLMKSPhctnpaLCVQPHHIT---v.
+#=GR O00712|PF03165|70-171  PP ..699**********987688999999999...4567899999......................................6...........89********************.*****************55555554789999*******85...7.
+O15105|PF03165|93-202          k--ALTHSVLKKLKER-..-QLELLLQAVESRGGTRTACLLLP..............................GRLDCRLGPgapagaqpaqpPSSYSLP-LLLC.....KVFRWPDLRHSSEVKRLCCCESY.GKINPEL......VCCNPHHLSRLC..
+#=GR O15105|PF03165|93-202  PP 6..5789*********....5**********************..............................********9999998888777777788.99**.....***********************.*******......*********987..
+O15198|PF03165|35-135          .-EKAVDSLVKKLKKKK..GAMDELERALSCP-GQPSKCVTIP..............................RSLDGRLQV...........SHRKGLPHVIYC.....RVWRWPDLQSHHELKPLECCEFP.FGSKQKE......VCINPYHYRRVE..
+#=GR O15198|PF03165|35-135  PP ..689************..***********99.6788******..............................*********...........************.....***********************.*******......**********95..
+O43541|PF03165|173-270         k--TVTYSLLKRLKERS..--LDTLLEAVESRGGVPGGCVLVP..............................R-ADLRLG-...........-GQPAPPQLLLG.....RLFRWPDLQHAVELKPLCGCHSFaAAADGPT......VCCNPYHFSRLC..
+#=GR O43541|PF03165|173-270 PP 6..56899********6....**********************..............................7.599999.............9**********.....*********************9978899999......**********97..
+P08651|PF03165|70-170          .-QKWASRLLAKLRKDIrpECREDFVLSIT--GKKAPGCVLS-..............................--------N...........PDQKGKMRRIDClrqadKVWRL-DLVMVILFKGIPLESTDgERLVKAAqcghpvLCVQPHHI----g.
+#=GR P08651|PF03165|70-170  PP ..699***********9999**********..778889*954.......................................4...........899*******************.*****************66666655899999*******7....7.
+P84022|PF03165|31-131          .CEKAVKSLVKKLKKT-..GQLDELEKAITTQ-NVNTKCITIP..............................RSLDGRLQV...........SHRKGLPHVIYC.....RLWRWPDLHSHHELRAMELCEFA.FNMKKDE......VCVNPYHYQRVE..
+#=GR P84022|PF03165|31-131  PP .589************...7**********77.99********..............................*********...........************.....***********************.*******......**********96..
+Q12857|PF03165|69-170          .-QKWASRLLAKLRKDIrpEYREDFVLTVT--GKKP-PCCVLS..............................--------N...........PDQKGKMRRIDClrqadKVWRL-DLVMVILFKGIPLESTDgERLVKSPqcsnpgLCVQPHHI----gv
+#=GR Q12857|PF03165|69-170  PP ..699***********99999*********..5566.788888......................................6...........89********************.*****************66665555799999*******8....68
+Q13485|PF03165|37-137          .-KRAIESLVKKLKEKK..DELDSLITAITTNGAHPSKCVTIQ..............................RTLDGRLQV...........AGRKGFPHVIYA.....RLWRWPDLH-KNELKHVKYCQYA.FDLKCDS......VCVNPYHYERVV..
+#=GR Q13485|PF03165|37-137  PP ..5799***********..************************..............................*********...........************.....********5.8************.*******......**********96..
+Q14938|PF03165|69-169          .-QKWASRLLAKLRKDIrpEFREDFVLTIT--GKKP-PCCVLS..............................--------N...........PDQKGKIRRIDClrqadKVWRL-DLVMVILFKGIPLESTDgERLYKSPqcsnpgLCVQPHHI----g.
+#=GR Q14938|PF03165|69-169  PP ..699***********9888999*****99..5566.788888......................................5...........89********************.*****************55555544789999*******7....7.
+Q15796|PF03165|41-171          .CEKAVKSLVKKLKKT-..GRLDELEKAITTQ-NCNTKCVTIPstcseiwglstpntidqwdttglysfseqtRSLDGRLQV...........SHRKGLPHVIYC.....RLWRWPDLHSHHELKAIENCEYA.FNLKKDE......VCVNPYHYQRVE..
+#=GR Q15796|PF03165|41-171  PP .589************...7**********77.9************************************************...........************.....***********************.*******......**********95..
+Q15797|PF03165|31-131          .-EKAVDALVKKLKKKK..GAMEELEKALSCP-GQPSNCVTIP..............................RSLDGRLQV...........SHRKGLPHVIYC.....RVWRWPDLQSHHELKPLECCEFP.FGSKQKE......VCINPYHYKRVE..
+#=GR Q15797|PF03165|31-131  PP ..689************..***********99.6778******..............................*********...........************.....***********************.*******......**********96..
+Q99717|PF03165|32-132          .-EKAVDALVKKLKKKK..GAMEELEKALSSP-GQPSKCVTIP..............................RSLDGRLQV...........SHRKGLPHVIYC.....RVWRWPDLQSHHELKPLDICEFP.FGSKQKE......VCINPYHYKRVE..
+#=GR Q99717|PF03165|32-132  PP ..689************..***********87.7788******..............................*********...........************.....***********************.*******......**********96..
+#=GC PP_cons                   .56899**********9..99*********99878899**99*..............................**9*****8...........99**********.....***********************.8888888......*******99*96..
+#=GC RF                        .xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx..............................xxxxxxxxx...........xxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx......xxxxxxxxxxxx..
+//

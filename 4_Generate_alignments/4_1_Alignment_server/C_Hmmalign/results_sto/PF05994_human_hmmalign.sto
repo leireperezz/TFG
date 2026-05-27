@@ -1,0 +1,47 @@
+# STOCKHOLM 1.0
+
+Q7L576|PF05994|342-1225         .-QYNICEQMIQIREDHMRFISELARYSNsEVVTGSgrQEAQKTDAEYRKLFDLALQGLQLLSQWSAHVMEVYSWKLVHPTDKYSNKDCPDSAEEYERATRYNYTSEEKFALVEVIAMIKGLQVLMGRMESVFNHAIRHTVYAALQDFSQVTLREPLRQAIKKKKNVIQSVLQAIRKTVCDWETGHEPFNDPALRGEKDP
+#=GR Q7L576|PF05994|342-1225 PP ..79*************************8999888999*****************************************************************************************************************************************************************
+Q96F07|PF05994|342-557          .-QYNICEQMVQIRDDHIRFISELARYSNsEVVTGS.gLDSQKSDEEYRELFDLALRGLQLLSKWSAHVMEVYSWKLVHPTDKFCNKDCPGTAEEYERATRYNYTSEEKFAFVEVIAMIKGLQVLMGRMESVFNQAIRNTIYAALQDFAQVTLREPLRQAVRKKKNVLISVLQAIRKTICDWEGGREPPNDPCLRGEKDP
+#=GR Q96F07|PF05994|342-557  PP ..79*************************8999888.9******************************************************************************************************************************************************************
+Q96F07|PF05994|582-1249         l----------------------------.------..------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR Q96F07|PF05994|582-1249 PP 6.......................................................................................................................................................................................................
+#=GC PP_cons                    ..79*************************.999888..******************************************************************************************************************************************************************
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q7L576|PF05994|342-1225         KSGFdIKVPRRAVGPSSTQLYMVRTMLESLIADKSG-SKKTLRSSLEGPTILDIEKFHRESFFYTHLINFSETLQQCCDLSQLWFREFFLELTmgRRIQFPIEMSMPWILTDHILETKEASMMEYVLYSLDLYNDSAHYALTRFNKQFLYDEIEAEVNLCFDQFVYKLADQIFAYYKVMAGSLLLDKRLRSECKNQGATI
+#=GR Q7L576|PF05994|342-1225 PP **********************************99.9****************************************************************************************************************************************************************99
+Q96F07|PF05994|342-557          KGGFdIKVPRRAVGPSSTQ--------------------------------------------------------------------------..---------------------------------------------------------------------------------------------------------
+#=GR Q96F07|PF05994|342-557  PP *****************98.....................................................................................................................................................................................
+Q96F07|PF05994|582-1249         ----.--------------LYMVRTMLESLIADKSG-SKKTLRSSLDGPIVLAIEDFHKQSFFFTHLLNISEALQQCCDLSQLWFREFFLELTmgRRIQFPIEMSMPWILTDHILETKEPSMMEYVLYPLDLYNDSAYYALTKFKKQFLYDEIEAEVNLCFDQFVYKLADQIFAYYKAMAGSVLLDKRFRAECKNYGVII
+#=GR Q96F07|PF05994|582-1249 PP ...................9**************99.9****************************************************************************************************************************************************************99
+#=GC PP_cons                    ****.*************99**************99.9*******************************************************..*******************************************************************************************************99
+#=GC RF                         xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q7L576|PF05994|342-1225         H-LPPSNRYETLLKQRHVQLLGRSIDLNRLITQRVSAAMYKSLELAIGRFESEDLTSIVELDGLLEINRMTHKLLSRYLTLDGFDAMFREANHNVS--APYGRITLHVFWELNYDFLPNYCYNGSTNRFVRTVLPFSQEFQRDKQPNAQPQYLHGSKALNLAYSSIYGSYRNFVGPPHFQVICRLLGYQGIAVVMEELLK
+#=GR Q7L576|PF05994|342-1225 PP 9.9*********************************************************************************************..******************************************************************************************************
+Q96F07|PF05994|342-557          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR Q96F07|PF05994|342-557  PP ........................................................................................................................................................................................................
+Q96F07|PF05994|582-1249         P-YPPSNRYETLLKQRHVQLLGRSIDLNRLITQRISAAMYKSLDQAISRFESEDLTSIVELEWLLEINRLTHRLLCKHMTLDSFDAMFREANHNVS--APYGRITLHVFWELNFDFLPNYCYNGSTNRFVRTAIPFTQEPQRDKPANVQPYYLYGSKPLNIAYSHIYSSYRNFVGPPHFKTICRLLGYQGIAVVMEELLK
+#=GR Q96F07|PF05994|582-1249 PP 9.**********************************************************************************************..******************************************************************************************************
+#=GC PP_cons                    9.9*********************************************************************************************..******************************************************************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q7L576|PF05994|342-1225         VVKSLLQGTILQYVKTLMEVMPKICRLPRHEYGSPGILEFFHHQLKDIVEYAELKTVCFQNLREVGNAILFCLLIEQSLSLEEVCDLLHAAPFQNILPRVHvKEGERLDAKMKRLESKYAPLH-LVPLIERLG-TPQQIAIAREGDLLTKERLCC--GLSMFEVILTRIRSFLDDPIWRGPLPSNGVMHVDECVEFHRLW
+#=GR Q7L576|PF05994|342-1225 PP ****************************************************************************************************9**********************.*********.*********************..*******************************************
+Q96F07|PF05994|342-557          -----------------------------------------------------------------------------------------------------.--------------------------------------------------------------------------------------------------
+#=GR Q96F07|PF05994|342-557  PP ........................................................................................................................................................................................................
+Q96F07|PF05994|582-1249         IVKSLLQGTILQYVKTLIEVMPKICRLPRHEYGSPGILEFFHHQLKDIIEYAELKTDVFQSLREVGNAILFCLLIEQALSQEEVCDLLHAAPFQNILPRVYiKEGERLEVRMKRLEAKYAPLH-LVPLIERLG-TPQQIAIAREGDLLTKERLCC--GLSMFEVILTRIRSYLQDPIWRGPPPTNGVMHVDECVEFHRLW
+#=GR Q96F07|PF05994|582-1249 PP ***************************************************************************************************************************.*********.*********************..*******************************************
+#=GC PP_cons                    *****************************************************************************************************.*********************.*********.*********************..*******************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q7L576|PF05994|342-1225         SAMQFVYCIPVGTHEFTVEQCFGDGLHWAGCMIIVLLGQQRRFAVLDFCYHLLKVQKHDGKDEIIKNVPLKKMVERIRKFQILNDEIITILDKY
+#=GR Q7L576|PF05994|342-1225 PP *******************************************************************************************997
+Q96F07|PF05994|342-557          ----------------------------------------------------------------------------------------------
+#=GR Q96F07|PF05994|342-557  PP ..............................................................................................
+Q96F07|PF05994|582-1249         SAMQFVYCIPVGTNEFTAEQCFGDGLNWAGCSIIVLLGQQRRFDLFDFCYHLLKVQRQDGKDEIIKNVPLKKMADRIRKYQILNNEVFAILNKY
+#=GR Q96F07|PF05994|582-1249 PP ********************************************************************************************97
+#=GC PP_cons                    *******************************************************************************************997
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

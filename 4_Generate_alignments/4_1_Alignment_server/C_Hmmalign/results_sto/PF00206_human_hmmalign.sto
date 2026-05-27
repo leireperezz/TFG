@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P04424|PF00206|11-305         ......GRFVGAVDPIMEKFNASIAYDRHLWEVDVQ.......GSKAYSRGLEKAGLLT...KAEMDQILHGLDKVAEEWAQG-TFKLNSNDEDIHTANERRLKELIG....----......---ATAGKLHTGRSRNDQVVTDLRLWMRQTCST-LSGLLWELIRTMVDRAEAERDVLFPGYTHLQRAQPIRWSHWILS
+#=GR P04424|PF00206|11-305 PP ......899***************************.......****************...*********************.************************.................9***************************66.********************************************
+P07954|PF00206|58-389         ......GELKVPNDKYYGAQTVRSTMNFKIGGVTERmptpvikAFGILKRAAAEVNQDYgldPKIANAIMKAADEVAE-GKLNDHFPLVVWQTGSGTQTNMNVNEVISnraiEMLGgelgskIPVHPNDHVNKSQSSNDTFPTAMHIAAAIEVHEVLLPGLQKLHDALDAKSKEFAQIIKIGRTHTQDAVPLTLGQEFSG
+#=GR P07954|PF00206|58-389 PP ......7899********************************************************************.*******************************9999999999999*****************************************************************************
+P30566|PF00206|98-308         ccpkaa------------------------------.......----------------...----------------------------------------------....----......------GIIHLGATSCYVGDNTDLIILRNAL-DLLLPKLARVISRLADFAKERASLPTLGFTHFQPAQLTTVGKRCCL
+#=GR P30566|PF00206|98-308 PP *98765..........................................................................................................................6678888887777666668899999.88********************************************
+#=GC PP_cons                  ......7999**************************.......****************...**********************************************....9999......9*****89999999999999999999*****889********************************************
+#=GC RF                       ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P04424|PF00206|11-305         HAVALTRDSERLLEVRKRINVLPLGSGAIAGNPLGVDRE---LLRAELN.-FGA--..-ITLNSMDATSERDFVAEFLFWASLCMTHLSRMAEDLILYCTKE.FSFVQLSDAYST-GSSLMPQKKNPDSLELIRSKAGRVFG.....
+#=GR P04424|PF00206|11-305 PP ***************************************...*******..888.....*******************************************.************.*************************9.....
+P07954|PF00206|58-389         YVQQVKYAMTRIKAAM-PRIYELAAGGTAVGTGLNTRIGFAEKVAAKVA.ALTGLP.fVTAPNKFEALAAHDALVELSGAMNTTACSLMKIANDIRFLGSGPrSGLGELILPENEPGSSIMPGKVNPTQCEAMTMVAAQVMG.....
+#=GR P07954|PF00206|58-389 PP ****************.88999999************************.******.************************************************************************************9.....
+P30566|PF00206|98-308         WIQDLCMDLQNLKRVRDDLRFRGVKGTTGTQASFLQLFEGDDHKVEQLDkMVTEKAgfKRAFIITGQTYTRKVDIEVLSVLASLGASVHKICTDIRLLAN--.LKEMEEPFEKQQIGSSAMPYKRNPMRSER----------ccsla
+#=GR P30566|PF00206|98-308 PP **************************99988888887788889999999544544444445556679999999***************************...*************************9996..........57788
+#=GC PP_cons                  *****************99*******9**9999999999999******9.788777..78888999************************************.****************************9*********9.....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

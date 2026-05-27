@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P07992|PF14520|239-287         .---LTTVKSVNKTDSQTLLTT-FGSLEQLIAASREDLALCPGLGPQKARRL------fd
+#=GR P07992|PF14520|239-287 PP ....899***************.***************************98......78
+Q06609|PF14520|32-79           .--------GINANDVKKLEEAGFHTVEAVAYAPKKELINIKGISEAKADKILAEA--a.
+#=GR Q06609|PF14520|32-79   PP .........9*******************************************998..6.
+Q14565|PF14520|25-79           d---LLQKHGINVADIKKLKSVGICTIKGIQMTTRRALCNVKGLSEAKVDKIKEAANK..
+#=GR Q14565|PF14520|25-79   PP 6...66668**********************************************975..
+#=GC PP_cons                   ....788899*****************************************9**9875..
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

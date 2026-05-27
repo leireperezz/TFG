@@ -1,0 +1,104 @@
+# STOCKHOLM 1.0
+
+P33076|PF05729|414-584           .RVIAVLGKAGQGKSYWAGAVSRAWACGRLPQ--.YDFVFSVPCHCLNRPGDA....YGLQDLLFSLGPQPLVAADE.................VFSHILKRPDRVL..............LILDGFEELEAQDGFlhst....cgpaPAEPCSLRGLLAGLFQKKLLRGCTLLLTARPRGR--...LVQSLSKA..dAL
+#=GR P33076|PF05729|414-584   PP .799****************************...8*****************....********************.................*************..............*******************....**************************************.....*******9..9**
+P59044|PF05729|197-365           .-TVVLQGPAGIGKTMAAKKILYDWAAGKLYQGQ.VDFAFFMPCGELLERPGT....RSLADLILDQCPDRGAPVPQ.................----MLAQPQRLL..............FILDGADELPALGGPeaa.....pctdPFEAASGARVLGGLLSKALLPTALLLVTTRAAAPGR...LQGRLCSP...QC
+#=GR P59044|PF05729|197-365   PP ..79******************************.******************....********************.....................*********..............***********9999***.....****************************************...********...**
+P59046|PF05729|211-380           .RTVVMQGAAGIGKSMLAHKVMLDWADGKLFQGR.FDYLFYINCREMNQSATE....CSMQDLIFSCWPEPSAPLQE.................----LIRVPERLL..............FIIDGFDELKPSFHDpqgp....wclcWEEKRPTELLLNSLIRKKLLPELSLLITTRPTALEK...LHRLLEHP...RH
+#=GR P59046|PF05729|211-380   PP .79*******************************.******************....********************.....................*********..............***********99999***....****************************************...********...**
+P59047|PF05729|280-443           .RTVVLHGKSGIGKSALARRIVLCWAQGGLYQGM.FSYVFFLPVREMQRKKES....-SVTEFISREWPDSQAPVTE.................----IMSRPERLL..............FIIDGFDDLGSVLNNdtk.....lckdWAEKQPPFTLIRSLLRKVLLPESFLIVTVRDVGTEK...LKSEVVSP...RY
+#=GR P59047|PF05729|280-443   PP .79*******************************.****************99.....*******************.....................*********..............******************.....****************************************...********...**
+Q13075|PF05729|465-617           .-VMCVEGEAGSGKTVLLKKIAFLWASGCCPLLNrFQLVFYLSLSSTRPDE--....-GLASIICDQLLEKEGSVTEm...............cVRNIIQQLKNQVL..............FLLDDYKEICSIPQV............----------IGKLIQKNHLSRTCLLIAVRTNRARD...IRRYLETI...--
+#=GR Q13075|PF05729|465-617   PP ..69****************************999**************98.......9*******************...............**************..............***********9998......................**************************...********.....
+Q149M9|PF05729|337-505           l---VLFGPPGIGKTALMCKLAEQMPRLLGHK-T.VTVLRLLGTSQMSSDARG....-LLKSICFQVCLAYGLPLPPaqvldahtrvvqffhtlLHTVSCRNFESLV..............LLLDAMDDLDSVRHA............-------RRV--PWLPLNCPPRVHLILSACSGALGVldtLQRVLLDP..eAY
+#=GR Q149M9|PF05729|337-505   PP 6...788****************998766444.4.566666666666665544.....4444444555555555555666777777777777666666677777777..............***********8888...................333..599******************98777899999999..9**
+Q7RTR0|PF05729|146-313           .HTVVLEGPDGIGKTTLLRKVMLDWAEGNLWKDR.FTFVFFLNVCEMNGIAET....-SLLELLSRDWPESSEKIED.................----IFSQPERIL..............FIMDGFEQLKFNLQLkad.....lsddWRQRQPMPIILSSLLQKKMLPESSLLIALGKLAMQK...HYFMLRHP...KL
+#=GR Q7RTR0|PF05729|146-313   PP .69*******************************.****************99.....*******************.....................*********..............**********999999**.....****************************************...********...**
+Q7RTR2|PF05729|139-304           .RVSITIGVAGMGKTTLVRHFVRLWAHGQVGKD-.FSLVLPLTFRDLNTHEKL....-CADRLICSVFPHVGEPSLA.................-----VAVPARAL..............LILDGLDECRTPLDFsntv....actdPKKEIPVDHLITNIIRGNLFPEVSIWITSRPSASGQ...IPGGLVDR...-M
+#=GR Q7RTR2|PF05729|139-304   PP .68999**************************9..****************99.....*****************99......................********..............*******************....****************************************...********....*
+Q86UT6|PF05729|160-320           .QTVVLYGTVGTGKSTLVRKMVLDWCYGRLPA--.FELLIPFSCEDLSSLGPA...pASLCQLVAQRYTPLKEVLPL.................----MAAAGSHLL..............FVLHGLEHLNLDFRLagtg....lcsdPEEPQEPAAIIVNLLRKYMLPQASILVTTRPSAIGR...IPSKYVGR...-Y
+#=GR Q86UT6|PF05729|160-320   PP .59*****************************...****************99...899999999999888777766.....................99999****..............**********99999****....****************************************...*******9....*
+Q86W24|PF05729|178-345           i--VVLQGAAGVGKTTLVRKAMLDWAEGSLYQQR.FKYVFYLNGREINQLKER....-SFAQLISKDWPSTEGPIEE.................----IMYQPSSLL..............FIIDSFDELNFAFEEpefa....lcedWTQEHPVSFLMSSLLRKVMLPEASLLVTTRLTTSKR...LKQLLKNH...HY
+#=GR Q86W24|PF05729|178-345   PP 6..89*****************************.***************988.....*******************.....................*********..............***********9999****....****************************************...********...**
+Q86W26|PF05729|168-331           l--VVLQGSAGTGKTTLARKMVLDWATGTLYPGR.FDYVFYVSCKEVVLLLES....-KLEQLLFWCCGDNQAPVTE.................----ILRQPERLL..............FILDGFDELQRPFEEk.........lkKRGLSPKESLLHLLIRRHTLPTCSLLITTRPLALRN...LEPLLKQA...RH
+#=GR Q86W26|PF05729|168-331   PP 5..89*****************************.***************999.....*******************.....................*********..............**************98.........65555578899***************************...********...**
+Q86W28|PF05729|205-372           .-TVAIQGAPGIGKTILAKKVMFEWARNKFYAHK.RWCAFYFHCQEVNQTTDQ....-SFSELIEQKWPGSQDLVSK.................----IMSKPDQLL..............LLLDGFEELTSTLIDrled....lsedWRQKLPGSVLLSSLLSKTMLPEATLLIMIRFTSWQT...CKPLLKCP...SL
+#=GR Q86W28|PF05729|205-372   PP ..799***************************99.99**************99.....*******************.....................*********..............***********99889***....****************************************...********...**
+Q86WI3|PF05729|222-382           .RVTVLLGKAGMGKTTLAHRLCQKWAEGHLNC--.FQALFLFEFRQLNLITRF....LTPSELLFDLYLSPESDHDT.................VFQYLEKNADQVL..............LIFDGLDEALQPMGP............-DGPGPVLTLFSHLCNGTLLPGCRVMATSRPGKL--...-PACLPAE..aAM
+#=GR Q86WI3|PF05729|222-382   PP .689****************************...******************....********************.................*************..............**************9.............********************************9......8888877..79*
+Q8WX94|PF05729|173-340           .-TVVLHGPAGVGKTTLAKKCMLDWTDCNLSPT-.LRYAFYLSCKELSRMGPC....-SFAELISKDWPELQDDIPS.................----ILAQAQRIL..............FVVDGLDELKVPPGAliqd....icgdWEKKKPVPVLLGSLLKRKMLPRAALLVTTRPRALRD...LQLLAQQP...IY
+#=GR Q8WX94|PF05729|173-340   PP ..79*************************9997..7***************99.....*******************.....................*********..............*******************....****************************************...********...**
+Q96MN2|PF05729|149-317           .RTVIIQGPQGIGKTTLLMKLMMAWSDNKIFRDR.FLYTFYFCCRELRELPPT....-SLADLISREWPDPAAPITE.................----IVSQPERLL..............FVIDSFEELQGGLNEpdsd....lcgdLMEKRPVQVLLSSLLRKKMLPEASLLIAIKPVCPKE...LRDQVTIS...EI
+#=GR Q96MN2|PF05729|149-317   PP .79*******************************.***************999.....*******************.....................*********..............*******************....****************************************...********...**
+Q96P20|PF05729|220-389           .HTVVFQGAAGIGKTILARKMMLDWASGTLYQDR.FDYLFYIHCREVSLVTQR....-SLGDLIMSCCPDPNPPIHK.................----IVRKPSRIL..............FLMDGFDELQGAFDEhigp....lctdWQKAERGDILLSSLIRKKLLPEASLLITTRPVALEK...LQHLLDHP...RH
+#=GR Q96P20|PF05729|220-389   PP .69*******************************.**************9988.....*******************.....................*********..............*******************....****************************************...********...**
+Q99973|PF05729|1162-1334         .RLSLVTGQSGQGKTAFLASLVSALQAPDGAKVA.-SLVFFHFSGARPDQGLAltllRRLCTYLRGQLKEPGALPST.................YRSLVWELQQRLLpksaeslhpgqtqvLIIDGADRLVDQNGQ............---------LISDWIPKKLPRCVHLVLSVSSDAG--...LGETLEQSqgaHV
+#=GR Q99973|PF05729|1162-1334 PP .6789*************************9995..***************999***********************.................******************************************.....................*************************.....********9999*
+Q9C000|PF05729|328-497           .RIVILQGAAGIGKSTLARQVKEAWGRGQLYGDR.FQHVFYFSCRELAQSKVV....-SLAELIGKDGTATPAPIRQ.................----ILSRPERLL..............FILDGVDEPGWVLQEpsse....lclhWSQPQPADALLGSLLGKTILPEASFLITARTTALQN...LIPSLEQA...RW
+#=GR Q9C000|PF05729|328-497   PP .689******************************.**************9988.....*******************.....................*********..............*******************....****************************************...********...**
+Q9HC29|PF05729|293-462           .DTVLVVGEAGSGKSTLLQRLHLLWAAGQDFQE-.FLFVFPFSCRQLQCMAKP....LSVRTLLFEHCCWPDVGQED.................IFQLLLDHPDRVL..............LTFDGFDEFKFRFTDrer......hcsPTDPTSVQTLLFNLLQGNLLKNARKVVTSRPAAVSA..fLRKYIRTE...--
+#=GR Q9HC29|PF05729|293-462   PP .69*****************************8..******************....********************.................*************..............**********9888899*......*************************************99..899999999.....
+Q9NPP4|PF05729|164-315           p--CIIEGESGKGKSTLLQRIAMLWGSGKCKALTkFKFVFFLRLSRAQG----....-GLFETLCDQLLDIPGTIRKq...............tFMAMLLKLRQRVL..............FLLDGYNEFKPQNCP............---------EIEALIKENHRFKNMVIVTTTTECLRH...IRQFGALT...--
+#=GR Q9NPP4|PF05729|164-315   PP 6..89***************************99899999999999998.........9****************999...............9*************..............***************.....................9**************************...*****999.....
+Q9NX02|PF05729|208-375           .-TVVLYGPAGLGKTTLAQKLMLDWAEDNLIHK-.FKYAFYLSCRELSRLGPC....-SFAELVFRDWPELQDDIPH.................----ILAQARKIL..............FVIDGFDELGAAPGAlied....icgdWEKKKPVPVLLGSLLNRVMLPKAALLVTTRPRALRD...LRILAEEP...IY
+#=GR Q9NX02|PF05729|208-375   PP ..79****************************8..****************99.....*******************.....................*********..............*******************....****************************************...********...**
+Q9Y239|PF05729|197-367           .-TIFILGDAGVGKSMLLQRLQSLWATGRLDAG-.VKFFFHFRCRMFSCFKESd..rLCLQDLLFKHYCYPERDPEE.................VFAFLLRFPHVAL..............FTFDGLDELHSDLDLsrvp....dsscPWEPAHPLVLLANLLSGKLLKGASKLLTARTGIE--...VPRQFLRK...-K
+#=GR Q9Y239|PF05729|197-367   PP ..799***************************9..8***************999..9********************.................*************..............*******************....**************************************.....99999999....9
+P59045|PF05729|149-315           .--VFLMGERASGKTIVINLAVLRWIKGEMWQNM.ISYVVHLTAHEINQMTNS....-SLAELIAKDWPDGQAPIAD.................----ILSDPKKLL..............FILEDLDNIRFELNVnesa....lcsnSTQKVPIPVLLVSLLKRKMAPGCWFLISSRPTRGNN...VKTFLKEV...DC
+#=GR P59045|PF05729|149-315   PP ...6899***************************.******************.....*******************.....................*********..............**********9999999**....****9***********************************...********...**
+Q86W25|PF05729|229-401           .QTIVLVGRAGVGKTTLAMQAMLHWANGVLFQQR.FSYVFYLSCHKIRYMKET....-TFAELISLDWPDFDAPIEE.................----FMSQPEKLL..............FIIDGFEEIIISESRseslddgspctdWYQELPVTKILHSLLKKELVPLATLLITIKTWFVRD...LKASLVNP...CF
+#=GR Q86W25|PF05729|229-401   PP .589******************************.***************999.....*******************.....................*********..............********9876666889*********************************************...********...**
+#=GC PP_cons                     .6899***************************99.9**************999....******************99.................99***********..............***********9999............************************************...********...**
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxx..............xxxxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx...xx
+
+P33076|PF05729|414-584           FELSGFSMEQAQAYVMRYFE--s.
+#=GR P33076|PF05729|414-584   PP ******************97..7.
+P59044|PF05729|197-365           AEVRGFSDKDKKKYFYKYFRDE..
+#=GR P59044|PF05729|197-365   PP *******************986..
+P59046|PF05729|211-380           VEILGFSEAERKEYFYKYFHN-..
+#=GR P59046|PF05729|211-380   PP *******************96...
+P59047|PF05729|280-443           LLVRGISGEQRIHLLL------e.
+#=GR P59047|PF05729|280-443   PP **********998875......6.
+Q13075|PF05729|465-617           LEIKAFPFYNTVCILRKLFSH-..
+#=GR Q13075|PF05729|465-617   PP *******************96...
+Q149M9|PF05729|337-505           WEVKPLSGNQGQQMI-------q.
+#=GR Q149M9|PF05729|337-505   PP **********99976.......7.
+Q7RTR0|PF05729|146-313           IKLLGFSESEKKSYFSYFF---ge
+#=GR Q7RTR0|PF05729|146-313   PP ***************9888...57
+Q7RTR2|PF05729|139-304           TEIRGFNEEEIKVCLEQMFP--e.
+#=GR Q7RTR2|PF05729|139-304   PP ******************97..6.
+Q86UT6|PF05729|160-320           GEICGFSDTNLQK---------l.
+#=GR Q86UT6|PF05729|160-320   PP *******988775.........6.
+Q86W24|PF05729|178-345           VELLGMSEDAREEYIYQFFED-..
+#=GR Q86W24|PF05729|178-345   PP *******************86...
+Q86W26|PF05729|168-331           VHILGFSEEERARYFSSYFTDE..
+#=GR Q86W26|PF05729|168-331   PP *******************986..
+Q86W28|PF05729|205-372           VTLPGFNTMEKIKYFQMYFG--h.
+#=GR Q86W28|PF05729|205-372   PP ***************99995..6.
+Q86WI3|PF05729|222-382           VHMLGFDGPRVEEYVNHFFSA-..
+#=GR Q86WI3|PF05729|222-382   PP *******************85...
+Q8WX94|PF05729|173-340           VRVEGFLEEDRRAYFLRHFGDE..
+#=GR Q8WX94|PF05729|173-340   PP ******************9875..
+Q96MN2|PF05729|149-317           YQPRGFNESDRLVYFCCFFKD-..
+#=GR Q96MN2|PF05729|149-317   PP ******************986...
+Q96P20|PF05729|220-389           VEILGFSEAKRKEYFFKYFSDE..
+#=GR Q96P20|PF05729|220-389   PP ********************96..
+Q99973|PF05729|1162-1334         LALGPLEASARARLVREE----l.
+#=GR Q99973|PF05729|1162-1334 PP ***************986....6.
+Q9C000|PF05729|328-497           VEVLGFSESSRKEYFYRYFTDE..
+#=GR Q9C000|PF05729|328-497   PP *******************986..
+Q9HC29|PF05729|293-462           FNLKGFSEQGIELYLRKRHH--e.
+#=GR Q9HC29|PF05729|293-462   PP *****************998..5.
+Q9NPP4|PF05729|164-315           AEVGDMTEDSAQALIREVL---ik
+#=GR Q9NPP4|PF05729|164-315   PP ****************987...67
+Q9NX02|PF05729|208-375           IRVEGFLEEDRRAYFLRHFGDE..
+#=GR Q9NX02|PF05729|208-375   PP ******************9875..
+Q9Y239|PF05729|197-367           VLLRGFSPSHLRAYARRMFP--e.
+#=GR Q9Y239|PF05729|197-367   PP ******************97..6.
+P59045|PF05729|149-315           CTTLQLSNGKREIYFNSFFKD-..
+#=GR P59045|PF05729|149-315   PP *****************9986...
+Q86W25|PF05729|229-401           VQITGFTGDDLRVYFMRHFD--d.
+#=GR Q86W25|PF05729|229-401   PP ******************97..5.
+#=GC PP_cons                     *****************99876..
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxx..
+//

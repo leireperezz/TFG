@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P22105|PF18720|342-369         -CPWDCGE.GGRCVDGRCVCWPGYTGEDCS
+#=GR P22105|PF18720|342-369 PP .*******.********************9
+P22105|PF18720|373-399         -CPRDCRG.RGRCEDGECICDTGYSGDDC-
+#=GR P22105|PF18720|373-399 PP .*******.********************.
+P24821|PF18720|252-279         -CPVPCSEeHGTCVDGLCVCHDGFAGDDC-
+#=GR P24821|PF18720|252-279 PP .******647*******************.
+P24821|PF18720|563-589         -CPSDCHG.QGRCVDGQCICHEGFTGLDC-
+#=GR P24821|PF18720|563-589 PP .*******.********************.
+#=GC PP_cons                   .******9.9*******************9
+#=GC RF                        xxxxxxxx.xxxxxxxxxxxxxxxxxxxxx
+//

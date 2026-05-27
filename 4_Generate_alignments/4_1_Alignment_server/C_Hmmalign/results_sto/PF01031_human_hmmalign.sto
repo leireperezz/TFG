@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+O00429|PF01031|225-509         DAMDVLMGRVIPVKLGIIGVVNRSQLDINNKKSVTDSIRDEYAFLQKK--Y.PSL..ANRNGTKYLARTLNRLLMHHIRDCLPELKTRINVLAAQYQSLLNSYGEPV--D-.DKSATLLQLITKFATEYCNTIEGT.AKyIETSELCGGARICYIFHETFGRTLESVDPLGGLNTIDILTAIRNATGPRPALFVPEVSFE
+#=GR O00429|PF01031|225-509 PP 79**********************************************..*.***..***********************************************965..4..8***********************.88578**********************************************************
+P20591|PF01031|259-546         KVVDVVRNLVFHLKKGYMIVKCRGQQEIQDQLSLSEALQREKIFFENHPYF.RDLleEGKATVPCLAEKLTSELITHICKSLPLLENQIKETHQRITEELQKYGVDIPEDEnEKMFFLIDKVNAFNQDITALMQGE.ET.VGEEDIRLFTRLRHEFHKWSTIIENNFQEGHKILSRKIQKFENQYRGRELPGFVNYRTFE
+#=GR P20591|PF01031|259-546 PP 599************************************************.666699******************************************************************************.77.88****************99888888999999999*************************
+P20592|PF01031|307-593         -VMNVVRNLTYPLKKGYMIVKCRGQQEITNRLSLAEATKKEITFFQTHPYFrVLL.eEGSATVPRLAERLTTELIMHIQKSLPLLEGQIRESHQKATEELRRCGADIPSQEaDKMFFLIEKIKMFNQDIEKLVEGE.-EvVRENETRLYNKIREDFKNWVGILATNTQKVKNIIHEEVEKYEKQYRGKELLGFVNYKTFE
+#=GR P20592|PF01031|307-593 PP .799***********************************************6677.9******************************************************************************9..6266****************99999999999999999*************************
+P50570|PF01031|215-501         DARDVLENKLLPLRRGYIGVVNRSQKDIEGKKDIRAALAAERKFFLSHPAY.RHM..ADRMGTPHLQKTLNQQLTNHIRESLPALRSKLQSQLLSLEKEVEEYKNFRPDDPtRKTKALLQMVQQFGVDFEKRIEGSgDQ.VDTLELSGGARINRIFHERFPFELVKMEFDEKDLRREISYAIKNIHGVRTGLFTPDLAFE
+#=GR P50570|PF01031|215-501 PP 799************************************************.***..*******************************************************************************666.88**********************************************************
+Q05193|PF01031|215-501         DARDVLENKLLPLRRGYIGVVNRSQKDIDGKKDITAALAAERKFFLSHPSY.RHL..ADRMGTPYLQKVLNQQLTNHIRDTLPGLRNKLQSQLLSIEKEVEEYKNFRPDDPaRKTKALLQMVQQFAVDFEKRIEGSgDQ.IDTYELSGGARINRIFHERFPFELVKMEFDEKELRREISYAIKNIHGIRTGLFTPDMAFE
+#=GR Q05193|PF01031|215-501 PP 799************************************************.***..*******************************************************************************777.99**********************************************************
+Q9UQ16|PF01031|215-501         DARDVLENKLLPLRRGYVGVVNRSQKDIDGKKDIKAAMLAERKFFLSHPAY.RHI..ADRMGTPHLQKVLNQQLTNHIRDTLPNFRNKLQGQLLSIEHEVEAYKNFKPEDPtRKTKALLQMVQQFAVDFEKRIEGSgDQ.VDTLELSGGAKINRIFHERFPFEIVKMEFNEKELRREISYAIKNIHGIRTGLFTPDMAFE
+#=GR Q9UQ16|PF01031|215-501 PP 799************************************************.***..*******************************************************************************666.88**********************************************************
+#=GC PP_cons                   689************************************************.999..************************************************99**9*.************************.77.88*******************9999***********************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00429|PF01031|225-509         LLVKRQIKRLEEPSLRCVELVHEEMQRIIQHCSNystQELLRFPKLHDAIVEVVTCLLRKRLPVTNEMVHNLVAIELAYINTKHPDFADACGL---mn
+#=GR O00429|PF01031|225-509 PP ********************************99999***************************************************98765...57
+P20591|PF01031|259-546         TIVKQQIKALEEPAVDMLHTVTDMVRLAFTDVSI...KNFEEFFNLHRTAKSKIEDIRAEQEREGEKLIRLHFQMEQ-IVYCQDQVYRGALQKV--r.
+#=GR P20591|PF01031|259-546 PP *******************************888...9***************************************.*************997..5.
+P20592|PF01031|307-593         IIVHQYIQQLVEPALSMLQKAMEIIQQAFINVAK...KHFGEFFNLNQTVQSTIEDIKVKHTAKAENMIQLQFRMEQ-MVFCQDQIYSVVLKKV--r.
+#=GR P20592|PF01031|307-593 PP *******************************999...9***************************************.*********9888876..6.
+P50570|PF01031|215-501         AIVKKQVVKLKEPCLKCVDLVIQELINTVRQCTS...-KLSSYPRLREETERIVTTYIREREGRTKDQILLLIDIEQSYINTNHEDFIGFANAQ--q.
+#=GR P50570|PF01031|215-501 PP **********************************....***************************************************99986..6.
+Q05193|PF01031|215-501         TIVKKQVKKIREPCLKCVDMVISELISTVRQCTK...-KLQQYPRLREEMERIVTTHIREREGRTKEQVMLLIDIELAYMNTNHEDFIGFANAQ--q.
+#=GR Q05193|PF01031|215-501 PP **********************************....***************************************************99986..6.
+Q9UQ16|PF01031|215-501         AIVKKQIVKLKGPSLKSVDLVIQELINTVKKCTK...-KLANFPRLCEETERIVANHIREREGKTKDQVLLLIDIQVSYINTNHEDFIGFANAQ--q.
+#=GR Q9UQ16|PF01031|215-501 PP **********************************....***************************************************99986..6.
+#=GC PP_cons                   *******************************999...9**************************************************999886....
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

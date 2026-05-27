@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P54868|PF08540|225-506         a--LERGLRGTHMENVYDFYKPNLASEYPIVDGKLSIQCYLRALDRCYTSYRKKIQNQWKQagS.DRPFTLDDLQYMIFHTPFCKMVQKSLARLMFNDFLS-ASSDTQTSLYKGLEAFGGLKLEDTYTNKDLDKALLKASQDMFDKKTKASLYLSTHNGNMYTSSLYGCLASLLSHHSAQELAGSRIGAFSYGSGLAASF
+#=GR P54868|PF08540|225-506 PP 6..89********************************************************744.***********************************9.566899********************************************************************************************
+Q01581|PF08540|187-469         .LIFERGLRGTHMQHAYDFYKPDMLSEYPIVDGKLSIQCYLSALDRCYSVYCKKIHAQWQK.eGnDKDFTLNDFGFMIFHSPYCKLVQKSLARMLLNDFLNDQNRDK-NSIYSGLEAFGDVKLEDTYFDRDVEKAFMKASSELFSQKTKASLLVSNQNGNMYTSSVYGSLASVLAQYSPQQLAGKRIGVFSYGSGLAATL
+#=GR Q01581|PF08540|187-469 PP .58********************************************************99.735************************************999866.********************************************************************************************
+#=GC PP_cons                   .589*******************************************************99..4.************************************9777789********************************************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P54868|PF08540|225-506         FSFRVSQDAAPGSPLDklVSSTSDLPKRLASRKCVSPEEFTEIMNQREQFYHKVNFSPPGDTNSLFPGTWYLERVDEQHRRKYARR
+#=GR P54868|PF08540|225-506 PP ***********************************************************************************986
+Q01581|PF08540|187-469         YSLKVTQDATPGSALDkiTASLCDLKSRLDSRTGVAPDVFAENMKLREDTHHLVNYIPQGSIDSLFEGTWYLVRVDEKHRRTYARR
+#=GR Q01581|PF08540|187-469 PP *****************88999*************************************************************986
+#=GC PP_cons                   ****************..99***************************************************************986
+#=GC RF                        xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

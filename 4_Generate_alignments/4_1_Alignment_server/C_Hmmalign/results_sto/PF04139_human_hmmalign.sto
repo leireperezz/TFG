@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q99638|PF04139|13-265         LGKAVHSLSRIGDELYLEPLEDGLSLRTVNSSRSAYACFLFAPLFFQQY........-QAATPGQDLLRCKILMKSFLSVFRSLAMLEKTVEKCCISLNGRSSRLVVQLHCKFGVRKTHNLSFQDCESLQAVFDPASCPHMLRAPARVLGEAVLPFSPALAEVTLGIGRGrRVILRSYHEEEADStAKAMVTEMCLGEED
+#=GR Q99638|PF04139|13-265 PP 78***********************************************.........999999******************************************************************************************************9875279*********999567899*********
+Q6WBX8|PF04139|14-273         FGKAVQALSRISDEFWLDPSKKGLALRCVNSSRSAYGCVLFSPVFFQHYqwsalvkmSENELDTTLHLKCKLGMKSILPIFRCLNSLERNIEKCRIFTRSDKCKVVIQFFYRHGIKRTHNICFQESQPLQVIFDKNVCTNTLMIQPRLLADAIVLFTSSQEEVTLAVTPL.NFCLKSSNEESMDL.SNAVHSEMFVGSDE
+#=GR Q6WBX8|PF04139|14-273 PP 89*****************************************************55555667778889*****************************************************************************************************.**************.**************
+#=GC PP_cons                  79***********************************************........577788889999**************************************************************************************************998.9************9.8999**********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+Q99638|PF04139|13-265         FQQLQAQEGVAITFCLKEFRGLLSFAESANLNLSIHFDAPGRPAIFTIKD-SLLDGHFVLATL
+#=GR Q99638|PF04139|13-265 PP *************************************************9.9**********7
+Q6WBX8|PF04139|14-273         FDFFQIGMDTEITFCFKELKGILTFSEATHAPISIYFDFPGKPLALSIDD-MLVEANFILATL
+#=GR Q6WBX8|PF04139|14-273 PP *************************************************9.***********7
+#=GC PP_cons                  *************************************************9.***********7
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

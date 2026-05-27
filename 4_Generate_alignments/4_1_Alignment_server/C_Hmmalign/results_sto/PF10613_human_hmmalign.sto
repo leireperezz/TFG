@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+O15399|PF10613|482-567         ....rc----------------.---------.--CKGFCIDILKRLAHTIGFSYDLYLVTNGKHGKKIDGV-....-WNGMIGEVFYQRADMAIGSLTINEERSEIVDFSVPFVETGISVMVA---r
+#=GR O15399|PF10613|482-567 PP ....87.............................79******************************97755......*******************************************985...7
+O43424|PF10613|442-551         .....v--LRVVTVLEEPFVMV.S--ENVLGKpKKYQGFSIDVLDALSNYLGFNYEIYVAPDHKYGSPQEDG-....TWNGLVGELVFKRADIGISALTITPDRENVVDFTTRYMDYSVGVLLR---r
+#=GR O43424|PF10613|442-551 PP .....6..799**********4.4..55555559**********************************9999.....********************************************986...6
+O60391|PF10613|474-559         ....kc----------------.---------.--CYGYCIDLLERLAEDTPFDFELYLVGDGKYGALRDG--....RWTGLVGDLLAGRAHMAVTSFSINSARSQVVDFTSPFFSTSLGIMVR---a
+#=GR O60391|PF10613|474-559 PP ....86.............................68*******************************775......5********************************************87...7
+P39086|PF10613|448-560         ......-TLIVTTILEEPYVMYrKSDKPLYGN.DRFEGYCLDLLKELSNILGFIYDVKLVPDGKYGAQNDKG-....EWNGMVKELIDHRADLAVAPLTITYVREKVIDFSKPFMTLGISILYRKP-.
+#=GR P39086|PF10613|448-560 PP .......689***********9888999****.***********************************9998.....**********************************************997..
+P42261|PF10613|408-522         ......-TYIVTTILEDPYVMLkKNANQFEGN.DRYEGYCVELAAEIAKHVGYSYRLEIVSDGKYGARDPDTK....AWNGMVGELVYGRADVAVAPLTITLVREEVIDFSKPFMSLGISIMIKKPQ.
+#=GR P42261|PF10613|408-522 PP .......689************888999****.****************************************....************************************************96.
+P42262|PF10613|414-529         ......KTVVVTTILESPYVMMkKNHEMLEGN.ERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTK....IWNGMVGELVYGKADIAIAPLTITLVREEVIDFSKPFMSLGISIMIKKPQ.
+#=GR P42262|PF10613|414-529 PP ......58899**********9888999****.****************************************....************************************************96.
+P42263|PF10613|424-538         ......-TIVVTTILESPYVMYkKNHEQLEGN.ERYEGYCVDLAYEIAKHVRIKYKLSIVGDGKYGARDPETK....IWNGMVGELVYGRADIAVAPLTITLVREEVIDFSKPFMSLGISIMIKKPQ.
+#=GR P42263|PF10613|424-538 PP .......5789**********98899******.****************************************....************************************************96.
+P48058|PF10613|416-530         .....t--VVVTTIMESPYVMYkKNHEMFEGN.DKYEGYCVDLASEIAKHIGIKYKIAIVPDGKYGARDADTK....IWNGMVGELVYGKAEIAIAPLTITLVREEVIDFSKPFMSLGISIMIKKPQ.
+#=GR P48058|PF10613|416-530 PP .....5..789**********98889999***.****************************************....************************************************96.
+Q05586|PF10613|454-545         .....c----------------.---------.--CYGFCIDLLIKLARTMNFTYEVHLVADGKFGTQERVNNsnkkEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKK--e
+#=GR Q05586|PF10613|454-545 PP .....8.............................57*****************************986543333339*********************************************98..5
+Q12879|PF10613|440-539         vkinns----------------.-TNEGMNVK.KCCKGFCIDILKKLSRTVKFTYDLYLVTNGKHGKKVNNV-....-WNGMIGEVVYQRAVMAVGSLTINEERSEVVDFSVPFVETGISVMVS---r
+#=GR Q12879|PF10613|440-539 PP 997654..................45556667.78*********************************8887......*******************************************986...7
+Q13002|PF10613|432-545         .....s--LIVTTILEEPYVLFkKSDKPLYGN.DRFEGYCIDLLRELSTILGFTYEIRLVEDGKYGAQDDANG....QWNGMVRELIDHKADLAVAPLAITYVREKVIDFSKPFMTLGISILYRKP-.
+#=GR Q13002|PF10613|432-545 PP .....7..789*********99778899****.****************************************....**********************************************997..
+Q13003|PF10613|435-547         .....s--LIVTTVLEEPFVMFrKSDRTLYGN.DRFEGYCIDLLKELAHILGFSYEIRLVEDGKYGAQDDKG-....QWNGMVKELIDHKADLAVAPLTITHVREKAIDFSKPFMTLGVSILYRKP-.
+#=GR Q13003|PF10613|435-547 PP .....7..789**********9888999****.***********************************9999.....**********************************************997..
+Q13224|PF10613|455-540         ....kc----------------.---------.--CKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGT-....-WNGMIGEVVMKRAYMAVGSLTINEERSEVVDFSVPFIETGISVMVS---r
+#=GR Q13224|PF10613|455-540 PP ....76.............................79******************************97766......*******************************************986...7
+Q14957|PF10613|454-537         ......----------------.---------.--CKGFCIDILKKLARVVKFSYDLYLVTNGKHGKRVRGV-....-WNGMIGEVYYKRADMAIGSLTINEERSEIVDFSVPFVETGISVMVA---r
+#=GR Q14957|PF10613|454-537 PP ...................................58******************************98766......*******************************************985...7
+Q16099|PF10613|417-528         ......-TLVVTTILENPYLMLkGNHQEMEGN.DRYEGFCVDMLKELAEILRFNYKIRLVGDGVYGVPEANG-....TWTGMVGELIARKADLAVAGLTITAEREKVIDFSKPFMTLGISILYR---v
+#=GR Q16099|PF10613|417-528 PP .......6899***********87899*****.***********************************9888.....*********************************************97...6
+Q16478|PF10613|415-527         ......KTLVVTTILENPYVMRrPNFQALSGN.ERFEGFCVDMLRELAELLRFRYRLRLVEDGLYGAPEPNG-....SWTGMVGELINRKADLAVAAFTITAEREKVIDFSKPFMTLGISILYR---v
+#=GR Q16478|PF10613|415-527 PP ......6899***********9767899****.***********************************9999.....*********************************************97...6
+Q8TCU5|PF10613|573-659         ...kkc----------------.---------.--CYGYCIDLLEKIAEDMNFDFDLYIVGDGKYGAWKNGH-....-WTGLVGDLLRGTAHMAVTSFSINTARSQVIDFTSPFFSTSLGILVR---t
+#=GR Q8TCU5|PF10613|573-659 PP ...765.............................79******************************97655......********************************************87...6
+Q9ULK0|PF10613|438-549         ......-TLKVVTVLEEPFVMV.A--ENILGQpKRYKGFSIDVLDALAKALGFKYEIYQAPDGRYGHQLHNT-....SWNGMIGELISKRADLAISAITITPERESVVDFSKRYMDYSVGILIKKPE.
+#=GR Q9ULK0|PF10613|438-549 PP .......689***********4.4..56666659**********************************9999.....************************************************96.
+#=GC PP_cons                   ......66899**********8.788889999.**99*******************************98889....9********************************************98986.
+#=GC RF                        ......xxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

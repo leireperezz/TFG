@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P54920|PF14938|9-288          e--AMALLAEAERKVKNSQSFFsGLFGGSS-KIEEACEIYARAANMFKMAKNWSAAGNAFCQAAQLHLQLQSKHDAATCFVDAGNAFKKADPQ.EAINCLMRAIEIYTDMGRFTIAAKHHISIAEIYETELVDIEKAIAHYEQSADYYKGEESNSSANKCLLKVAGYAALLEQYQKAIDIYEQVGTNAMDSPLLKYSAKD
+#=GR P54920|PF14938|9-288  PP 6..6789***************99**9966.**************************************************************.**********************************************************************************************************
+Q99747|PF14938|10-254         l----EHLAKAEKYLK--TGFL.KWKPD----YDSAASEYGKAAVAFKNAKQFEQAKDACLREAVAHENNRALFHAAKAYEQAGMMLKEMQKLpEAVQLIEKASMMYLENGTPDTAAMALERAGKLIENV--DPEKAVQLYQQTANVFENEERLRQAVELLGKASRLLVRGRRFDEAALSIQKEKNIYKEIENYPTCYKK
+#=GR Q99747|PF14938|10-254 PP 9....5789*******..7888.77666....99******************************************************996655**********************************98..*********************************************98887655444444444445555
+Q9H115|PF14938|9-288          e--AVQLMAEAEKRVKASHSFLrGLFGGNT-RIEEACEMYTRAANMFKMAKNWSAAGNAFCQAAKLHMQLQSKHDSATSFVDAGNAYKKADPQ.EAINCLNAAIDIYTDMGRFTIAAKHHITIAEIYETELVDIEKAIAHYEQSADYYKGEESNSSANKCLLKVAAYAAQLEQYQKAIEIYEQVGANTMDNPLLKYSAKD
+#=GR Q9H115|PF14938|9-288  PP 6..679********************9966.**************************************************************.**********************************************************************************************************
+#=GC PP_cons                  ...67799**********9999.9998866.***********************************************************998.***********************************9************************************************9999988888888888888888
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P54920|PF14938|9-288          YFFKAALCHFCI-DMLNAKLAVQKYEELFPAFSDSRECKLMKKLLEAHEEQNVDSYTESVKEYDSISRLDQWLTTMLLRIKKTIQ
+#=GR P54920|PF14938|9-288  PP ************.**********************************************************************96
+Q99747|PF14938|10-254         T-IAQVLVHLHRNDYVAAERCVRESY-SIPGFNGSEDCAALEQLLEGYDQQDQDQVSDVC-------------------------
+#=GR Q99747|PF14938|10-254 PP 4.7899**************998865.57**************************99876.........................
+Q9H115|PF14938|9-288          YFFKAALCHFIV-DELNAKLALEKYEEMFPAFTDSRECKLLKKLLEAHEEQNSEAYTEAVKEFDSISRLDQWLTTMLLRIKKSIQ
+#=GR Q9H115|PF14938|9-288  PP ***********9.**********************************************************************96
+#=GC PP_cons                  8*99******************9998*89****************************999***********************96
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O76021|PF00687|60-258          enes--------------LFLMVVLWKIP--SKE..LRVRLTLPHSIRSDsEDICLFTKDEPNStpekteqfyrkLLNKHGiktVSQIISLQTLKKEYKSYEAKLRLLSSFDFFLTDARIRRLLPSLIGRHFYQRKKVPVSVN-LLSKNLSREINDCIGG.TVLNISKSGSCSAIRIGHVGMQIEHIIENIVAVTKGLSE
+#=GR O76021|PF00687|60-258  PP 7654..............45555445555..588..99********9999788*******888878889999998888888*************************************************************7.5799************.***************************************
+P62906|PF00687|24-211          ...k-----RRKFLETVELQISLKNYDPQK-DKR..FSGTVRLKSTPRPK.FSVCVLGDQQHCD...........EAKAVD...-IPHMDIEALKKLNKNKKLVKKLAKKYDAFLASESLIKQIPRILGPGLNKAGKFPSLLT--HNENMVAKVDEVKS-.TIKFQMKKVLCLAVAVGHVKMTDDELVYNIHLAVNFLVS
+#=GR P62906|PF00687|24-211  PP ...7.....589***************998.***..**************.*************...........******....*********************************************************8..589***********..***************************************
+Q9BYD6|PF00687|115-300         .tsp---------KQSVYLDLTL-DMALGKKKNVepFTSVLSLPYPFASEiNKVAVFTENASEV..........kIAEENG...-AAFAGGTSLIQKI------WDDEIVADFYVAVPEIMPELNR-LRKKLNK--KYPKLSRNSIGRDIPKMLELFKNGhEIKVDEERENFLQTKIATLDMSSDQIAANLQAVINEVCR
+#=GR Q9BYD6|PF00687|115-300 PP .875.........6677777777.666677666689999*******988889******997766..........5899999....*************......677777899999**********.*****99..689999999*************9734666668999*****************************
+#=GC PP_cons                   .........589*888997777777777786788..99********9999.99*******8888...........999999...********************9999999*************************99**99897799***********8.8999999********************************
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx.xxxxxxxxxxxxx...........xxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O76021|PF00687|60-258          KLPEK.WESVKLLFVKTEKS-
+#=GR O76021|PF00687|60-258  PP *****.***********987.
+P62906|PF00687|24-211          LLKKN.WQNVRALYIKSTMG-
+#=GR P62906|PF00687|24-211  PP *****.*************8.
+Q9BYD6|PF00687|115-300         HRPLNlGPFVVRAFLRSSTS-
+#=GR Q9BYD6|PF00687|115-300 PP ***99988888888888765.
+#=GC PP_cons                   *****.99999999999987.
+#=GC RF                        xxxxx.xxxxxxxxxxxxxxx
+//

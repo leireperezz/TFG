@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P33241|PF02029|191-285         .------------------------------------------..---------------------------------------------------------------------------------------------------------..------------------------------------------------
+#=GR P33241|PF02029|191-285 PP ........................................................................................................................................................................................................
+Q05682|PF02029|31-291          .DDDEEEAARERRRRARQERLRQKQEEESLGQVTDQVEVNAQNsvPDEEAKTTTTNTQVEGDDEAAFLERLARREERRQKRLQEALERQKEFDPTITDASLSLPSRRMQNDTAENETTEKEEKSESRQERYEIEETETVTKSYQKNDWRD..AEENKKEDKEKEEEEEEKPK---RGSIGENQVEVMVEEK-TTESQEET
+#=GR Q05682|PF02029|31-291  PP .79****************************************9999*******************************************************************************************************..55555554444444444333...3344444433222222.22333445
+Q05682|PF02029|297-780         a--EEKAAAQERERREAEERERMREEEKRAAEERQRIKEEEKR..AAEERQRIKEEEKRAAEERQRIKEEEKRAAEERQRARAEEEEKAK------------VEEQKRNKQLEEKKHAMQETKIKGEKVEQKIEGKWVNEKKAQEDKLQTavLKKQGEEKGTKVQAKREKLQE-DKPTFKKEEIKDEKIKKDKEPKEEVK
+#=GR Q05682|PF02029|297-780 PP 5..89**************************************..*********************************************............9***********************************************98899********9999997755.9*************************
+#=GC PP_cons                   .799***************************************..9********************************************************************************************************..777777777777777765545.96777777777666666*66666777
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P33241|PF02029|191-285         ------------------.---------...--------------------------------------------------------------------------------------------------------------------------------------PLSPTTKLIDRTESLNRSIEKSNSVKKSQPDLPIS
+#=GR P33241|PF02029|191-285 PP .....................................................................................................................................................................6789*******************************
+Q05682|PF02029|31-291          VVMSLKNGQISSEEPKQE.-EEREQGSDeisHHEKMEEED------KERAEAERARLEAEER-ERIKAEQDKK-------------------------------------------------------------------------------------------------------------------------------
+#=GR Q05682|PF02029|31-291  PP 555555555555554444..34444444000444333333......3445666788999888.8888777765...............................................................................................................................
+Q05682|PF02029|297-780         SFMDRKKGFTEVKSQNGEfMTHKLKHTE...NTF---SRPGGRASVDTKEAEGAPQVEAGKRLEELRRRRGETESEEFEKLKQKQQEAALELEELKKKREERRKVLEEEEQRRKQEEADRKLREEEEKRRLKEEIERRRAEAAEKRQKMPEDGLSDDKKPFKCFTPKGSSLKIEERAEFLNKSVQKSSGVKSTHQAAIVS
+#=GR Q05682|PF02029|297-780 PP ****************************...***...88999999***********************************************************************************************************************************************************
+#=GC PP_cons                   888888888877777777.*77777777...77733356699999*6777888999999999*9999998888********************************************************************************************889********************************
+#=GC RF                        xxxxxxxxxxxxxxxxxx.xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P33241|PF02029|191-285         KIDQWLEQYTQAIEtAGRTPKLARQASIELPSMA--VASTKSRWETGEVQAQSAAKTPSCKD----------------------------------------------....
+#=GR P33241|PF02029|191-285 PP **************9999*************986..*******************9999997..................................................
+Q05682|PF02029|31-291          --------------.---------------------------------------------------------------------------------------------iade
+#=GR Q05682|PF02029|31-291  PP ............................................................................................................6778
+Q05682|PF02029|297-780         KIDSRLEQYTSAIE.GTKSAKPTKPAASDLPVPAEGVRNIKSMWEKGNVFSSPTAAGTPNKETAGLKVGVSSRINEWLTKTPDGNKSPAPKPSDLRPGDVSSKRNLWE....
+#=GR Q05682|PF02029|297-780 PP **************.********************************************************************************************9....
+#=GC PP_cons                   **************.99**************998**************************99*********************************************9....
+#=GC RF                        xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

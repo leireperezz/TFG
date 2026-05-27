@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+P02768|PF00273|31-202          v--AHRFKDLGEENFKALVLIAFAQYLQQCPFEDHVKLVNEVTEFAKTCVAD..ESAENCDKSLHTLFGDKLCTVATLRETYGEMADCCAKQ.EPERNECFLQHK.-DDNPNLPRLVRP..--EVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPELLFFAKRYKAAFTECCQAADKAACL
+#=GR P02768|PF00273|31-202  PP 6..689**********************************************..**************************************.************..77777*******....***********************************************************6
+P02768|PF00273|223-394         .-KCASLQKFGERAFKAWAVARLSQRFPKAEFAEVSKLVTDLTKVHTECCHG..-DLLECADDRAD-LAKYICENQDSI--SSKLKECCEKP.LLEKSHCIAEVEnDEMPADLPSLAAD..FVESKDVCKNYAEAKDVFLGMFLYEYARRHPDYSVVLLLRLAKTYETTLEKCCAAADPHECY
+#=GR P02768|PF00273|223-394 PP ..59************************************************...***********.************..***********.************9*************..*************************************************************8
+P02768|PF00273|414-592         .QNCELFEQLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHpeAKRMPCAEDYLSVVLNQLCVLHEKTPVSDRVTKCCTES.LVNRRPCFSALE.-VDETYVPKEFNAetFTFHADICTLSEKERQIKKQTALVELVKHKPKATKEQLKAVMDDFAAFVEKCCKADDKETCF
+#=GR P02768|PF00273|414-592 PP .68*************************************************988*************************************.************..***********99**************************************************************9
+P02771|PF00273|32-202          l---DSYQCTAEISLADLATIFFAQFVQEATYKEVSKMVKDALTAIEKPTGD..EQSSGCLENQLPAFLEELCHEKEILEKYG-HSDCCSQS.EEGRHNCFLAHK.KPTPASIPLFQVP..--EPVTSCEAYEEDRETFMNKFIYEIARRHPFLYAPTILLWAARYDKIIPSCCKAENAVECF
+#=GR P02771|PF00273|32-202  PP 7...689999******************************************..*****************************.9*******.************.*************....***********************************************************9
+P02771|PF00273|222-393         .HACAVMKNFGTRTFQAITVTKLSQKFTKVNFTEIQKLVLDVAHVHEHCCRG..-DVLDCLQDGEK-IMSYICSQQDTL--SNKITECCKLT.TLERGQCIIHAEnDEKPEGLSPNLNR..FLGDRDFNQFSSGEKNIFLASFVHEYSRRHPQLAVSVILRVAKGYQELLEKCFQTENPLEC-
+#=GR P02771|PF00273|222-393 PP .57*************************************************...***********.************..999********.**************************..*************************************************************.
+P02771|PF00273|415-592         s--CGLFQKLGEYYLQNAFLVAYTKKAPQLTSSELMAITRKMAATAATCCQLseDKLLACGEGAADIIIGHLCIRHEMTPVNPGVGQCCTSS.YANRRPCFSSLV.-VDETYVPPAFSDdkFIFHKDLCQAQGVALQTMKQEFLINLVKQKPQITEEQLEAVIADFSGLLEKCCQGQEQEVCF
+#=GR P02771|PF00273|415-592 PP 5..99***********************************************98899***********************************.************..***********99**************************************************************9
+P02774|PF00273|27-199          .KVCKEFSHLGKEDFTSLSLVLYSRKFPSGTFEQVSQLVKEVVSLTEACCAE..GADPDCYDTRTSALSAKSCESNSPFPVHPGTAECCTKE.GLERKLCMAALK.-HQPQEFPTYVEP..--TNDEICEAFRKDPKEYANQFMWEYSTNYGQAPLSLLVSYTKSYLSMVGSCCTSASPTVCF
+#=GR P02774|PF00273|27-199  PP .58*************************************************..**************************************.************..************....***********************************************************9
+P02774|PF00273|219-385         .-VCSQYAAYGEKKSRLSNLIKLAQKVPTADLEDVLPLAEDITNILSKCCES..-ASEDCMAKELPEHTVKLC--DNLSTKNSKFEDCCQEKtAMDVFVCTYFMP.AAQLPELPDVELP..--TNKDVC---DPGNTKVMDKYTFELSRRTH-LPEVFLSKVLEPTLKSLGECCDVEDSTTCF
+#=GR P02774|PF00273|219-385 PP ..6*************************************************...******************..899999*********998999*********.*************....******...999***************98.*****************************9
+P43652|PF00273|31-202          n--FNSTQKFIEDNIEYITIIAFAQYVQEATFEEMEKLVKDMVEYKDRCMAD..KTLPECSKLPNNVLQEKICAMEGLPQKHN-FSHCCSKV.DAQRRLCFFYNK.KSDVGFLPPFPTL..--DPEEKCQAYESNRESLLNHFLYEVARRNPFVFAPTLLTVAVHFEEVAKSCCEEQNKVNCL
+#=GR P43652|PF00273|31-202  PP 7..5789*********************************************..*************************9999.********.************.*************....***********************************************************6
+P43652|PF00273|222-394         .HVCGALLKFGTKVVHFIYIAILSQKFPKIEFKELISLVEDVSSNYDGCCEG..-DVVQCIRDTSK-VMNHICSKQDSI--SSKIKECCEKK.IPERGQCIINSNkDDRPKDLSLREGK..FTDSENVCQERDADPDTFFAKFTFEYSRRHPDLSIPELLRIVQIYKDLLRNCCNTENPPGCY
+#=GR P43652|PF00273|222-394 PP .689************************************************...***********.************..***********.*********999899***********..*************************************************************8
+P43652|PF00273|414-590         .QECKHFQNLGKDGLKYHYLIRLTKIAPQLSTEELVSLGEKMVTAFTTCCTL..SEEFACVDNLADLVFGELCGVNENRTINPAVDHCCKTN.FAFRRPCFESLK.-ADKTYVPPPFSQdlFTFHADMCQSQNEELQRKTDRFLVNLVKLKHELTDEELQSLFTNFANVVDKCCKAESPEVCF
+#=GR P43652|PF00273|414-590 PP .58*************************************************..**************************************.************..***************************************************************************9
+#=GC PP_cons                   .67999**********************************************..9*************************************.************.*9***********..*************************************************************8
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

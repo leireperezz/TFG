@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+O14983|PF00690|5-72            .....-HAKTTEECLAYFGVSETTGL..TP..DQVKRNLEKYGLNELPAEEGKTLWELVIEQFEDLLVRILLLAACIS..
+#=GR O14983|PF00690|5-72    PP ......899*****************..**..*********************************************8..
+O75185|PF00690|62-125          ....k------EDLARAFCVDLHTGL..SE..FSVTQRRLAHGWNEFVADNSEPVWKKYLDQFKNPLILLLLGSALVS..
+#=GR O75185|PF00690|62-125  PP ....6......789999*********..**..*********************************************8..
+P05023|PF00690|44-111          .....-HKLSLDELHRKYGTDLSRGL..TS..ARAAEILARDGPNALTPPPTTPEWIKFCRQLFGGFSMLLWIGAILC..
+#=GR P05023|PF00690|44-111  PP ......899*****************..**..********************************************96..
+P13637|PF00690|33-101          .....EHKMSVEEVCRKYNTDCVQGL..TH..SKAQEILARDGPNALTPPPTTPEWVKFCRQLFGGFSILLWIGAILC..
+#=GR P13637|PF00690|33-101  PP .....69*******************..**..********************************************96..
+P16615|PF00690|5-72            .....-HTKTVEEVLGHFGVNESTGL..SL..EQVKKLKERWGSNELPAEEGKTLLELVIEQFEDLLVRILLLAACIS..
+#=GR P16615|PF00690|5-72    PP ......899*****************..**..*********************************************8..
+P20020|PF00690|52-121          ...sy---GDVYGICTKLKTSPNEGL..SGnpADLERREAVFGKNFIPPKKPKTFLQLVWEALQDVTLIILEIAAIVS..
+#=GR P20020|PF00690|52-121  PP ...75...78999*************..9888*********************************************8..
+P20648|PF00690|55-122          .....-HQLSVAELEQKYQTSATKGL..SA..SLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGLQCLMWVAAAIC..
+#=GR P20648|PF00690|55-122  PP ......89******************..**..********************************************96..
+P23634|PF00690|47-116          .....-HYGGVQNLCSRLKTSPVEGL..SGnpADLEKRRQVFGHNVIPPKKPKTFLELVWEALQDVTLIILEIAAIIS..
+#=GR P23634|PF00690|47-116  PP ......789*****************..9888*********************************************8..
+P50993|PF00690|42-109          .....-HKLSLDELGRKYQVDLSKGL..TN..QRAQDVLARDGPNALTPPPTTPEWVKFCRQLFGGFSILLWIGAILC..
+#=GR P50993|PF00690|42-109  PP ......899*****************..**..********************************************96..
+P54707|PF00690|59-126          .....-HKLSNRELEEKYGTDIIMGL..SS..TRAAELLARDGPNSLTPPKQTPEIVKFLKQMVGGFSILLWVGAFLC..
+#=GR P54707|PF00690|59-126  PP ......6788899*************..**..*******************************************885..
+P98194|PF00690|27-94           ....s--ELPVSEVASILQADLQNGL..NK..CEVSHRRAFHGWNEFDISEDEPLWKKYISQFKNPLIMLLLASAVIS..
+#=GR P98194|PF00690|27-94   PP ....6..689****************..**..*********************************************8..
+Q01814|PF00690|50-118          ....y---GDTEAICRRLKTSPVEGLpgTA..PDLEKRKQIFGQNFIPPKKPKTFLQLVWEALQDVTLIILEIAAIIS..
+#=GR Q01814|PF00690|50-118  PP ....7...6889**************8888..*********************************************8..
+Q13733|PF00690|52-119          .....-HKLTLEELSTKYSVDLTKGH..SH..QRAKEILTRGGPNTVTPPPTTPEWVKFCKQLFGGFSLLLWTGAILC..
+#=GR Q13733|PF00690|52-119  PP ......899*****************..**..********************************************96..
+Q16720|PF00690|53-121          ....y---GDVSGLCRRLKTSPTEGL..ADntNDLEKRRQIYGQNFIPPKQPKTFLQLVWEALQDVTLIILEVAAIVS..
+#=GR Q16720|PF00690|53-121  PP ....7...6899**************..7778*********************************************8..
+Q4VNC1|PF00690|164-217         .qkfg------------------SGL..TR..EEQEIRRLICGPNTI-DVEVTPIWKLLIKEVLNPFYIFQLFSVCLW..
+#=GR Q4VNC1|PF00690|164-217 PP .8765..................8**..**..***************.**************************9986..
+Q93084|PF00690|5-72            .....-HLLPAADVLRHFSVTAEGGL..SP..AQVTGARERYGPNELPSEEGKSLWELVLEQFEDLLVRILLLAALVS..
+#=GR Q93084|PF00690|5-72    PP ......7899****************..**..*********************************************8..
+Q9H7F0|PF00690|176-226         ....s------------------AGL..TK..GMHAYRKLLYGVNEI-AVKVPSVFKLLIKEVLNPFYIFQLFSVILW..
+#=GR Q9H7F0|PF00690|176-226 PP ....7..................599..99..999************.***************************996..
+Q4VNC0|PF00690|164-213         hqtfg------------------LGL..TS..EEQEVRRLVCGPNAI-EVEIQPIWKLLVKQVLNPFYVFQ-------af
+#=GR Q4VNC0|PF00690|164-213 PP 97666..................6**..**..***************.*******************9865.......67
+#=GC PP_cons                   .....688899************9**..*9..********************************************97..
+#=GC RF                        .....xxxxxxxxxxxxxxxxxxxxx..xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P20061|PF01122|9-328         .-LVGLLLFSFIPSQLCEICEVSEENYIRLKPLLNTMIQSNYNRGTS..AVNVVLSLKLVGIQIQTLMQKMIQQIKYNVKSRL-SDVSS..........--GELALIILAL-GVCRNAEEnlIYDYHLIDKLENKFQAEIENMEAHN-GTPLTNYYQLSLDVLALCLFNGNYSTAEVVNH.FTPENKNYYFGSQ.FSVDT
+#=GR P20061|PF01122|9-328 PP ..689******************************************..**********************************.99999............**********.********99*********************8887.888*****************************.*************.*****
+P20062|PF01122|4-323         l--GAFLFLLGVLGALTEMCEIPEMDSHLVEKLGQHLLPWMDRLSLEhlNPSIYVGLRLSSLQAGTKEDLYLHSLKLGYQQCLLGSAFSeddgdcqgkpSMGQLALYLLALRANCEFVRG..HKGDRLVSQLKWFLEDEKRAIGHDHKGHPHTSYYQYGLGILALCLHQKRVHDSVVDKLlYAVEP---FHQGH.HSVDT
+#=GR P20062|PF01122|4-323 PP 5..6899**************************************9999**********************************9999999******************************..**********************************************************999887...799**.*****
+P27352|PF01122|9-307         .-LSLLWATAGTSTQTQSSCSVPSAQEPLVNGIQVLMENSVTSSAYP..NPSILIAMNLAGAYNLKAQKLLTYQLMSSDNNDL------..........TIGQLGLTIMALTSSCRDPGD..-----KVSILQRQMENWAPSS----PNAEASAFYGPSLAILALCQKNSEATLPIAVRF.----AKTLLANSSpFNVDT
+#=GR P27352|PF01122|9-307 PP ..689******************************************..**********************************................9********************.......****************....78889****************************.....999***9999*****
+#=GC PP_cons                 ..6789*****************************************..**********************************999999..........9********************..*********************99999899*****************************.**999***9****.*****
+#=GC RF                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxx
+
+P20061|PF01122|9-328         GAMAVLALTCVKKSliNgqiKADEGSLKNISIYTKSLVEKILSEKKENGLIGNTFSTGEAMQALFVSSDYYNEnDWNCQQTLNTVLTEISQGAFSNPNAAAQVLPALMGKTFLDINKDsSCVSASGNFNISADEPiTVTP--p....
+#=GR P20061|PF01122|9-328 PP **************9846789************************************************************************************************999***************76665..6....
+P20062|PF01122|4-323         AAMAGLAFTCLKRS..-...NFNPGRRQRITMAIRTVREEILKAQTPEGHFGNVYSTPLALQFLMTSPMRGAElGTACLKARVALLASLQDGAFQNALMISQLLPVLNHKTYIDLIFP.DCLAPR--VMLEP---.------aaeti
+#=GR P20062|PF01122|4-323 PP **************......**************************************************************************************************.****99..66655..........56789
+P27352|PF01122|9-307         GAMATLALTCMYNKipV...GSEEGYRSLFGQVLKDIVEKISMKIKDNGIIGDIYSTGLAMQALSVTPEPSKK.EWNCKKTTDMILNEIKQGKFHNPMSIAQILPSLKGKTYLDVPQV.TCSPDHEVQPTLPSNP.GPG---pt...
+#=GR P27352|PF01122|9-307 PP **************866...*****************************************************.********************************************.**************99.665...56...
+#=GC PP_cons                 **************..5...*****************************************************.********************************************.********88888**9.6655.......
+#=GC RF                      xxxxxxxxxxxxxx..x...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxx.....
+//

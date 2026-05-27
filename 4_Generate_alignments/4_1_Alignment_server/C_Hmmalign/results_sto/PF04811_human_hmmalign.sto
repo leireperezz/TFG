@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+O94855|PF04811|437-680         PNPPAFIFMIDVSYSNIKNGLVKLICEELKTMLEKIPKeeqeeTSAIRVGFITYNKVLHFFNVKSNL.......AQPQMMVVTDVGEVF...................VPLL.DGFLVNYQESQSVIHNLLDQIPD.MFADS..NENETVFAPVIQAGMEALKAAD..CPGKLFIFHSSLPTAEAPGKLKNRDDK...KL
+#=GR O94855|PF04811|437-680 PP 79***********************************7688888899********************.......***************...................****.***********************.*****..**********************..***************************...**
+O95486|PF04811|501-739         PQPPVYLFVFDVSHNAVETGYLNSVCQSLLDNLDLLPG.....NTRTKIGFITFDSTIHFYGLQESL.......SQPQMLIVSDIEDVF...................IPMP.ENLLVNLNESKELVQDLLKTLPQ.MFTKT..LETQSALGPALQAAFKLMS--P..TGGRMSVFQTQLPTLGV-GALKPREEP...NH
+#=GR O95486|PF04811|501-739 PP 89************************************.....************************.......***************...................****.***********************.*****..*******************..9..*****************.*********...**
+O95487|PF04811|675-914         PQPAVYLFVLDVSHNAVEAGYLTILCQSLLENLDKLPG.....DSRTRIGFMTFDSTIHFYNLQEGL.......SQPQMLIVSDIDDVF...................LPTP.DSLLVNLYESKELIKDLLNALPN.MFTNT..RETHSALGPALQAAFKLMS--P..TGGRVSVFQTQLPSLGA-GLLQSREDP...NQ
+#=GR O95487|PF04811|675-914 PP 89************************************.....************************.......***************...................****.***********************.*****..*******************..9..*****************.*********...**
+P53992|PF04811|499-743         PSPPAFIFMIDVSYNAIRTGLVRLLCEELKSLLDFLPReggaeESAIRVGFVTYNKVLHFYNVKSSL.......AQPQMMVVSDVADMF...................VPLL.DGFLVNVNESRAVITSLLDQIPE.MFADT..RETETVFVPVIQAGMEALKAAE..CAGKLFLFHTSLPIAEAPGKLKNRDDR...KL
+#=GR P53992|PF04811|499-743 PP 79***********************************66999999**********************.......***************...................****.***********************.*****..**********************..***************************...**
+Q15436|PF04811|126-390         QMPLIFLYVVDTCME---DEDLQALKESMQMSLSLLP-.....-PTALVGLITFGRMVQVHELGCEGisksyvfRGTKDLSAKQLQEMLglskvpltq.atrgpqvqqPPPS.NRFLQPVQKIDMNLTDLLGELQRdPWPVPqgKRPLRSSGVALSIAVGLLECTFpnTGARIMMFIGGPATQGPGMVVGDELKTpirSW
+#=GR Q15436|PF04811|126-390 PP 58*************...*******************.......**********************9*******************************.********88888.*****************************9*********************99****************************99****
+Q15437|PF04811|127-392         -SPLIFLYVVDTCLE---EDDLQALKESLQMSLSLLP-.....-PDALVGLITFGRMVQVHELSCEGisksyvfRGTKDLTAKQIQDMLgltkpampmqqarpaqpqeHPFAsSRFLQPVHKIDMNLTDLLGELQRdPWPVTqgKRPLRSTGVALSIAVGLLEGTFpnTGARIMLFTGGPPTQGPGMVVGDELKIpirSW
+#=GR Q15437|PF04811|127-392 PP .599***********...*******************.......**********************9*****************************************99988****************************************************99**************************98899**
+#=GC PP_cons                   78***********************************8.....9***********************.......***************...................9999.***********************.*****..*********************9..***************************...**
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxx...................xxxx.xxxxxxxxxxxxxxxxxxxxxxx.xxxxx..xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx...xx
+
+O94855|PF04811|437-680         VNTDKEKILFQPQTN-VYDSLAKDCVAHGCSVTLFLFPSQYVDVASLGLVPQLTGGTLYKYNNFQ...MHLDRQQFLNDLRN--d
+#=GR O94855|PF04811|437-680 PP ******999999999.*************************************************...***********986..7
+O95486|PF04811|501-739         RSSAKD-IHMTPSTD-FYKKLALDCSGQQVAVDLFLLSGQYSDLASLGCISRYSAGSVYYYPSYHhqhNPVQVQKLQKELQRYL.
+#=GR O95486|PF04811|501-739 PP ******.99999999.*************************************************8888999**********86.
+O95487|PF04811|675-914         RSSTKVVQHLGPATD-FYKKLALDCSGQQTAVDLFLLSSQYSDLASLACMSKYSAGCIYYYPSFHythNPSQAEKLQKDLKRYL.
+#=GR O95487|PF04811|675-914 PP ******999999999.*************************************************99999************86.
+P53992|PF04811|499-743         INTDKEKTLFQPQTG-AYQTLAKECVAQGCCVDLFLFPNQYVDVATLSVVPQLTGGSVYKYASFQ...VENDQERFLSDLRRDV.
+#=GR P53992|PF04811|499-743 PP ******888877777.*************************************************...*************986.
+Q15436|PF04811|126-390         HDIDKDNAKYVKKGTKHFEALANRAATTGHVIDIYACALDQTGLLEMKCCPNLTGGYMVMGDSFN...----TSLFKQTFQRVF.
+#=GR Q15436|PF04811|126-390 PP *****************************************************************.......**********86.
+Q15437|PF04811|127-392         HDIEKDNARFMKKATKHYEMLANRTAANGHCIDIYACALDQTGLLEMKCCANLTGGYMVMGDSFN...----TSLFKQTFQRIF.
+#=GR Q15437|PF04811|127-392 PP *****************************************************************.......*********986.
+#=GC PP_cons                   ******999999999**************************************************...99**********9986.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx.
+//

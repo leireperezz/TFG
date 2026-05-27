@@ -1,0 +1,51 @@
+# STOCKHOLM 1.0
+
+O15479|PF12440|5-92             .QKSKLRAREKRRKARDETRGLNVPQVTEAEEEE.....................APCCSSSVSGGAASSSP.AAGIPQEPQ---RAPTTAAAAAaGVSSTKSKKGAKSHQGE---k
+#=GR O15479|PF12440|5-92     PP .9********************************.....................*****************.***888888...9*9999988889************9887...5
+O15481|PF12440|5-93             .QKSKLRAREKRQRTRGQTQDLKVGQPTAAEKEE.....................SPSSSSSVLRDTASSSL.AFGIPQEPQ---REPPTTSAAA.AMSCTGSDKGDESQDEENAS.
+#=GR O15481|PF12440|5-93     PP .9********************************.....................*****************.***888887...9*********.*****************987.
+P43355|PF12440|5-89             .QRSLHCKPEEALEAQQEALGLVCVQAAT-----.....................--SSSSPLVLGTLEEVP.TAGSTDPPQSPQGASAFPTTIN.FTRQRQPSEGSSSREEEGPS.
+#=GR P43355|PF12440|5-89     PP .89***********************955............................578************.**********************.******************97.
+P43356|PF12440|5-95             .QRSQHCKPEEGLEARGEALGLVGAQAPATEEQQ.....................TASSSSTLVEVTLGEVP.AADSPSPPHSPQGASSFSTTIN.YTLWRQSDEGSSNQEEEGP-.
+#=GR P43356|PF12440|5-95     PP .89*******************************.....................*****************.**********************.*****************97..
+P43357|PF12440|5-96             .QRSQHCKPEEGLEARGEALGLVGAQAPATEEQE.....................AASSSSTLVEVTLGEVP.AAESPDPPQSPQGASSLPTTMN.YPLWSQSYEDSSNQEEEGPS.
+#=GR P43357|PF12440|5-96     PP .89*******************************.....................*****************.**********************.******************97.
+P43358|PF12440|5-97             .QKSQHCKPEEGVEAQEEALGLVGAQAPTTEEQE....................aAVSSSSPLVPGTLEEVP.AAESAGPPQSPQGASALPTTIS.FTCWRQPNEGSSSQEEEGPS.
+#=GR P43358|PF12440|5-97     PP .9****************************9999....................989999************.**********************.******************97.
+P43360|PF12440|5-96             .QRSQHCKPEEGLEARGEALGLVGAQAPATEEQE.....................AASSSSTLVEVTLGEVP.AAESPDPPQSPQGASSLPTTMN.YPLWSQSYEDSSNQEEEGPS.
+#=GR P43360|PF12440|5-96     PP .89*******************************.....................*****************.**********************.******************97.
+P43361|PF12440|5-96             .QKSQRYKAEEGLQAQGEAPGLMDVQIPTAEEQK.....................AASSSSTLIMGTLEEVT.DSGSPSPPQSPEGASSSLTVTD.STLWSQSDEGSSSNEEEGPS.
+#=GR P43361|PF12440|5-96     PP .9********************************.....................*****************.**********************.******************97.
+P43364|PF12440|115-206          .QRSQHCKPEEGLQAQEEDLGLVGAQALQAEEQE.....................AAFFSSTLNVGTLEELP.AAESPSPPQSPQEESFSPTAMD.AIFGSLSDEGSGSQEKEGPS.
+#=GR P43364|PF12440|115-206  PP .89*******************************.....................*****************.**********************.******************97.
+P43365|PF12440|5-96             .QRSQHCKPEEGLEAQGEALGLVGAQAPATEEQE.....................TASSSSTLVEVTLREVP.AAESPSPPHSPQGASTLPTTIN.YTLWSQSDEGSSNEEQEGPS.
+#=GR P43365|PF12440|5-96     PP .89*******************************.....................*****************.**********************.******************97.
+Q8N7X4|PF12440|5-95             .HKSKLRTCEKRQETNGQPQGLTGPQATAEKQEEs...................hSSSSSSRACLGDCRRSS.DA---SIPQESQGVSPTGSPDA.VVSYSKSDVAANGQDEKSPS.
+#=GR Q8N7X4|PF12440|5-95     PP .7****************************99999...................999999************.**...56666669*********.******************97.
+Q8N7X4|PF12440|100-137          a---------------------------------.....................-----------------.-----SVPQESQGASPTGSPDA.GVSGSKYDVAANGQDEKSPS.
+#=GR Q8N7X4|PF12440|100-137  PP 7.............................................................................78***************.******************97.
+Q96M61|PF12440|5-92             .QKSKLRAREKRHQARCENQDLGATQATVA-EGE.....................SPSPAYLLFGDRPQNLP.AAETPSIPEALQGAPSTTNAIA.PVSCSS-NEGASSQDEKS--.
+#=GR Q96M61|PF12440|5-92     PP .9****************************.889.....................9****************.**********************.*****9.9********96...
+P43363|PF12440|6-118            .-KRQRCMPEEDLQSQSETQGLEGAQAPLAVEEDassststsssfpssfpsssssSSSSCYPLIPSTPEEVSaDDETPNPPQSAQIACSSPSVVA.SLPLDQSDEGSSSQKEESPS.
+#=GR P43363|PF12440|6-118    PP ..899****************************9*****9999999999998877777779***********6668*******************.******************97.
+O15480|PF12440|5-95             .QKSTLHAREKRQQTRGQTQDHQGAQITATNKKK.....................VSFSSPLILGATIQKKS.AGRSRSALKKPQRALSTTT-SV.DVSYKKSYKGANSKIEKKQS.
+#=GR O15480|PF12440|5-95     PP .9********************************.....................999999999********.**************98877.88.9****************986.
+P43359|PF12440|5-96             .QKSQHCKPEEGLDTQEEALGLVGVQAATTEEQE.....................AVSSSSPLVPGTLGEVP.AAGSPGPLKSPQGASAIPTAID.FTLWRQSIKGSSNQEEEGPS.
+#=GR P43359|PF12440|5-96     PP .9********************************.....................*****************.**********************.******************97.
+P43362|PF12440|5-92             .QRSPHCKPDEDLEAQGEDLGLMGAQEPTGEEEE.....................TTSSS----DSKEEEVS.AAGSSSPPQSPQGGASSSISVY.YTLWSQFDEGSSSQEEEEPS.
+#=GR P43362|PF12440|5-92     PP .89*******************************.....................88754....67789***.**********************.******************97.
+P43366|PF12440|5-92             .QKSKLRAREKRRKAREETQGLKVAHATAAEKEE.....................CPS-SSPVLGDTPTSSP.AAGIPQKPQ---GAPPTTTAAA.AVSCTESDEGAKCQGEENAS.
+#=GR P43366|PF12440|5-92     PP .9********************************.....................985.89***********.***887777...9*********.*****************987.
+A0A0J9YX57|PF12440|5-95         .QKSKLRARGKRRETHDQPQGLTGPQATAEKQEEs...................rSSSSSSAVCQGARRRSS.GS---SVPQESQGASPTGYPDA.GASCSKYDVAAMGQDEKSPS.
+#=GR A0A0J9YX57|PF12440|5-95 PP .9****************************99999...................*9****************.99...7899999**********.******************97.
+A2A368|PF12440|5-95             .QESPRCTHDQHLQTFSETQSLEVAQVSKALEKT.....................LLSSSHPLVPGKLKEAP.AAKAESPLEVPQSFCSSSIAVT.TTSSSESDEASSNQEEED--s
+#=GR A2A368|PF12440|5-95     PP .89*******************************.....................*****************.**********************.*****************7..5
+A6NCF6|PF12440|5-97             .QKSRHCELEQGLQAPKEAQGLVGVQVAEAEKVNt...................tASSSPSTLIQGTLEKVS.ASGTPGTPQSSQRVCSPCTTIK.ATPWNQSDESSRSQEKKDP-.
+#=GR A6NCF6|PF12440|5-97     PP .9****************************99989...................999999************.**********************.****************986..
+A8MXT2|PF12440|5-93             .QASKRRAREKRRQARGEDQCLGGAQATAAEKEK.....................LPSSSSPACQSPPQSFP.NAGIPQESQ---RASYPSSPAS.AVSLTSSDEGAKGQKGESPN.
+#=GR A8MXT2|PF12440|5-93     PP .78*******************************.....................*****************.***888888...9*********.******************97.
+Q96LZ2|PF12440|5-94             .QKSKLRAREKRRQARGGLEDLIDALDILEEEEE.....................SPPSASACLKDVFQSSL.DG-ASNNPHGLREAQSTSTSAT.AASHTRHPEGVNDQMEERP-.
+#=GR Q96LZ2|PF12440|5-94     PP .9********************************.....................****************9.77.89*****************.*****************97..
+#=GC PP_cons                    .99*******************************.....................99999************.***9*9999*************.*****************997.
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....................xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P16444|PF01244|26-351         i--MRDSPVIDGHNDLPWQLLDMFNNRLqderaNLTTLAGTHTNIPKLRAGFVGGQFWSVYTPCDTQNKDAVRRTLEQMDVVHRMCRMYPETFLYVTSSAGIRQAFREGKVASLIGVEGGHSIDSSLGVLRALYQLGMRYLTLTHSCNTPWADNWLVDTgdsePQSQGLSPFGQRVVKELNRLGVLIDLAHVSVATMKAT
+#=GR P16444|PF01244|26-351 PP 6..689********************999999999*************************************************************************************************************************999999999***********************************
+Q9H4A9|PF01244|79-399         l--MRDFPLVDGHNDLPLVLRQVYQKGLq..dvNLRNFSYGQTSLDRLRDGLVGAQFWSAYVPCQTQDRDALRLTLEQIDLIRRMCASYSE-LELVTSAKALND---TQKLACLIGVEGGHSLDNSLSILRTFYMLGVRYLTLTHTCNTPWAESSAKGVhsfyNNISGLTDFGEKVVAEMNRLGMMVDLSHVSDAVARRA
+#=GR Q9H4A9|PF01244|79-399 PP 5..789*******************9999..99*********************************************************9.***********5...556*******************************************9999888999*************************************
+Q9H4B8|PF01244|87-407         l--MRSFPLVDGHNDLPQVLRQRYKNVLq..dvNLRNFSHGQTSLDRLRDGLVGAQFWSASVSCQSQDQTAVRLALEQIDLIHRMCASYSE-LELVTSAEGLN---SSQKLACLIGVEGGHSLDSSLSVLRSFYVLGVRYLTLTFTCSTPWAESSTKFRhhmyTNVSGLTSFGEKVVEELNRLGMMIDLSYASDTLIRRV
+#=GR Q9H4B8|PF01244|87-407 PP 6..7899*******************999..9**********************************************************9.***********...7778***********************************************99999999***********************************
+#=GC PP_cons                  ...789********************99.....*********************************************************9************7**8788*********************************************9999....99***********************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P16444|PF01244|26-351         LQLSRAPVIFSHSSAYSVCASRRNVPDDVLRLVKQTDSLVMVNFYNNYISCTNKANLSQVADHLDHIKEVAGARAVGFGGDFDGVPRVPEGLEDVSKYPDLIAELLRRNWTEAEVKGALADNLLRVFE-
+#=GR P16444|PF01244|26-351 PP ******************************************************************************************************************************96.
+Q9H4A9|PF01244|79-399         LEVSQAPVIFSHSAARGVCNSARNVPDDILQLLKKNGGVVMVSLSMGVIQCNPSANVSTVADHFDHIKAVIGSKFIGIGGDYDGAGKFPQGLEDVSTYPVLIEELLSRGWSEEELQGVLRGNLLRVFRQ
+#=GR Q9H4A9|PF01244|79-399 PP *******************************************************************************************************************************86
+Q9H4B8|PF01244|87-407         LEVSQAPVIFSHSAARAVCDNLLNVPDDILQLLKKNGGIVMVTLSMGVLQCNLLANVSTVADHFDHIRAVIGSEFIGIGGNYDGTGRFPQGLEDVSTYPVLIEELLSRSWSEEELQGVLRGNLLRVFRQ
+#=GR Q9H4B8|PF01244|87-407 PP *******************************************************************************************************************************86
+#=GC PP_cons                  ******************************************************************************************************************************986
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

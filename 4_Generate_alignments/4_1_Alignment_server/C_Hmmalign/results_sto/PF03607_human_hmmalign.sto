@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+O15075|PF03607|76-137          -ISPDRFRSFEALLADLTRTLsdnVNLPQG-VRTIYTIDGlKKISSLD.QLVEGESYVCG.SIEPF..
+#=GR O15075|PF03607|76-137  PP .799********************99***9.*****************.***********.*9998..
+O15075|PF03607|204-263         LLNKKTAHSFEQVLTDITDAI...-KLDSGVVKRLYTLDG.KQVMCLQdFFGDDDIFIAC.GPEKF..
+#=GR O15075|PF03607|204-263 PP 69******************7....8**************.******99***********.****9..
+O43602|PF03607|72-132          -VSSDRFRSFDALLADLTRSLsdnINLPQG-VRYIYTIDGsRKIGSMD.ELEEGESYVCS.SD---nf
+#=GR O43602|PF03607|72-132  PP .7999*******************88***9.*****************.***********.85...69
+O43602|PF03607|198-257         LLNKKTAHSFEQVLTDITEAI...-KLETGVVKKLYTLDG.KQVTCLHdFFGDDDVFIAC.GPEKF..
+#=GR O43602|PF03607|198-257 PP 69******************7....8**************.******88***********.****9..
+P56715|PF03607|54-110          VVNPRSFKSFDALLDNLSRKV...P-LPFG-VRNISTPRGrHSITRLE.ELEDGESYLCShG----r.
+#=GR P56715|PF03607|54-110  PP 89******************9...6.****.*****************.**********944....6.
+P56715|PF03607|171-227         LLSRRVTQSFEAFLQHLTEV-...--MQRP-VVKLYATDG.RRVPSLQaVILSSGAVVAA.GREPF..
+#=GR P56715|PF03607|171-227 PP 689*****************......8996.*********.*******************.****9..
+Q8IWN7|PF03607|53-109          -VHQRAFKTFSALMDELSQRV...P-LSFG-VRSVTTPRGlHSLSALE.QLEDGGCYLCS.DKK--p.
+#=GR Q8IWN7|PF03607|53-109  PP .89*****************9...6.***9.*****************.**********9.876..6.
+Q8IWN7|PF03607|169-225         VLSHRNTRNLAAFLGKASDL-...--LRFP-VKQLYTTSG.KKVDSLQaLLHSPSVLVCA.GHEAF..
+#=GR Q8IWN7|PF03607|169-225 PP 79******************......***7.*********.*******************.***98..
+Q8N568|PF03607|91-152          -ISSDRFRSFDALLIELTRSLsdnVNLPQG-VRTIYTIDGsRKVTSLD.ELLEGESYVCA.SNEPF..
+#=GR Q8N568|PF03607|91-152  PP .7899*******************99***9.*****************.***********.****9..
+Q8N568|PF03607|215-274         LLNKKTAHSFEQVLTDITEAI...-KLDSGVVKRLCTLDG.KQVTCLQdFFGDDDVFIAC.GPEKF..
+#=GR Q8N568|PF03607|215-274 PP 69******************7....8**************.******99***********.****9..
+Q9UHG0|PF03607|35-94           VIHEKKVSSFEVFLKEVTGGV...-QAPFGAVRNIYTPRTgHRIRKLD.QIQSGGNYVAG.GQEAF..
+#=GR Q9UHG0|PF03607|35-94   PP 79******************8....6**********************.***********.***98..
+Q9UHG0|PF03607|157-215         LIPRKTLNQWDHVLQMVTEKI...-TLRSGAVHRLYTLEG.KLVESGA.ELENGQFYVAV.GRDKF..
+#=GR Q9UHG0|PF03607|157-215 PP 699*****************8....7**************.*******.***********.***99..
+A2VCK2|PF03607|27-85           VVTQRRFPTMEAFLCEVTSAV...-QAPLA-VRALYTPCHgHPVTNLA.DLKNRGQYVAA.GFERF..
+#=GR A2VCK2|PF03607|27-85   PP 799*****************8....6***6.*****************.***********.****9..
+A2VCK2|PF03607|148-205         -LSQAASQDWETVLKLLTEKV...-KLQSGAVCKLCTLEG.LPLSAGK.ELVTGHYYVAV.GEDEF..
+#=GR A2VCK2|PF03607|148-205 PP .688999*************7....8**************.*******.***********.*9987..
+A8MYV0|PF03607|34-92           VLSRRRAATFEALLEQLTEQV...-DVPFG-VRRLFTPTRgHRVLGLD.ALQAGGKYVAA.GRERF..
+#=GR A8MYV0|PF03607|34-92   PP 79******************8....6****.********99*******.***********.****9..
+A8MYV0|PF03607|155-211         -IPKFSLSDWDIVLATIGEKV...--FPLGGVRKLFTMNG.HLLGDSK.DLQDNHFYVAV.GLETF..
+#=GR A8MYV0|PF03607|155-211 PP .689999*************6.....**************.*******.***********.***98..
+#=GC PP_cons                   689*****************8...88***9**********.*******.***********.99998..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxxxxxx.xxxxx..
+//

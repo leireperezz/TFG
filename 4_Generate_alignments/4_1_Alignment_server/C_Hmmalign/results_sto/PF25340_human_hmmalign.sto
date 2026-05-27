@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+P22670|PF25340|608-896         ..FQVLYREHCEAIVDVMVNLQFTLVETLWKTFWrynlsqpsea...pplavhdeaeKRLPkAILVLLSKFEPVLQWTKHCDNVLYQGLVEILIPDVLRPIPSALTQAIRNFAKSLESWLTHAMVNIPEEMLRVKVAAAGAFAQTLRRYTSLNHLAQAARAVLQNTAQINQMLSDLNR.VDFANVQEQASWVCR....CE
+#=GR P22670|PF25340|608-896 PP ..6789**************************************...**************6667778899***********************************************************************************************************.***************....**
+P48378|PF25340|371-659         lv----YRRHCEATVDVVMNLQFHYIEKLWLSFWnskasssdgpt.slpasdedpegAVLPkDKLISLCQCDPILRWMRSCDHILYQALVEILIPDVLRPVPSTLTQAIRNFAKSLEGWLTNAMSDFPQQVIQTKVGVVSAFAQTLRRYTSLNHLAQAARAVLQNTSQINQMLSDLNR.VDFANVQEQASWVCQ....CE
+#=GR P48378|PF25340|371-659 PP 85....***************************************.**********9999999*******************************************************************************************************************.***************....**
+P48380|PF25340|353-644         ..LQSLYREHCEAILDVVVNLQFSLIEKLWQTFWryspstptdgttitessnlseieSRLPkAKLITLCKHESILKWMCNCDHGMYQALVEILIPDVLRPIPSALTQAIRNFAKSLEGWLSNAMNNIPQRMIQTKVAAVSAFAQTLRRYTSLNHLAQAARAVLQNTSQINQMLSDLNR.VDFANVQEQASWVCQ....CD
+#=GR P48380|PF25340|353-644 PP ..5789***************************************************9***99*******************************************************************************************************************.***************....**
+Q33E94|PF25340|201-474         ..FIMMYRTHCQRILDTVIRANFDEVQSFLLHFW.......................QGMP.PHMLPVLGSSTVVNIVGVCDSILYKAISGVLMPTVLQALPDSLTQVIRKFAKQLDEWLKVALHDLPENLRNIKFELSRRFSQILRRQTSLNHLCQASRTVIHSADITFQMLEDWRN.VDLNSITKQTLYTMEdsrdEH
+#=GR Q33E94|PF25340|201-474 PP ..89******************************.......................****.********************************************************************************************************************.**************9765333
+Q8HWS3|PF25340|264-542         ..LIMMYKTHCQCILDNAINGNFEEIQHFLLHFW.......................QGMP.DHLLPLLENPVIIDIFCVCDSILYKVLTDVLIPATMQEMPESLLADIRNFAKNWEQWVVSSLENLPEALTDKKIPIVRRFVSSLKRQTSFLHLAQIARPALFDQHVVNSMVSDIER.VDLNSIGSQALLTISg..sT-
+#=GR Q8HWS3|PF25340|264-542 PP ..689*****************************.......................****.********************************************************************************************************************.**************96..52.
+Q6ZV50|PF25340|178-446         ..LADEYCNYCRDILRN--------VEDLLTSFW.......................KSLQ.QDTVMLMSLPDVCQLFKCYDVQLYKGIEDVLLHDFLEDVSIQYLKSVQLFSKKFKLWLLNALEGVPALLQISKLKEVTLFVKRLRRKTYLSNMAKTMRMVLKSKRRVSVLKSDLQAiINQGTLATSKKALASd..rSG
+#=GR Q6ZV50|PF25340|178-446 PP ..6899**********9........9********.......................****.********************************************************************************************************************99*****9999998886..655
+#=GC PP_cons                   ..6899****************************.......................****.9999****************************************************************************************************************.**************9....77
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......................xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx....xx
+
+P22670|PF25340|608-896         DRVVQRL.........EQDFKVTLQQQNSLEQWAAWLDGVVSQVLKPYQGSA-.GFPKAAKLFLLKWSFYSSMVIRDLTLRSAASFGSFHLIRLLYDEYMYYLIEHRVAQ-.
+#=GR P22670|PF25340|608-896 PP *******.........***********************************9..*****************************************************986..
+P48378|PF25340|371-659         ESVVQRL.........EQDFKLTLQQQSSLDQWASWLDSVVTQVLKQHAGSP-.SFPKAARQFLLKWSFYSSMVIRDLTLRSAASFGSFHLIRLLYDEYMFYLVEHRVAE-.
+#=GR P48378|PF25340|371-659 PP *******.........***********************************9..*****************************************************985..
+P48380|PF25340|353-644         DNMVQRL.........ETDFKMTLQQQSTLEQWAAWLDNVMMQALKPYEGRP-.SFPKAARQFLLKWSFYSSMVIRDLTLRSAASFGSFHLIRLLYDEYMFYLVEHRVAQ-.
+#=GR P48380|PF25340|353-644 PP *******.........***********************************9..*****************************************************986..
+Q33E94|PF25340|201-474         RKLITQL.........YQEFDHLLEEQSPIESYIEWLDTMVDRCVVKVAAKRQgSLKKVAQQFLLMWSCFGTRVIRDMTLHSAPSFGSFHLIHLMFDDYVLYLLESLHC--q
+#=GR Q33E94|PF25340|201-474 PP 3337777.........*********************************99999***************************************************9875..6
+Q8HWS3|PF25340|264-542         -DTESGIytehdsitvFQELKDLLKKNATVEAFIEWLDTVVEQRVIKTSKQNGrSLKKRAQDFLLKWSFFGARVMHNLTLNNASSFGSFHLIRMLLDEYILLAMETQFN--n
+#=GR Q8HWS3|PF25340|264-542 PP .443333334466777***********************************999***************************************************9976..6
+Q6ZV50|PF25340|178-446         ADELENNpe....mkcLRNLISLLGTSTDLRVFLSCLSSHLQAFVFQTSRSKE.EFTKLAASFQLRWNLLLTAVSKAMTLCHRDSFGSWHLFHLLLLEYMIHILQSCLE--e
+#=GR Q6ZV50|PF25340|178-446 PP 555666688....888*************************************.****************************************************987..6
+#=GC PP_cons                   8778888.........***********************************99.****************************************************9876..
+#=GC RF                        xxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

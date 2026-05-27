@@ -1,0 +1,62 @@
+# STOCKHOLM 1.0
+
+O75487|PF01153|13-527         lavlsaall------------AAELK.SKSCSEVRRLYVSKGF.NKNDAPLHEINGDHLKIC.PQGSTCCSQEMEEKYSLQSKDDFKSVVSEQCNHLQAVFASRYKKFDEFFKELLENAEKSLNDMFVKTYGHLYMQNSELFKDLFVELKRYYVVGNVNLEEMLNDFWARLLERMF.RLVNSQYHFTD...EYLECVSKY
+#=GR O75487|PF01153|13-527 PP 987766555............57789.9***************.******************.*****************************************************************************************************************.***********...*********
+P35052|PF01153|19-550         .......ac--------ARGDPAS-K.SRSCGEVRQIYGAKGF.SLSDVPQAEISGEHLRIC.PQGYTCCTSEMEENLANRSHAELETALRDSSRVLQAMLATQLRSFDDHFQHLLNDSERTLQATFPGAFGELYTQNARAFRDLYSELRLYYRGANLHLEETLAEFWARLLERLF.KQLHPQLLLPD...DYLDCLGKQ
+#=GR P35052|PF01153|19-550 PP .......75........6777887.9.****************.******************.*****************************************************************************************************************.***********...*********
+P51654|PF01153|14-577         .........MLLSLDFPGQAQPPPPPpDATCHQVRSFFQRLQP.GLKWVPETPVPGSDLQVClPKGPTCCSRKMEEKYQLTARLNMEQLLQSASMELKFLIIQNAAVFQEAFEIVVRHAKNYTNAMFKNNYPSLTPQAFEFVGEFFTDVSLYILGSDINVDDMVNELFDSLFPVIYtQLMNPG--LPDsalDINECLRGA
+#=GR P51654|PF01153|14-577 PP .........5788999*****999888****************.*******************************************************************************************************************************************..99999**********
+P78333|PF01153|13-568         ........l--LLLALVGSARSEG--.VQTCEEVRKLFQWRLLgAVRGLPDSPRAGPDLQVCiSKKPTCCTRKMEERYQIAARQDMQQFLQTSSSTLKFLISRNAAAFQETLETLIKQAENYTSILFCSTYRNMALEAAASVQEFFTDVGLYLFGADVNPEEFVNRFFDSLFPLVYnHLINPG--VTDsslEYSECIRMA
+#=GR P78333|PF01153|13-568 PP ........6..5666677777666...6**************9899**********************************************************************************************************************************99*****..777778*********
+Q8N158|PF01153|13-553         ...plcpgp--------GPGPGSEAKvTRSCAETRQVLGARGY.SLNLIPPALISGEHLRVC.PQEYTCCSSETEQRLIRETEATFRGLVEDSGSFLVHTLAARHRKFDEFFLEMLSVAQHSLTQLFSHSYGRLYAQHALIFNGLFSRLRDFYGESGEGLDDTLADFWAQLLERVF.PLLHPQYSFPP...DYLLCLSRL
+#=GR Q8N158|PF01153|13-553 PP ...987665........4555666677****************.******************.*****************************************************************************************************************.***********...*******99
+Q9Y625|PF01153|22-535         ........g-------------ADVK.ARSCGEVRQAYGAKGF.SLADIPYQEIAGEHLRIC.PQEYTCCTTEMEDKLSQQSKLEFENLVEETSHFVRTTFVSRHKKFDEFFRELLENAEKSLNDMFVRTYGMLYMQNSEVFQDLFTELKRYYTGGNVNLEEMLNDFWARLLERMF.QLINPQYHFSE...DYLECVSKY
+#=GR Q9Y625|PF01153|22-535 PP ........7.............5789.****************.******************.*****************************************************************************************************************.***********...*********
+#=GC PP_cons                  .........57677888777777788.9***************.******************.*****************************************************************************************************************.********999...*********
+#=GC RF                       .........xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx...xxxxxxxxx
+
+O75487|PF01153|13-527         TE....QLKPFGDVPRKLKLQVTRAFVAARTFAQGLAVAGDVVSKVSVVNPTAQCTHALLKMIYCSHCRGLVTVKPCYNYCSNIMRGCLANQGDLDFEWNNFIDAMLMVAERLEGPFNIESVMDPIDVKISDAIMNMQDNSVQVSQKVFQGCGPPKPLPAgRISRSISESAFSAR-FRPHHPEERPTTAAGTSLDRLVTD
+#=GR O75487|PF01153|13-527 PP **....*********************************************************************************************************************************************************9999999999999999.************************
+P35052|PF01153|19-550         AE....ALRPFGEAPRELRLRATRAFVAARSFVQGLGVASDVVRKVAQVPLGPECSRAVMKLVYCAHCLGVPGARPCPDYCRNVLKGCLANQADLDAEWRNLLDSMVLITDKFWGTSGVESVIGSVHTWLAEAINALQDNRDTLTAKVIQGCGNPKV---.-NPQGPGPEEKRRRGKLAPR--ERPP--S-GTLEKLVSE
+#=GR P35052|PF01153|19-550 PP **....*******************************************************************************************************************************************************.....9******999999766554..4443..3.45799****
+P51654|PF01153|14-577         RR....DLKVFGNFPKLIMTQVSKSLQVTRIFLQALNLGIEVINTTDHLKFSKDCGRMLTRMWYCSYCQGLMMVKPCGGYCNVVMQGCMAGVVEIDKYWREYILSLEELVNGMYRIYDMENVLLGLFSTIHDSIQYVQKNAGKLTTTIGKLCAHSQQRQY.RSAYYPEDLFIDKKVLKVAHVEHEETLSSRRR------E
+#=GR P51654|PF01153|14-577 PP **....**********************************************************************************************************************************************************.********************************......*
+P78333|PF01153|13-568         RR....DVSPFGNIPQRVMGQMGRSLLPSRTFLQALNLGIEVINTTDYLHFSKECSRALLKMQYCPHCQGLALTKPCMGYCLNVMRGCLAHMAELNPHWHAYIRSLEELSDAMHGTYDIGHVLLNFHLLVNDAVLQAHLNGQKLLEQVNRICGRPVRTPT.QSPRCSFDQSKEKHGMKTTTRNSEETLANRRK------E
+#=GR P78333|PF01153|13-568 PP **....**********************************************************************************************************************************************************.********************************......*
+Q8N158|PF01153|13-553         ASstdgSLQPFGDSPRRLRLQITRTLVAARAFVQGLETGRNVVSEALKVPVSEGCSQALMRLIGCPLCRGVPSLMPCQGFCLNVVRGCLSSRG-LEPDWGNYLDGLLILADKLQGPFSFELTAESIGVKISEGLMYLQENSAKVSAQVFQECGPPDPVPA.RNRRAPPPREEAGRLWSMVTEEERPTTAAGTNLHRLVWE
+#=GR Q8N158|PF01153|13-553 PP 8877789************************************************************************************99.******************************************************************.***************************************
+Q9Y625|PF01153|22-535         TD....QLKPFGDVPRKLKIQVTRAFIAARTFVQGLTVGREVANRVSKVSPTPGCIRALMKMLYCPYCRGLPTVRPCNNYCLNVMKGCLANQADLDTEWNLFIDAMLLVAERLEGPFNIESVMDPIDVKISEAIMNMQENSMQVSAKVFQGCGQPKPAPAlRSARSA-PENFNTR-FRPYNPEERPTTAAGTSLDRLVTD
+#=GR Q9Y625|PF01153|22-535 PP **....**********************************************************************************************************************************************************6666665.8899999.************************
+#=GC PP_cons                  **....**********************************************************************************************************************************************************.999999*99*****999999**9999**9*999******
+#=GC RF                       xx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O75487|PF01153|13-527         VKEKLKQAKKFWSSLPSNVCNDERMAAGNGNEDD.CWNGKG.KSRYLFAVTGNGLANQGNNPEVQVDTSKPDILILRQIMALRVMTSKMKNAYN..............GNDVDFF....DISDES.SGEGSGSGCEYQQCPSEFDYNAtD-------------------------....---------------------
+#=GR O75487|PF01153|13-527 PP **********************************.******.****************************************************..............*******....******.*****************9988732..................................................
+P35052|PF01153|19-550         AKAQLRDVQDFWISLPGTLCS-EKMALSTASDDR.CWNGMA.RGRYLPEVMGDGLANQINNPEVEVDITKPDMTIRQQIMQLKIMTNRLRSAYN..............GNDVDFQ....DASDDG.SGSGSGDGCLDDLCSRKVSRKS.SSSRTPLTHALPGLSEQEGQKTSAAS....CPQPPTFL-------------
+#=GR P35052|PF01153|19-550 PP *********************.************.******.****************************************************..............*******....******.*********************9.************99999999999888....77766655.............
+P51654|PF01153|14-577         LIQKLKSFISFYSALPGYICSHSPVAEN----DTlCWNGQElVERYSQKAARNGMKNQFNLHELKMKGPEP--VVSQIIDKLKHINQLLRTMSMpkgrvldknldeegFESGDCG....DDEDECiGGSGDGM----IKVKNQLRFLAeLAYDLDVDDAPGNSQQATPKDNEISTfhnlGNVHSPLKLLTSMAISVVCFF
+#=GR P51654|PF01153|14-577 PP ************************9999....777************************************..********************9998888776666652333556....******9******9....99********999***********************99999999*****************98
+P78333|PF01153|13-568         FINSLRLYRSFYGGLADQLCANELAAAD----GLpCWNGEDiVKSYTQRVVGNGIKAQSGNPEVKVKGIDP--VINQIIDKLKHVVQLLQGRSPkpdkwe.llqlgsgGGMVEQVsgdcDDEDGC.GGSGSGE------VKRTLKITDwMPDDMNFSDVKQIHQTDTGSTLDTTG....AGCAVATESMTFTLISVVML-
+#=GR P78333|PF01153|13-568 PP *********************9999998....666******9*****************************..***************************.*******99999989999******.******8......9********9**************************....*****************997.
+Q8N158|PF01153|13-553         LRERLARMRGFWARLSLTVCGDSRMAADASLEAApCWTGAG.RGRYLPPVVGGSPAEQVNNPELKVDASGPDVPTRRRRLQLRAATARMKTAAL..............GHDLDGQ....DADEDA.SGSGGGQQYADDWMAGAVAPP-.---ARPPRPPYPPRRDGSGGKGGGGS....ARYNQGR--------------
+#=GR Q8N158|PF01153|13-553 PP *****************************************.****************************************************..............*******....******.****************99955.....58999999999999999999999....9998876..............
+Q9Y625|PF01153|22-535         IKEKLKLSKKVWSALPYTICKDESVTAGTSNEEE.CWNGHS.KARYLPEIMNDGLTNQINNPEVDVDITRPDTFIRQQIMALRVMTNKLKNAYN..............GNDVNFQ....DTSDES.SGSGSGSGCMDDVCPTEFEFVT.--TEAPAVDPDR--------------....---------------------
+#=GR Q9Y625|PF01153|22-535 PP **********************************.******.****************************************************..............*******....******.*******************998...6666654444.......................................
+#=GC PP_cons                  ********************************99.******.****************************************************..............8999999....******.******9***********9989.8*9899999999**********9999....99998888**********988
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxx....xxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx
+
+O75487|PF01153|13-527         --hagksaneka.
+#=GR O75487|PF01153|13-527 PP ..3344556689.
+P35052|PF01153|19-550         --lplllflal..
+#=GR P35052|PF01153|19-550 PP ..455556678..
+P51654|PF01153|14-577         F-...........
+#=GR P51654|PF01153|14-577 PP 6............
+P78333|PF01153|13-568         --l..........
+#=GR P78333|PF01153|13-568 PP ..5..........
+Q8N158|PF01153|13-553         --srs........
+#=GR Q8N158|PF01153|13-553 PP ..578........
+Q9Y625|PF01153|22-535         --revdssaaqrg
+#=GR Q9Y625|PF01153|22-535 PP ..34455567789
+#=GC PP_cons                  6............
+#=GC RF                       xx...........
+//

@@ -1,0 +1,40 @@
+# STOCKHOLM 1.0
+
+P22105|PF25024|407-631         .......-DCNQRGRCEDGRCVCWPGYTGTDCGS..RACPRDCRGRGRCE...NG.VCVCNAGYSGEDCGVRSC---PGDCRGRGRCES....GRCMCWPGYTGRDCGT..RACP-GDCRGRGRCVDGR....CVCNPGFTGEDCGS--RRCPGDCRGHGLC--EDGVCVCDAGYSGEDCSTRSCPGGCRGRGQCLDGR.
+#=GR P22105|PF25024|407-631 PP ........7*************************..**************...**.**************9998...79**********....****************..***9.69***********....*************8..69**********9..699********************************.
+P24821|PF25024|286-509         .......NNCYNRGRCVENECVCDEGFTGEDCSE..LICPNDCFDRGRCI...NG.TCYCEEGFTGEDCGKPTC---PHACHTQGRCEE....GQCVCDEGFAGVDCSE..KRCP-ADCHNRGRCVDGR....CECDDGFTGADCGEL--KCPNGCSGHGRCV--NGQCVCDEGYTGEDCSQLRCPNDCHSRGRCVEGK.
+#=GR P24821|PF25024|286-509 PP .......69*************************..**************...**.**************9998...678*********....****************..***9.69***********....*************85..8***********8..899*******************************.
+P78504|PF25024|433-682         .....sy------------YCDCLPGWMGQNCDIniNDCLGQCQNDASCRdlvNGyRCICPPGYAGDHCERDIDECASNPCLNGGHCQNeinrFQCLCPTGFSGNLCQLdiDYCEPNPCQNGAQCYNRAsdyfCKCPEDYEGKNCSHLKDHC----RTTPCEVIDSCT-VAMASNDTPEGVRYISSNVCGPHGKCKSQSg
+#=GR P78504|PF25024|433-682 PP .....97............5************762257999****998863334448******************************97444469************862257************99644555*************965555....444443333322.2333334456677788999*******99755
+Q6N022|PF25024|569-810         .......-NCYGNGDCISGTCHCFLGFLGPDCGR..ASCPVLCSGNGQYM...KG.RCLCHSGWKGAECDVPTNQCIDVACSNHGTCIT....GTCICNPGYKGESCEE..VDCMDPTCSGRGVCVRGE....CHCSVGWGGTNCETPRATCLDQCSGHGTFLPDTGLCSCDPSWTGHDCSIEICAADCGGHGVCVGGT.
+#=GR Q6N022|PF25024|569-810 PP ........7*************************..**************...**.*********************************....****************..******************....******************************************************************.
+Q92752|PF25024|155-276         cnanccq---------------------------..--------------...--.---------------------------------....----------------..------------------....---------ESAATGQLDYIPHCSGHGNFSFESCGCICNEGWFGKNCSEPYCPLGCSSRGVCVDGQ.
+#=GR Q92752|PF25024|155-276 PP 6554433.......................................................................................................................................3333344456689********************************************.
+Q9NT68|PF25024|579-820         .......-NCHGNGECVSGVCHCFPGFLGADCAK..AACPVLCSGNGQYS...KG.TCQCYSGWKGAECDVPMNQCIDPSCGGHGSCID....GNCVCSAGYKGEHCEE..VDCLDPTCSSHGVCVNGE....CLCSPGWGGLNCELARVQCPDQCSGHGTYLPDTGLCSCDPNWMGPDCSVEVCSVDCGTHGVCIGGA.
+#=GR Q9NT68|PF25024|579-820 PP ........8*************************..**************...**.*********************************....****************..******************....******************************************************************.
+Q9P273|PF25024|521-753         .......-NCHGNGECVSGTCHCFPGFLGPDCSR..AACPVLCSGNGQYS...KG.RCLCFSGWKGTECDVPTTQCIDPQCGGRGICIM....GSCACNSGYKGESCEE..ADCIDPGCSNHGVCIHGE....CHCSPGWGGSNCEILKTMCPDQCSGHGTYLQESGSCTCDPNWTGPDCSNEICSVDCGSHGVCMGGT.
+#=GR Q9P273|PF25024|521-753 PP ........8*************************..**************...**.*********************************....****************..******************....******************************************************************.
+Q9UKZ4|PF25024|535-775         .......-NCNGNGECISGHCHCFPGFLGPDCAR..DSCPVLCGGNGEYE...KG.HCVCRHGWKGPECDVPEEQCIDPTCFGHGTCIM....GVCICVPGYKGEICEE..EDCLDPMCSNHGICVKGE....CHCSTGWGGVNCETPLPVCQEQCSGHGTFLLDAGVCSCDPKWTGSDCSTELCTMECGSHGVCSRGI.
+#=GR Q9UKZ4|PF25024|535-775 PP ........8*************************..**************...**.*********************************....****************..******************....******************************************************************.
+#=GC PP_cons                   .......68**********9*************9..9************9...99.*********************99**********....9**************9..9****9**********99....*********99998888899***999999998999*999999999********************9.
+#=GC RF                        .......xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx...xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+P22105|PF25024|407-631         ....CVCEDGYSGEDCGVR..QCPND.CSQHGVCQDG....VCICWEGYVSEDCSI.........RTCPSN.CHGRGRC
+#=GR P22105|PF25024|407-631 PP ....***************..*****.**********....***************.........******.******9
+P24821|PF25024|286-509         ....CVCEQGFKGYDCSDM..SCPND.CHQHGRCVNG....MCVCDDGYTGEDCRD.........RQCPRD.CSNRG--
+#=GR P24821|PF25024|286-509 PP ....***************..*****.**********....***************.........******.**997..
+P78504|PF25024|433-682         gkftCDCNKGFTGTYCHENinDCESNpCRNGGTCIDGvnsyKCICSDGWEGAYCETn.......iNDCSQNpCHNGGTC
+#=GR P78504|PF25024|433-682 PP 5666************97544898755*********955556************863.......367865549999998
+Q6N022|PF25024|569-810         ....CRCEDGWMGAACDQR..ACHPR.CAEHGTCRDG....KCECSPGWNGEHCTIahyldrvvkEGCPGL.CNGNGRC
+#=GR Q6N022|PF25024|569-810 PP ....***************..*****.**********....**************99999999999*****.******9
+Q92752|PF25024|155-276         ....CICDSEYSGDDCSEL..RCPTD.CSSRGLCVDG....ECVCEEPYTGEDCRE.........LRCPGD.CSGKGRC
+#=GR Q92752|PF25024|155-276 PP ....***************..*****.**********....***************.........******.******9
+Q9NT68|PF25024|579-820         ....CRCEEGWTGAACDQR..VCHPR.CIEHGTCKDG....KCECREGWNGEHCTIgrqtagtetDGCPDL.CNGNGRC
+#=GR Q9NT68|PF25024|579-820 PP ....***************..*****.**********....**************99999999999*****.******9
+Q9P273|PF25024|521-753         ....CRCEEGWTGPACNQR..ACHPR.CAEHGTCKDG....KCECSQGWNGEHCTI.........EGCPGL.CNSNGRC
+#=GR Q9P273|PF25024|521-753 PP ....***************..*****.**********....***************.........******.******9
+Q9UKZ4|PF25024|535-775         ....CQCEEGWVGPTCEER..SCHSH.CTEHGQCKDG....KCECSPGWEGDHCTIahyl.davrDGCPGL.CFGNGRC
+#=GR Q9UKZ4|PF25024|535-775 PP ....***************..*****.**********....**************99999.99999*****.*****99
+#=GC PP_cons                   ....**************9..****9.**********....9*************9.........9***99.****999
+#=GC RF                        ....xxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxx....xxxxxxxxxxxxxxx.........xxxxxx.xxxxxxx
+//

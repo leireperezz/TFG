@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O15049|PF06818|367-429         ..................-RWEVCQKTAEISLLKQQLREAQAELAQKLAEIFSLKTQLRGSRAQAQAQDAELVRLREAVRS----------------------------------------------------------------..-----------------------------------------------------
+#=GR O15049|PF06818|367-429 PP ...................6*******************************************************999875.......................................................................................................................
+O15049|PF06818|437-526         eapgscetddcksrgllg-------------------------------------------------------------------------------------------------------------------------------..EAGGSEARDSAEQLRAELLQERLRGQEQALRFEQERRTWQEEKERVLRYQREI
+#=GR O15049|PF06818|437-526 PP 999877666555555555.................................................................................................................................55556778899******************************************
+Q9BRK4|PF06818|439-636         ..................TKWEVCQKSGEISLLKQQLKESQAELVQKGSELVALRVALREARATLRVSEGRARGLQEAARARELELEACSQELQRHRQEAEQLREKAGQLDAEAAGLREPPVPPATADPFLLAESDEAKVQRAA-..AGVGGSLRAQVERLRVELQRERRRGEEQRDSFEGERLAWQAEKEQVIRYQKQL
+#=GR Q9BRK4|PF06818|439-636 PP ..................9****************************************************************************************************9999999999999**********96...8899*************************************************
+Q9Y250|PF06818|380-565         ..................TQWEVCQKSGEISLLKQQLKESQTEVNAKASEILGLKAQLKDTRGKLEGLELRTQDLEGALRTKGLELEVCENELQRKKNEAELLREKVNLLEQELQELRAQAALARD-------------MGPPTF..PEDVPALQRELERLRAELREERQGHDQMSSGFQHERLVWKEEKEKVIQYQKQL
+#=GR Q9Y250|PF06818|380-565 PP ..................8****************************************************************************************************8887322.............223344..6799*************************************************
+O60299|PF06818|438-638         ..................TKWEVCQKAGEISLLKQQLKDSQADVSQKLSEIVGLRSQLREGRASLREKEEQLLSLRDSFSSKQASLELGEGELPAACLKPALTPVDPAEPQDALATCESDEAKMRRQAGVAAAASLVSVDGEAEAggESGTRALRREVGRLQAELAAERRARERQGASFAEERRVWLEEKEKVIEYQKQL
+#=GR O60299|PF06818|438-638 PP ..................9********************************************************************************************************9999999988888777777766557889*************************************************
+#=GC PP_cons                   ..................99**********************************************************999**************************************99997779999999999998666655..67889999*********************************************
+#=GC RF                        ..................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15049|PF06818|367-429         -------------------l
+#=GR O15049|PF06818|367-429 PP ...................9
+O15049|PF06818|437-526         QGGYMDMYRRNQALEQELR.
+#=GR O15049|PF06818|437-526 PP ****************985.
+Q9BRK4|PF06818|439-636         QHNYIQMYRRNRQLEQELQ.
+#=GR Q9BRK4|PF06818|439-636 PP ****************986.
+Q9Y250|PF06818|380-565         QQSYVAMYQRNQRLEKALQ.
+#=GR Q9Y250|PF06818|380-565 PP ****************985.
+O60299|PF06818|438-638         QLSYVEMYQRNQQLERRLR.
+#=GR O60299|PF06818|438-638 PP ****************985.
+#=GC PP_cons                   ****************985.
+#=GC RF                        xxxxxxxxxxxxxxxxxxx.
+//

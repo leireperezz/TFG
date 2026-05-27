@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P61254|PF16906|8-50           TSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIR---------------------------------------
+#=GR P61254|PF16906|8-50   PP 799***************************************8.......................................
+P61254|PF16906|84-122         -------------------------------------------RVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERK
+#=GR P61254|PF16906|84-122 PP ...........................................69************************************9
+Q9UNX3|PF16906|8-50           TSDRSKNRKRHFNAPSHVRRKIMSSPLSKELRQKYNVRSMPIR---------------------------------------
+#=GR Q9UNX3|PF16906|8-50   PP 799***************************************8.......................................
+Q9UNX3|PF16906|84-122         -------------------------------------------RVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERK
+#=GR Q9UNX3|PF16906|84-122 PP ...........................................69************************************9
+#=GC PP_cons                  799***************************************869************************************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

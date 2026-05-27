@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P11245|PF00797|20-279         DLETLTDILEHQIRAVPFENLNMHCGQAMELGLEAIFDHIVRRNRGGWCLQVNQLLYWALTTIGFQTTMLGGYFYIPPVNKYSTGMVHLLLQVTIDGRNYIVDAGSGSSsQMWQPLELISGKDQPQVPCIFCLTEERG-IWYLDQIRREQYItnkeflnshllpkkkhqKIYLFTLEPRTIEDFESMNTYLQTSPTSSFI
+#=GR P11245|PF00797|20-279 PP 8*****************************************************************************************************************************************.*************************************************************
+P18440|PF00797|20-280         DLETLTDILQHQIRAVPFENLNIHCGDAMDLGLEAIFDQVVRRNRGGWCLQVNHLLYWALTTIGFETTMLGGYVYSTPAKKYSTGMIHLLLQVTIDGRNYIVDAGFGRSyQMWQPLELISGKDQPQVPCVFRLTEENG-FWYLDQIRREQYIpneeflhsdlledskyrKIYSFTLKPRTIEDFESMNTYLQTSPSSVFT
+#=GR P18440|PF00797|20-280 PP 8*****************************************************************************************************************************************.*************************************************************
+#=GC PP_cons                  8************************************************************************************************************.****************************.*************.................*******************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P11245|PF00797|20-279         TTSFCSLQTPEGVYCLVGFILTYRkfnYKDNTdLVEFKTLTEEEVEEVLRNIFKISLGRN--l
+#=GR P11245|PF00797|20-279 PP ***************************999999***********************9865..7
+P18440|PF00797|20-280         SKSFCSLQTPDGVHCLVGFTLTHRrfnYKDNTdLIEFKTLSEEEIEKVLKNIFNISLQRKLV.
+#=GR P18440|PF00797|20-280 PP ***************************999999*************************9876.
+#=GC PP_cons                  ************************...99999.************************98776.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxx...xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O43147|PF12068|257-392         RLLYGKNHVLVQPK.....EDMEAVPGYLSLHQS-AESLTLKWTP........NQLMNGTL------GDSE-..---LEKSVYW......................................DYALVVPFSQVVCIHCHQQKS--GGTLVLVSQDGIQRPPLHFPQGG..........HLLSFLSCLENGLLPRGQLEP.
+#=GR O43147|PF12068|257-392 PP 79************.....**************9.99********........****9766......3333......35799**......................................*****************9865..567********************..........*********************.
+Q2NKQ1|PF12068|255-391         TLLYGKNNVLVQPR.....DDMEAVPGYLSLHQT-ADVMTLKWTP........NQLMNGSV-------GDL-..--DYEKSVYW......................................DYAMTIRLEEIVYLHCHQQV-DSGGTVVLVSQDGIQRPPFRFPKGG..........HLLQFLSCLENGLLPHGQLDP.
+#=GR Q2NKQ1|PF12068|255-391 PP 79************.....***************.66779*****........****9766.......222.....25679***......................................*****************975.5666*********************..........*********************.
+Q8TC07|PF12068|11-208          -IIYEQEGVYIHSScgktnDQDGLISGILRVLEK-DAEVIVDWRPlddaldssSILYARKDSSSVVEWTQAP..----KERGHRgsehlnsyeaewdmvntvsfkrkphtngdapshrngksKWSFLFSLTDLKSIKQNKEGMGWS-YLVFCLKDDVVLPALHFHQGDskllieslekYVVLCESPQDKRTLLVNCQNK.
+#=GR Q8TC07|PF12068|11-208  PP .68**********999999999************.**********988777774555444444433333222......222111333345556666889999********************************************.****************************************************.
+Q9HA65|PF12068|7-205           RVVFEKGGVYLHTSakkyqDRDSLIAGVIRVVEK-DNDVLLHWAPveeagdstQILFSKKDSSGGDSCASEEepTFDPGYEPDWavistvrpqlchs............eptrgaepscpqgSWAFSVSLGELKSIRRSKPGLSWA-YLVLVTQAGGSLPALHFHRGGtrallrvlsrYLLLASSPQDSRLYLVFPHDSs
+#=GR Q9HA65|PF12068|7-205   PP 79************9***99**************.9****************5555667788888999888888***********************............*************************************.***************************************************99
+#=GC PP_cons                   789***********.....***************.9999******........7777766666666654445..**66677888......................................******************98889869********************..........*********************.
+#=GC RF                        xxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxx..xxxxxxxxxx......................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxx.
+
+O43147|PF12068|257-392         PLWTQQGKGKVFP.
+#=GR O43147|PF12068|257-392 PP ***********98.
+Q2NKQ1|PF12068|255-391         PLWSQRGKGKVFP.
+#=GR Q2NKQ1|PF12068|255-391 PP ***********98.
+Q8TC07|PF12068|11-208          SLSQSFE------n
+#=GR Q8TC07|PF12068|11-208  PP ****986......7
+Q9HA65|PF12068|7-205           ALSNSFHHLQLFD.
+#=GR Q9HA65|PF12068|7-205   PP ***********98.
+#=GC PP_cons                   ******9****98.
+#=GC RF                        xxxxxxxxxxxxx.
+//

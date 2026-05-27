@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O95050|PF01234|4-259          ..g-----FTGGDEYQKHFLPRDYLATYYSFDGSPSP.EAEMLKFNLECLHKTFGPGGLQGDTLIDIGSGPTIYQVLAACDSFQDITLSDFTDRNREELEKWLKKEPGAYDWTPAVKFACELEGNSGRWEEKEEKLRAAVKRVLKCDVHLGNPLAP-AVLPL.ADCVLTLLAMECACCSLDAYRAALCNLASLLKPGGHL
+#=GR O95050|PF01234|4-259  PP ..6.....68899************************.********************************************************************************************************************99.89***.*************************************
+P11086|PF01234|16-279         sap----GQAAVASAYQRFEPRAYLRNNYAPPRGDLCnPNGVGPWKLRCLAQTFATGEVSGRTLIDIGSGPTVYQLLSACSHFEDITMTDFLEVNRQELGRWLQEEPGAFNWSMYSQHACLIEGKGECWQDKERQLRARVKRVLPIDVHQPQPLGAGSPAPLpADALVSAFCLEAVSPDLASFQRALDHITTLLRPGGHL
+#=GR P11086|PF01234|16-279 PP 876....57788999**********************8899*****************************************************************************************************************999666666*************************************
+P40261|PF01234|2-259          .es----GFTSKDTYLSHFNPRDYLEKYYKFGSRHSA.ESQILKHLLKNLFKIFCLDGVKGDLLIDIGSGPTIYQLLSACESFKEIVVTDYSDQNLQELEKWLKKEPEAFDWSPVVTYVCDLEGNRVKGPEKEEKLRQAVKQVLKCDVTQSQPLGA-VPLPP.ADCVLSTLCLDAACPDLPTYCRALRNLGSLLKPGGFL
+#=GR P40261|PF01234|2-259  PP .64....7999**************************.**********************************************************************************************************************.9****.*************************************
+#=GC PP_cons                  .......678999************************.9*******************************************************************************************************************99989999.*************************************
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95050|PF01234|4-259          VTTVTLRLPSYMVGKREFSCVALEKEEVEQAVLDAGFDIEQLL..HSPQSYSVTNAANNGVCFIVARK
+#=GR O95050|PF01234|4-259  PP *******************************************..**********************9
+P11086|PF01234|16-279         LLIGALEESWYLAGEARLTVVPVSEEEVREALVRSGYKVRDLRtyIMPAHLQTGVDDVKGVFFAWAQK
+#=GR P11086|PF01234|16-279 PP *****************************************99989********************99
+P40261|PF01234|2-259          VIMDALKSSYYMIGEQKFSSLPLGREAVEAAVKEAGYTIEWFE..VISQSYSSTMANNEGLFSLVARK
+#=GR P40261|PF01234|2-259  PP *******************************************..**********************9
+#=GC PP_cons                  *******************************************..**********************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx
+//

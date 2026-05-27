@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q9Y6X6|PF15439|1222-1576         -YHKEKLEVRNMQEEGSKRTD-----...............---.DKSGPRHFHPSSMSVCAAVDGL-GQCLVGPSIWSPSLHSVFSMDDSSSLP..........SPRKQPPPKPKRDPNTRLSASYEAVSACLSAA-REAA--NEALARPRPHSDDYStmKKIPPRKPKRSPNTKLSGSYEEISGS---RPGDARPAGa
+#=GR Q9Y6X6|PF15439|1222-1576 PP .89****************95........................3468******************.9**************************..........****************************8855.6666..79*****************************************...8888888886
+Q9P242|PF15439|56-431            AYLKEKNEKRRRQEEAIKRIGGEVGR...............GHE.GSYVGKHFRMGFMTMPAPQDRLPHPCSSGFSVRSQSLHSVGGTDDD-SSC..........GSRRQPPPKPKRDPSTKLSTSSETVSSTAASKSGKTPERTEASAKPRPHSDEYS..KKIPPPKPKRNPNTQLSTSFDE----TYIKKHGPRRTS.
+#=GR Q9P242|PF15439|56-431    PP 69************************...............***.**********************************************.999..........****************************888877********************..**********************....9**********9.
+Q6ZVC0|PF15439|4-425             LYRKTKLEWRQHKEEEAKRSSSKEVApagsagpaagqgpgvRVRdIASLRRSLRMGFMTMPASQEHTPHPCRSAMAPRSLSCHSVGSMDSVGGGPggasggltedSSTRRPPAKPRRHPSTKLSMVGP----G--SGAETPPSKKAGSQKPTPEGRESS..RKVPPQKPRRSPNTQLSVSFDESCPP---GPS-PRGGN.
+#=GR Q6ZVC0|PF15439|4-425     PP 59******************988888999***********97777**********************************************77777888899999999****************9776....4..678899999***************..**********************8888...444.55666.
+#=GC PP_cons                     599****************9899999...............999.8899******************************************9999..........********************999****8886787888**9**************..**********************99999**888988888.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxx...............xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+Q9Y6X6|PF15439|1222-1576         pgaaarV-----LTPGTPQcalppAApPGDEDDSEPVYIEMLGHAAR--...................----PDSPDPGESVYEEMKCCLPDD.GGPGAGSFLLHgASPPLL-HRA-.---PEDE-.-------AAGPPGD...............ACDIPPPFPNLLPHRPPLLVFPPTPVTCSPASDESPLTPLEVKK
+#=GR Q9Y6X6|PF15439|1222-1576 PP 6444441.....3344444555542237999**************97.........................6899*****************.999999888885555555.333.....2444.........67899**...............********************************************
+Q9P242|PF15439|56-431            ......-LPRDSSLSQMGS.....PA.GDPEEE-EPVYIEMVGNILRDF...................RK---EDDDQSEAVYEEMKYPIFDD.-----------.----LGQDAK-.---CDFDH.HSCSSQCATPTVPDldfakasvpcppkglLCDIPPPFPNLLSHRPPLLVFPPAPVHCSPNSDESPLTPLEVTK
+#=GR Q9P242|PF15439|56-431    PP .......889999999999.....98.887776.***************...................88...9*******************.................777777.....77888.89999999999999999999999999999********************************************
+Q6ZVC0|PF15439|4-425             ......LPLQRLTRGSRVA.....GD.PDVGAQEEPVYIEMVGDVFRGGgrsggglagpplggggptpPAGADSDSEESEAIYEEMKYPLPEEaGEGRANGPPPLtATSPPQQPHALpPHAHRRPAsALPSRRDGTPTKTT...............PCEIPPPFPNLLQHRPPLLAFPQA-------KSASRTPGDGVSR
+#=GR Q6ZVC0|PF15439|4-425     PP ......6788888888888.....88.89999***************99****************99644489********************888888888777666665555544144444444478899999******...............************************.......889**********
+#=GC PP_cons                     ......4889997777777.....66.889999*************9**...................664879*******************.88888888877.66666665554.44445556.88999998999999...............*******************************99***********
+#=GC RF                          ......xxxxxxxxxxxxx.....xx.xxxxxxxxxxxxxxxxxxxxxx...................xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxx.xxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9Y6X6|PF15439|1222-1576         LPVLETNLKYPVQP..eGSSPLSPQYSKSQKGDGDRPASP...GLALFNGSGRASPPSTPPPP---------------......
+#=GR Q9Y6X6|PF15439|1222-1576 PP **************..************************...*******************8.....................
+Q9P242|PF15439|56-431            LPVLE-NVSYMKQPagaSPSTLPSHVPGHAKLEKEQAAAL...G---PASATPALS-SSPPPPSTLYRT-QSPHGYPK......
+#=GR Q9P242|PF15439|56-431    PP *****.*********999999**********999966655...5...557777778.899999*****9.99****96......
+Q6ZVC0|PF15439|4-425             LPVL----CHSKEP...AGSTPAPQVPARERETPPPPPPPpaaNLLLLGPSGRARSHSTPLPPQGSGQP-R-------gerelp
+#=GR Q6ZVC0|PF15439|4-425     PP ****....5*****...999999*****9998776655544324455669**************99987.3.......344567
+#=GC PP_cons                     ********8*****...999***********999877766...6778779999999*9****9***998.69****96......
+#=GC RF                          xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

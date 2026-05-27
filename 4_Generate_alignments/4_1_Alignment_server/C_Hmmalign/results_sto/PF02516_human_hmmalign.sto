@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P46977|PF02516|17-417         .LLKLLILSMAAVLSFSTRLFAVLRFESVIHEFDPYFNYRTTRFLAEEGF-YKFHNWFDDRAWYPLG-RIIGGTIYPGL-MITSAAIYHVLHffhitIDIRNVCVFLAPLFSSFTTIVTYHLTKELKDAGAGLLAAAMIAVVPGYISRSVAGSYDNEGIAIFCMLLTYYMWIKAVKTGS--ICWAAKCALAYFYMVSSWG
+#=GR P46977|PF02516|17-417 PP .5899*********************************************.****************.***********.***************************************************************************************************..*******************
+Q8TCJ2|PF02516|72-471         l--SFTILFLAWLAGFSSRLFAVIRFESIIHEFDPWFNYRSTHHLASHGF-YEFLNWFDERAWYPLG-RIVGGTVYPGL-MITAGLIHWILNtlnitVHIRDVCVFLAPTFSGLTSISTFLLTRELWNQGAGLLAACFIAIVPGYISRSVAGSFDNEGIAIFALQFTYYLWVKSVKTGS--VFWTMCCCLSYFYMVSAWG
+#=GR Q8TCJ2|PF02516|72-471 PP 6..56788899***************************************.****************.***********.***************************************************************************************************..*******************
+#=GC PP_cons                  .587889999****************************************.****************.***********.************.....**********************************************************************************..*******************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P46977|PF02516|17-417         GYVFLINLIPLHVLVLMLTGRFSHRIYVAYCTVYCLGTILSMQISFVGFQPVLSSEHMAAFGVFGLCQIHAFVDYLRS--KLNPQQFEVLFRSVISLVGFVLLTVGALLMLTGKISPWTGRFYSLLDPSYAKNNIPIIASVSEHQPTTWSSYYFDLQLLVFMFPVGLYYCFSNLSDARIFIIMYGVTSMYFSAVMVR-LM
+#=GR P46977|PF02516|17-417 PP ******************************************************************************..*********************************************************************************************************************.**
+Q8TCJ2|PF02516|72-471         GYVFIINLIPLHVFVLLLMQRYSKRVYIAYSTFYIVGLILSMQIPFVGFQPIRTSEHMAAAGVFALLQAYAFLQYLRD--RLTKQEFQTLFFLGVSLAAGAVFLSVIYLTYTGYIAPWSGRFYSLWDTGYAKIHIPIIASVSEHQPTTWVSFFFDLHILVCTFPAGLWFCIKNINDERVFVALYAISAVYFAGVMVR-LM
+#=GR Q8TCJ2|PF02516|72-471 PP ******************************************************************************..*********************9***********************************************************************************************.**
+#=GC PP_cons                  ******************************************************************************..*********************************************************************************************************************.**
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P46977|PF02516|17-417         LVLAPVMCIL-
+#=GR P46977|PF02516|17-417 PP ********96.
+Q8TCJ2|PF02516|72-471         LTLTPVVCML-
+#=GR Q8TCJ2|PF02516|72-471 PP ********96.
+#=GC PP_cons                  ********96.
+#=GC RF                       xxxxxxxxxxx
+//

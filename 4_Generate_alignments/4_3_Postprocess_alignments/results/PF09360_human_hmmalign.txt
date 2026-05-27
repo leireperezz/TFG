@@ -1,0 +1,4 @@
+CISD3_HUMAN/55-75              ..kt----------------------------YRWCVCGRSKKQPFCDGSH-
+CISD3_HUMAN/90-114             ..qe-------------------------TRMVALCTCKATQRPPYCDGTHR
+CISD2_HUMAN/79-115             ..np---KVV-NEINIEDLCLTK---------AAYCRCWRSKTFPACDGSHN
+CISD1_HUMAN/65-87              lgdk----------------------------AVYCRCWRSKKFPFCDGAH-

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q6UW63|PF05686|150-484         .e---MNCPETIAQIQRDLAHFPAVdpeKI...AVEIPKRF.gQRQSLCHYTLKDNKVYIKTHGEHVGFR-IFMDAILLSLTRKV--KMPDVELFVNLGDWPLEKKKSNS----NIHPIFSWCGSTDSKDIVMPTYDLTdSVLET......-MGRVSLDMMSV-QANTGPPWESKNSTAVWRGRDSRKE-RLELVKLSRK
+#=GR Q6UW63|PF05686|150-484 PP .7...68***************98755579...99******.9***************************.**************..*********************98....9******************************.......***********.*************************.**********
+Q7Z4H8|PF05686|153-486         tl----SCPTKEPQIAKDFASFPSI...NLqqmLKEVPKRFgdERGAIVHYTILNNHVYRRSLGKYTDFK-MFSDEILLSLTRKV--LLPDLEFYVNLGDWPLEHRKVNG--TPSPIPIISWCGSLDSRDVVLPTYDIThSMLEA......-MRGVTNDLLSI-QGNTGPSWINKTERAFFRGRDSREE-RLQLVQLSKE
+#=GR Q7Z4H8|PF05686|153-486 PP 86....7****************98...653447899999988899************************.**************..9*****************99977..568************************999999.......***********.*************************.**********
+Q8NBL1|PF05686|50-388          .s--SQNCSCYHGVIEEDLTPFRG-...GI...SRKMMAEV.vRRKLGTHYQITKNRLYREN-DCMFPSR----CSGVEHFILEVIGRLPDMEMVINVRDYPQVPKWMEP-----AIPVFSFSKTSEYHDIMYPAWTFWeGGPAVwpiyptGLGRWDLFREDLVRSAAQWPWKKKNSTAYFRGSRTSPE-RDPLILLSRK
+#=GR Q8NBL1|PF05686|50-388  PP .6..689*****************....**...*******9.9*******************.*******....**********************************98.....9*************************************************************************.**********
+#=GC PP_cons                   ....678***************998...88...99999999..9**************************.************************************988..5689***********************.****9......**************************************.**********
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxx...xx...xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6UW63|PF05686|150-484         HPELIDAAFTNFfffkhDEN-LYGPIVKHISFFDFFKHKYQINIDGTVAAYRLPYLLVGDSVVLKQDSIYYEHFYNELQPWKHYIPVKS--NLSDLLEKLKWAKDHDEEAKKIAKAGQEFARNNLMGDDIFCYYFKLFQEYANLQVSEPQIREGMKRVEPQ---------------------------------------
+#=GR Q6UW63|PF05686|150-484 PP ************9**95555.9*******************************************************************..********************************************************************98.......................................
+Q7Z4H8|PF05686|153-486         NPQLLDAGITGYf..ffQEKEKELGKAKLMGFFDFFKYKYQVNVDGTVAAYRYPYLMLGDSLVLKQDSPYYEHFYMALEPWKHYVPIKR--NLSDLLEKVKWAKENDEEAKKIAKEGQLMARDLLQPHRLYCYYYQVLQKYAERQSSKPEVRDGMELV------------------------------------------
+#=GR Q7Z4H8|PF05686|153-486 PP ********99877..77777788889999************************************************************..***************************************************************9876..........................................
+Q8NBL1|PF05686|50-388          NPKLVDAEYTKNqawksMKDTLGKPAAKDVHLVDHCKYKYLFNFRGVAASFRFKHLFLCGSLVFHVGDEWLEFFYPQLKPWVHYIPVKT--DLSNVQELLQFVKANDDVAQEIAERGSQFIRNHLQMDDITCYWENLLSEYSKFLSYNVTRRKGYDQIIPK---------------------------------------
+#=GR Q8NBL1|PF05686|50-388  PP ***********99999999999*******************************************************************..*******************************************************************998.......................................
+#=GC PP_cons                   **********99.....777899999***************************************************************..****************************************************************999998.......................................
+#=GC RF                        xxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6UW63|PF05686|150-484         ------------------t.
+#=GR Q6UW63|PF05686|150-484 PP ..................5.
+Q7Z4H8|PF05686|153-486         ------------------p.
+#=GR Q7Z4H8|PF05686|153-486 PP ..................8.
+Q8NBL1|PF05686|50-388          ------------------ml
+#=GR Q8NBL1|PF05686|50-388  PP ..................46
+#=GC PP_cons                   ....................
+#=GC RF                        xxxxxxxxxxxxxxxxxx..
+//

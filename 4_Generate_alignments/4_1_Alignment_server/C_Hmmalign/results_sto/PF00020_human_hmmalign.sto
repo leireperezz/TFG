@@ -1,0 +1,91 @@
+# STOCKHOLM 1.0
+
+O00220|PF00020|148-188         .CTEGvGY..TNASNNL.fACLPC...TA.C..KS..DEEERSPCTTTRNTAC.
+#=GR O00220|PF00020|148-188 PP .99**77*..*******.99****...**.*..**..****************.
+O00220|PF00020|190-229         .CKPG.TF.rNDNSAEM..-CRKC...SRgC..PR..GMVKVKDCTPWSDIEC.
+#=GR O00220|PF00020|190-229 PP .****.**.66666666...****...****..**..****************.
+O00300|PF00020|30-62           .----.HY..DEETSHQ..--LLC...DK.C..PP..GTYLKQHCTAKWKTVC.
+#=GR O00300|PF00020|30-62   PP ......57..7777887....99*...**.*..**..****************.
+O00300|PF00020|65-105          .CPDH.YY..TDSWHTS.dECLYC...SPvC..KE..LQYVKQECNRTHNRVC.
+#=GR O00300|PF00020|65-105  PP .****.**..*******.******...****..**..****************.
+O00300|PF00020|107-142         .CKEG.RY..LEIE---..FCLKH...RS.C..PP..GFGVVQAGTPERNTVC.
+#=GR O00300|PF00020|107-142 PP .****.**..9987.....5****...**.*..**..****************.
+O00300|PF00020|145-185         .CPDG.FF..SNETSSK.aPCRKH...TN.C..SV.fGLLLTQKGNATHDNIC.
+#=GR O00300|PF00020|145-185 PP .****.**..*******.9*****...**.*..99.9*************999.
+O14763|PF00020|97-137          .CKYGqDY..STHWNDL.lFCLRC...TR.C..DS..GEVELSPCTTTRNTVC.
+#=GR O14763|PF00020|97-137  PP .****56*..*******.******...**.*..**..****************.
+O14763|PF00020|139-178         .CEEG.TF..REEDSPE..MCRKC...RTgC..PR..GMVKVGDCTPWSDIEC.
+#=GR O14763|PF00020|139-178 PP .****.**..9998888..8****...****..**..****************.
+O14798|PF00020|69-109          .CTEGvDY..TNASNNE.pSCFPC...TV.C..KS..DQKHKSSCTMTRDTVC.
+#=GR O14798|PF00020|69-109  PP .9***99*..*******.9*****...**.*..**..****************.
+O14798|PF00020|111-149         .CKEG.TF..RNENSPE..MCRKC...SR.C..PS..GEVQVSNCTSWDDIQC.
+#=GR O14798|PF00020|111-149 PP .****.**..7766655..6****...**.*..**..****************.
+O75509|PF00020|91-131          .CPVG.TF..TRHENGI.eKCHDC...SQpC..PW..PMIEKLPCAALTDREC.
+#=GR O75509|PF00020|91-131  PP .****.**..*******.******...999*..**..****************.
+O75509|PF00020|171-211         .CARG.TF..SDVPSSV.mKCKAY...TD.C.lSQ..NLVVIKPGTKETDNVC.
+#=GR O75509|PF00020|171-211 PP .9***.**..*******.******...**.*.777..****************.
+O95407|PF00020|73-113          .CPPR.HY..TQFWNYL.eRCRYC...NVlC..GE..REEEARACHATHNRAC.
+#=GR O95407|PF00020|73-113  PP .****.**..*******.******...****..**..***************9.
+O95407|PF00020|115-150         .CRTG.FF..AHAG---..FCLEH...AS.C..PP..GAGVIAPGTPSQNTQC.
+#=GR O95407|PF00020|115-150 PP .9999.99..7755.....5****...**.*..**..****************.
+O95407|PF00020|153-193         .CPPG.TF..SASSSSS.eQCQPH...RN.C..TA.lGLALNVPGSSSHDTLC.
+#=GR O95407|PF00020|153-193 PP .****.**..9999999.99****...**.*..66.6***************9.
+P08138|PF00020|67-107          .CLDSvTF..SDVVSAT.ePCKPC...TE.C..VG..LQSMSAPCVEADDAVC.
+#=GR P08138|PF00020|67-107  PP .777879*..*****99.99****...**.*..**..****************.
+P08138|PF00020|109-146         .CAYG.YY..QDETTGR..-CEAC...RV.C..EA..GSGLVFSCQDKQNTVC.
+#=GR P08138|PF00020|109-146 PP .****.**..******9...****...**.*..**..****************.
+P08138|PF00020|149-188         .CPDG.TY..SDEANHV.dPCLPC...TV.C..ED..TERQLRECTRWADAEC.
+#=GR P08138|PF00020|149-188 PP .****.**..*******.******...**.*..**..****************.
+P19438|PF00020|84-125          .CESG.SF..TASENHL.rHCLSC...SK.C..RKemGQVEISSCTVDRDTVC.
+#=GR P19438|PF00020|84-125  PP .****.**..*******.99****...**.*..5555****************.
+P19438|PF00020|127-166         .CRKN.QY..RHYWSENlfQCFNC...SL.C..LN..GTVH-LSCQEKQNTVC.
+#=GR P19438|PF00020|127-166 PP .****.**..****877755****...**.*..**..***9.89*********.
+P20333|PF00020|40-75           .CRLR.EY..YDQTAQM..-C--C...SK.C..SP..GQHAKVFCTKTSDTVC.
+#=GR P20333|PF00020|40-75   PP .9999.**..*******...*..*...**.*..**..****************.
+P20333|PF00020|78-118          .CEDS.TY..TQLWNWV.pECLSC..gSR.C..SS..DQVETQACTREQNRIC.
+#=GR P20333|PF00020|78-118  PP .****.**..*******.******..777.*..**..****************.
+P20333|PF00020|120-161         .CRPG.WY..CALSKQE..GCRLCaplRK.C..RP..GFGVARPGTETSDVVC.
+#=GR P20333|PF00020|120-161 PP .****.**..8877766..79999998**.*..**..****************.
+P25445|PF00020|85-127          .CQEGkEY..TDKAHFS.sKCRRC...RL.C..DEghGLEVEINCTRTQNTKC.
+#=GR P25445|PF00020|85-127  PP .****88*..*******.9*****...**.*..88789***************.
+P25445|PF00020|129-165         .CKPN.FF..CNSTVCE..HCDPC...TK.C..EH..G--IIKECTLTSNTKC.
+#=GR P25445|PF00020|129-165 PP .****.**..9999777..7****...**.*..76..6..667**********.
+P25942|PF00020|62-103          .CGES.EF..LDTWNRE.tHCHQH...KY.C..DPnlGLRVQQKGTSETDTIC.
+#=GR P25942|PF00020|62-103  PP .9***.**..*******.******...**.*..8889****************.
+P25942|PF00020|146-186         .CPVG.FF..SNVSSAF.eKCHPW...TS.C.eTK..DLVVQQAGTNKTDVVC.
+#=GR P25942|PF00020|146-186 PP .****.**..****999.99****...**.*.555..****************.
+P26842|PF00020|65-104          .CIPGvSF..SPDHHTR.pHCESC...RH.C..NS..GLLV-RNCTITANAEC.
+#=GR P26842|PF00020|65-104  PP .999999*..9999999.99****...**.*..**..***9.***********.
+P28908|PF00020|69-106          .CEPD.YY..LDEAD-R..-CTAC...VT.C.sRD..DLVEKTPCAWNSSRVC.
+#=GR P28908|PF00020|69-106  PP .****.**..99874.5...****...**.*.777..****************.
+P28908|PF00020|108-149         .CRPG.MF..CSTSAVN..SCARCffhSV.C..PA..GMIVKFPGTAQKNTVC.
+#=GR P28908|PF00020|108-149 PP .****.**..5554333..46666666**.*..**..****************.
+P36941|PF00020|47-80           e---K.EY..YEPQHRI..-C--C...SR.C..PP..GTYVSAKCSRIRDTVC.
+#=GR P36941|PF00020|47-80   PP 6...5.79..9999998...*..*...**.*..**..****************.
+P36941|PF00020|83-124          .CAEN.SY..NEHWNYL.tICQLC...RP.C..DPvmGLEEIAPCTSKRKTQC.
+#=GR P36941|PF00020|83-124  PP .****.**..*******.99****...**.*..9999****************.
+P36941|PF00020|170-210         .CKAG.HF..QNTSSPS.aRCQPH...TR.C..EN.qGLVEAAPGTAQSDTTC.
+#=GR P36941|PF00020|170-210 PP .****.**..9999999.99****...**.*..66.6****************.
+P43489|PF00020|67-107          .CGPG.FY..NDVVSSK..PCKPC...TW.CnlRS..GSERKQLCTATQDTVC.
+#=GR P43489|PF00020|67-107  PP .****.**..****999..9****...**.*7777..****************.
+P43489|PF00020|128-166         .CPPG.HF..SPGDNQA..-CKPW...TN.C..TL.aGKHTLQPASNSSDAIC.
+#=GR P43489|PF00020|128-166 PP .****.**..*******...****...**.*..55.5****************.
+Q07011|PF00020|48-86           .CPPN.SF..SSAGGQR..TCDIC...RQ.C..KG..VFRTRKECSSTSNAEC.
+#=GR Q07011|PF00020|48-86   PP .****.**..9999888..9****...**.*..**..****************.
+Q92956|PF00020|78-119          .CPPG.TY..IAHLNGL.sKCLQC...QM.C..DPamGLRASRNCSRTENAVC.
+#=GR Q92956|PF00020|78-119  PP .****.**..*******.99****...**.*..8889****************.
+Q93038|PF00020|73-115          .CPQD.TFlaWENHHNS..ECARC...QA.C..DEqaSQVALENCSAVADTRC.
+#=GR Q93038|PF00020|73-115  PP .****.**985555555..6****...**.*..8878****************.
+Q9HAV5|PF00020|3-32            .CQEN.EY..WDQWGR-..-CVTC...QR.C..GP..GQELSKDC--------g
+#=GR Q9HAV5|PF00020|3-32    PP .****.**..****75....****...**.*..**..********........6
+Q9HAV5|PF00020|44-83           .CPPR.RY..KSSWGHH..RCQSC...IT.C..AV.iNRVQKVNCTATSNAVC.
+#=GR Q9HAV5|PF00020|44-83   PP .****.**..****999..9****...**.*..88.68888************.
+Q9UBN6|PF00020|99-139          .CTEGvDY..TIASNNL.pSCLLC...TV.C..KS..GQTNKSSCTTTRDTVC.
+#=GR Q9UBN6|PF00020|99-139  PP .9***99*..9999999.99****...**.*..**..****************.
+Q9UBN6|PF00020|141-180         .CEKG.SF..QDKNSPE..MCRTC...RTgC..PR..GMVKVSNCTPRSDIKC.
+#=GR Q9UBN6|PF00020|141-180 PP .****.**..**99888..9****...****..**..****************.
+Q9Y6Q6|PF00020|154-194         .CLAG.YF..SDAFSST.dKCRPW...TN.C.tFL..GKRVEHHGTEKSDAVC.
+#=GR Q9Y6Q6|PF00020|154-194 PP .999*.**..*******.******...**.*.556..****************.
+#=GC PP_cons                   .****.9*..9999999..9****...**.*..99..****************.
+#=GC RF                        .xxxx.xx..xxxxxxx..xxxxx...xx.x..xx..xxxxxxxxxxxxxxxx.
+//

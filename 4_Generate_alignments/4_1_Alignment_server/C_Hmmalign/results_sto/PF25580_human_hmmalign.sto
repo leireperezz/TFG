@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O60281|PF25580|247-469         .EISEVDCKDALEMICNLESEGDEKSALVLCTAFLSRQLQQGDMYCAWELTLFWSKLQQRVEPSIQVYLERCRQLSLLTKTVYHIFFLIKVINSETEGAGLATCIELCVKALRLESTENTEVKISICKTISCLLPDDLEVKRACQLSEFLIEPTVDAYYAVEMLYNQPDQKYDEENLPIPNSLRCELLLVLKTQWPFDPE
+#=GR O60281|PF25580|247-469 PP .799****************************************************************************************************************************************************************************************************
+Q13129|PF25580|270-491         .EIAKVDCKEVLDIICNLESEGQDNTAFVLCTTYLTQQLQTASVYCSWELTLFWSKLQRRIDPSLDTFLERCRQFGVIAKTQQHLFCLIRVIQTEAQDAGLGVSILLCVRALQLRSSEDEEMKASVCKTIACLLPEDLEVRRACQLTEFLIEPSLDGFNMLEELYLQPDQKFDEENAPVPNSLRCELLLALKAHWPFDPE
+#=GR Q13129|PF25580|270-491 PP .799****************************************************************************************************************************************************************************************************
+Q8IZM8|PF25580|254-472         l---KTDCKSGIDIICNAEKEGKTMLALQLCESFLIPQLQNGDMYCIWELIFIWSKLQLKSNPSKQVFVDQCYQLLRTATNVRVIFPFMKIIKDEVEEEGLQICVEICGCALQLDLHDDPKTKCLIYKTIAHFLPNDLEILRICALSIFFLERSLEAYRTVEELYKRPDEEYNEGTSSVQNRVRFELLPILKKGLFFDPE
+#=GR Q8IZM8|PF25580|254-472 PP 8...67**************************************************************************************************************************************************************************************************
+#=GC PP_cons                   .79989**************************************************************************************************************************************************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O60281|PF25580|247-469         FWDWKTLKRQCLALMGEEASI------vss
+#=GR O60281|PF25580|247-469 PP *****************9976......568
+Q13129|PF25580|270-491         FWDWKTLKRHCHQLLGQEASD------sd.
+#=GR Q13129|PF25580|270-491 PP *****************9986......58.
+Q8IZM8|PF25580|254-472         FWNFVMIKKNCVALLSDKSA-------vr.
+#=GR Q8IZM8|PF25580|254-472 PP ****************9975.......78.
+#=GC PP_cons                   *****************9876.........
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

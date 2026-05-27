@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P62487|PF03876|10-64          ei----LLHPRYFGPNLLNTVK..QKLFTEVEGTCTGKYGFVIAVTTIDNIGA.GVIQPGRG
+#=GR P62487|PF03876|10-64  PP 95....69**************..*****************************.******87
+Q9Y535|PF03876|9-64           ..-DTVRIPPWQFERKLNDSIA..EELNKKLANKVVYNVGLCICLFDITKLED.AYVFPGDG
+#=GR Q9Y535|PF03876|9-64   PP ...8******************..*****************************.*******9
+Q3B726|PF03876|55-110         .r--HIALSPRYLNRKRTGIREqlDAELLRYSESL---LGVPIAYDNIKVVGElGDIYDDQG
+#=GR Q3B726|PF03876|55-110 PP .6..799*****************99999******...********************9988
+#=GC PP_cons                  ...8998***************..*****************************.******98
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx
+//

@@ -1,0 +1,44 @@
+# STOCKHOLM 1.0
+
+P55160|PF09735|7-1122         YQHKLAEKLTILNDRGQGVLIRMYNIKKTCSDPKSKPPFLLEKSMEPSLKYINKKFPNIDVRNSTQHLGPVHREKAEIIRFLTNYYQSFVDVMEFRDHVYELLNTIDACQCHFDINLNFDFTRSYLDLIVTYTSVILLLSRIEDRRILIGMYNCAHEMLHGHGDPSFARLGQMVLEYDHPLKKLTEEFGPHTKAVSGALL
+#=GR P55160|PF09735|7-1122 PP 59******************************************************************************************************************************************************************************************************
+Q9Y2A7|PF09735|9-1122         SQQKLAEKLTILNDRGVGMLTRLYNIKKACGDPKAKPSYLIDKNLESAVKFIVRKFPAVETRNNNQQLAQLQKEKSEILKNLALYYFTFVDVMEFKDHVCELLNTIDVCQVFFDITVNFDLTKNYLDLIITYTTLMILLSRIEERKAIIGLYNYAHEMTHGASDREYPRLGQMIVDYENPLKKMMEEFVPHSKSLSDALI
+#=GR Q9Y2A7|PF09735|9-1122 PP 59******************************************************************************************************************************************************************************************************
+#=GC PP_cons                  59******************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P55160|PF09735|7-1122         SLHFLFVRRNQGAEQWRSAQLLSLISNPPAMINPANSDTMACEYLSVEVMERWIIIGFLLCHGCLnSNSQCQKLWKLCLQGSLYITLIREDVLQVHKVTEDLFSSLKGYGKRVADIKESKEHVIANSGQFHCQRRQFLRMAVKELETVLADEPGLLGPKALFAFMALSFIRDEVTWLVRHTEN-----VTKTKTPEDYAD
+#=GR P55160|PF09735|7-1122 PP *****************************************************************99********************************************************************************************************************.....677899******
+Q9Y2A7|PF09735|9-1122         SLQMVYPRRNLSADQWRNAQLLSLISAPSTMLNPAQSDTMPCEYLSLDAMEKWIIFGFILCHGILnTDATALNLWKLALQSSSCLSLFRDEVFHIHKAAEDLFVNIRGYNKRINDIRECKEAAVSHAGSMHRERRKFLRSALKELATVLSDQPGLLGPKALFVFMALSFARDEIIWLLRHADNMPKK------SADDFID
+#=GR Q9Y2A7|PF09735|9-1122 PP *****************************************************************888999****************************************************************************************************************9999......479****
+#=GC PP_cons                  *****************************************************************.9999*****************************************************************************************************************9999.67789689****
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P55160|PF09735|7-1122         SSIAELLFLLEGIRSLVRRHIKVIQQYHLQYLARFDALVLSDIIQNLSVCPEEESIIMSSFVSILSSLNLKQVDNGEKFEFSGLRLDWFRLQAYTSVAKAPLHLHENPDLAKVMNLIVFHSRMLDSVEKLLVETSDLSTFCFHLRIFEKMFAMTLEESAMLRYAIAFPLICAHFVHCTHEMCPEEYPHLKNHGLHHCNSF
+#=GR P55160|PF09735|7-1122 PP ********************************************************************************************************************************************************************************************************
+Q9Y2A7|PF09735|9-1122         KHIAELIFYMEELRAHVRKYGPVMQRYYVQYLSGFDAVVLNELVQNLSVCPEDESIIMSSFVNTMTSLSVKQVEDGEVFDFRGMRLDWFRLQAYTSVSKASLGLADHRELGKMMNTIIFHTKMVDSLVEMLVETSDLSIFCFYSRAFEKMFQQCLELPSQSRYSIAFPLLCTHFMSCTHELCPEERHHIGDRSLSLCNMF
+#=GR Q9Y2A7|PF09735|9-1122 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                  ********************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P55160|PF09735|7-1122         LEELAKQTSNCVLEICAEQRNLSEQLLPKHCATTISKAKNKKTRKQRQTprKGEPERDKPGAESHRKNRSIVTNMDKLHLNLTELALTMNHVYSFSVFEHTIFPSEYLSSHLEARLNRAIVWLAGYNATTQEIVRPSELLAGVKAYIGFIQSLAQFLGADASRVIRNALLQQTQPLDSCGEQTITTLYTNWYLESLLRQA
+#=GR P55160|PF09735|7-1122 PP ******************************************9995544459****************************************************************************************************************************************************
+Q9Y2A7|PF09735|9-1122         LDEMAKQARNLITDICTEQCTLSDQLLPKHCAKTISQAVNKKSKKQTGK..KGEPEREKPGVESMRKNRLVVTNLDKLHTALSELCFSINYVPNMVVWEHTFTPREYLTSHLEIRFTKSIVGMTMYNQATQEIAKPSELLTSVRAYMTVLQSIENYVQIDITRVFNNVLLQQTQHLDSHGEPTITSLYTNWYLETLLRQV
+#=GR Q9Y2A7|PF09735|9-1122 PP *************************************************..*****************************************************************************************************************************************************
+#=GC PP_cons                  *******************************************997777..*****************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P55160|PF09735|7-1122         SSGTIILSPAMQAFVsLPREGEQNFSAEEFSDISEMRALAELLGPYGMKFLSENLMWHVTSQIVELKKLVVENMDILVQIRSNFSKPDLMASLLPQLTGAENVLKRMTIIGVILSFRAMAQEGLREVFSSHCPFLMGPIECLKEFVTPD-TDIKVTLSIFELASAAGVGCDIDPALVAAIANLKADTssPEEEYKVACLL
+#=GR P55160|PF09735|7-1122 PP ***************9999*********************************************************************************************************************************9.77**********************************999***********
+Q9Y2A7|PF09735|9-1122         SNGHIAYFPAMKAFVnLPTENELTFNAEEYSDISEMRSLSELLGPYGMKFLSESLMWHISSQVAELKKLVVENVDVLTQMRTSFDKPDQMAALFKRLSSVDSVLKRMTIIGVILSFRSLAQEALRDVLSYHIPFLVSSIEDFKDHIPRE-TDMKVAMNVYELSSAAGLPCEIDPALVVALSSQKSENisPEEEYKIACLL
+#=GR Q9Y2A7|PF09735|9-1122 PP *****************************************************************************************************************************************************.679*********************************999***********
+#=GC PP_cons                  ***************.9************************************************************************************************************************************.67**********************************9..***********
+#=GC RF                       xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxx
+
+P55160|PF09735|7-1122         LIFLAVSLPLLATDPSSFYSIEKDGYNNNIHCLTKAIIQVSAALFTLYNK-NIETHLKEFLVVASVSLLQLGQETD-KLKTRNRESISLLMRLVVEESSFLTLDMLESCFPYVLLRNAYREVS--r
+#=GR P55160|PF09735|7-1122 PP ************************************************88.*************************.*******************************************986..7
+Q9Y2A7|PF09735|9-1122         MVFVAVSLPTLASNVMSQYSPAIEGHCNNIHCLAKAINQIAAALFTIHKG-SIEDRLKEFLALASSSLLKIGQETD-KTTTRNRESVYLLLDMIVQESPFLTMDLLESCFPYVLLRNAYHAVYKQ.
+#=GR Q9Y2A7|PF09735|9-1122 PP ************************************************77.*************************.**********************************************96.
+#=GC PP_cons                  ************************************************77.*************************.********************************************9896.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

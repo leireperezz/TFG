@@ -1,0 +1,43 @@
+# STOCKHOLM 1.0
+
+O00622|PF00219|26-78          CPAAC---H...C.PLE.APKCAPGVGLV.R.............DGCGCCKVCAKQLNEDCS.....KTQ.-PCDhtKGLEC
+#=GR O00622|PF00219|26-78  PP 99***...7...*.***.***********.*.............******************.....986..**********
+O76076|PF00219|26-78          CPTPC---T...C.PWP.PPRCPLGVPLV.L.............DGCGCCRVCARRLGEPCD.....QLH.-VCDasQGLVC
+#=GR O76076|PF00219|26-78  PP 9****...6...*.***.***********.*.............******************.....997..***99****9
+O95388|PF00219|49-101         CKWPC---E...C.PPS.PPRCPLGVSLI.T.............DGCECCKMCAQQLGDNCT.....EAA.-ICDphRGLYC
+#=GR O95388|PF00219|49-101 PP 99***...6...*.***.***********.*.............******************.....*96..***999****
+O95389|PF00219|48-100         CHWPC---K...C.PQQ.KPRCPPGVSLV.R.............DGCGCCKICAKQPGEICN.....EAD.-LCDphKGLYC
+#=GR O95389|PF00219|48-100 PP 999**...6...*.***.***********.*.............******************.....*97..**********
+P08833|PF00219|30-84          CAP-CSAEKlalC.PPV.SASCSEVT--R.S.............AGCGCCPMCALPLGAACG.....VAT.ARCA..RGLSC
+#=GR P08833|PF00219|30-84  PP 877.*9999****.***.****5555..6.9.............******************.....***.****..*****
+P17936|PF00219|40-94          CEP-CDARAlaqC.APP.PAVC---AELVrE.............PGCGCCLTCALSEGQPCG.....IYT.ERCG..SGLRC
+#=GR P17936|PF00219|40-94  PP 877.*9988899*.999.9***...445559.............******************.....***.****..*****
+P18065|PF00219|42-111         CPP-CTPERlaaC.GPP.PVAPPAAVAAV.AggarmpcaelvrePGCGCCSVCARLEGEACG.....VYT.PRCG..QGLRC
+#=GR P18065|PF00219|42-111 PP 888.999999999.544.44444444444.44555555555556******************.....***.****..*****
+P22692|PF00219|27-80          CPP-CSEEKlarC.RP-.PVGC---EELVrE.............PGCGCCATCALGLGMPCG.....VYT.PRCG..SGLRC
+#=GR P22692|PF00219|27-80  PP 988.*9999999*.54..48**...455559.............******************.....***.****..*****
+P24593|PF00219|27-80          CEP-CDEKAlsmC.PPS.PLGC----ELVkE.............PGCGCCMTCALAEGQSCG.....VYT.ERCA..QGLRC
+#=GR P24593|PF00219|27-80  PP 877.*9998999*.***.****....45559.............******************.....***.****..*****
+P29279|PF00219|29-82          CSGPC---R...C.PDEpAPRCPAGVSLV.L.............DGCGCCRVCAKQLGELCT.....ERD.-PCDphKGLFC
+#=GR P29279|PF00219|29-82  PP 9999*...7...*.766489*********.*.............******************.....*98..***99***99
+P48745|PF00219|35-89          CPPQC-PGR...C.PAT.PPTCAPGVRAV.L.............DGCSCCLVCARQRGESCS.....DLE.-PCDesSGLYC
+#=GR P48745|PF00219|35-89  PP *****.888...*.***.***********.*.............******************.....997..***999****
+P83105|PF00219|40-94          CPAVCQPTR...C.PAL.-PTCALGTTPV.F.............DLCRCCRVCPAAEREVCG.....GAQgQPCA..PGLQC
+#=GR P83105|PF00219|40-94  PP 9********...*.987..**********.*.............******************.....55558***..*****
+P83110|PF00219|25-76          CPARCDVSR...C.PS-.-PRCPGGY--V.P.............DLCNCCLVCAASEGEPCG....gPLD.SPCG..ESLEC
+#=GR P83110|PF00219|25-76  PP *********...*.87...5*****9..*.*.............******************....7445.7***..*****
+Q16270|PF00219|32-87          CGP-CEPAS...CpPLP.PLGCLLGE--T.R.............DACGCCPMCARGEGEPCGg..ggAGR.GYCA..PGMEC
+#=GR Q16270|PF00219|32-87  PP 766.*****...*6666.89**9999..9.9.............******************9..88666.89**..*****
+Q92743|PF00219|37-89          CPDRCEPAR...C.PPQ.PEHCEGGR--A.R.............DACGCCEVCGAPEGAACG.....LQE.GPCG..EGLQC
+#=GR Q92743|PF00219|37-89  PP *********...*.***.****9999..9.9.............******************.....***.****..*****
+Q9NQ30|PF00219|28-83          CPQHCDSSE...C.KSS.-PRC---KRTV.L.............DDCGCCRVCAAGRGETCYrtvsgMDG.MKCG..PGLRC
+#=GR Q9NQ30|PF00219|28-83  PP *********...*.765..***...4556.*.............******************99998666.8***..*****
+Q9NZV1|PF00219|37-90          CLP-CDESK...C.E-E.PRNCPGSI--V.Q.............GVCGCCYTCASQRNESCGg..tfGIY.GTCD..RGLRC
+#=GR Q9NZV1|PF00219|37-90  PP 766.*****...*.5.5.6***6555..9.*.............******************8..88445.7***..*****
+Q8WX77|PF00219|38-91          CGP-CRPEG...C.PAP.-APCPAPGISA.L.............DECGCCARCLGAEGASCG.....GRAgGRCG..PGLVC
+#=GR Q8WX77|PF00219|38-91  PP 766.*****...*.986..9997666577.*.............******************.....55549***..****9
+Q96I82|PF00219|53-108         CAP-CRPEE...C.AA-.PRGCLAGR--V.R.............DACGCCWECANLEGQLCDldpsaHFY.GHCG..EQLEC
+#=GR Q96I82|PF00219|53-108 PP 877.*****...*.76..5***9999..*.*.............********************998777.9***..*****
+#=GC PP_cons                  988***999...*.888.89**9988788.9.............******************.....887.9***..*****
+#=GC RF                       xxxxxxxxx...x.xxx.xxxxxxxxxxx.x.............xxxxxxxxxxxxxxxxxx.....xxx.xxxx..xxxxx
+//

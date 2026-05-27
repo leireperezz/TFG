@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+O60941|PF09069|145-232           l--DKLRYVFSQM.......SDSNGLMIFSKFDQFLKEVLKLPTAVFEGPSFGY..TEHSVRTCFPQ-.-QRKIMLNMFLDTMMADppPQCLVWLPLMHRLA
+#=GR O60941|PF09069|145-232   PP 7..9*********.......**********************************..***********...9***************999***********96
+P11532|PF09069|3211-3302         .LEDKYRYLFKQV.......ASSTGFCDQRRLGLLLHDSIQIPRQLGEVASFGGsnIEPSVRSCFQFAnNKPEIEAALFLDWMRLE..PQSMVWLPVLHRVA
+#=GR P11532|PF09069|3211-3302 PP .79**********.......**********************************99************99****************..************96
+P46939|PF09069|2968-3059         .LEEKYRYLFKEV.......AGPTEMCDQRQLGLLLHDAIQIPRQLGEVAAFGGsnIEPSVRSCFQQNnNKPEISVKEFIDWMHLE..PQSMVWLPVLHRVA
+#=GR P46939|PF09069|2968-3059 PP .79**********.......**********************************99***********999****************..************96
+Q9Y4J8|PF09069|144-232           .IMDKLRYIFSMI.......SDSSGVMVYGRYDQFLREVLKLPTAVFEGPSFGY..TEQSARSCFSQ-.-QKKVTLNGFLDTLMSDppPQCLVWLPLLHRLA
+#=GR Q9Y4J8|PF09069|144-232   PP .68**********.......**********************************..***********...****************999***********96
+Q13474|PF09069|508-599           .VKEKLQYLFSQV.......ANSGSQCDQRHLGVLLHEAIQVPRQLGEVAAFGGsnVEPSVRSCFRFStGKPVIEASQFLEWVNLE..PQSMVWLAVLHRVT
+#=GR Q13474|PF09069|508-599   PP .589*********.......**********************************99***********9999***************..************85
+A2CJ06|PF09069|124-216           s---KYRALFQLYaensrggYDSGPRMTRRVLRKLLTDLQQIPTFVGESRALCP..VESATRSCFQGV.LSPAIKEEKFLSWVQSE..PPILLWLPTCHRL-
+#=GR A2CJ06|PF09069|124-216   PP 6...9********76666666677799***************************..************.*****************..************8.
+#=GC PP_cons                     .689*********.......9999******************************..************.9****************..************96
+#=GC RF                          .xxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx.xxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx
+//

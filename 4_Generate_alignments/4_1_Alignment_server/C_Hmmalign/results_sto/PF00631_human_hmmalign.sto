@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+
+O14610|PF00631|7-68             ..e---KDLLKMEV.EQLKKEVKNTRIPISKAGKEIKEYVEAQAGNDPFLKGI---PEDKNPFKEK-GGCLI-..
+#=GR O14610|PF00631|7-68     PP ..5...7889****.**************************************...8*********.88986...
+O75916|PF00631|219-283          ...KQTVVAVKKEI.MYYQQALMRSTVKSSVSLGGIVKYSEQFSSNDAIMSGC-LPS---NPWITDDTQFWDL..
+#=GR O75916|PF00631|219-283  PP ...6899*******.**************************************.9*9...***********87..
+O94810|PF00631|227-284          ...-------KREI.EYFRKALGRTRVKSSVCLEAYLSFCGQRGPHDPLVSGC-LPS---NPWISDNDAYWVM..
+#=GR O94810|PF00631|227-284  PP ..........79**.**************************************.9*9...******8888876..
+P49758|PF00631|256-317          ..t--TKEDIRKQI.TFLNAQIDRHCLKMSKVAESLIAYTEQYVEYDPLITPA-EPS---NPWISDDVAL---w.
+#=GR P49758|PF00631|256-317  PP ..6..6888999**.**************************************.898...*****97765...5.
+P49802|PF00631|254-316          ..t---EDELQQQI.KYWQIQLDRHRLKMSKVADSLLSYTEQYLEYDPFLLPP-DPS---NPWLSDDTTFWEL..
+#=GR P49802|PF00631|254-316  PP ..6...6899****.**************************************.9*9...***********86..
+P50150|PF00631|11-75            tsi-----SQARKAvEQLKMEACMDRVKVSQAAADLLAYCEAHVREDPLIIPV---PASENPFREKKFFCTIL..
+#=GR P50150|PF00631|11-75    PP 866.....5666666**************************************...8**************97..
+P50151|PF00631|8-67             ..s-----ALQRLV.EQLKLEAGVERIKVSQAAAELQQYCMQNACKDALLVGV---PAGSNPFREP-RSCA--l.
+#=GR P50151|PF00631|8-67     PP ..8.....578888.**************************************...8*********.8885..7.
+P59768|PF00631|7-71             .as----IAQARKLvEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPV---PASENPFREKKFFCAIL..
+#=GR P59768|PF00631|7-71     PP .75....56788888**************************************...8*********999*997..
+P61952|PF00631|11-72            ...--EKEKLKMEV.EQLRKEVKLQRQQVSKCSEEIKNYIEERSGEDPLVKGI---PEDKNPFKEK-GSCVI-..
+#=GR P61952|PF00631|11-72    PP .....589******.**************************************...8*********.***97...
+P63211|PF00631|10-73            ..t--EKDKLKMEV.DQLKKEVTLERMLVSKCCEEVRDYVEERSGEDPLVKGI---PEDKNPFKELKGGCVI-..
+#=GR P63211|PF00631|10-73    PP ..5..89*******.**************************************...8*************97...
+P63218|PF00631|6-67             .sv----AAMKKVV.QQLRLEAGLNRVKVSQAAADLKQFCLQNAQHDPLLTGV---SSSTNPFRPQ-KVC---sf
+#=GR P63218|PF00631|6-67     PP .75....5678888.**************************************...999*******.555...57
+Q9P2W3|PF00631|4-67             ..w--DVPQMKKEV.ESLKYQLAFQREMASKTIPELLKWIEDGIPKDPFLNPD---LMKNNPWVEK-GKCTIL..
+#=GR Q9P2W3|PF00631|4-67     PP ..6..6789*****.**************************************...9*********.****97..
+Q9UBI6|PF00631|11-72            .ia-----QARRTV.QQLRLEASIERIKVSKASADLMSYCEEHARSDPLLIGI---PTSENPFKDK-KTCIIL..
+#=GR Q9UBI6|PF00631|11-72    PP .96.....566788.**************************************...89********.889886..
+O60262|PF00631|4-68             ..t--NNIAQARKLvEQLRIEAGIERIKVSKAASDLMSYCEQHARNDPLLVGV---PASENPFKDK-KPCIIL..
+#=GR O60262|PF00631|4-68     PP ..7..5678889999**************************************...8*********.99*997..
+P63215|PF00631|11-74            msi-----GQARKMvEQLKIEASLCRIKVSKAAADLMTYCDAHACEDPLITPV---PTSENPFREKKFFCA--l.
+#=GR P63215|PF00631|11-74    PP 865.....6788888**************************************...89********88885..7.
+Q9UK08|PF00631|11-69            .ar--------KTV.EQLKLEVNIDRMKVSQAAAELLAFCETHAKDDPLVTPV---PAAENPFRDKRLFCV--l.
+#=GR Q9UK08|PF00631|11-69    PP .75........667.**************************************...8*********66675..6.
+A0A804HLA8|PF00631|8-67         aat--------KKVvQQLQLEAGLNSVKVSQAAADLKQFCLQNAQHDPLLTGV---SSSTNPFRPQ-KVC---sf
+#=GR A0A804HLA8|PF00631|8-67 PP 864........5555**************************************...999*******.555...57
+#=GC PP_cons                    ...68688788899.**************************************.9989********9888887..
+#=GC RF                         ...xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

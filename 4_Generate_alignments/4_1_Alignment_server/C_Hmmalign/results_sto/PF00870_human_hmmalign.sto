@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O15350|PF00870|118-308         n--TDYPGPHHFEVTFQQSSTAKSATWTYSPLLKKLYCQIAKTCPIQIKVSTPPPPGTAIRAMPVYKKAEHVTDVVKRCPNHELGRDFNEGqsAPAS..HLIRVEGNnLSQYV-DDPVT---GRQSVVVPYEPPQvGTEFTTILYNFMCNSSCVGGMNRRPILIIITLEMRDGQVLGRRSFEGRICACPGRDRKADED--
+#=GR O15350|PF00870|118-308 PP 7..6899*******************************************************************************99777767778..*****977479999.66666...9************************************************************************997..
+P04637|PF00870|100-288         q--KTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSDGL..APPQ..HLIRVEGNlRVEYL-DDRNT---FRHSVVVPYEPPEvGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEEN-
+#=GR P04637|PF00870|100-288 PP 6..6899*********99*********************************************************************9888..****..******988*****.66666...9*************************************************************************985.
+Q9H3D4|PF00870|168-357         n--TDYPGPHSFDVSFQQSSTAKSATWTYSTELKKLYCQIAKTCPIQIKVMTPPPQGAVIRAMPVYKKAEHVTEVVKRCPNHELSREFNEG..QIAPpsHLIRVEGNsHAQYV-EDPIT---GRQSVLVPYEPPQvGTEFTTVLYNFMCNSSCVGGMNRRPILIIVTLETRDGQVLGRRCFEARICACPGRDRKADE---
+#=GR Q9H3D4|PF00870|168-357 PP 7..6899*******************************************************************************99888..655555*****96659****.77666...9***********************************************************************999...
+#=GC PP_cons                   ...6899********************************************************************************9877..7777..*****977.99***.66666...9************.***********************************************************9975.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx..xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15350|PF00870|118-308         h
+#=GR O15350|PF00870|118-308 PP 6
+P04637|PF00870|100-288         .
+#=GR P04637|PF00870|100-288 PP .
+Q9H3D4|PF00870|168-357         d
+#=GR Q9H3D4|PF00870|168-357 PP 5
+#=GC PP_cons                   .
+#=GC RF                        .
+//

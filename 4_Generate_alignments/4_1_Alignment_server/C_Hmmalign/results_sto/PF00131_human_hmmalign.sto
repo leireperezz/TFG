@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+P02795|PF00131|1-61         ..MDP-NCSCAA.GDSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKG....ASD--KCSCCA
+#=GR P02795|PF00131|1-61 PP ..899.9*****.*******************************************....777..*****6
+P04731|PF00131|1-61         ..MDP-NCSCAT.GGSCTCTGSCKCKECKCTSCKKSCCSCCPMSCAKCAQGCICKG....ASE--KCSCCA
+#=GR P04731|PF00131|1-61 PP ..899.9*****.*******************************************....888..*****6
+P04732|PF00131|1-61         ..MDP-NCSCAT.GGSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCVCKG....ASE--KCSCCA
+#=GR P04732|PF00131|1-61 PP ..899.9*****.*******************************************....888..*****6
+P04733|PF00131|1-60         ..MDP-NCSCAA.GVSCTCAGSCKCKECKCTSCKKSCCSCCPVGCSKCAQGCVCKG....ASE--KCSCC-
+#=GR P04733|PF00131|1-60 PP ..899.9*****.*******************************************....888..*****.
+P07438|PF00131|1-61         ..MDP-NCSCTT.GGSCACAGSCKCKECKCTSCKKCCCSCCPVGCAKCAQGCVCKG....SSE--KCRCCA
+#=GR P07438|PF00131|1-61 PP ..899.9*****.*******************************************....777..*****6
+P13640|PF00131|1-62         ..MDP-NCSCAAaGVSCTCASSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKG....ASE--KCSCCA
+#=GR P13640|PF00131|1-62 PP ..899.9***98799*****************************************....888..*****6
+P25713|PF00131|1-68         ..MDPETCPCPS.GGSCTCADSCKCEGCKCTSCKKSCCSCCPAECEKCAKDCVCKGgeaaEAEAEKCSCCQ
+#=GR P25713|PF00131|1-68 PP ..9*********.*******************************************999888999*****7
+P80294|PF00131|1-61         ..MDP-NCSCEA.GGSCACAGSCKCKKCKCTSCKKSCCSCCPLGCAKCAQGCICKG....ASE--KCSCCA
+#=GR P80294|PF00131|1-61 PP ..899.9*****.*******************************************....888..*****6
+P80297|PF00131|1-61         ..MDP-NCSCSP.VGSCACAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKG....TSD--KCSCCA
+#=GR P80297|PF00131|1-61 PP ..899.9*****.*******************************************....777..*****6
+Q8N339|PF00131|1-61         ..MDP-NCSCTT.GVSCACTGSCTCKECKCTSCKKSCCSCCPVGCAKCAHGCVCKG....TLE--NCSCCA
+#=GR Q8N339|PF00131|1-61 PP ..899.9*****.*******************************************....766..9****6
+A1L3X4|PF00131|2-48         dl----SCSCAT.GGSCTCASSCKCKEYKCTSCKKNCCSCCPMGCAKCAQGC----....-----------
+#=GR A1L3X4|PF00131|2-48 PP 87....6*****.***************************************...................
+P0DM35|PF00131|1-61         ..MDP-NCSCAA.GGSYACAGSCKCKKCKCTSCKKSCCSCCPLGCAKCAQGCIRKG....ASE--KCSCCA
+#=GR P0DM35|PF00131|1-61 PP ..899.9*****.*******************************************....888..*****6
+P47944|PF00131|1-61         ..MDPRECVCMS.GGICMCGDNCKCTTCNCKTYWKSCCPCCPPGCAKCARGCICKG....GSD--KCSCC-
+#=GR P47944|PF00131|1-61 PP ..9*********.*******************************************....555..*****.
+Q93083|PF00131|1-61         ..MDP-NCSCAT.GGSCSCASSCKCKECKCTSCKKSCCSCCPMGCAKCAQGCVCKG....ASE--KCSCCA
+#=GR Q93083|PF00131|1-61 PP ..899.9*****.*******************************************....888..*****6
+#=GC PP_cons                ..899*9*****.*******************************************....77799*****6
+#=GC RF                     ..xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxx
+//

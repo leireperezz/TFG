@@ -1,0 +1,56 @@
+# STOCKHOLM 1.0
+
+O75564|PF03184|213-382           ..KDRLTVLMCANATGSHRLKPLAIGKCSGPRAFKG---IQHLPVAYKAQGNAWVDKEIFSDWFHHIFVPSVRehf..rtigLPEDSKAVLLLDSSRAHPqEAEL----VSSNVFTIFLPASVASLVQPMEQGI--------RRDFMRNFINPPVPLQG..........PHARYNMNDAIFSVACAWNAVPSHVFRRAW.
+#=GR O75564|PF03184|213-382   PP ..78********************************...*************************************..**999*****************77788....*************************........*****************..........****************************99.
+P07199|PF03184|223-384           ..-QRLSVLLCANADGSEKLPPLVAGKSAKPRAGQA-----GLPCDYTANSKGGVTTQALAKYL-KALDTRMA.........-AESRRVLLLAGRLAAQS.LDTS----GLRHVQLAFFP---PGTVHPLERGVVQQVKGHYRQAMLLKAMAALEGQDP..........SGLQLGLTEALHFVAAAWQAVEPSDIAACF.
+#=GR P07199|PF03184|223-384   PP ...699******************************.....***********************.********..........*****************.****....***********...899*********************************..........*****************************9.
+Q7Z3K3|PF03184|1160-1286         vl---------AILADGTVLPTLVFYRGQMDQPANM-----PDSILLEAKESGYSDDEIMELWSTRVWQKHTA.........-CQRSKGMLVMDCHRTHL.SEEVLAMLSASSTLPAVVPAGCSSKIQPLDVCIKRTVKNFLHKKWKEQ----------..........------------------------------a
+#=GR Q7Z3K3|PF03184|1160-1286 PP 86.........799******************9999.....889999**************************..........99***************.999978888899999999********************9988888766..................................................5
+Q53EQ6|PF03184|273-357           ..-DRVTVLLAANLTGSHKLKPLVIGRLPDPPSLRH-HNQDKFPASYRYSPDAWLSRPLLRGWFFEEFVPGVKry....lrrSCLQQKAVLL--------.----------------------------------------------------------..........------------------------------v
+#=GR Q53EQ6|PF03184|273-357   PP ...69*******************************.99*********************************988....7775666666665...........................................................................................................6
+Q6B0B8|PF03184|194-360           .q---VQVLLCANSRGTEKRRVLLGGLQAAPRCFFG-IRSEALPASYHPDLG-----IPWLEWL-AQFDRDMG.........-QQGRQVALLLAARVVEE.LAGL---PGLYHV--KLLPLAASSTTPPLPSSVVRAFKAHYRHRLLGKLAAIQSERDGts.....laeAGAGITVLDALHVASAAWAKVPPQLIFSSF.
+#=GR Q6B0B8|PF03184|194-360   PP .7...6799*************************99.9*********97643.....23579**.9*******..........**********9988888.7777...566655..568999***************************999999888888.....998999*********************998887.
+Q6NT04|PF03184|207-399           ..KERLSAFLCANADGTHKLKSIIIGKSKLPKSVKE--DTSTLPVIYKPSKDVWFTRELFSEWFFQNFVPEVRhfqlnvlrfHDEDVRALLLLDSCPAHP.SSES-LTSEDGRIKCMFFPHNTSTLIQPMNQGVILSCKRLYRWKQLEESLVIFEESDDeqekgdkgvsKIKIYNIKSAIFNWAKSWEEVKQITIANAW.
+#=GR Q6NT04|PF03184|207-399   PP ..79********************************..9*****************************************9999****************.9999.9****************************************9988665555555678999**999***************************9.
+Q8IY51|PF03184|211-374           ..KDRITLVVGTNMDGSEKLPLLVIGKKRTPHCFKG---LKSLPVCYEANRMAWMTSDVFEQWM-RKLDEEFQ.........-AQQRRVVIFVESFPAHP.EVKN-----LKSIELAFFPSCLSSKCIAMKQGVIKSLKIKYRHCLIKKFLSSVEGSKE..........--FTFSLLDAVDTLHLCWRAVTPETIVK--s
+#=GR Q8IY51|PF03184|211-374   PP ..79********************************...9************************.********..........*****************.9999.....9******************************************999999............89**********************76..7
+Q9P215|PF03184|396-567           .l--KITAMLG-VLADGRKLPPYIILRGTYIPPGKF-----PSGMEIRCHRYGWMTEDLMQDWLEVVWRRRTG.........AVPKQRGMLILNGFRGHA.TDSVKNSMESMNTDMVIIPGGLTSQLQVLDVVVYKPLNDSVRAQYSNWLLAGNLALSPt........gNAKKPPLGLFLEWVMVAWNSISSESIVQGF.
+#=GR Q9P215|PF03184|396-567   PP .7..79*****.9***********************.....********************************.........******************.********************************************************999........99***************************98.
+Q9Y4A0|PF03184|207-385           ..-ERVTIMCCANATGLHKLKLCVVGKAKKPRSFKS-TDTLNLPVSYFSQKGAWMDLSIFRQWFDKIFVPQVRey....lrsKGLQEKAVLLLDNSPTHP.NENV-LRSDDGQIFAKYLPPNVASLIQPSDQGVIATMKRNYRAGLLQNNLEEGNDLKS..........FWKKLTLLDALYEIAMAWNLVKPVTISRAW.
+#=GR Q9Y4A0|PF03184|207-385   PP ...69*******************************.**************************************....*********************.****.*****************************************************..........*****************************9.
+Q17RP2|PF03184|207-372           ..KQRLTALFCCNASGTEKMRPLIVGRSASPHCLKN---IHSLPCDYRANQWAWMTRDLFNEWL-MQVDARMK.........-RAERRILLLIDNCSAHN.MLPH-----LERIQVGYLPSNCTAVLQPLNLGIIHTMKVLYQSHLLKQILLKLNSSED..........-QEEVDIKQAIDMIAAAWWSVKPSTVVKCW.
+#=GR Q17RP2|PF03184|207-372   PP ..79********************************...99***********************.999*****..........*****************.7766.....79****************************************9999988...........9***************************9.
+Q4W5G0|PF03184|207-385           ..-ERIIIMCCANATGLHKLNLCVVGKAKKPRAFKG-TDLSNLPVTYYSQKGAWIEQSVFRQWFEKYFVPQVQkh....lksKGLLEKAVLLLDFPPARP.NEEM-LSSDDGRIIVKYLPPNVTSLIQPMSQGVLATVKRYYRAGLLQKYMDEGNDPKI..........FWKNLTVLDAIYEVSRAWNMVKSSTITKAW.
+#=GR Q4W5G0|PF03184|207-385   PP ...6899*****************************.99**********************************99....8777788999***********.9998.9****************************************************..........*****************************9.
+Q96MW7|PF03184|216-403           ..KDRLTLLLGANAAGDFKLKPMLIYHSENPRALKN-YTKSTLPVLYKWNSKARMTAHLFTAWFTEYFKPTVEty....cseKKIPFKILLLIDNAPSHPrALME----IYEEINVIFMPANTTSILQPMDQGVISTFKSYYLRNTFHKALAAMDSDVSdgsgqsklktFWKGFTILDAIKNIRDSWEEVKLSTLTGVW.
+#=GR Q96MW7|PF03184|216-403   PP ..78********************************.**************************************....*********************88877....9*********************************************99999************************************999.
+#=GC PP_cons                     ..7799******************************.*************99*****99**************.........9999**************.9998999999999**9*******************************9**99999999..........**************************9999.
+#=GC RF                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+O75564|PF03184|213-382           ..
+#=GR O75564|PF03184|213-382   PP ..
+P07199|PF03184|223-384           ..
+#=GR P07199|PF03184|223-384   PP ..
+Q7Z3K3|PF03184|1160-1286         re
+#=GR Q7Z3K3|PF03184|1160-1286 PP 78
+Q53EQ6|PF03184|273-357           ..
+#=GR Q53EQ6|PF03184|273-357   PP ..
+Q6B0B8|PF03184|194-360           ..
+#=GR Q6B0B8|PF03184|194-360   PP ..
+Q6NT04|PF03184|207-399           ..
+#=GR Q6NT04|PF03184|207-399   PP ..
+Q8IY51|PF03184|211-374           ..
+#=GR Q8IY51|PF03184|211-374   PP ..
+Q9P215|PF03184|396-567           ..
+#=GR Q9P215|PF03184|396-567   PP ..
+Q9Y4A0|PF03184|207-385           ..
+#=GR Q9Y4A0|PF03184|207-385   PP ..
+Q17RP2|PF03184|207-372           ..
+#=GR Q17RP2|PF03184|207-372   PP ..
+Q4W5G0|PF03184|207-385           ..
+#=GR Q4W5G0|PF03184|207-385   PP ..
+Q96MW7|PF03184|216-403           ..
+#=GR Q96MW7|PF03184|216-403   PP ..
+#=GC PP_cons                     ..
+#=GC RF                          ..
+//

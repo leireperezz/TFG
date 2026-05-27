@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O00592|PF06365|356-558         q--LVLNLTGNTLCAGGA--SDEKLISLICRAVKATFNPAQDKCGIRLASVPGSQTVVVKEITIHTKL-PaKDVYERLKDKWDELKEAGVSDMKLGDQGPPEEae......drFSMPLIITIVCMASFLLLVAALYGCCHQRLSQRKDQQRLTEELQTVENGYHDNPTLEVM-ETSSEMQEKK-VVSLNGEL--GDSWIv
+#=GR O00592|PF06365|356-558 PP 7..68*********9987..7899*******************************************9.88******************************999*......*************************************************************.**********.********..******
+P28906|PF06365|187-385         .QGICLEQNKTSSCAEFKKDRGEGLARVLCGEEQADADAGAQVCSLLLAQSEVRPQCLLLVLANRTEI--.SSKLQLMKKHQSDLKKLGILDFTEQDVASHQS..........YSQKTLIALVTSGALLAVLGITGYFLMNRRSWSPTGERLGEDPYYTENG--GGQGYSSGPGTSPEAQGKA-SVNRGAQENGTGQAT.
+#=GR P28906|PF06365|187-385 PP .57*****************************************************************...********************************..........*************************************************..*******************.***************.
+Q9NZ53|PF06365|390-605         .NYIILNMTENIDCEVFRQHRGPQLLALVEEVLPRHGSGHHGAWHISLSKPSEKEQHLLMTLVGEQGVVPtQDVLSMLGDIRRSLEEIGIQNYSTTSSCQARAsqvrsdygtlFVVLVVIGAICI--IIIALGLLYNCWQRRLPKLKHVSH-GEELRFVENGCHDNPTLDVASDSQSEMQEKHPSLNGGGALNGPGSWGa
+#=GR Q9NZ53|PF06365|390-605 PP .79**************************************************************************************************999*********************..************************.***********************************************9
+#=GC PP_cons                   .6899***********99**99***********************************************9.*******************************9..........**************************************************************************************.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+O00592|PF06365|356-558         .plDNLTKDDLDE-EEDTHL
+#=GR O00592|PF06365|356-558 PP .***********9.*****8
+P28906|PF06365|187-385         ...SRNGHSARQHVVADTEL
+#=GR P28906|PF06365|187-385 PP ...****************8
+Q9NZ53|PF06365|390-605         lmgGKRDPEDSDVFEEDTHL
+#=GR Q9NZ53|PF06365|390-605 PP **9****************8
+#=GC PP_cons                   ...****************8
+#=GC RF                        ...xxxxxxxxxxxxxxxxx
+//

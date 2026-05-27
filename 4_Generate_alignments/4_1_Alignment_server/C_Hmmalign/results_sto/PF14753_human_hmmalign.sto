@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+A4D161|PF14753|20-213          ....YRRIVGEDDGGKLFTPEEYEEYKRKVLPLRLQNRLFVSWRSPTGM.DCKLVGPETLCFCTHRYKQHKTDLEAIPQQCPIDLPCQVTGCQCRAYLYVPLN....GSQ.............PIRCRCKHFADQHSAAPGFTCNT.-CSKCSGFHSCFTCA.CGQPAYAHDTVVETKQERLAQEKPVGQDIPYAAMGGL
+#=GR A4D161|PF14753|20-213  PP ....9********************************************.*****************************************************....***.............**********************9..**************.*************************************
+A6H8Z2|PF14753|241-393         alna------------------------------IQTGLYIGWRCPHYLwDCFRIGDESRCFCGHLLREHRI-------ISDISVPCKVSQCRCFMFCFIPSRpeevGEFwlkrratfdpkawRAQCRCKHSHEEHAATGPHPCRHhGCC-CGCFESNFLCAaCDRRWEEHETFFDTQKTRQRGGRPRGT----------
+#=GR A6H8Z2|PF14753|241-393 PP 9976..............................67789*******9755*********************9.......456889****************7522223211111222222222468*******************95666.**********5499**********************876..........
+#=GC PP_cons                   ....9*****************************8899********998.*********************9*******778999****************98....766.............789*******************9.688***********8.************************998**********
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxx.............xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A4D161|PF14753|20-213          TGFSSLAEGYMRLDDSGI--g
+#=GR A4D161|PF14753|20-213  PP ***************996..6
+A6H8Z2|PF14753|241-393         --------------------d
+#=GR A6H8Z2|PF14753|241-393 PP ....................5
+#=GC PP_cons                   ***************996...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxx.
+//

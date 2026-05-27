@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+O60337|PF12906|9-55            CRVCRSEGTPEK..PLYHPCVCTGSIKFIHQECLVQWLKH........SRKEY...CELC
+#=GR O60337|PF12906|9-55    PP ************..**************************........*****...****
+Q5T0T0|PF12906|80-126          CRICHCEGDDES..PLITPCHCTGSLHFVHQACLQQWIKS........SDTRC...CELC
+#=GR Q5T0T0|PF12906|80-126  PP ************..**************************........*****...****
+Q86UD3|PF12906|71-116          CRICHEGSSQ-E..DLLSPCECTGTLGTIHRSCLEHWLSS........SNTSY...CELC
+#=GR Q86UD3|PF12906|71-116  PP *******666.5..5*************************........*****...****
+Q86YJ5|PF12906|110-155         CRICFQGPEQGE..-LLSPCRCDGSVRCTHQPCLIRWISE........RGSWS...CELC
+#=GR Q86YJ5|PF12906|110-155 PP *******66655...*************************........*****...****
+Q8NA82|PF12906|659-714         CRICQIAGGSPS.nPLLEPCGCVGSLQFVHQECLKKWLKVkitsgadlGAVKT...CEMC
+#=GR Q8NA82|PF12906|659-714 PP ****98776655.5*************************98888888778888...**99
+Q8TCQ1|PF12906|80-126          CRICHCEGDEES..PLITPCRCTGTLRFVHQSCLHQWIKS........SDTRC...CELC
+#=GR Q8TCQ1|PF12906|80-126  PP ************..**************************........*****...****
+Q9H992|PF12906|552-607         CRICQMAAASSS.nLLIEPCKCTGSLQYVHQDCMKKWLQAkinsgsslEAVTT...CELC
+#=GR Q9H992|PF12906|552-607 PP *****9999888.799***********************99999999989999...****
+Q9NX47|PF12906|14-68           CWVCFATDEDDRtaEWVRPCRCRGSTKWVHQACLQRWVDEkqr..gnsT---ArvaCPQC
+#=GR Q9NX47|PF12906|14-68   PP *******9999999**************************775..5433...04559999
+Q9P0N8|PF12906|64-109          CRICHEGANG-E..CLLSPCGCTGTLGAVHKSCLEKWLSS........SNTSY...CELC
+#=GR Q9P0N8|PF12906|64-109  PP *******666.5..6*************************........*****...****
+Q9P2E8|PF12906|163-208         CRICFQGPEQGE..-LLSPCRCDGSVKCTHQPCLIKWISE........RGCWS...CELC
+#=GR Q9P2E8|PF12906|163-208 PP *******66655...*************************........*****...****
+A6NNE9|PF12906|170-215         CKICFQGAEQGE..-LLNPCRCDGSVRYTHQLCLLKWISE........RGSWT...CELC
+#=GR A6NNE9|PF12906|170-215 PP *******77766...*************************........*****...****
+#=GC PP_cons                   *******88887..9*************************........9***9...****
+#=GC RF                        xxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxx...xxxx
+//

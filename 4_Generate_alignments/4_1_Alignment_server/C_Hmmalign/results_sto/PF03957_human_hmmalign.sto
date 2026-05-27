@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P05412|PF03957|6-240         ETTFY-DDALNASFLPSE......-SGPYGYSNP.......KILKQ.SMTLNLADPVG.SLK........PHLRAKNS--..........--DLLTSPDVG.LLKLASPELERLIIQSSNGHITTTPT.PTQFLCPK.............NVTDEQEGFAEGFVRALAELHSQNT.LPSVTSAAQPVNGAG......MVA
+#=GR P05412|PF03957|6-240 PP 89***.***********9.......*********.......*****.***********.***........********..............9********.**************************.********.............*************************.*****8887777777......666
+P17275|PF03957|6-256         EQPFYHDDSYTATGYGRA......-PGGLSLHDY.......KLLKP.SLAVNLADPYR.SLKapgargpgPEGGGGGSYF..........SG---QGSDTGaSLKLASSELERLIVPNSNGVITTTPTpPGQYFYPRgggsgggaggaggGVTEEQEGFADGFVKALDDLHKMNH.---VTPPNVSLGATG.....gPPA
+#=GR P17275|PF03957|6-256 PP 89***************9.......*********.......*****.***********.***955555555555555555..........66...899**999*************************889****************9988************************....888888888777.....599*
+P17535|PF03957|2-256         ETPFYGDEALSGLGGGASgsggsfASPGRLFPGApptaaagSMMKKdALTLSLSEQVAaALK........PAAAPPPTPLradgapsaapPDGLLASPDLG.LLKLASPELERLIIQ-SNGLVTTTPT.SSQFLYPK.............VAASEEQEFAEGFVKALEDLHKQNQlGAGAAAAAAAAAAGGpsgtatGSA
+#=GR P17535|PF03957|2-256 PP 8****************99999999999999999999999999***************9***........****99999999*******************.***************.**********.********.............*************************6667777777777777888887778
+#=GC PP_cons                 89***************9......99********.......*****.***********.***........8888888877..........88***9*****.**************************.9*******.............9************************.888888888777777......788
+#=GC RF                      xxxxxxxxxxxxxxxxxx......xxxxxxxxxx.......xxxxx.xxxxxxxxxxx.xxx........xxxxxxxxxx..........xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx......xxx
+
+P05412|PF03957|6-240         PAVASVAGGsgsggfsasLHSEPPVYANLSNFNPGALSSGGGAP.....-SYGAAGLAFPAQPQQQQqpphhLPQQMP--.VQHPRLQALKEEPQTVPEMP--GETP
+#=GR P05412|PF03957|6-240 PP 6677777779999**********************999999999......777889*******998877777778888...5688****************..***9
+P17275|PF03957|6-256         GPGGVYAGP.........--EPPPVYTNLSSYSPASASSGGAGAavgtgSSYPTTTISYLPHAPPFA.....--GGHPAQlGLGRGASTFKEEPQTVPEARSRDATP
+#=GR P17275|PF03957|6-256 PP *********...........9*****************9999887889999999*************.......****99644445689*****************9
+P17535|PF03957|2-256         PPGELAPAA.........AAPEAPVYANLSSYAGGAGGAGGAAT.....VAFAAEPVPFPPPPPPGA.....--LG----.--PPRLAALKDEPQTVPDVPSFGESP
+#=GR P17535|PF03957|2-256 PP 888999889.........**************************.....777777777776666666.......33.......459********************9
+#=GC PP_cons                 888888888.........********************999999.....878888999999998888.....77779999.5556899******************9
+#=GC RF                      xxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx.....xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
+//

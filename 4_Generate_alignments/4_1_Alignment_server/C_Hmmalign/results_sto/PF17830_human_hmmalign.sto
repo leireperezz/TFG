@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P31948|PF17830|130-184         .MPNLYQKLESDPRTRTLLSDPTYRELIEQLRNKPSDLGTKLQDPRIMTTLSVLLG
+#=GR P31948|PF17830|130-184 PP .69****************************************************8
+P31948|PF17830|483-536         .-EDVKRRAMADPEVQQIMSDPAMRLILEQMQKDPQALSEHLKNPVIAQKIQKLMD
+#=GR P31948|PF17830|483-536 PP ..68899************************************************6
+P50502|PF17830|315-361         e-------ILSDPEVLAAMQDPEVMVAFQDVAQNPANMSKYQSNPKVMNLISKL--
+#=GR P50502|PF17830|315-361 PP 8.......678*****************************************98..
+Q8NFI4|PF17830|315-361         e-------ILSDPEALAAMQDPEVMVAFQDVAQNPANMSKYQSNPKVMNLISKL--
+#=GR Q8NFI4|PF17830|315-361 PP 8.......678*****************************************98..
+#=GC PP_cons                   .68999**889******************************************9*7
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

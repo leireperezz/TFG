@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+P25208|PF00808|58-122         y--LPIANVARIMKNAiPQTGKIAKDAKECVQECVSEFISFITSEASERCHQEKRKTINGEDILFAM.
+#=GR P25208|PF00808|58-122 PP 6..9************************************************************997.
+Q01658|PF00808|12-75          t--IPRAAINKMIKET.LPNVRVANDARELVVNCCTEFIHLISSEANEICNKSEKKTISPEHVIQAL.
+#=GR Q01658|PF00808|12-75  PP 6..8************.66777*******************************************97.
+Q14919|PF00808|10-74          .ARFPPARIKKIMQTD.EEIGKVAAAVPVIISRALELFLESLLKKACQVTQSRNAKTMTTSHLKQCI.
+#=GR Q14919|PF00808|10-74  PP .58*************.************************************************96.
+Q9NR33|PF00808|40-103         .-RLPLARVKALVKAD.PDVTLAGQEAIFILARAAELFVETIAKDAYCCAQQGKRKTLQRRDLDNAI.
+#=GR Q9NR33|PF00808|40-103 PP ..69************.**********************************************9885.
+Q9NRF9|PF00808|9-73           n--LPNAVITRIIKEAlPDGVNISKEARSAISRAASVFVLYATSCANNFAMKGKRKTLNASDVLSAM.
+#=GR Q9NRF9|PF00808|9-73   PP 6..9*************************************************************97.
+Q9NRG0|PF00808|18-78          .-SLPLSRIRVIMKSS.PEVSSINQEALVLTAKATELFVQCLATYSYRHGSGKEKKVLTYSDL----a
+#=GR Q9NRG0|PF00808|18-78  PP ..69************.********************************************98....6
+#=GC PP_cons                  .569************.99999******************************************997.
+#=GC RF                       .xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

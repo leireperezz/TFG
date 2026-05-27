@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q14153|PF15242|1-302         MVMVLSESLSTRGADSIACGTFSRE.LHTPKKMSQGPTLFSCGIM.ENDRWRDLDRKCPLQIDQPSTS....IWECLPEKD--SSLWHREAVTACAVTS.LIKDLSIS....DHNGNPSAPPSKRQCRSLSFSDEMSSCRTSWRPLGSKVWTPVEKRRCYSGG.......--SVQRYSN---GFSTMQRSSSFSLPSRAN
+#=GR Q14153|PF15242|1-302 PP 9************************.*******************.**********************....******988..99**************.********....***************************************************.........****999...9****************9
+Q9NYF3|PF15242|1-307         MITLITEQLQKQTLDELKCTRFSIS.LPLPDHADISNCGNSFQLVsEGASWRGLP-HCSCAEFQDSLN....F---SYHPSGLSLHLRPPSRGNSPKEQpFSQVLRPEppdpEKLPVPPAPPSKRHCRSLSVPVDLSRWQPVWRPAPSKLWTPI-KHRGSGGGggpqvphQS----------PPKRVSSLRFLQAPSASS
+#=GR Q9NYF3|PF15242|1-307 PP 9************************.******************99********9.555554444444....2...2233334555555555544333314444444366669999**************************************.77776666234333333..........333444444444444444
+Q6NSI3|PF15242|1-294         MVTLITEKLQSQSLDDLTCKAEAGPlQYSAETLNKSGRLFPLELN.DQSPWKVFSGGPPVRSQAATGPdfsfLPGLSAAAHTMGLQWQPQSPRPGAGLG.AASTVDPS....ESTGSSTAPPTKRHCRSLSEPEELVRCRSPWRPGSSKVWTPVSKRRCDSGG.......SATRQG-------------SPGAVLPRSAV
+#=GR Q6NSI3|PF15242|1-294 PP 9*******************9654415799***************.***************9995544455777888999*******************.********....***************************************************.......666665.............44555666666
+#=GC PP_cons                 9********************9888.89*****************.**********888888886666....699977777778888888888888888.88888888....*******************************************99999999.......558888999...677777766666777666
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q14153|PF15242|1-302         VLSspCDQAGLHHRFGGQPCQGVPGSAP-CGQAGDTWSPDlhpvGGGRLDLQRSLSCSHEQFSFVEYCPPSANSTPASTPELARRS...SGLSRSRSQPCVLNDKKVGVKRRRPEEVQEQRPSLDLAKMAQ
+#=GR Q14153|PF15242|1-302 PP 88877999****************9998.9*********9999999****************************************...****************************************98
+Q9NYF3|PF15242|1-307         QCA..PAHRPYSPPFFSLALAQDSSRPCAASPQSGSWESDa..eSLSPCPPQRRFSLSPSLGPQASRFLPSARSSPASSPELPWRPrglRNLPRSRSQPCDLDARKTGVKRRHEEDPRRLRPSLDFDKMNQ
+#=GR Q9NYF3|PF15242|1-307 PP 444..445566666777777777788888999999999997..6667899***********************************95566689************************************98
+Q6NSI3|PF15242|1-294         WST..GPTSPATPRPSSASGGFVDSSEG-SAGSGPLWCSA....ESCLPSTRRRPSLSQERLAGAGTPLPWASSSPTSTPALGGR-...RGLLRCRSQPCVLSGKRSRRKRRREEDARWTRPSLDFLKMTQ
+#=GR Q6NSI3|PF15242|1-294 PP 667..889999*****************.899999*****....***************************************99....9****************************************8
+#=GC PP_cons                 666..778888999999999999999998999999****9....88999*************************************...899*************************************98
+#=GC RF                      xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

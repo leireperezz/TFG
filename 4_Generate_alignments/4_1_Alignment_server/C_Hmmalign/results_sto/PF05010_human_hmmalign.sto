@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O75410|PF05010|599-798           s--ESDKTAVLTLIREEIITKEIEANEWKKKYEETRQEVLEMRKIVAEYEKTIAQMIEDEQRTSMTSQKSFQQLTMEKEQALADLNSVERSLSDLFRRYENLKGVLEGFKKNEEALKKCAQDYLARVKQEEQRYQALKIHAEEKLDKANEEIAQVRTKAKAESAALHAGLRKEQMKVESLERALQQKNQEIEELTKICDE
+#=GR O75410|PF05010|599-798   PP 5..6789999**********************************************************************************************************************************************************************************************
+O95359|PF05010|2742-2942         .FQQPDLDSALQIARAEIITKEREVSEWKDKYEESRREVMEMRKIVAEYEKTIAQMIEDEQREKSVSHQTVQQLVLEKEQALADLNSVEKSLADLFRRYEKMKEVLEGFRKNEEVLKRCAQEYLSRVKKEEQRYQALKVHAEEKLDRANAEIAQVRGKAQQEQAAHQASLRKEQLRVDALERTLEQKNKEIEELTKICDE
+#=GR O95359|PF05010|2742-2942 PP .689****************************************************************************************************************************************************************************************************
+Q9Y6A5|PF05010|639-832           .YSQKDLDAVVKATQEENRE-------LRSRCEELHGKNLELGKIMDRFEEVVYQAMEEVQKQKELSKAEIQKVLKEKDQLTTDLNSMEKSFSDLFKRFEKQKEVIEGYRKNEESLKKCVEDYLARITQEGQRYQALKAHAEEKLQLANEEIAQVRSKAQAEALALQASLRKEQMRIQSLEKTVEQKTKENEELTRICDD
+#=GR Q9Y6A5|PF05010|639-832   PP .89**************999.......*****************************************************************************************************************************************************************************
+#=GC PP_cons                     .79999**************************************************************************************************************************************************************************************************
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O75410|PF05010|599-798           LI
+#=GR O75410|PF05010|599-798   PP *9
+O95359|PF05010|2742-2942         LI
+#=GR O95359|PF05010|2742-2942 PP *9
+Q9Y6A5|PF05010|639-832           LI
+#=GR Q9Y6A5|PF05010|639-832   PP *9
+#=GC PP_cons                     *9
+#=GC RF                          xx
+//

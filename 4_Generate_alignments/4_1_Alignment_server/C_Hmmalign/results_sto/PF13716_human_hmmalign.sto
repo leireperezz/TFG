@@ -1,0 +1,64 @@
+# STOCKHOLM 1.0
+
+O15068|PF13716|91-224            ...............GSPVITFPdYPAF.sEIPDK.....EFQNVMTYLTSIP--SLQDAGigFILVIDRRR----DK--WTSVKASVLRIAAS...............................FPANLQLVLVLRPT.GFFQRTLSDIAFKFNRDDF.KMKvpVIMLSSVPDLHGYIDKSQLTEDLG.GTLDYCH-..
+#=GR O15068|PF13716|91-224    PP ...............6789999854334.566677.....99**********9..66777789*********....66..**************...............................**************.7777777777777777777.666579***********************.*****86...
+O60229|PF13716|54-181            ...............GGPILTFP.ARSNhdRIRQE.....DLRKLVTYLASVPSEDVCKRG..FTVIIDMRG----SK--WDLIKPLLKTLQEA...............................FPAEIHVALIIKPDnFWQKQKT-----NFGSSKF.IFE..-TSMVSVEGLTKLVDPSQLTEEFD.GSLDYNHE..
+#=GR O60229|PF13716|54-181    PP ...............67999999.5555569999*.....*********************..*********....56..**************...............................**************65555555.....6777777.555...356667777777***********.*****986..
+O75962|PF13716|84-211            ...............GGPILTFP.ARSNhdRIRQE.....DLRRLISYLACIPSEEVCKRG..FTVIVDMRG----SK--WDSIKPLLKILQES...............................FPCCIHVALIIKPD.NFWQKQR----TNFGSSKF.EFE..-TNMVSLEGLTKVVDPSQLTPEFD.GCLEYNHE..
+#=GR O75962|PF13716|84-211    PP ...............67999999.5555569999*.....*********************..*********....56..**************...............................**************.6665555....47888888.777...44888999***************.*****986..
+P10911|PF13716|14-88             ..........rrnaa--------.----..-----.....---------------------..------------------------------S...............................FPGNLHLVLVLRPT.SFLQRTFTDIGFWFSQEDF.MLKlpVVMLSSVSDLLTYIDDKQLTPELG.GTLQYCH-..
+#=GR P10911|PF13716|14-88     PP ..........99976..............................................................................7...............................9*************.*******999999999999.999899***********************.*****86...
+P21359|PF13716|1602-1735         ...............GNPIFYYV.ARRF..KTGQI.....NGDLLIYHVLLTL-KPYYAKP..YEIVVDLTHTGPSNRFKTDFLSKWFVVFPGF...............................AYDNVSAVYIYNCN.SWVREYTKYHERLLTGLKG.SKR..LVFIDCPGKLAEHIEHEQQ--KLPaATLALE--e.
+#=GR P21359|PF13716|1602-1735 PP ...............89******.****..*****.....*************.999****..*******************************...............................**************.*******************.***..*******************..***9888765..6.
+P85298|PF13716|32-196            ...............GRRVVTFS.CCRM..PPSHE....lDHQRLLEYLKYTL-DQYVEND..YTIVYFHYGLNSRNKPSLGWLQSAYKEFDRKdgdltmwprlvsnsklkrsshlslpkywdyrYKKNLKALYVVHPT.SFIKVLWNILKPLISHK-F.GKK..VIYFNYLSELHEHLKYDQL--VIPpEVLRYDE-..
+#=GR P85298|PF13716|32-196    PP ...............89******.9999..55555....5*************.*******..****************************************************************************.****9997777776555.7.7**..*******************..*********97...
+Q07960|PF13716|82-215            ...............GRKIIVFS.ACRM..PPSHQ....lDHSKLLGYLKHTL-DQYVESD..YTLLYLHHGLTSDNKPSLSWLRDAYREFDRK...............................YKKNIKALYIVHPT.MFIKTLL-ILFKPLISFKF.GQK..IFYVNYLSELSEHVKLEQL--GIPrQVLKYDD-..
+#=GR Q07960|PF13716|82-215    PP ...............8*******.9999..55555....5*************.*******..*******************************...............................**************.*******.***********.***..*******************..*********95...
+Q12982|PF13716|166-296           ..............a---IVVFA.VCFM..PESSQpnyryLMDNLFKYVIGTL-ELLVAEN..YMIVYLNGATTRRKMPSLGWLRKCYQQIDRR...............................LRKNLKSLIIVHPS.WFIRTLL-AVTRPFISSKF.SQK..IRYVFNLAELAELVPMEYV--GIP.--------ec
+#=GR Q12982|PF13716|166-296   PP ..............7...67777.8888..444445566689***********.*******..*******************************...............................**************.*******.77888889999.9**..**********999987766..555.........67
+Q7Z465|PF13716|213-349           ..............n--AVILFA.SCYL..PRSSIpnytyVMEHLFRYMVGTL-ELLVAEN..YLLVHLSGGTSRAQVPPLSWIRQCYRTLDRR...............................LRKNLRALVVVHAT.WYVKAFL-ALLRPFISSKF.TRK..IRFLDSLGELAQLISLDQV--HIPeAVRQLD--r.
+#=GR Q7Z465|PF13716|213-349   PP ..............6..79****.****..4444466777*************.*******..*******************************...............................**************.*******.9999999****.***..*******************..***9998877..6.
+Q86VW0|PF13716|31-153            .........iplcle--------.----..QTNMD.....ELSVTLDYLLSIPSEKCKARG..FTVIVDGRK----SQ--WNVVKTVVVMLQNV...............................VPAEVSLVCVVKPD.EFWDKKV-THFCFWKEKDRlGFE..VI-LVSANKLTRYIEPCQLTEDFG.GSLTYDH-..
+#=GR Q86VW0|PF13716|31-153    PP .........987655...............56788.....99*******************..*********....55..**************...............................**************.*******.***************..99.66677****************.*****97...
+Q86WG3|PF13716|190-326           ..............a---IIVFA.ACFL..PDSSLpdyhyIMENLFLYVISSL-ELLVAED..YMIVYLNGATPRRRMPGIGWLKKCYQMIDRR...............................LRKNLKSLIIVHPS.WFIRTVL-AISRPFISVKF.INK..IQYVHSLEDLEQLIPMEHV--QIPdCVLQYEEE..
+#=GR Q86WG3|PF13716|190-326   PP ..............6...89999.9999..433334566799***********.*******..*******************************...............................**************.*******.9999999****.***..*******************..**********96..
+Q86YR7|PF13716|62-193            piitfpefsgfkhip--------.----..---DE.....DFLNVMTYLTSIP--SVEAASigFIVVIDRRR----DK--WSSVKASLTRIAVA...............................FPGNLQLIFILRPSrFIQRTFT-DIGIKYYRNEF.KTKvpIIMVNSVSDLHGYIDKSQLTRELG.GTLEYR--h.
+#=GR Q86YR7|PF13716|62-193    PP 777766666655544..................56.....8899*****9999..55566666*********....66..**************...............................**************55555555.55555555555.555559***********************.****96..5.
+Q8WUY3|PF13716|2918-3053         ..............a---IIVFA.ACFL.pDSSRAdy.hyVMENLFLYVISTL-ELMVAED..YMIVYLNGATPRRRMPGLGWMKKCYQMIDRR...............................LRKNLKSFIIVHPS.WFIRTIL-AVTRPFISSKF.SSK..IKYVNSLSELSGLIPMDCI--HIPeSII-----kl
+#=GR Q8WUY3|PF13716|2918-3053 PP ..............6...8999*.****.74444469.99*************.**99999..*******************************...............................**************.*******.77888889999.9**..**********988887777..7775555.....55
+Q9NXN4|PF13716|349-480           ...............GRTVMVVV.GRNI..PVTLI.....DMDKALLYFIHVM-DHIAVKE..YVLVYFHTLTSEYNHLDSDFLKKLYDVVDVK...............................YKRNLKAVYFVHPT.FRSKVST-WFFTTFSVSGL.KDK..IHHVDSLHQLFSAISPEQI--DFPpFVLEYD--..
+#=GR Q9NXN4|PF13716|349-480   PP ...............89******.****..*****.....*************.*******..*******************************...............................**************.*******.9999999999*.***..*******************..*********8....
+#=GC PP_cons                     ...............78999999.8888..66667.....9**************999999..*************88****************...............................**************.9999999888888889999.899..*9999999*********99**999.99999876..
+#=GC RF                          ...............xxxxxxxx.xxxx..xxxxx.....xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...............................xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx..
+
+O15068|PF13716|91-224            ..
+#=GR O15068|PF13716|91-224    PP ..
+O60229|PF13716|54-181            ..
+#=GR O60229|PF13716|54-181    PP ..
+O75962|PF13716|84-211            ..
+#=GR O75962|PF13716|84-211    PP ..
+P10911|PF13716|14-88             ..
+#=GR P10911|PF13716|14-88     PP ..
+P21359|PF13716|1602-1735         ..
+#=GR P21359|PF13716|1602-1735 PP ..
+P85298|PF13716|32-196            ..
+#=GR P85298|PF13716|32-196    PP ..
+Q07960|PF13716|82-215            ..
+#=GR Q07960|PF13716|82-215    PP ..
+Q12982|PF13716|166-296           i.
+#=GR Q12982|PF13716|166-296   PP 8.
+Q7Z465|PF13716|213-349           ..
+#=GR Q7Z465|PF13716|213-349   PP ..
+Q86VW0|PF13716|31-153            ..
+#=GR Q86VW0|PF13716|31-153    PP ..
+Q86WG3|PF13716|190-326           ..
+#=GR Q86WG3|PF13716|190-326   PP ..
+Q86YR7|PF13716|62-193            ..
+#=GR Q86YR7|PF13716|62-193    PP ..
+Q8WUY3|PF13716|2918-3053         de
+#=GR Q8WUY3|PF13716|2918-3053 PP 67
+Q9NXN4|PF13716|349-480           ..
+#=GR Q9NXN4|PF13716|349-480   PP ..
+#=GC PP_cons                     ..
+#=GC RF                          ..
+//

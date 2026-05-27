@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P42285|PF13234|646-841          .KPKYCLPFLQPGRLVKVK-NEGDDFGWGVVVNFSKKSnVKPN--SGELDPlYVVEVLLRCSKESL------KNSATEAAKP..........AKPD-EKGEMQVVPVLVHLLSAISSVRLYIPKD.............LRPVDNRQSVLKSIQEVQK...RFPDGIPLLDPIDDMGIQDQGLKKVIQKVEAFEHRMYSHP
+#=GR P42285|PF13234|646-841  PP .69****************.**************988423333..2223344*********99963......4556677888..........7666.****************************.............*******************...****************************************
+Q15477|PF13234|832-1046         s--VNGLKSLSAGRVVVVK-NQEHHNALGVILQVSSN-.---------STS.RVFTTLVLCDKPLSQDPQDRGPATAEVPYPddlvgfklflP---EGPCDHTVVKLQPGDMAAITTKVLRVNGEkiledfskrqqpkFKKDPPLAAVTTAVQELLRlaqAHPAGPPTLDPVNDLQLKDMSVVEGGLRARKLEELIQGAQ
+#=GR Q15477|PF13234|832-1046 PP 7..589*************.999999*******9743...........346.78899999988877765555555666666677877765542...234568*********************9988888777655554678***************99999**************************************
+#=GC PP_cons                    .6979**************.999***********8654.3333..222345.999999999998657655554556677777..........4666267789***********************.............7899***************...99**************************************
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P42285|PF13234|646-841          L.HnDPNLETVYTLCEKKAQIAIDIKSAKRELKK
+#=GR P42285|PF13234|646-841  PP *.979**************************985
+Q15477|PF13234|832-1046         CvH.SPRFPAQYLKLRERMQIQKEMERLRFLLSD
+#=GR Q15477|PF13234|832-1046 PP *99.***************************997
+#=GC PP_cons                    *.9.9**************************996
+#=GC RF                         x.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

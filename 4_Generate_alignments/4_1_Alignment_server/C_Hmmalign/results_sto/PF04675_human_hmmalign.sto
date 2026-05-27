@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P18858|PF04675|288-464         .PYLAVARTFEKIEE-VSARLRMVETLSNLL...RSVVA.......LSPPDLLPVLYLslnhLGPPQQ.GL.ELGVGDGVLLKAVAQATGRQLESVRAE............AAEKGDVGLVAENSRSTQRLM..LPPPPLTASGVFSKFRDIARLTGSASTAKKIDIIKGLFVACRHSEARFIARSLSGRLRLGLAEQSV
+#=GR P18858|PF04675|288-464 PP .6889**********.889************...*****.......9999******************.**.***************************............*********************..******************************************************************
+P49916|PF04675|264-433         r---EFRKLCAMVAD-NPSYNTKTQIIQDFL...RK-GSag..dgfHGD--VYLTVKL....LLPGVI.KT.VYNLNDKQIVKLFSRIFNCNPDDMARD............LE-QGDVSETIRVFFEQSKSFppAAKSLLTIQEVDEFLLRLS---KLTKEDEQQQALQDIASRCTANDLKCIIRLIKHDLKMNSGAKHV
+#=GR P49916|PF04675|264-433 PP 5...899********.878899*********...99.5558..876666..*******....******.**.**********************77776............76.4*************999999******************9...55779***************************************
+P49917|PF04675|15-208          .PFADLCSTLERIQK-SKGRAEKIRHFREFLdswRKFHDalhknhkDVTDSFYPAMRL....ILPQLErERmAYGIKETMLAKLYIELLNLPRD-GKDAlkllnyrtptgtHGDAGDFAMIAYFVLKPRCL-..-QKGSLTIQQVNDLLDSIASNNSAKRKDLIKKSLLQLITQSSALEQKWLIRMIIKDLKLGVSQQTI
+#=GR P49917|PF04675|15-208  PP .7*************.999************77744444888787755568*******....******************************99.99999****99999995558**************98....******************8877778888899999999999*************************
+#=GC PP_cons                   .7999**********.8899***********...88766.......77779*******....******.**.**********************89998............7777***************9*..*******************99978889999************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxx.......xxxxxxxxxxxx....xxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P18858|PF04675|288-464         LAALS
+#=GR P18858|PF04675|288-464 PP **995
+P49916|PF04675|264-433         LDAL-
+#=GR P49916|PF04675|264-433 PP **97.
+P49917|PF04675|15-208          FSVFH
+#=GR P49917|PF04675|15-208  PP **998
+#=GC PP_cons                   **987
+#=GC RF                        xxxxx
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q8TCT1|PF06888|28-263         -LLTFDFDETIVDENSDDSIVRAAPGQRLPESLRATYREGFYNEYMQRVFKYLGEQGVRPRDLSAIYEAIPLSPGMSDLLQFVAKQGACFEVILISDANTFGVESSLRAAGHHSLFRRILSNPSGPDARGLLALRPFHTHSCARCPANMCKHKVLSDYLRERAHDGVHFERLFYVGDGANDFCPMGLLAGGDVAFPRRGY
+#=GR Q8TCT1|PF06888|28-263 PP .689****************************************************************************************************************************************************************************************************
+Q8TCD6|PF06888|3-239          ILLVFDFDNTIIDDNSDTWIVQCAPNKKLPIELRDSYRKGFWTEFMGRVFKYLGDKGVREHEMKRAVTSLPFTPGMVELFNFIRKNKDKFDCIIISDSNSVFIDWVLEAASFHDIFDKVFTNPAAFNSNGHLTVENYHTHSCNRCPKNLCKKVVLIEFVDKQLQQGVNYTQIVYIGDGGNDVCPVTFLKNDDVAMPRKGY
+#=GR Q8TCD6|PF06888|3-239  PP 699*****************************************************************************************************************************************************************************************************
+#=GC PP_cons                  689*****************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8TCT1|PF06888|28-263         PMHRLIQEaqkaEPSSFRASVVPWETAADVRLHLQQ--v
+#=GR Q8TCT1|PF06888|28-263 PP *******999999*********************98..5
+Q8TCD6|PF06888|3-239          TLQKTLSRm.sqNLEPMEYSVVVWSSGVDIISHLQFLI.
+#=GR Q8TCD6|PF06888|3-239  PP *****9998.879999******************9876.
+#=GC PP_cons                  ******99....999*******************9876.
+#=GC RF                       xxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

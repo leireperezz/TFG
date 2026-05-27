@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q9HCN4|PF03029|24-262         VLGMAGSGKTTFVQRLTGHLHAQGTPPYVINLDPAVHEVPFPANIDIRDTVKYKEVMKQ..YGLGPNGGIVTSLNLFATRFDQVMKFIEKAQNmsKYVLIDTPGQIEVFTWSASGTIITEALAS.SFPTVVIYVMDTSRSTNPVTFMSNMLYACSILYKTKLPFIVVMNKTDIID-...HSFAVEWMQDFEAFQDALNQE
+#=GR Q9HCN4|PF03029|24-262 PP 89*********************************************************..***************************9985558*****************************.*************************************************9....*********************
+Q9UHW5|PF03029|8-254          VMGPAGSGKSTYCATMVQHCEALNRSVQVVNLDPAAEHFNYSVMADIRELIEVDDVMEDdsLRFGPNGGLVFCMEYFANNFDWLENCLGHVED..DYILFDCPGQIELYTHLPVMKQLVQQLEQwEFRVCGVFLVDSQFMVESFKFISGILAALSAMISLEIPQVNIMTKMDLLSK..kAKKEIEKFLDPDMYSLLEDST
+#=GR Q9UHW5|PF03029|8-254  PP 89*********************************************************99***************************999**..*********************************************************************************..********************99
+Q9H9Y4|PF03029|14-260         VIGPPGSGKTTYCLGMSEFLRALGRRVAVVNLDPANEGLPYECAVDVGELVGLGDVMDA..LRLGPNGGLLYCMEYLEANLDWLRAKLDPLRG..HYFLFDCPGQVELCTHHGALRSIFSQMAQwDLRLTAVHLVDSHYCTDPAKFISVLCTSLATMLHVELPHINLLSKMDLIEHygkLAFNLDYYTEVLDLSYLLDHL
+#=GR Q9H9Y4|PF03029|14-260 PP 89*********************************************************..***************************66688..******************************************************************************999**9*******************99
+#=GC PP_cons                  89*********************************************************..***************************88888..*****************************.**************************************************9...*******************99
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx
+
+Q9HCN4|PF03029|24-262         T.....TYVSNLTRSMSLVLDEFYSSLRVVGVSAVLGTGLDELFVQVTS----aa
+#=GR Q9HCN4|PF03029|24-262 PP *.....*************************************998876....58
+Q9UHW5|PF03029|8-254          Sdl.rsKKFKKLTKAICGLIDDYSMV-RFLPYDQSDEESMNIVLQHIDFAIQY..
+#=GR Q9UHW5|PF03029|8-254  PP 99*.**********************.*********************99986..
+Q9H9Y4|PF03029|14-260         AsdpffRHYRQLNEKLVQLIEDYSLV-SFIPLNIQDKESIQRVLQAVDKAN--g.
+#=GR Q9H9Y4|PF03029|14-260 PP 999***9*******************.*********************986..7.
+#=GC PP_cons                  9.....**************************************999989786..
+#=GC RF                       x.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

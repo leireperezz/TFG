@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P47755|PF01267|18-282         a--KFIIHAPPGEFNEVFNDVRLLLNNDNLLREGAAHAFAQYNLDQFTPVKIEGYEDQVLITEHGDLGNGKFLDPKNRICFKFDHLRKEATDPRPCEVE.NAVESWRTSVETALRAYVKEHYPNGVCTVYGKKIDGQQtIIACIESHQFQAKNFWNGRWRSEWKFTitPSTTQVVGILKIQVHYYEDGNVQLVSHKDIQD
+#=GR P47755|PF01267|18-282 PP 6..79**********************************************************************************************.******************************998555444999***********************99999******************************
+P52907|PF01267|18-282         a--KFITHAPPGEFNEVFNDVRLLLNNDNLLREGAAHAFAQYNMDQFTPVKIEGYEDQVLITEHGDLGNSRFLDPRNKISFKFDHLRKEASDPQPEEAD.GGLKSWRESCDSALRAYVKDHYSNGFCTVYAKTIDGQQtIIACIESHQFQPKNFWNGRWRSEWKFTitPPTAQVVGVLKIQVHYYEDGNVQLVSHKDVQD
+#=GR P52907|PF01267|18-282 PP 6..7*******************************************************************************************9999.******************************998555544999************************9988******************************
+Q96KX2|PF01267|15-274         .IRRLLLQAPPGEFVNAFDDLCLLIRDEKLMHHQGECAGHQHCQKYSVPLCIDG--NPVLLSHHNVMGDYRFFDHQSKLSFKYDLLQNQLKDIQSHGIIqNEAEYLRVVLLCALKLYVNDHYPKGNCNMLRKTVKSKEyLIACIEDHNYETGECWNGLWKSKWIFQvnPFLTQVTGRIFVQAHFFRCVNLHIEISKDLKE
+#=GR Q96KX2|PF01267|15-274 PP .6799***********************************************99..8***************************************65559*****************************998766666999************************88889*****************************
+#=GC PP_cons                  .678****************************************************9***************************************888.******************************99865555.999***********************9..99******************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P47755|PF01267|18-282         SLTVSNEVQTAKEFIKIVEAAENEYQTAISENYQTMSDTTF.KALRRQLPVTRTKIDWNKILSYKIGKE.
+#=GR P47755|PF01267|18-282 PP *****************************************.*************************86.
+P52907|PF01267|18-282         SLTVSNEAQTAKEFIKIIENAENEYQTAISENYQTMSDTTF.KALRRQLPVTRTKIDWNKILSYKIGKE.
+#=GR P52907|PF01267|18-282 PP *****************************************.*************************86.
+Q96KX2|PF01267|15-274         SLEIVNQAQLALSFARLVEEQENKFQAAVLEELQELSNEALrKILRRDLPVTRTLIDWHRIL-------s
+#=GR Q96KX2|PF01267|15-274 PP **************************************999788***************986.......6
+#=GC PP_cons                  *****************************************.99****************99*****86.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

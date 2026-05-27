@@ -1,0 +1,47 @@
+# STOCKHOLM 1.0
+
+P46019|PF00723|8-918          .GVRLDGYARLVQQTILCYQNPVTGLLSASHEQKDA-----WVRDNIYSILAVWGLGmaYRknadrDEDKAKAYELEQNVVKLMRGLLQCMMRQVAKVEKFKHTQSTkdSLHAKYNTATCGTVVGDDQWGHLQVDATSLFLLFLAQMTASGLRIIFTLDEVafIQNLVFYIEAAYKVADYGMWErgdkTNQGIPELnaSS
+#=GR P46019|PF00723|8-918  PP .6899*******************************.....****************998899999**************************************************************************************************************************************
+P46020|PF00723|8-921          .GVRLDGYARLVQQTILCHQNPVTGLLPASYDQKDA-----WVRDNVYSILAVWGLGlaYRknadrDEDKAKAYELEQSVVKLMRGLLHCMIRQVDKVESFKYSQSTkdSLHAKYNTKTCATVVGDDQWGHLQLDATSVYLLFLAQMTASGLHIIHSLDEVnfIQNLVFYIEAAYKTADFGIWErgdkTNQGISELnaSS
+#=GR P46020|PF00723|8-921  PP .6899***************************9999.....*****************98889999**************************************************************************************************************************************
+Q93100|PF00723|49-878         l----DHYYRIVKSTLLLYQSPTTGLFP---TKTCGGDQKAKIQDSLYCAAGAWALAlaYRr...iDDDKGRTHELEHSAIKCMRGILYCYMRQADKVQQFKQDPRPttCLHSVFNVHTGDELLSYEEYGHLQINAVSLYLLYLVEMISSGLQIIYNTDEVsfIQNLVFCVERVYRVPDFGVWErgskYNNGSTELhsSS
+#=GR Q93100|PF00723|49-878 PP 5....89********************7...55555444567************99999999...*************************************9777799*******************************************************************************************
+#=GC PP_cons                  .68999*********************9***88888444569***************..88.....*************************************9999..****************************************************..*********************....********..**
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx....xxxxxxxx..xx
+
+P46019|PF00723|8-918          VGMAKAALEAIDELDLFGAHGgrksvihvlpdevehcqsilfsmlprastskeidagllsiisfpafaveDVNLVNVTKNEIISKLqgrygCCRflrdGYktpredpnrlhyd........paelklfenieceWPVFWTYFIIDGVfsgdavqvQEYREALEGILirgkngiRLVPELYAVPPNKVDEEYKNPHtvdrv
+#=GR P46019|PF00723|8-918  PP **************************************************************************************77777666454555*************........*******************************************************************************
+P46020|PF00723|8-921          VGMAKAALEALDELDLFGVKGgpqsvihvladevqhcqsilnsllprastskevdasllsvvsfpafaveDSQLVELTKQEIITKLqgrygCCRflrdGYktpkedpnrlyye........paelklfenieceWPLFWTYFILDGVfsgnaeqvQEYKEALEAVLikgkngvPLLPELYSVPPDRVDEEYQNPHtvdrv
+#=GR P46020|PF00723|8-921  PP **************************************************************************************77777666454555*************........*******************************************************************************
+Q93100|PF00723|49-878         VGLAKAALEAINGFNLFGNQGcswsvifvdldahnrnrqtlcsllpresrshntdaallpcisypafaldDEVLFSQTLDKVVRKL....kGKY....GFkrflrdgyrtsledpnrcyykpaeiklfdgieceFPIFFLYMMIDGVfrgnpkqvQEYQDLLTPVLhhttegyPVVPKYYYVPADFVEYEKNNPGsqkrf
+#=GR Q93100|PF00723|49-878 PP ******************999************************************************88889************....5222....4477788888********************************************99889999998888**********************************
+#=GC PP_cons                  *********************.................................................9999************.....555....55..................................*************........999*9999999.......**********************.....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxx.................................................xxxxxxxxxxxxxxxx.....xxx....xx..................................xxxxxxxxxxxxx........xxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxx.....
+
+P46019|PF00723|8-918          ....pmgkvPHLWGQSLYILSSLLAEGFLAAGEIDPLNRRFSTSVKPdvvvqvtvlaennhikdllrkhgvnv...............qsiadihpiqvqpgrilshiyaklgrnKNMNLSGRPYrhigvlgtsklyvirnqiftftpqftdqhhfylaldnemivemlrielaYLCTCWrmtgrptltfpisrtmltnd
+#=GR P46019|PF00723|8-918  PP ....*********************************************************************...............****************************************************************************************************************
+P46020|PF00723|8-921          ....pmgklPHMWGQSLYILGSLMAEGFLAPGEIDPLNRRFSTVPKPdvvvqvsilaeteeiktilkdkgiyv...............etiaevypirvqparilshiysslgcnNRMKLSGRPYrhmgvlgtsklydirktiftftpqfidqqqfylaldnkmivemlrtdlsYLCSRWrmtgqptitfpishsmlded
+#=GR P46020|PF00723|8-921  PP ....*********************************************************************...............****************************************************************************************************************
+Q93100|PF00723|49-878         psncgrdgkLFLWGQALYIIAKLLADELISPKDIDP-VQRYVPLKDQrnvsmrfsnqgplendlvvhvaliaesqrlqvflntygiqtqtpqqvepiqiwpqqelvkaylqlginEKLGLSGRPDrpigclgtskiyrilgktvvcypiifdlsdfymsqdvflliddiknalqFIKQYWkmhgrplflvlirednirgs
+#=GR Q93100|PF00723|49-878 PP ************************************.9***988777789999999999999999999999999999999999999999999999999999999999999999998888888888888888888888888888888888888888888888888888888888866666677777777777777777777
+#=GC PP_cons                  .........*********************************99999....................................................................9999999999.................................................999999....................
+#=GC RF                       .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....................................................................xxxxxxxxxx.................................................xxxxxx....................
+
+P46019|PF00723|8-918          gsdihsavlstirkledgyfggarvklgnlseflttsfytyltfldpdcdeklfdnasegtfspdsdsdlvgyledtcnqesqdeldhyinhllqstslrsyl...pplckntedrhvfsaihstrdilsvmakakglevpfvpmtlptkvlsahrkslnlvdspqpllekvpesdfqwprddhgdvdceklveqlkdcs
+#=GR P46019|PF00723|8-918  PP *******************************************************************************************************...**********************************************************************************************
+P46020|PF00723|8-921          gtslnssilaalrkmqdgyfggarvqtgklseflttsccthlsfmdpgpegklysedyddnydylesgnwmndydstsharcgdevaryldhllahtaphpklaptsqkggldrfqaavqttcdlmslvtkakelhvqnvhmylptklfqasrpsfnlldsphprqenqvpsvrveihlprdqsgevdfkalvlqlkets
+#=GR P46020|PF00723|8-921  PP ********************************************************************************************************************************************************************************************************
+Q93100|PF00723|49-878         rfnpildmlaalkkgiiggvkvhvdrlqtlisgavveqldflrisdteelpefks...................................................................................................feeleppkhskvkrqsstpsapelgqqpdvnisewkdkptheilqk
+#=GR Q93100|PF00723|49-878 PP 7777777777777777777777777777777777777777777777777777777...................................................................................................7777777777777777777777777777777777777777777777
+#=GC PP_cons                  ........................................................................................................................................................................................................
+#=GC RF                       ........................................................................................................................................................................................................
+
+P46019|PF00723|8-918          nlqdqadilyilyvikgpswdtnlsgqhgvTVQNLLGELYGKAGLNQeWGLIRYISGLLRKKVEVlaeactdllshqkqLTVGLPPEpREKIISAPLPPEELTKLIYEASGQ-DISIAVLTQEIVVYLAMYVRAQPSLFVEMLRLRI--g
+#=GR P46019|PF00723|8-918  PP ****************************************************************************************************************.********************************98..5
+P46020|PF00723|8-921          slqeqadilymlytmkgpdwntelynersaTVRELLTELYGKVGEIRhWGLIRYISGILRKKVEAldeactdllshqkhLTVGLPPEpREKTISAPLPYEALTQLIDEASEG-DMSISILTQEIMVYLAMYMRTQPGLFAEMFRLRI--g
+#=GR P46020|PF00723|8-921  PP ****************************************************************************************************************.********************************98..5
+Q93100|PF00723|49-878         lndcsclasqaillgillkregpnfitkegTVSDHIERVYRRAGSQKlWLAVRYGAAFTQKFSSSiaphittflvhgkqVTLGAFGH.EEEVISNPLSPRVIQNIIYYKCNTHDEREAVIQQELVIHIGWIISNNPELFSGMLKIRIGW.
+#=GR Q93100|PF00723|49-878 PP 777777788888888888888888888877***********************************************9999999999.**********************************************************985.
+#=GC PP_cons                  ..............................*****************.*****************..............********.*********************************************************9885.
+#=GC RF                       ..............................xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx..............xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

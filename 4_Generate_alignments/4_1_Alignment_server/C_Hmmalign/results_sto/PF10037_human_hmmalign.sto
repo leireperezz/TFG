@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q92552|PF10037|1-412          ....MAASIVRRGMLLARQVVLPQLSpAGKRYLLSSAYVDSHKWEAREKEH.YCLADLA....SLMDKTFERKLPVSSLTISRLIDNISSREEIDHAEYYLYKFRHSPNCWYLRNWTIH.TWIRQCLKYDAQDKALYTLVNKVQYGIFPDNFTFNLLMDSFIKKENYKDALSVVFEVMMQEAFEVPSTQLLSLYVLFHCL
+#=GR Q92552|PF10037|1-412  PP ....9***************8888889************************.*******....********************************************************.********************************************************************************
+Q8WV60|PF10037|39-215         cplg----------------------.-AKRYLLTDNVVKLKEFQQKKVAVaCNLSGTKetyfRNLKKKLTQNKLILKGELITLLHLCESRDHVELAKNVIYRYHAENKNFTLGEYKFGpLFVRLCYELDLEESAVELMKDQHLRGFFSDSTSFNILMDMLFIKGKYKSALQVLIEMKNQDVKFTKDTYVLAFAICYKL-
+#=GR Q8WV60|PF10037|39-215 PP 9865........................799*******99999999987667888877755557788888888888888888999999************************9999875258***********************************************************999999*******99985.
+#=GC PP_cons                  ....9***************888888.*9****************999888.9999988....8999999999999999999999******************************9987.89***************************************************************************98*
+#=GC RF                       ....xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q92552|PF10037|1-412          AK---------------------------KTDFSWEEERNFGASLLLPGLKQKNSVGFSSQLYGYALLGKVelqqglravyhnmpliwkpGYLDRALQVMEKVAASPEDIKLCREALDVLGAVLKALtsadgaseeqsqndednqgseklveqLDIEETEQSKLPQYLERFKALHSKLQALGKIESEGLLSLTTQLVKEK
+#=GR Q92552|PF10037|1-412  PP **...........................***************************************************************************************************************************************************************************
+Q8WV60|PF10037|39-215         -----------------------------------------------------------------------...................-------------------------------------..........................-----------------------------------------------
+#=GR Q8WV60|PF10037|39-215 PP ........................................................................................................................................................................................................
+#=GC PP_cons                  **...........................******************************************...................*************************************..........................***********************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q92552|PF10037|1-412          LSTCEAEDIATYEQNLQQWHLDLVQLIQREQQQREQAKQEYQAQKAAKA..
+#=GR Q92552|PF10037|1-412  PP **********************************************985..
+Q8WV60|PF10037|39-215         -------------------------------------------------ns
+#=GR Q8WV60|PF10037|39-215 PP .................................................79
+#=GC PP_cons                  **********************************************985..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

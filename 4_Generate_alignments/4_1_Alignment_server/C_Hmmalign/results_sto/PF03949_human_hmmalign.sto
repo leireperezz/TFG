@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P23368|PF03949|280-534         IQGTAAVALAGLLAAQKVISKPISEHKILFLGAGEAALGIANLIVMSMVENGLSEQEAQKKIWMFDKYGLLVKGRkAKIDSYQEPFTHSAPESIPD----TFEDAVNILKPSTIIGVAGAGRLFTPDVIRAMASINERPVIFALSNPTAQAECTAEEAYTLTEGRCLFASGSPFGPVKLtDGRVFTPGQGNNVYIFPGVA
+#=GR P23368|PF03949|280-534 PP 9************************************************************************99678************999854....9*****************************************************************************99********************
+P48163|PF03949|270-522         IQGTASVAVAGLLAALRITKNKLSDQTILFQGAGEAALGIAHLIVMALEKEGLPKEKAIKKIWLVDSKGLIVKGR.ASLTQEKEKFAHEHEEMK------NLEAIVQEIKPTALIGVAAIGGAFSEQILKDMAAFNERPIIFALSNPTSKAECSAEQCYKITKGRAIFASGSPFDPVTLpNGQTLYPGQGNNSYVFPGVA
+#=GR P48163|PF03949|270-522 PP 9**************************************************************************.*****************9......9***************************************************************************************************
+Q16798|PF03949|305-557         IQGTASVAVAGILAALRITKNKLSNHVFVFQGAGEAAMGIAHLLVMALEKEGVPKAEATRKIWMVDSKGLIVKGR.SHLNHEKEMFAQDHPEVN------SLEEVVRLVKPTAIIGVAAIAGAFTEQILRDMASFHERPIIFALSNPTSKAECTAEKCYRVTEGRGIFASGSPFKSVTLeDGKTFIPGQGNNAYVFPGVA
+#=GR Q16798|PF03949|305-557 PP 9**************************************************************************.*****************9......9******************************************************************************99*******************
+#=GC PP_cons                   9**************************************************************************.99**************9954....9******************************************************************************.********************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx
+
+P23368|PF03949|280-534         LAVILCNTRHISDSVFLEAAKALTSQLTDEELAQGRLYPPLANIQEVSINIAIKVTEY--l
+#=GR P23368|PF03949|280-534 PP *******************************************************987..6
+P48163|PF03949|270-522         LGVVACGLRQITDNIFLTTAEVIAQQVSDKHLEEGRLYPPLNTIRDVSLKIAEKIVKDAY.
+#=GR P48163|PF03949|270-522 PP ********************************************************9985.
+Q16798|PF03949|305-557         LGVIAGGIRHIPDEIFLLTAEQIAQEVSEQHLSQGRLYPPLSTIRDVSLRIAIKVLDYAY.
+#=GR Q16798|PF03949|305-557 PP ********************************************************9985.
+#=GC PP_cons                   *******************************************************99885.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+P17812|PF00117|311-538         s---DSYASVIKALEHSALAINHKLEIKYIDSADLEPitsqeepvryheaWQKLCSAHGVLVPGGFGVRG-TEGKIQAIAWARN..QKKPFLGVCLGMQLAVVEFSRNVLgwqdanstefdpttshpvvvdmPEHNPGQMGGTMRLGKRRTlfqtknsvmRKLYGDADYLEERHRHRFEVNPvwkkCLEEQGLKFVGQDV
+#=GR P17812|PF00117|311-538 PP 7...99*************************988887899999999765433699***************.6************..*********************888888888888888888888899977779***********999*********************************97788899*******9
+P27708|PF00117|180-355         a--LDCG--LKYNQIRCLCQRGAEVTVVPWDHALDSQ.............-----EYEGLFLSNGPGDPASYPSVVSTLSRVLSepNPRPVFGICLGHQLLALAIGAKTY......................KMR-YGNRGHNQPCLL---.........---VGSGRCFLTSQNHGFAVET....DSLPADWAPLFTNA
+#=GR P27708|PF00117|180-355 PP 6..7999..**********************887777..................6**************************99999***********************......................***.************...............*******************....**************
+P31327|PF00117|222-395         a--VDCG--IKNNVIRLLVKRGAEVHLVPWNHDFTKM.............-----EYDGILIAGGPGNPALAEPLIQNVRKILEsdRKEPLFGISTGNLITGLAAGAKTY......................KMS-MANRGQNQPVLN---.........---ITNKQAFITAQNHGYALDN....-TLPAGWKPLFVNV
+#=GR P31327|PF00117|222-395 PP 6..89**..**********************998888..................7****************************999***********************......................***.9***********...............77789*************8.....9************
+P49915|PF00117|29-209          .VILDAGAQYGKVIDRRVRELFVQSEIFPLETPAFAI.............K--EQGFRAIIISGGPNSVY-AEDAPWFDPAIFT..IGKPVLGICYGMQMMNKVFGGTVH......................KKSVREDGVFNISVDN-TC.........SLFRGLQKEEVVLLTHGDSVDK....--VADGFKVVARSG
+#=GR P49915|PF00117|29-209  PP .689*********************************.............5..68***************.7************..************************......................***************9.89.........**********************......*******99994
+Q9NRF8|PF00117|310-539         l--RDCYASVFKALEHSALAINHKLNLMYIDSIDLEKitetedpvkfheaWQKLCKADGILVPGGFGIRG-TLGKLQAISWART..KKIPFLGVCLGMQLAVIEFARNCLnlkdadstefrpnapvplvidmPEHNPGNLGGTMRLGIRRTvfktensilRKLYGDVPFIEERHRHRFEVNPnlikQFEQNDLSFVGQDV
+#=GR Q9NRF8|PF00117|310-539 PP 6..6***************************96665559999999876543369****************.6************..*********************666666666666777777777789977779***********999************************************************8
+#=GC PP_cons                   .6889**************************988887.............436898***************8************..*********************999......................99989***********989.........***9999**************9....99***********8
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx......................xxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxx
+
+P17812|PF00117|311-538         EG-ERMEIVELEDhPfFVGVQYHPEFLSRPIKP----------sp
+#=GR P17812|PF00117|311-538 PP 98.8********999************999876..........57
+P27708|PF00117|180-355         NDGSNEGIVHNSL.P.FFSVQFHPEHQAGPSDMELLFDIFL--e.
+#=GR P27708|PF00117|180-355 PP *************.*.**********************987..6.
+P31327|PF00117|222-395         NDQTNEGIMHESK.P.FFAVQFHPEVTPGPIDTEYLFDSF---f.
+#=GR P31327|PF00117|222-395 PP *************.*.**********************98...5.
+P49915|PF00117|29-209          N--IVAGIANESK.K.LYGAQFHPEVGLTENGKVILKNFLY--d.
+#=GR P49915|PF00117|29-209  PP 4..6*********.*.***********************86..6.
+Q9NRF8|PF00117|310-539         DG-DRMEIIELANhPyFVGVQFHPEFSSRPMKPS---------pp
+#=GR Q9NRF8|PF00117|310-539 PP 88.6******999999**************9987.........58
+#=GC PP_cons                   89*8*********.*.**************9999****986....
+#=GC RF                        xxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

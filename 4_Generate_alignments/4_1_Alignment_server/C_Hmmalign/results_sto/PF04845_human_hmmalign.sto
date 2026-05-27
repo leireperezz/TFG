@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q00577|PF04845|58-278         TQELASKRVDIQNKRFYLDVKQNAKGRFLKIAEVGAGG......NKSRLTLSMSVAVEFRDYLGDFIEHYAQLGp.sqPPDLAQAQDEP......................RRALKSEFLVRENRKYYMDLKENQRGRFLRIRQTVNRGp........gLGSTQGQTIALPAQGLIEFRDALAKLIDDYGV---......
+#=GR Q00577|PF04845|58-278 PP 59************************************......******************************6.5555667788899......................*************************************98........88999***************************9.........
+Q96QR8|PF04845|31-279         TQELASKRLDIQNKRFYLDVKQNAKGRFLKIAEVGAGG......SKSRLTLSMAVAAEFRDSLGDFIEHYAQLG....PSSPEQLAAGAeeg................ggpRRALKSEFLVRENRKYYLDLKENQRGRFLRIRQTVNRGgggfgagpgpGGLQSGQTIALPAQGLIEFRDALAKLIDDYGGEDDelaggp
+#=GR Q96QR8|PF04845|31-279 PP 59************************************......******************************....88888876544555................8999*******************************************9999899***************************9988789****
+Q9UJV8|PF04845|58-321         -QELASKRVDIQKKRFYLDVKQSSRGRFLKIAEVWIGRgrqdniRKSKLTLSLSVAAELKDCLGDFIEHYAHLGlkghRQEHGHSKEQGsrrrqkhsapsppvsvgseehpHSVLKTDYIERDNRKYYLDLKENQRGRFLRIRQTMMRGtgmi..gyfgHSLGQEQTIVLPAQGMIEFRDALVQLIEDYGEGDIeer...
+#=GR Q9UJV8|PF04845|58-321 PP .89**********************************999***9******************************999999*************************************************************************..*************************************99899...
+#=GC PP_cons                  59************************************......******************************....78888888888......................**************************************..........999****************************9998......
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxx......................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+Q00577|PF04845|58-278         ........EEEPAELPEGTSLTVDNKRFFFDVGSNKYGVFMRVSEVKPTYRNSITVPYKVWAKFGHTFCKYSEEM
+#=GR Q00577|PF04845|58-278 PP ........569**************************************************************98
+Q96QR8|PF04845|31-279         gggaggpgGGLYGELPEGTSITVDSKRFFFDVGCNKYGVFLRVSEVKPSYRNAITVPFKAWGKFGGAFCRYADEM
+#=GR Q96QR8|PF04845|31-279 PP ****99999999************************************************************998
+Q9UJV8|PF04845|58-321         .....rggDDDPLELPEGTSFRVDNKRFYFDVGSNKYGIFLKVSEVRPPYRNTITVPFKAWTRFGENFIKYEEEM
+#=GR Q9UJV8|PF04845|58-321 PP .....999999**************************************************************98
+#=GC PP_cons                  ........889*************************************************************998
+#=GC RF                       ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

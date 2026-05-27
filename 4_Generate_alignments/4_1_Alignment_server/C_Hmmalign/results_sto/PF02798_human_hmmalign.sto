@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+O15217|PF02798|6-76          ..k--LHYPNGRG--RMESVRWVLAAAGVEFDE..EFLET---KEQL.YKLQDGNHLl...fQQVPMVEID.GMKLVQTRSILHYIA-.
+#=GR O15217|PF02798|6-76  PP ..7..6777999*..******************..****8...6667.899999999*...**********.**************7..
+O60760|PF02798|5-72          ..k--LTYFNMRG--RAEIIRYIFAYLDIQYED..HRIEQ----A-DwPEIKSTLPF.....GKIPILEVD.GLTLHQSLAIARYL--t
+#=GR O60760|PF02798|5-72  PP ..5..8*******..******************..****4....3.3399*******.....*********.*************8..7
+P08263|PF02798|6-77          ..k--LHYFNARG--RMESTRWLLAAAGVEFEE..KFIKS---AEDL.DKLRNDGYLm...fQQVPMVEID.GMKLVQTRAILNYIAS.
+#=GR P08263|PF02798|6-77  PP ..5..89******..******************..****7...5556.778888877*...**********.**************95.
+P09210|PF02798|6-77          ..k--LHYSNIRG--RMESIRWLLAAAGVEFEE..KFIKS---AEDL.DKLRNDGYLm...fQQVPMVEID.GMKLVQTRAILNYIAS.
+#=GR P09210|PF02798|6-77  PP ..6..78889***..******************..****7...5556.778888877*...**********.**************95.
+P09211|PF02798|6-74          .vv----YFPVRG--RCAALRMLLADQGQSWKE..EVVTVETWQE--.GSLKASCLY.....GQLPKFQDG.DLTLYQSNTILRHL--g
+#=GR P09211|PF02798|6-74  PP .76....788999..99**************99..9999977766...89*******.....*********.*************8..7
+P09488|PF02798|5-82          ...--LGYWDIRG--LAHAIRLLLEYTDSSYEE..KKYTMGDAPDYDrSQWLNEKFKlgldfPNLPYLIDG.AHKITQSNAILCYIAR.
+#=GR P09488|PF02798|5-82  PP .....68******..******************..************************************.**************97.
+P0CG30|PF02798|16-74         avy------------------IFAKKNGIPLEL..RTVDLVKGQHKS.KEFLQINSL.....GKLPTLKDG.DFILTESSAILIYL--.
+#=GR P0CG30|PF02798|16-74 PP 866..................5667789999**..************.*********.....*********.***********997...
+P21266|PF02798|7-86          ...MVLGYWDIRG--LAHAIRLLLEFTDTSYEE..KRYTCGEAPDYDrSQWLDVKFKldldfPNLPYLLDG.KNKITQSNAILRYIAR.
+#=GR P21266|PF02798|7-86  PP ...789*******..******************..************************************.**************97.
+P26641|PF02798|3-80          ..a--GTLYTYPENWRAFKALIAAQYSGAQVRVlsAPPHFHFGQTNRtPEFLRKFPA.....GKVPAFEGDdGFCVFESNAIAYYV--s
+#=GR P26641|PF02798|3-80  PP ..7..79**************************999*********************.....*********9*************8..6
+P28161|PF02798|3-82          ...MTLGYWNIRG--LAHSIRLLLEYTDSSYEE..KKYTMGDAPDYDrSQWLNEKFKlgldfPNLPYLIDG.THKITQSNAILRYIAR.
+#=GR P28161|PF02798|3-82  PP ...799*******..******************..************************************.**************97.
+P46439|PF02798|3-82          ...MTLGYWDIRG--LAHAIRLLLEYTDSSYVE..KKYTLGDAPDYDrSQWLNEKFKlgldfPNLPYLIDG.AHKITQSNAILRYIAR.
+#=GR P46439|PF02798|3-82  PP ...799*******..******************..************************************.**************97.
+Q03013|PF02798|3-82          ...MTLGYWDIRG--LAHAIRLLLEYTDSSYEE..KKYTMGDAPDYDrSQWLNEKFKlgldfPNLPYLIDG.AHKITQSNAILCYIAR.
+#=GR Q03013|PF02798|3-82  PP ...799*******..******************..************************************.**************97.
+Q16772|PF02798|6-77          ..k--LHYFNGRG--RMEPIRWLLAAAGVEFEE..KFIGS---AEDL.GKLRNDGSLm...fQQVPMVEID.GMKLVQTRAILNYIAS.
+#=GR Q16772|PF02798|6-77  PP ..5..89******..******************..****7...6656.888888888*...**********.**************95.
+P0CG29|PF02798|16-74         avy------------------IFAKKNGIPLEL..RTVDLVKGQHKS.KEFLQINSL.....GKLPTLKDG.DFILTESSAILIYL--.
+#=GR P0CG29|PF02798|16-74 PP 866..................5667789999**..************.*********.....*********.***********997...
+Q7RTV2|PF02798|6-77          ..k--LHYSNARG--SMESIRWLLAAAGVELEE..KFLES---AEDL.DKLRNDGSLl...fQQVPMVEID.GMKLVQTRAILNYIAS.
+#=GR Q7RTV2|PF02798|6-77  PP ..6..78889999..99****************..****8...6667.999999999*...**********.**************95.
+#=GC PP_cons                 ...788999************99**********..****9***8888.999999999.....*********.*************996.
+#=GC RF                      ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx.xxxxxxxxx.....xxxxxxxxx.xxxxxxxxxxxxxxxx.
+//

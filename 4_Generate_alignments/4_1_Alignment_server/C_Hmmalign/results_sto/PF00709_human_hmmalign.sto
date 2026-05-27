@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P30520|PF00709|32-453         VVLGAQWGDEGKGKVVDLLAQDADIVCRCQGGNNAGHTVVVDSVEYDFHLLPSGIINPNVTAFIGNGVVIHLPGLFEEAEKNVQkgKGLEGWEKRLIISDRAHIVFDFHQAADGIQEQQRqeqAGKNLGTTKKGIGPVYSSKAARSGLRMCDLVSdFDGFSERFKVLANQYKSIYPTLE-IDIEGELQKLKGYMEKIKPM
+#=GR P30520|PF00709|32-453 PP 8******************************************************************************99755347899***************************9997665579**************************996788*****************998.********************
+Q8N142|PF00709|35-454         VVLGAQWGDEGKGKVVDLLATDADIISRCQGGNNAGHTVVVDGKEYDFHLLPSGIINTKAVSFIGNGVVIHLPGLFEEAEKNEK..KGLKDWEKRLIISDRAHLVFDFHQAVDGLQEVQRqaqEGKNIGTTKKGIGPTYSSKAARTGLRICDLLSdFDEFSSRFKNLAHQHQSMFPTLE-IDIEGQLKRLKGFAERIRPM
+#=GR Q8N142|PF00709|35-454 PP 8***********************************************************************************..*******************************9887766679**************************986899*****************998.********************
+#=GC PP_cons                  8*******************************************************************************9888..99*****************************998...5579**************************98.788*****************998.********************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P30520|PF00709|32-453         VRDGVYFLYEALHGpPKKILVEGANAALLDIDFGTYPFVTSSNCTVGGVCTGLGMPPQNVGEVYGVVKAYTTRVGIGAFPTEQDNEIGELLQTRGREFGVTTGRKRRCGWLDLVLLKYAHMINGFTALALTKLDILDMFTEIKVGVAYKLDGEIIPHIPANQEVLNKVEVQYKTLPGWNTDISNARAFKELPVNAQNYVR
+#=GR P30520|PF00709|32-453 PP ************9658*****************************************************************************************************************************************99*********************************************
+Q8N142|PF00709|35-454         VRDGVYFMYEALHGpPKKILVEGANAALLDIDFGTYPFVTSSNCTVGGVCTGLGIPPQNIGDVYGVVKAYTTRVGIGAFPTEQINEIGGLLQTRGHEWGVTTGRKRRCGWLDLMILRYAHMVNGFTALALTKLDILDVLGEVKVGVSYKLNGKRIPYFPANQEMLQKVEVEYETLPGWKADTTGARRWEDLPPQAQNYIR
+#=GR Q8N142|PF00709|35-454 PP ************9658****************************************************************************************************************************************************************************************
+#=GC PP_cons                  ************96.8****************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P30520|PF00709|32-453         FIEDELQIPVKWIGVGKSRESMI
+#=GR P30520|PF00709|32-453 PP ********************997
+Q8N142|PF00709|35-454         FVENHVGVAVKWVGVGKSRESMI
+#=GR Q8N142|PF00709|35-454 PP ********************997
+#=GC PP_cons                  ********************997
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxx
+//

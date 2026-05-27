@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+Q14674|PF03568|1722-2069         g---NTLLLTRLEKDSPPVSVQIPTGQ-N-------KLHLRSVLNEFDAIQKAQKENSSCT-------DKREWWTGRLALDHRMEVLIASLEKSVLGCWKGLLLPS-SEEPGPAQEASRLQELLQDCG----------WKYPDRTLLKIMLSGAG--ALTPQDIQALAYGL-------------CPTQPERAQELLNEAV
+#=GR Q14674|PF03568|1722-2069 PP 7...79*******************55.3.......49**********************9.......**************************************.79999****************..........8889**********995..32334444444433.............2223333344455555
+#=GC PP_cons                     ....79*******************55.3.......49**********************9.......**************************************.79999****************..........8889**********995..32334444444433.............2223333344455555
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q14674|PF03568|1722-2069         GRLQGLT-------VPSNSHLVLVLDKDLQKLPWESMPSLQALPVTRLPSFRFLLSYSI----IKEyGASPVLSQGVDPRsTFYVLNPHNNLSSTEEQFRANFSSEAGWRGVVGEVPRPEQVQEALTKHDLYIYAGHGAGARFLDGQAVLRLSCRAVALLFGCSSAALAVRGNLEGAGIVLKYIMAGCPLFLGNLWDVTD
+#=GR Q14674|PF03568|1722-2069 PP 5554222.......24689**************************************92....222222233444699999************************************************************************999********************************************
+#=GC PP_cons                     5554222.......24689**************************************92....222.2223344469999.************************************************************************999********************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q14674|PF03568|1722-2069         RDI
+#=GR Q14674|PF03568|1722-2069 PP **9
+#=GC PP_cons                     **9
+#=GC RF                          xxx
+//

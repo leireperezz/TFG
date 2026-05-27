@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q05D60|PF17045|11-280         TSPCEAELQELMEQIDIMVSNKKMDWERKMRALETRLDLRDQELANAQTCLDQKGQEVGLLRQKLDSLEKCNLAMTQNYEGQLQSLKAQFSKLTNNFEKLRLHQMKQNKvprkeLPHLKEEIPFELSNLNQKLEEFRAKSREWDKQEILYQTHLISLDAQQKLLSEKCNQFQKqaQSYQTQLNGKKQCLE....DSSSEI
+#=GR Q05D60|PF17045|11-280 PP 599*********************************************************************************************************999998999*******************************************************99899*************....******
+Q96MT8|PF17045|18-280         LTSCEAELQELMKQIDIMVAHKKSEWEGRTHALETCLKIREQELKSLRSQLDVTHKEVGMLHQQVEEHEKIKQEMTMEYKQELKKLHEELCILKRSYEKLQKKQMREFR....gNTKNHREDRSEIERLTAKIEEFRQKSLDWEKQRLIYQQQVSSLEAQRKALAEQSEIIQA..-----QLVNRKQKLEsvelSSQSEI
+#=GR Q96MT8|PF17045|18-280 PP 79***********************************************************************************************************....************************************************************.......********************
+#=GC PP_cons                  69***********************************************************************************************************.....99*********************************************************..99*************....******
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx....xxxxxx
+
+Q05D60|PF17045|11-280         PRLICDPDPNCEINERDEFIIEKLKSAVNEIALSRNKLQDENQKLLQELKMYQRQCQAMEAGLSEVKSELQSRD
+#=GR Q05D60|PF17045|11-280 PP ************************************************************************98
+Q96MT8|PF17045|18-280         QHLSSKLERANDTICANELEIERLTMRVNDLVGTSMTVLQEQQQKEEKLRESEKLLEALQEEKRELKAALQSQE
+#=GR Q96MT8|PF17045|18-280 PP ************************************************************************97
+#=GC PP_cons                  ************************************************************************98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

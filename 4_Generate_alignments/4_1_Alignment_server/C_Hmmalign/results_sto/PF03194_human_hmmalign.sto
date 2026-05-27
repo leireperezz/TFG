@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O95232|PF03194|4-245         a---AQLLDELMGRDRNLAPDEKRSNVRWDHESVCKYYLCGFCPAELFTNTRSDLGPCEKIHDENLRKQYEKS-SRFMKVGYERDFLRYLQSLLAEVERRIRRGHARLALSQNQQSSGAAGPtgknEEKIQVLTDKIDVLLQQIEELGSEGKVEEAQGMMKLVEQLKEERELLRSTTS--TIESFAAQEKQMEVCEVCGA
+#=GR O95232|PF03194|4-245 PP 5...79*******************************************************************.66677******************************99999988776667888*********************************************9986554..788*****************
+Q9NQ29|PF03194|6-243         .-QMRALLDQLMGTARDGDETRQRV--KFTDDRVCKSHLLDCCPHDILAGTRMDLGECTKIHDLALRADYEIASKERD-LFFELDAMDHLESFIAECDRRTELAKKRLAETQEEISAEVSAK....AEKVHELNEEIGKLLAKAEQLGAEGNVDESQKILMEVEKVRAKKKEAEEEYRN-SMPASSFQQQKLRVCEVCSA
+#=GR Q9NQ29|PF03194|6-243 PP ..79**************9998888..9*********************************************88888.*******************************************....****************************************************9.999*****************
+Q9Y383|PF03194|6-244         .-QMRAMLDQLMGTSRDGDTTRQRI--KFSDDRVCKSHLLNCCPHDVLSGTRMDLGECLKVHDLALRADYEIASKEQD-FFFELDAMDHLQSFIADCDRRTEVAKKRLAETQEEISAEVAAK....AERVHELNEEIGKLLAKVEQLGAEGNVEESQKVMDEVEKARAKKREAEEVYRN-SMPASSFQQQKLRVCEVCSA
+#=GR Q9Y383|PF03194|6-244 PP ..79***************998888..9*********************************************99988.*******************************************....************************************************99999.99******************
+#=GC PP_cons                 ..799****************9998**9*********************************************988877************************************9999988....***********************************************998889.889*****************
+#=GC RF                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95232|PF03194|4-245         FLIVGDAQSRVDDHLMGKQHMGYAKIKATVEELKEKLRKRTEEPDR-----de
+#=GR O95232|PF03194|4-245 PP ***************************************9988665.....67
+Q9NQ29|PF03194|6-243         YLGLHDNDRRLADHFGGKLHLGFIQIREKLDQLRKTVAEKQEKRNQD----r.
+#=GR Q9NQ29|PF03194|6-243 PP ***************************************99999987....5.
+Q9Y383|PF03194|6-244         YLGLHDNDRRLADHFGGKLHLGFIEIREKLEELKRVVAEKQEKRNQER---l.
+#=GR Q9Y383|PF03194|6-244 PP ***************************************999999886...8.
+#=GC PP_cons                 ***************************************999988776.....
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

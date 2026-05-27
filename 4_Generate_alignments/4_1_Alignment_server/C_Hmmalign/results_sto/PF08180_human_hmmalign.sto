@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+Q13072|PF08180|2-28         a----------ARA.VFLALSAQLLQARLMKEESPVVS
+#=GR Q13072|PF08180|2-28 PP 8..........99*.*********************96
+Q86Y27|PF08180|3-28         .----------AGA.VFLALSAQLLQARLMKEESPVVS
+#=GR Q86Y27|PF08180|3-28 PP ...........668.9********************96
+Q86Y28|PF08180|3-28         .----------AGA.VFLALSAQLLQARLMKEESPVVS
+#=GR Q86Y28|PF08180|3-28 PP ...........668.9********************96
+Q86Y29|PF08180|2-28         a-----------AGvVFLALSAQLLQARLMKEESPVVS
+#=GR Q86Y29|PF08180|2-28 PP 5...........44279*******************96
+Q86Y30|PF08180|2-28         a-----------AGvVFLALSAQLLQARLMKEESPVVS
+#=GR Q86Y30|PF08180|2-28 PP 5...........44279*******************96
+#=GC PP_cons                ...........767.89*******************96
+#=GC RF                     .xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx
+//

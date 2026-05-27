@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+O15083|PF10174|150-911         ......LQAQLKELQRENDLLRKELDIKDSKLGSSMNSIKTFWSPELKKERVLRKEEAARMSVLKEQMRVSHEENQHLQLTIQALQDELRTQRDLNHLLQQE--SGNRGAEHFT-IELTEENFRRLQAEHDRQAKELFLLRKTLEEMELRIETQKQTLNARDESIKKLLEMLQSKGLPSKSLEDDNERTRRMAEAESQVS
+#=GR O15083|PF10174|150-911 PP ......69**********************************************************************************************..8899999887.9************************************************************************************
+Q8IUD2|PF10174|455-982         eelkkk--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR Q8IUD2|PF10174|455-982 PP 886544..................................................................................................................................................................................................
+#=GC PP_cons                   ......69**********************************************************************************************..8899999887.9************************************************************************************
+#=GC RF                        ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15083|PF10174|150-911         HLEVILDQKEKENIHLREELHRRSQLQPEPAKTKALQTVIEMKDTKIASLERNIRDLEDEIQMLKANGVLNTEDREEEIKQIEVYKSHSKFMKTKIDQLKQELSKKESELLALQTKLETLSNQNSDCKQHIEVLKESLTAKEQRAAILQTEVDALRLRLEEKESFLNKKTKQLQDLTEEKGTLAGEIRDMKDMLEVKERK
+#=GR O15083|PF10174|150-911 PP ********************************************************************************************************************************************************************************************************
+Q8IUD2|PF10174|455-982         ----------------------------------------------------------------------------------------AAGLQAEIGQVKQELSRKDTELLALQTKLETLTNQFSDSKQHIEVLKESLTAKEQRAAILQTEVDALRLRLEEKETMLNKKTKQIQDMAEEKGTQAGEIHDLKDMLDVKERK
+#=GR Q8IUD2|PF10174|455-982 PP ........................................................................................4455677*********************************************************************************************************
+#=GC PP_cons                   ****************************************************************************************7778889*********************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15083|PF10174|150-911         INVLQKKIENLQEQLRDKDKQLTNLKDRVKSLQTDSSNTDTALATLEEALSEKERIIERLKEQRERDDRERLEEIESFRKENKDLKEKVNALQAELTEKESSLIDLKEHASSLASAGLKRDSKLKSLEIAIEQKKEECSKLEAQLKKAHNIEDDSRMNPEFADQIKQLDKEASYYRDECGKAQAEVDRLLEILKEVENEK
+#=GR O15083|PF10174|150-911 PP ********************************************************************************************************************************************************************************************************
+Q8IUD2|PF10174|455-982         VNVLQKKIENLQEQLRDKEKQMSSLKERVKSLQADTTNTDTALTTLEEALAEKERTIERLKEQRDRDEREKQEEIDNYKKDLKDLKEKVSLLQGDLSEKEASLLDLKEHASSLASSGLKKDSRLKTLEIALEQKKEECLKMESQLKKAHEAALEARASPEMSDRIQHLEREITRYKDESSKAQAEVDRLLEILKEVENEK
+#=GR Q8IUD2|PF10174|455-982 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                   ********************************************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15083|PF10174|150-911         NDKDKKIAELEsltlRHMKDQNKKVANLKHNQQLEKKKNAQLLEEVRRR............................................EDSMADNSQHLQIEELMNALEKTRQELDATKARLASTQQSLAEKEAHLANLRIERRKQLEEILEMKQEALLAAISEKDANIALLELSASKKKKTQEEVMALKREKDR
+#=GR O15083|PF10174|150-911 PP *************************************************............................................***********************************************************************************************************
+Q8IUD2|PF10174|455-982         NDKDKKIAELE....RQVKDQNKKVANLKHKEQVEKKKSAQMLEEARRRednlndssqqlqdslrkkddrieeleealresvqitaeremvlaQEESARTNAEKQVEELLMAMEKVKQELESMKAKLSSTQQSLAEKETHLTNLRAERRKHLEEVLEMKQEALLAAISEKDANIALLELSSS-KKKTQEEVAALKREKDR
+#=GR Q8IUD2|PF10174|455-982 PP ***********....********************************99********************************************99999***********************************************************************************9.7889*************
+#=GC PP_cons                   ***********....**********************************............................................******************************************************************************************899**************
+#=GC RF                        xxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15083|PF10174|150-911         LVHQLKQQTQNRMKL
+#=GR O15083|PF10174|150-911 PP **************7
+Q8IUD2|PF10174|455-982         LVQQLKQQTQNRMKL
+#=GR Q8IUD2|PF10174|455-982 PP **************7
+#=GC PP_cons                   **************7
+#=GC RF                        xxxxxxxxxxxxxxx
+//

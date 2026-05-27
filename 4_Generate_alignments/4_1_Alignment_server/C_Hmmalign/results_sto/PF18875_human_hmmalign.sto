@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P51816|PF18875|801-815         LWVKIDLDLLSRVPG
+#=GR P51816|PF18875|801-815 PP 9*************8
+P51825|PF18875|761-775         LMVKITLDLLSRIPQ
+#=GR P51825|PF18875|761-775 PP 9*************9
+P51826|PF18875|766-779         LWVKIDLTLLSRIP-
+#=GR P51826|PF18875|766-779 PP 9*************.
+Q9UHB7|PF18875|714-728         LIVKIDLNLLTRIPG
+#=GR Q9UHB7|PF18875|714-728 PP 9*************8
+#=GC PP_cons                   9*************9
+#=GC RF                        xxxxxxxxxxxxxxx
+//

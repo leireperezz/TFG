@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+O60240|PF03036|15-413            ..p---EQENVLQRVLQLPVVSGTCECFQKTYTSTKEAHPLVASVCNAYEKGVQSASSLAAWSMEPVVRRLSTQFTAANELACRGLDHLEEKIPALQYPPEKIASELKDTIS.......TRLRSARNSISVPIASTSDKVLGAALAGCELAWGVARDTAEFAANTRAGRLASGGADLALGSIEKVVEYLLPPDKEE----
+#=GR O60240|PF03036|15-413    PP ..5...8*********************************************************************************************************.......***************************************************************************87....
+O60664|PF03036|20-424            ..v---QQPSVVDRVASMPLISSTCDMVSAAYASTKESYPHIKTVCDAAEKGVRTLTAAAVSGAQPILSKLEPQIASASEYAHRGLDKLEENLPILQQPTEKVLADTKELVSskvsgaqEMVSSAKDTVATQLSEAVDATRGAVQSGVDKTKSVVTGGVQSVMGSRLGQMVLSGVDTVLGKSEEWADNHLPLTDAELARI
+#=GR O60664|PF03036|20-424    PP ..7...799***********************************************************************************************************************************************************************************************
+Q00G26|PF03036|16-381            ...-EQDQQNVVQRVVALPLVRATCTAVCDVYSAAKDRHPLLGSACRLAENCVCGLTTRALDHAQPLLEHLQPQLATMNSLACRGLDKLEEKLPFLQQPSETVVTSAKDV--.......---------VASSVTGVVDLARRGRRWSVELKRS-----------------VSHAVDVVLEKSEELVDHFLPMTEEELAAL
+#=GR Q00G26|PF03036|16-381    PP ....589*******************************************************************************************************..................9***********************9.................679***************************
+Q96Q06|PF03036|1156-1365         leg-------------------------------------------------------------------------------------------------------------.......-----------------------------------------------------------------LGDIFHPMNAEEQAQL
+#=GR Q96Q06|PF03036|1156-1365 PP 865.....................................................................................................................................................................................567889**********
+Q99541|PF03036|7-408             ..d---PQPSVVTRVVNLPLVSSTYDLMSSAYLSTKDQYPYLKSVCEMAENGVKTITSVAMTSALPIIQKLEPQIAVANTYACKGLDRIEERLPILNQPSTQIVANAKGAVTgakdavtTTVTGAKDSVASTITGVMDKTKGAVTGSVEKTKSVVSGSINTVLGSRMMQLVSSGVENALTKSELLVEQYLPLTEEELEKE
+#=GR Q99541|PF03036|7-408     PP ..7...699***********************************************************************************************************************************************************************************************
+#=GC PP_cons                     ....58899*******************************************************************************************************.......***************************************************99************999********9****
+#=GC RF                          ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O60240|PF03036|15-413            SAPAPGHQQAQKS.PKAKPSLLSRVGALTNTLSRYTVQTMARALEQG----HTVAMWIPGVVPLSSLAQWGASVAMQAVSRRRSEVRVPWLHSLAAAQEEDHEDQTDTEGEDTEEEEELETEENKFSEVAALpgprglLGGVAHTLQKTLQTTISAVTWAPAAVLGMAGRVLHLTPAPAVSSTKGRAMslSDALKGVTDN
+#=GR O60240|PF03036|15-413    PP 6888999999999.*********************************....*******************************************99996666655555555555566888889999999888889999**************************************************999*********
+O60664|PF03036|20-424            ATSLDGFDVASVQqQRQEQSYFVRLGSLSERLRQHAYEHSLGKLRATKQRAQEALLQLSQVLSLMETVKQGVD---QKLVEGQEKLHQMWLSWNQKQLQGPEKEPPKPEQVESRALTMFRDIAQQLQATCTS......LGSSIQGLPTNVKDQVQQARRQVEDLQATFSSIHSFQDLSSSILAQSRER..VASAREALDH
+#=GR O60664|PF03036|20-424    PP *************************************************************************...********************************************************......**************************************************..**********
+Q00G26|PF03036|16-381            AAEAEGPEVGSVEdQRRQQGYFVRLGSLSARIRHLAYEHSVGKLRQSKHRAQDTLAQLQETLELIDHMQCGVT---PTAPACPGKVHELWGEWGQRPP-----ESRRRSQAELETLVLSRSLTQELQGTVEA......LESSVRGLPAGAQEKVAEVRRSVDALQTAFADARCFRDVPAAALAEGRGR..VAHAHACVDE
+#=GR Q00G26|PF03036|16-381    PP *************************************************************************...9999999***********7776.....5799999**********************......**************************************************..**********
+Q96Q06|PF03036|1156-1365         AASQPGPKVLS--.-AEQGSYFVRLGDLGPSFRQRAFEHAVSHLQHGQFQARDTLAQLQDCFRLIEKAQQAPE--------GQPRLDQGSG--------ASAEDAAVQEERDAGVLSRVCGLLRQLHTAYSG......LVSSLQGLPAELQQPVGRARHSLCELYGIVASAGSVEELPAERLVQSREG..VHQAWQGLEQ
+#=GR Q96Q06|PF03036|1156-1365 PP ********975....89***************************************************99966........7777666332........234557788889999999***************......**************************************************..**********
+Q99541|PF03036|7-408             AKKVEGFDLV---.--QKPSYYVRLGSLSTKLHSRAYQQALSRVKEAKQKSQQTISQLHSTVHLIEFARKNVYSANQKIQDAQDKLYLSWVEWKRSIGYDDTDESHCAEHIESRTLAIARNLTQQLQTTCHT......LLSNIQGVPQNIQDQAKHMGVMAGDIYSVFRNAASFKEVSDSLLTSSKGQ..LQKMKESLDD
+#=GR Q99541|PF03036|7-408     PP ********96......69******************************************************************************************************************......**************************************************..**********
+#=GC PP_cons                     9*******999**.*99******************************************************99********9999999998***999987777788889999999999**************......**************************************************..**********
+#=GC RF                          xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxx
+
+O60240|PF03036|15-413            VVDTVVHYVPLPRLS-LMEPE-.
+#=GR O60240|PF03036|15-413    PP **************9.99885..
+O60664|PF03036|20-424            MVEYVAQNTPVTWLVGPFAP--g
+#=GR O60664|PF03036|20-424    PP ******************99..6
+Q00G26|PF03036|16-381            LLELVVQAVPLPWLVGPFAP--i
+#=GR Q00G26|PF03036|16-381    PP ******************98..7
+Q96Q06|PF03036|1156-1365         LLEGLQHNPPLSWLVGPFA---.
+#=GR Q96Q06|PF03036|1156-1365 PP ******************6....
+Q99541|PF03036|7-408             VMDYLVNNTPLNWLVGPFYPQ-.
+#=GR Q99541|PF03036|7-408     PP *******************97..
+#=GC PP_cons                     ******************996..
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxx.
+//

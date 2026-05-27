@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q658Y4|PF14648|374-820         ..HTKRIAFLFDSTLTAFLMMGNLSPNLKSHAVTMFEVGKLSDESLDSFLIELEKVQS-TGEGEAQRYFDHALTLRNTILFLRHNKDLVAQTAQPDQPNYGFPLDLLRCESLLGLDPATCSRVLNKNYTLLVSMAPLTNEIRPVS-SCTPQHIGPAIPEVSSVWFK..LYIYHVTGQGPPSLLLSKGTRLRKLPDIFQSY
+#=GR Q658Y4|PF14648|374-820 PP ..68******************************************************.**************************************************************************************.********************..********************************
+P0C866|PF14648|46-69           ..HTKHIAFLFDSTLTAFLMMGNLSP--------------------------------------------------------------------------------------------------------------------------------------------..--------------------------------
+#=GR P0C866|PF14648|46-69   PP ..689********************7..............................................................................................................................................................................
+P0C866|PF14648|72-273          st----------------------------------------------------------GEREAQRYFEHALTLRNTTLFLRHNKDLVVQTAQPDQPNYGFPLDLLRCESLLGLDPATGSRVLNKNYTLLVSMAPLTNEIRPVS-SCTPQHIGPAIPEVSSVWFKqyIYVYHITGQGPPSLLLSKGTRPRKLPDIFQSY
+#=GR P0C866|PF14648|72-273  PP 75..........................................................567**********************************************************************************.*******************9445668****************************
+#=GC PP_cons                   ..689********************8********************************.*788**********************************************************************************.********************..8889****************************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q658Y4|PF14648|374-820         DRLLITSWGHDPGVVPTSNVLTMLNDALTHSAVLIQGHGLHGIGET---VHVPFPFDETELQGEFTRVNMGVHKALQILRNRVDLQHLCGYVTMLNASSQL-ADRKLSDASDERGEPDLASGSDVNGSTESFEMVIEEATIdsatkqtSGATTEADWVPLELCFGIPLFSSELNRKVCRKIAAHGLCRKESLQNLLHSSR
+#=GR Q658Y4|PF14648|374-820 PP **********************************************...*************************************************999.778889999****************************99999999888999***********************************************
+P0C866|PF14648|46-69           ---------------------------------------------------------------------------------------------------------------------------------------------.......----------------------------------------------------
+#=GR P0C866|PF14648|46-69   PP ........................................................................................................................................................................................................
+P0C866|PF14648|72-273          DRLLITSWGHDPGVVPTSNVLTMLNDALTHSAVLIQEHGLHGIGET---VHVPFPFDETELQE------------------------------------------------------------------------------.......----------------------------------------------------
+#=GR P0C866|PF14648|72-273  PP **********************************************...**********9865.........................................................................................................................................
+#=GC PP_cons                   **********************************************...***********987***********************************999.778889999****************************99.......88999***********************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q658Y4|PF14648|374-820         KLSLQVLNFVHSFQEGASILD-IHTEPSFSSLLSQSSCaDMGVPLPAKNLIFKDGVLS-.
+#=GR Q658Y4|PF14648|374-820 PP *****************9999.55555555555555544****************995..
+P0C866|PF14648|46-69           --------------------------------------.--------------------.
+#=GR P0C866|PF14648|46-69   PP ............................................................
+P0C866|PF14648|72-273          --------------------------------------.--------------------d
+#=GR P0C866|PF14648|72-273  PP ...........................................................6
+#=GC PP_cons                   *****************9999.5555555555555554.****************995..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.
+//

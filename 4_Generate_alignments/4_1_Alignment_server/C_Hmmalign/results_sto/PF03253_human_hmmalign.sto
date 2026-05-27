@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q13336|PF03253|59-353          IDWILRGISQVVFVNNPVSGILILVGLLVQNPWWALTGWLGTVVSTLMALLLSQDRSLIASGLYGYNATLVGVLMAVFSDKGdyfWWLLLPVCAMSMTCPIFSSALNSMLSKWDLPVFTLPFNMALSMYLSATGHYNPFFPAKLVIPITTAPNISWSDlSALELLKSIPVGVGQIYGCDNPWTGGIFLGAILLSSPLMCL
+#=GR Q13336|PF03253|59-353  PP 79******************************************************************************************************************************************************************************************************
+Q15849|PF03253|119-413         IDWVLRGTAQVMFINNPLSGLIIFIGLLIQNPWWTITGGLGTVVSTLTALALGQDRSAIASGLHGYNGMLVGLLMAVFSEKLdyyWWLLFPVTFTAMSCPVLSSALNSIFSKWDLPVFTLPFNIAVTLYLAATGHYNLFFPTTLVEPVSSVPNITWTEmEMPLLLQAIPVGVGQVYGCDNPWTGGVFLVALFISSPLICL
+#=GR Q15849|PF03253|119-413 PP 79*******************************************************************************99*********************************************************************************************************************
+Q15849|PF03253|581-875         FDWVLRGTSQVMFVNNPLSGILIILGLFIQNPWWAISGCLGTIMSTLTALILSQDKSAIAAGFHGYNGVLVGLLMAVFSDKGdyyWWLLLPVIIMSMSCPILSSALGTIFSKWDLPVFTLPFNITVTLYLAATGHYNLFFPTTLLQPASAMPNITWSEvQVPLLLRAIPVGIGQVYGCDNPWTGGIFLIALFISSPLICL
+#=GR Q15849|PF03253|581-875 PP 69******************************************************************************************************************************************************************************************************
+#=GC PP_cons                   79********************************************************************************...*************************************************************************.*****************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13336|PF03253|59-353          HAAIGSLLGIAAGLSLSAPFEDIYFGLWGFNSSLACIAMGGMFMALTWQTHLLALGCALFTAYLGVGMANFMAEVGLPACTWPFCLATLLFLIM--t
+#=GR Q13336|PF03253|59-353  PP ********************************************************************************************97..5
+Q15849|PF03253|119-413         HAAIGSIVGLLAALSVATPFETIYTGLWSYNCVLSCIAIGGMFYALTWQTHLLALICALFCAYMEAAISNIMSVVGVPPGTWAFCLATIIFLLLT-.
+#=GR Q15849|PF03253|119-413 PP ********************************************************************************************985..
+Q15849|PF03253|581-875         HAAIGSTMGMLAALTIATPFDSIYFGLCGFNSTLACIAIGGMFYVITWQTHLLAIACALFAAYLGAALANMLSVFGLPPCTWPFCLSALTFLLLT-.
+#=GR Q15849|PF03253|581-875 PP ********************************************************************************************985..
+#=GC PP_cons                   ********************************************************************************************985..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

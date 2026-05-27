@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O14526|PF10291|626-887         LPIATAFTEYVHAYFRGHSPSC.lARVTGELTMTFPAGIVRVFSGtppPPVLSFRLVHTTAIEHFQPNADLLFSdPSQSD...PEtkdFWLNMAALTEALQRQAeqnptasyynvvlLRYQFSRPGP-QSVPLQLSAHWQCGATLTQVSVEYGYRPG-ATAVPTPLTNVQILLPVGEP-VTNVRL.QPAATWNLEEKRLT
+#=GR O14526|PF10291|626-887 PP 599*******************.********************999999*************************999999...77788************************************877.****************************8.99999***************.******.**************
+Q0JRZ9|PF10291|543-808         LPVAVALTESVNAYFKGADPTKciVKITGDMTMSFPSGIIKVFTSnptPAVLCFRVKNISRLEQILPNAQLVFSdPSQCD...SNtkdFWMNMQAVTVYLKKLSeqnpaasyynvdvLKYQVSSNGI-QSTPLNLATYWKCSASTTDLRVDYKYNPE-AMVAPSVLSNIQVVVPVDGG-VTNMQS.LPPAIWNAEQMKAF
+#=GR Q0JRZ9|PF10291|543-808 PP 599****************************************999999*************************999999...87888************99999*******************999.****************************7.********************.******.**************
+Q9BQI5|PF10291|560-826         LPVAAAFTETVNAYFKGADPSKciVKITGEMVLSFPAGITRHFANnpsPAALTFRVINFSRLEHVLPNPQLLCCdNTQNDantKE...FWVNMPNLMTHLKKVSeqkpqatyynvdmLKYQVSAQGI-QSTPLNLAVNWRCEPSSTDLRIDYKYNTD-AMTTAVALNNVQFLVPIDGG-VTKLQAvLPPAVWNAEQQRIL
+#=GR Q9BQI5|PF10291|560-826 PP 599*****************************************99999***********************9987888855566...************9999********************999.****************************7.********************.99998769*************
+#=GC PP_cons                   599*******************..*******************99...9*************************.89999...77...************9999.............*******998.****************************7.********************.****99.**************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx...xx...xxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+O14526|PF10291|626-887         WRLPDVSEAGGS--.GRLSASWEPLSGPS-TPSPVAAQFTSE-GTTLSGVDLELV-------------GSGYRMSLVKRRFATGMYL--v
+#=GR O14526|PF10291|626-887 PP *****8887777...8*************.************.************.............99****************7..6
+Q0JRZ9|PF10291|543-808         WKLSSISEKSENGGsGSLRAKFDLSEGPS-KPTTLAVQFLSE-GSTLSGVDFELV-------------GTGYRLSLIKKRFATGRYLA-.
+#=GR Q0JRZ9|PF10291|543-808 PP ************999**************.************.************.............99****************86..
+Q9BQI5|PF10291|560-826         WKIPDISQKSENGGvGSLLARFQLSEGPS-KPSPLVVQFTSE-GSTLSGCDIELV-------------GAGYRFSLIKKRFAAGKYLA-.
+#=GR Q9BQI5|PF10291|560-826 PP *****************************.************.************.............99****************86..
+#=GC PP_cons                   *****9999999*9.9*************.************.************.............99****************86..
+#=GC RF                        xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

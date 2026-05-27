@@ -1,0 +1,73 @@
+# STOCKHOLM 1.0
+
+Q8TCU4|PF18727|539-585           ...QKTLADTHLTEETL.KVTAIPEPADQKTA.TPTVLSSS...HS.HRGKPSIFY.
+#=GR Q8TCU4|PF18727|539-585   PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|586-632           ...QQGLPDSHLTEEAL.KVSAAPGLADQTTG.MSTLTSTS...YS.HREKPGTFY.
+#=GR Q8TCU4|PF18727|586-632   PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|633-679           ...QQELPESNLTEEPL.EVSAAPGPVEQKTG.IPTVSSTS...HS.HVEDLLFFY.
+#=GR Q8TCU4|PF18727|633-679   PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|680-726           ...RQTLPDGHLTDQAL.KVSAVSGPADQKTG.TATVLSTP...HS.HREKPGIFY.
+#=GR Q8TCU4|PF18727|680-726   PP ...6*************.**************.********...**.********9.
+Q8TCU4|PF18727|727-774           ...QQEFADSHQTEETLtKVSATPGPADQKTE.IPAVQSSS...YS.QREKPSILY.
+#=GR Q8TCU4|PF18727|727-774   PP ...9************99**************.********...**.*******99.
+Q8TCU4|PF18727|776-821           ...-QDLADSHLPEEGL.KVSAVAGPADQKTG.LPTVPSSA...YS.HREKLLVFY.
+#=GR Q8TCU4|PF18727|776-821   PP ....99***********.**************.********...**.********9.
+Q8TCU4|PF18727|822-871           ...QQALLDSHLPEEAL.KVSAVSGPADGKTG.TPAVTSTSsasSS.LGEKPSAFY.
+#=GR Q8TCU4|PF18727|822-871   PP ...9*************.**************.*****98622257.9*******9.
+Q8TCU4|PF18727|872-918           ...QQTLPNSHLTEEAL.KVSIVPGPGDQKTG.IPSAPSSF...YS.HREKPIIFS.
+#=GR Q8TCU4|PF18727|872-918   PP ...9*************.**************.********...**.*******95.
+Q8TCU4|PF18727|919-965           ...QQTLPDFLFPEEAL.KVSAVSVLAAQKTG.TPTVSSNS...HS.HSEKSSVFY.
+#=GR Q8TCU4|PF18727|919-965   PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|966-1013          ...QQELPDSDLPRESL.KMSAIPGLTDQKTVpTPTVPSGS...FS.HREKPSIFY.
+#=GR Q8TCU4|PF18727|966-1013  PP ...9*************.*************76********...**.********9.
+Q8TCU4|PF18727|1014-1060         ...QQEWPDSYATEKAL.KVSTGPGPADQKTE.IPAVQSSS...YP.QREKPSVLY.
+#=GR Q8TCU4|PF18727|1014-1060 PP ...9*************.**************.********...**.*******99.
+Q8TCU4|PF18727|1062-1107         ...-QVLSDSHLPEESL.KVSAFPGPADQMTD.TPAVPSTF...YS.QREKPGIFY.
+#=GR Q8TCU4|PF18727|1062-1107 PP ....89***********.**************.********...**.********9.
+Q8TCU4|PF18727|1108-1155         ...QQTLPESHLPKEAL.KISVAPGLADQKTG.TPTVTSTS...YSqHREKPSIFH.
+#=GR Q8TCU4|PF18727|1108-1155 PP ...9*************.**************.********...***********7.
+Q8TCU4|PF18727|1156-1202         ...QQALPGTHIPEEAQ.KVSAVTGPGNQKTW.IPRVLSTF...YS.QREKPGIFY.
+#=GR Q8TCU4|PF18727|1156-1202 PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|1203-1249         ...QQTLPGSHIPEEAQ.KVSPVLGPADQKTG.TPTPTSAS...YS.HTEKPGIFY.
+#=GR Q8TCU4|PF18727|1203-1249 PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|1250-1297         ...QQVLPDNHPTEEAL.KISVASEPVDQTTG.TPAVTSTS...YSqYREKPSIFY.
+#=GR Q8TCU4|PF18727|1250-1297 PP ...9*************.**************.********...***********9.
+Q8TCU4|PF18727|1298-1344         ...QQSLPSSHLTEEAK.NVSAVPGPADQKTV.IPILPSTF...YS.HTEKPGVFY.
+#=GR Q8TCU4|PF18727|1298-1344 PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|1345-1392         ...QQVLPHSHPTEEAL.KISVASEPVDQTTG.TPTVTSTS...YSqHTEKPSIFY.
+#=GR Q8TCU4|PF18727|1345-1392 PP ...9*************.**************.********...***********9.
+Q8TCU4|PF18727|1393-1439         ...QQSLPGSHLTEEAK.NVSAVPGPGDRKTG.IPTLPSTF...YS.HTEKPGSFY.
+#=GR Q8TCU4|PF18727|1393-1439 PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|1440-1486         ...QQVLPHSHLPEEAL.EVSVAPGPVDQTIG.TPTVTSPS...SS.FGEKPIVIY.
+#=GR Q8TCU4|PF18727|1440-1486 PP ...9*************.**************.********...**.*******99.
+Q8TCU4|PF18727|1487-1534         ...KQAFPEGHLPEESL.KVSVAPGPVGQTTG.APTITSPS...YSqHRAKSGSFY.
+#=GR Q8TCU4|PF18727|1487-1534 PP ...7*************.**************.********...***********9.
+Q8TCU4|PF18727|1538-1581         llg------SQIPEEAL.RVSSAPGPADQTTG.IPTITSTS...YS.FGEKPIVNY.
+#=GR Q8TCU4|PF18727|1538-1581 PP 885......899*****.**************.********...**.******988.
+Q8TCU4|PF18727|1582-1628         ...KQAFPDGHLPEEAL.KVSIVSGPTEKKTD.IPAGPLGS...SA.LGEKPITFY.
+#=GR Q8TCU4|PF18727|1582-1628 PP ...7*************.**************.********...**.********9.
+Q8TCU4|PF18727|1629-1675         ...RQALLDSPLNKEVV.KVSAAPGPADQKTE.TLPVHSTS...YS.NRGKPVIFY.
+#=GR Q8TCU4|PF18727|1629-1675 PP ...699***********.**************.********...**.********9.
+Q8TCU4|PF18727|1676-1722         ...QQTLSDSHLPEEAL.KVPPVPGPDAQKTE.TPSVSSSL...YS.YREKPIVFY.
+#=GR Q8TCU4|PF18727|1676-1722 PP ...9*************.**************.********...**.********9.
+Q8TCU4|PF18727|1723-1769         ...QQALPDSELTQEAL.KVSAVPQPADQKTG.LSTVTSSF...YS.HTEKPNISY.
+#=GR Q8TCU4|PF18727|1723-1769 PP ...9*************.**************.********...**.*******99.
+Q8TCU4|PF18727|1770-1816         ...QQELPDSHLTEEAL.KVSNVPGPADQKTG.VSTVTSTS...YS.HREKPIVSY.
+#=GR Q8TCU4|PF18727|1770-1816 PP ...9*************.**************.********...**.*******99.
+Q8TCU4|PF18727|1817-1861         ...QRELP--HFTEAGL.KILRVPGPADQKTG.INILPSNS...YP.QREHSVISY.
+#=GR Q8TCU4|PF18727|1817-1861 PP ...99***..9******.**************.********...**.*******99.
+Q8TCU4|PF18727|1863-1906         ...-QELPD--LTEVTL.KAIGVPGPADQKTG.IQIASSSS...YS.NREKASIFH.
+#=GR Q8TCU4|PF18727|1863-1906 PP ....9***9..******.**************.********...**.********7.
+Q8TCU4|PF18727|1907-1950         ...QQELPD--VTEEAL.NVFVVPGQGDRKTE.IPTVPLSY...YS.RREKPSV--i
+#=GR Q8TCU4|PF18727|1907-1950 PP ...9****9..******.**************.********...**.*****98..5
+Q8TCU4|PF18727|1952-1995         ...QQELPDSHLTEEAL.KVSPVSIPAEQKTG.IPIGLSSS...YS.HSHKE----k
+#=GR Q8TCU4|PF18727|1952-1995 PP ...9*************.**************.********...**.***97....5
+Q8TCU4|PF18727|2059-2105         ...QQQLPDRDQSKGIL.KISAVPELTDVNTG.KPVSLSSS...YF.HREKSNIFS.
+#=GR Q8TCU4|PF18727|2059-2105 PP ...9*************.**************.********...**.*******95.
+Q8TCU4|PF18727|2107-2152         ...-QELPGSHVTEDVL.KVSTIPGPAGQKTV.LPTALPSS...FS.HREKPDIFY.
+#=GR Q8TCU4|PF18727|2107-2152 PP ....9************.**************.********...**.********9.
+Q8TCU4|PF18727|2153-2198         ...QKDLPDRHLTEDAL.KISSALGQADQITG.LQTVPSGT...YS.HGENHKL--v
+#=GR Q8TCU4|PF18727|2153-2198 PP ...9*************.**************.********...**.****986..6
+#=GC PP_cons                     ...9*************.**************.********...**.********9.
+#=GC RF                          ...xxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxxxxx...xx.xxxxxxxxx.
+//

@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+P39023|PF00297|1-375           .MSHRKFSAPRHGSLGFLPRKRSSRHRGKVKSFPKDDPSKPVHLTAFLGYKAGMTHIVREVDRPGSKVNKKEVVEAVTIVETPPMVVVGIVGYVETPRGLRTFKTVFAEHISDECKRRFYKNWHKSKKKAFTKYCKKWQDEDGKKQLEK.D...FSSMKKYCQVIRVIAHTQMRLLP-LRQKKAHLMEIQVNGG....TV
+#=GR P39023|PF00297|1-375   PP .9***************************************************************************************************************************************************.*...***********************.****************....**
+Q92901|PF00297|1-375           .MSHRKFSAPRHGHLGFLPHKRSHRHRGKVKTWPRDDPSQPVHLTAFLGYKAGMTHTLREVHRPGLKISKREEVEAVTIVETPPLVVVGVVGYVATPRGLRSFKTIFAEHLSDECRRRFYKDWHKSKKKAFTKACKRWRDTDGKKQLQK.D...FAAMKKYCKVIRVIVHTQMKLLP-FRQKKAHIMEIQLNGG....TV
+#=GR Q92901|PF00297|1-375   PP .9***************************************************************************************************************************************************.*...***********************.****************....**
+P09001|PF00297|115-278         q-------------------------------------------------------------------------------------------------------------------------------------------KHVVTLLQVqDchvLKYTSKENCNGKMATLSVGGKTVSRFRKATSILEFYRELGlppkQT
+#=GR P09001|PF00297|115-278 PP 6...........................................................................................................................................78899999955999**********************************************
+P09001|PF00297|279-340         .----------------------------------------------------------------------------------------------------------------------------------------------------.-...----------------------------------------....--
+#=GR P09001|PF00297|279-340 PP ........................................................................................................................................................................................................
+#=GC PP_cons                   .9******************************************************************************************************************************************999******.8...****************************************....**
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xx
+
+P39023|PF00297|1-375           AEKLDWARERLEQ..QVPVNQVFGQDEMIDVIGVTKGKGYKGVTSRWHTKKLPRKTHRG..LRKVACIGAWHPARVAFSVARAGQKGYHHRTEINKKIYKIGQGyliKDGKliknNASTDYDLSDKSINPLGGFVHYGEVTNDFVMLKGCVVGTKKRVLTLRKSLLVQTK.............RRALEKIDLKFIDTTSK
+#=GR P39023|PF00297|1-375   PP *************..********************************************..******************************************989999999999*******************************************************.............*****************
+Q92901|PF00297|1-375           AEKVAWAQARLEK..QVPVHSVFSQSEVIDVIAVTKGRGVKGVTSRWHTKKLPRKTHKG..LRKVACIGAWHPARVGCSIARAGQKGYHHRTELNKKIFRIGRGphmEDGKlvknNASTSYDVTAKSITPLGGFPHYGEVNNDFVMLKGCIAGTKKRVITLRKSLLVHHS.............RQAVENIELKFIDTTSK
+#=GR Q92901|PF00297|1-375   PP *************..********************************************..******************************************878888889999*******************************************************.............*****************
+P09001|PF00297|115-278         VKIFNITDNAAIKpgTPLYAAHFRPGQYVDVTAKTIGKGFQGVMKRWGFKGQPATHGQTktHRRPGAVATGDIGRVWPGTKMPGKMGNIYRTEYGLKVWRINT-...----....-------------------------------------------------------.............-----------------
+#=GR P09001|PF00297|115-278 PP *********************************************************9999****************************************97.................................................................................................
+P09001|PF00297|279-340         -------------..--------------------------------------------..-------------------------------------------...----....-------------------------KHNIIYVNGSVPGHKNCLVKVKDSKLPAYKdlgknlpfptyfpDGDEEELPEDLYDENVC
+#=GR P09001|PF00297|279-340 PP ............................................................................................................................................79**********************************************************
+#=GC PP_cons                   *************..********************************************..*****************************************98...9998....*************************9*****************************.............*****************
+#=GC RF                        xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxx
+
+P39023|PF00297|1-375           FG
+#=GR P39023|PF00297|1-375   PP *8
+Q92901|PF00297|1-375           FG
+#=GR Q92901|PF00297|1-375   PP *8
+P09001|PF00297|115-278         --
+#=GR P09001|PF00297|115-278 PP ..
+P09001|PF00297|279-340         QP
+#=GR P09001|PF00297|279-340 PP 97
+#=GC PP_cons                   98
+#=GC RF                        xx
+//

@@ -1,0 +1,56 @@
+# STOCKHOLM 1.0
+
+P09960|PF17900|20-202          .....................................k---HLHLRCSVDFT.......RRTLTGTAALTVQSQeDNLRSLVLDTKDLTI.......EKVVIN..GQEVKY---...ALGERQSYKGSPMEISLPIALSK...NQEIVIEISFET--.SPKSSALQWLTPEQtSGKEHPYLFSQCQAIHCRAILPCQDTP
+#=GR P09960|PF17900|20-202  PP .....................................7...5568999****.......***************8899************.......888888..333322......33444556666699*********...************...9999999955544459**************************
+P15144|PF17900|81-279          ......................................KPDSYRVTLRPYLTpn..drgLYVFKGSSTVRFTCK.EATDVIIIHSKKLNYtl..sqgHRVVLR..GVGGSQPPD...IDKTELVEPTEYLVVHLKGSLVK...DSQYEMDSEFEGEL.ADDLAGFYRSEYME.GNVRKVVATTQMQAADARKSFPCFDEP
+#=GR P15144|PF17900|81-279  PP ......................................699***********99..99999*************.*****************..*********..*********...***********************...**************.**************.***************************
+P55786|PF17900|60-245          ......................................-PINYSLCLKPDLL.......DFTFEGKLEAAAQVR.QATNQIVMNCADIDI.......--ITAS.yAPEGDEEIH...ATGFNYQNEDEKVTLSFPSTLQ-...TGTGTLKIDFVGEL.NDKMKGFYRSKYTTpSGEVRYAAVTQFEATDARRAFPCWDEP
+#=GR P55786|PF17900|60-245  PP .......................................789**********.......***************.***************.........5555.46889999**...*********************9....**************.******************************************
+Q07075|PF17900|99-286          ......................................-PVHYDLHVKPLLE.......EDTYTGTVSISINLS.APTRYLWLHLRETRI.......TRLPEL..KRPSGDQVQ...VRRCFEYKKQEYVVVEAEEELTPssgDGLYLLTMEFAGWL.NGSLVGFYRTTYTE.NGQVKSIVATDHEPTDARKSFPCFDEP
+#=GR Q07075|PF17900|99-286  PP .......................................78***********.......***************.***************.......******..*********...*******************9999999999***********.**************.***************************
+Q6P179|PF17900|75-263          ......................................-PLHYDLFVHPNLT.......SLDFVASEKIEVLVS.NATQFIILHSKDLEI.......TNATLQ..SEEDSRYMKpgkELKVLSYPAHEQIALLVPEKLTP...HLKYYVAMDFQAKL.GDGFEGFYKSTYRTlGGETRILAVTDFEPTQARMAFPCFDEP
+#=GR Q6P179|PF17900|75-263  PP .......................................89***********.......***************.***************.......888888..777776655110334456788888***********...**************.**************9***************************
+Q6Q4G3|PF17900|103-307         ......................................VPLHYDLELWPQLRpdelpagSLPFTGRVNITVRCT.VATSRLLLHSLFQDCeraevrgPLSPGT..GNATVGRVP...VDDVWFALDTEYMVLELSEPLKP...GSSYELQLSFSGLVkEDLREGLFLNVYTD.QGERRALLASQLEPTFARYVFPCFDEP
+#=GR Q6Q4G3|PF17900|103-307 PP ......................................699***********9******99*************.**********999996666555445556..8999*****...***********************...************88666678*********.***************************
+Q9HAU8|PF17900|148-258         sltvtlppelqahqpfqvilrytstdapaiwwldpelt--------------.......---------------.---------------.......------..---------...-----------------------...--------------.--------------.YGCAKPFVFTQGHSVCNRSFFPCFDTP
+#=GR Q9HAU8|PF17900|148-258 PP 86655555555555555555555555555555554443.......................................................................................................................................57889**********************
+Q9NZ08|PF17900|60-246          ......................................-PVHYDLLIHANLT.......TLTFWGTTKVEITAS.QPTSTIILHSHHLQI.......SRATLRkgAGERLSEEP...LQVLEHPRQ-EQIALLAPEPLLV...GLPYTVVIHYAGNL.SETFHGFYKSTYRTkEGELRILASTQFEPTAARMAFPCFDEP
+#=GR Q9NZ08|PF17900|60-246  PP .......................................78***********.......***************.***************.......99999832334455666...666655555.559999***9999...**************.************9989999***********************
+Q9UIQ6|PF17900|173-358         ......................................VPLRYELSLHPNLT.......SMTFRGSVTISVQAL.QVTWNIILHSTGHNI.......SRVTFM..SAVSSQEKQ...AEILEYAYHGQ-IAIVAPEALLA...GHNYTLKIEYSANI.SSSYYGFYGFSYTDeSNEKKYFAATQFEPLAARSAFPCFDEP
+#=GR Q9UIQ6|PF17900|173-358 PP ......................................6999**********.......***************.***************.......******..*********...***********.999********...**************.******************************************
+Q9UKU6|PF17900|191-376         ......................................KPLHYNLMLTAFME.......NFTFSGEVNVEIACR.NATRYVVLHASRVAV.......EKVQLA..EDRAFGAVP...VAGFFLYPQTQVLVVVLNRTLDA...QRNYNLKIIYNALI.ENELLGFFRSSYVL.HGERRFLGVTQFSPTHARKAFPCFDEP
+#=GR Q9UKU6|PF17900|191-376 PP ......................................699***********.......***************.***************.......******..*********...***********************...**************.**************.***************************
+Q9H4A4|PF17900|158-230         .....................................t--------------.......---------------.---------------.......------..---------...-----------------------...--------------.--------------.AGKKKPFVYTQGQAVLNRAFFPCFDTP
+#=GR Q9H4A4|PF17900|158-230 PP .....................................8.......................................................................................................................................599************************
+A6NEC2|PF17900|60-245          ....................................pi---NCSLCLKPDLL.......DFTFEGKLEAAAQVR.QATNQIVMNCADIDI.......--ITAS.yAPEGDEEIH...ATGFNYQNEDEKVTLSFPSTLQ-...TGTGTLKIDFVGEL.NDKMKGFYRSKYTTpSGEVRYAAVTQFEATDARRAFPCWDER
+#=GR A6NEC2|PF17900|60-245  PP ....................................65...5679*******.......***************.***************.........5555.46889999**...*********************9....**************.******************************************
+#=GC PP_cons                   ......................................689999********.......***************.***************.......998888..788888999...888889999999***********...**************.9*******999999.99*************************
+#=GC RF                        ......................................xxxxxxxxxxxxxx.......xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.......xxxxxx..xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P09960|PF17900|20-202          SVKLTYTAEVSVPKEL.VALmSAI.RDGETPDPE...dPSRK..IYKFIQKVPIPCYL
+#=GR P09960|PF17900|20-202  PP ****************.7653888.777765554...26777..*************8
+P15144|PF17900|81-279          AMKAEFNITLIHPKDL.TAL.SNMlPKGPSTPLPe..dPNWN..VTEFHTTPKMSTYL
+#=GR P15144|PF17900|81-279  PP ****************.***.***99****99875..589**..*************9
+P55786|PF17900|60-245          AIKATFDISLVVPKDR.VAL.SNM.NVIDRKPYP....DDENlvEVKFARTPVMSTYL
+#=GR P55786|PF17900|60-245  PP ****************.***.***.******999....65554599***********9
+Q07075|PF17900|99-286          NKKATYTISITHPKEY.GAL.SNM.PVAKEESVD....DKWT..RTTFEKSVPMSTYL
+#=GR Q07075|PF17900|99-286  PP ****************.***.***.*********....****..*************9
+Q6P179|PF17900|75-263          LFKANFSIKIRRESRH.IAL.SNM.PKVKTIELE....GGLL..EDHFETTVKMSTYL
+#=GR Q6P179|PF17900|75-263  PP ****************.***.***.*********....****..*************9
+Q6Q4G3|PF17900|103-307         ALKATFNITMIHHPSY.VAL.SNM.PKLGQSEKEdvngSKWT..VTTFSTTPHMPTYL
+#=GR Q6Q4G3|PF17900|103-307 PP ****************.***.***.98655555547557788..9************9
+Q9HAU8|PF17900|148-258         AVKCTYSAVVKAPSGVqVLM.SAT.RSAYME---....-EEG..VFHFHMEHPVPAYL
+#=GR Q9HAU8|PF17900|148-258 PP **************985666.666.665333........344..8************8
+Q9NZ08|PF17900|60-246          AFKASFSIKIRREPRH.LAI.SNM.PLVKSVTVA....EGLI..EDHFDVTVKMSTYL
+#=GR Q9NZ08|PF17900|60-246  PP ****************.***.***.*********....****..*************9
+Q9UIQ6|PF17900|173-358         AFKATFIIKIIRDEQY.TAL.SNM.PKKSSVVLD....DGLV..QDEFSESVKMSTYL
+#=GR Q9UIQ6|PF17900|173-358 PP ****************.***.***.*********....****..*************9
+Q9UKU6|PF17900|191-376         IYKATFKISIKHQATY.LSL.SNM.PVETSVFEE....DGWV..TDHFSQTPLMSTYY
+#=GR Q9UKU6|PF17900|191-376 PP ****************.***.***.*********....****..*************6
+Q9H4A4|PF17900|158-230         AVKYKYSALIEVPDGF.TAV.--M.SASTWEK--....RGPN..KFFFQMCQPIPSYL
+#=GR Q9H4A4|PF17900|158-230 PP ***************9.877...4.4443344......4556..699999999**998
+A6NEC2|PF17900|60-245          AIKATFDISLVVPKDR.VAL.SNM.NVIDRKPYP....DDENlvEVKFARTPVTSTYL
+#=GR A6NEC2|PF17900|60-245  PP ****************.***.***.******999....65554599***********9
+#=GC PP_cons                   ****************.999.999.998888888....8888..9************8
+#=GC RF                        xxxxxxxxxxxxxxxx.xxx.xxx.xxxxxxxxx....xxxx..xxxxxxxxxxxxxx
+//

@@ -1,0 +1,495 @@
+# STOCKHOLM 1.0
+
+A6NCS4|PF00046|133-189             .........RKPRVLFSQAQVLALERRFKQ.QRYLSAPEREHLASAL...............QLTSTQVKIWFQNRRYKCKR..
+#=GR A6NCS4|PF00046|133-189     PP .........89*******************.****************...............******************97..
+A6NJ46|PF00046|140-196             .........KHTRPTFTGHQIFALEKTFEQ.TKYLAGPERARLAYSL...............GMTESQVKVWFQNRRTKWRK..
+#=GR A6NJ46|PF00046|140-196     PP .........6789*****************.****************...............*******************8..
+A8MTQ0|PF00046|157-213             .........KRVRTMFNLEQLEELEKVFAK.QHNLVGKKRAQLAARL...............KLTENQVRVWFQNRRVKYQK..
+#=GR A8MTQ0|PF00046|157-213     PP .........799******************.****************...............*****************876..
+A8MZ59|PF00046|9-65                .........RRPRTRFLSKQLTALRELLEK.TMHPSLATMGKLASKL...............QLDLSVVKIWFKNQRAKWKR..
+#=GR A8MZ59|PF00046|9-65        PP .........89*******************.****************...............*******************8..
+O14529|PF00046|1169-1225           .........KKPRVVLAPEEKEALRKAYQL.EPYPSQQTIELLSFQL...............NLKTNTVINWFHNYRSRMRR..
+#=GR O14529|PF00046|1169-1225   PP .........89*******************.****************...............******************98..
+O14627|PF00046|175-230             .........-KYRVVYTDHQRLELEKEFHC.NRYITIQRKSELAVNL...............GLSERQVKIWFQNRRAKERK..
+#=GR O14627|PF00046|175-230     PP ..........679*****************.****************...............*******************8..
+O14813|PF00046|91-147              .........RRIRTTFTSAQLKELERVFAE.THYPDIYTREELALKI...............DLTEARVQVWFQNRRAKFRK..
+#=GR O14813|PF00046|91-147      PP .........799******************.****************...............******************98..
+O15266|PF00046|118-174             .........RRSRTNFTLEQLNELERLFDE.THYPDAFMREELSQRL...............GLSEARVQVWFQNRRAKCRK..
+#=GR O15266|PF00046|118-174     PP .........89*******************.****************...............*****************997..
+O15499|PF00046|127-183             .........RRHRTIFSEEQLQALEALFVQ.NQYPDVSTRERLAGRI...............RLREERVEVWFKNRRAKWRH..
+#=GR O15499|PF00046|127-183     PP .........89*******************.****************...............******************95..
+O15522|PF00046|85-141              .........KKRRVLFSKAQTLELERRFRQ.QRYLSAPEREQLASLL...............RLTPTQVKIWFQNHRYKLKR..
+#=GR O15522|PF00046|85-141      PP .........89*******************.****************...............*****************997..
+O43186|PF00046|40-96               .........RRERTTFTRSQLEELEALFAK.TQYPDVYAREEVALKI...............NLPESRVQVWFKNRRAKCRQ..
+#=GR O43186|PF00046|40-96       PP .........89*******************.****************...............*****************996..
+O43248|PF00046|233-289             .........RKKRCPYSKFQIRELEREFFF.NVYINKEKRLQLSRML...............NLTDRQVKIWFQNRRMKEKK..
+#=GR O43248|PF00046|233-289     PP .........89*******************.****************...............*******************8..
+O43316|PF00046|172-227             .........-RNRTIFSPSQAEALEKEFQR.GQYPDSVARGKLATAT...............SLPEDTVRVWFSNRRAKWRR..
+#=GR O43316|PF00046|172-227     PP ..........79******************.****************...............*******************8..
+O43364|PF00046|144-200             .........RRLRTAYTNTQLLELEKEFHF.NKYLCRPRRVEIAALL...............DLTERQVKVWFQNRRMKHKR..
+#=GR O43364|PF00046|144-200     PP .........899******************.****************...............*******************8..
+O43365|PF00046|192-248             .........KRARTAYTSAQLVELEKEFHF.NRYLCRPRRVEMANLL...............NLTERQIKIWFQNRRMKYKK..
+#=GR O43365|PF00046|192-248     PP .........89*******************.****************...............*******************8..
+O43711|PF00046|167-223             .........KKPRTSFSRVQICELEKRFHR.QKYLASAERAALAKSL...............KMTDAQVKTWFQNRRTKWRR..
+#=GR O43711|PF00046|167-223     PP .........89*******************.****************...............*******************8..
+O43763|PF00046|158-214             .........KKPRTSFSRSQVLELERRFLR.QKYLASAERAALAKAL...............RMTDAQVKTWFQNRRTKWRR..
+#=GR O43763|PF00046|158-214     PP .........89*******************.****************...............*******************8..
+O60393|PF00046|273-317             .........KKTRTLYRSDQLEELEKIFQE.DHYPDSDKRREIAQTV...............GVTPQRI-------------m.
+#=GR O60393|PF00046|273-317     PP .........89*******************.****************...............**99887.............8.
+O60479|PF00046|130-186             .........RKPRTIYSSYQLAALQRRFQK.AQYLALPERAELAAQL...............GLTQTQVKIWFQNRRSKFKK..
+#=GR O60479|PF00046|130-186     PP .........89*******************.****************...............******************98..
+O60663|PF00046|220-276             .........KRPRTILTTQQRRAFKASFEV.SSKPCRKVRETLAAET...............GLSVRVVQVWFQNQRAKMKK..
+#=GR O60663|PF00046|220-276     PP .........89*******************.****************...............*******************8..
+O60902|PF00046|141-197             .........RRSRTNFTLEQLNELERLFDE.THYPDAFMREELSQRL...............GLSEARVQVWFQNRRAKCRK..
+#=GR O60902|PF00046|141-197     PP .........89*******************.****************...............*****************997..
+O75360|PF00046|70-126              .........RRHRTTFSPVQLEQLESAFGR.NQYPDIWARESLARDT...............GLSEARIQVWFQNRRAKQRK..
+#=GR O75360|PF00046|70-126      PP .........89*******************.****************...............*******************8..
+O75364|PF00046|63-119              .........RRQRTHFTSQQLQELEATFQR.NRYPDMSTREEIAVWT...............NLTEARVRVWFKNRRAKWRK..
+#=GR O75364|PF00046|63-119      PP .........89*******************.****************...............*******************8..
+O95096|PF00046|129-185             .........RKRRVLFSKAQTYELERRFRQ.QRYLSAPEREHLASLI...............RLTPTQVKIWFQNHRYKMKR..
+#=GR O95096|PF00046|129-185     PP .........89*******************.****************...............*******************8..
+O95231|PF00046|93-148              .........-RVRTAFTMEQVRTLEGVFQH.HQYLSPLERKRLAREM...............QLSEVQIKTWFQNRRMKHKR..
+#=GR O95231|PF00046|93-148      PP ..........67******************.****************...............*******************8..
+O95343|PF00046|211-262             ........h-----CFKERTRSLLREWYLQ.DPYPNPSKKRELAQAT...............GLTPTQVGNWFKNRRQRDR-..
+#=GR O95343|PF00046|211-262     PP ........7.....6888889999******.****************...............*****************97...
+O95475|PF00046|133-184             ........h-----CFKERTRHLLREWYLQ.DPYPNPSKKRELAQAT...............GLTPTQVGNWFKNRRQRDR-..
+#=GR O95475|PF00046|133-184     PP ........7.....688889999*******.****************...............*****************97...
+O95948|PF00046|427-480             .........KKSRLVFTDLQRRTLFAIFKE.NKRPSKEMQITISQQL...............GLELTTVSNFFMNARRR---..
+#=GR O95948|PF00046|427-480     PP .........79*******************.****************...............**************975.....
+P09016|PF00046|155-211             .........KRSRTAYTRQQVLELEKEFHF.NRYLTRRRRIEIAHTL...............CLSERQIKIWFQNRRMKWKK..
+#=GR P09016|PF00046|155-211     PP .........89*******************.****************...............*******************8..
+P09017|PF00046|157-213             .........KRSRTAYTRQQVLELEKEFHY.NRYLTRRRRIEIAHSL...............CLSERQIKIWFQNRRMKWKK..
+#=GR P09017|PF00046|157-213     PP .........89*******************.****************...............*******************8..
+P09067|PF00046|195-251             .........KRARTAYTRYQTLELEKEFHF.NRYLTRRRRIEIAHAL...............CLSERQIKIWFQNRRMKWKK..
+#=GR P09067|PF00046|195-251     PP .........89*******************.****************...............*******************8..
+P09086|PF00046|298-354             .........RKKRTSIETNVRFALEKSFLA.NQKPTSEEILLIAEQL...............HMEKEVIRVWFCNRRQKEKR..
+#=GR P09086|PF00046|298-354     PP .........89*******************.****************...............*******************8..
+P09629|PF00046|138-194             .........KRGRQTYTRYQTLELEKEFHY.NRYLTRRRRIEIAHTL...............CLTERQIKIWFQNRRMKWKK..
+#=GR P09629|PF00046|138-194     PP .........799******************.****************...............*******************8..
+P13378|PF00046|198-254             .........RRGRQTYSRFQTLELEKEFLF.NPYLTRKRRIEVSHAL...............ALTERQVKIWFQNRRMKWKK..
+#=GR P13378|PF00046|198-254     PP .........899******************.****************...............*******************8..
+P14651|PF00046|189-245             .........KRARTAYTSAQLVELEKEFHF.NRYLCRPRRVEMANLL...............NLSERQIKIWFQNRRMKYKK..
+#=GR P14651|PF00046|189-245     PP .........89*******************.****************...............*******************8..
+P14652|PF00046|144-200             .........RRLRTAYTNTQLLELEKEFHF.NKYLCRPRRVEIAALL...............DLTERQVKVWFQNRRMKHKR..
+#=GR P14652|PF00046|144-200     PP .........899******************.****************...............*******************8..
+P14653|PF00046|207-260             .........---RTNFTTRQLTELEKEFHF.NKYLSRARRVEIAATL...............ELNETQVKIWFQNRRMKQKK..
+#=GR P14653|PF00046|207-260     PP ............9*****************.****************...............*******************8..
+P14859|PF00046|380-436             .........RKKRTSIETNIRVALEKSFLE.NQKPTSEEITMIADQL...............NMEKEVIRVWFCNRRQKEKR..
+#=GR P14859|PF00046|380-436     PP .........89*******************.****************...............*******************8..
+P17481|PF00046|147-203             .........RRGRQTYSRYQTLELEKEFLF.NPYLTRKRRIEVSHAL...............GLTERQVKIWFQNRRMKWKK..
+#=GR P17481|PF00046|147-203     PP .........899******************.****************...............*******************8..
+P17482|PF00046|186-242             .........RKKRCPYTKYQTLELEKEFLF.NMYLTRDRRHEVARLL...............NLSERQVKIWFQNRRMKMKK..
+#=GR P17482|PF00046|186-242     PP .........89*******************.****************...............*******************8..
+P17483|PF00046|163-219             .........KRSRTAYTRQQVLELEKEFHY.NRYLTRRRRVEIAHAL...............CLSERQIKIWFQNRRMKWKK..
+#=GR P17483|PF00046|163-219     PP .........89*******************.****************...............*******************8..
+P17509|PF00046|147-203             .........RRGRQTYTRYQTLELEKEFHY.NRYLTRRRRIEIAHAL...............CLTERQIKIWFQNRRMKWKK..
+#=GR P17509|PF00046|147-203     PP .........899******************.****************...............*******************8..
+P19622|PF00046|245-301             .........KRPRTAFTAEQLQRLKAEFQT.NRYLTEQRRQSLAQEL...............SLNESQIKIWFQNKRAKIKK..
+#=GR P19622|PF00046|245-301     PP .........89*******************.****************...............******************98..
+P20264|PF00046|407-463             .........RKKRTSIEVSVKGALESHFLK.CPKPSAQEITNLADSL...............QLEKEVVRVWFCNRRQKEKR..
+#=GR P20264|PF00046|407-463     PP .........89*******************.****************...............*******************8..
+P20265|PF00046|355-411             .........RKKRTSIEVSVKGALESHFLK.CPKPSAQEITSLADSL...............QLEKEVVRVWFCNRRQKEKR..
+#=GR P20265|PF00046|355-411     PP .........89*******************.****************...............*******************8..
+P20719|PF00046|196-252             .........KRARTAYTRYQTLELEKEFHF.NRYLTRRRRIEIAHAL...............CLSERQIKIWFQNRRMKWKK..
+#=GR P20719|PF00046|196-252     PP .........89*******************.****************...............*******************8..
+P23759|PF00046|218-274             .........RRSRTTFTAEQLEELEKAFER.THYPDIYTREELAQRT...............KLTEARVQVWFSNRRARWRK..
+#=GR P23759|PF00046|218-274     PP .........89*******************.****************...............*******************8..
+P23760|PF00046|220-276             .........RRSRTTFTAEQLEELERAFER.THYPDIYTREELAQRA...............KLTEARVQVWFSNRRARWRK..
+#=GR P23760|PF00046|220-276     PP .........89*******************.****************...............*******************8..
+P26367|PF00046|212-267             .........-RNRTSFTQEQIEALEKEFER.THYPDVFARERLAAKI...............DLPEARIQVWFSNRRAKWRR..
+#=GR P26367|PF00046|212-267     PP ..........79******************.****************...............*******************8..
+P28069|PF00046|215-271             .........RKRRTTISIAAKDALERHFGE.QNKPSSQEIMRMAEEL...............NLEKEVVRVWFCNRRQREKR..
+#=GR P28069|PF00046|215-271     PP .........89*******************.****************...............*******************8..
+P28356|PF00046|286-342             .........RKKRCPYTKYQTLELEKEFLF.NMYLTRDRRYEVARIL...............NLTERQVKIWFQNRRMKMKK..
+#=GR P28356|PF00046|286-342     PP .........89*******************.****************...............*******************8..
+P28358|PF00046|267-323             .........RKKRCPYTKHQTLELEKEFLF.NMYLTRERRLEISKSV...............NLTDRQVKIWFQNRRMKLKK..
+#=GR P28358|PF00046|267-323     PP .........89*******************.****************...............******************98..
+P28360|PF00046|173-229             .........RKPRTPFTTAQLLALERKFRQ.KQYLSIAERAEFSSSL...............SLTETQVKIWFQNRRAKAKR..
+#=GR P28360|PF00046|173-229     PP .........89*******************.****************...............******************98..
+P31249|PF00046|195-251             .........KRVRTAYTSAQLVELEKEFHF.NRYLCRPRRVEMANLL...............NLTERQIKIWFQNRRMKYKK..
+#=GR P31249|PF00046|195-251     PP .........799******************.****************...............*******************8..
+P31260|PF00046|337-393             .........RKKRCPYTKHQTLELEKEFLF.NMYLTRERRLEISRSV...............HLTDRQVKIWFQNRRMKLKK..
+#=GR P31260|PF00046|337-393     PP .........89*******************.****************...............******************98..
+P31268|PF00046|131-187             .........KRGRQTYTRYQTLELEKEFHF.NRYLTRRRRIEIAHAL...............CLTERQIKIWFQNRRMKWKK..
+#=GR P31268|PF00046|131-187     PP .........799******************.****************...............*******************8..
+P31269|PF00046|207-263             .........RKKRCPYTKHQTLELEKEFLF.NMYLTRDRRYEVARLL...............NLTERQVKIWFQNRRMKMKK..
+#=GR P31269|PF00046|207-263     PP .........89*******************.****************...............*******************8..
+P31270|PF00046|242-298             .........RKKRCPYTKYQIRELEREFFF.SVYINKEKRLQLSRML...............NLTDRQVKIWFQNRRMKEKK..
+#=GR P31270|PF00046|242-298     PP .........89*******************.****************...............*******************8..
+P31271|PF00046|323-379             .........RKKRVPYTKVQLKELEREYAT.NKFITKDKRRRISATT...............NLSERQVTIWFQNRRVKEKK..
+#=GR P31271|PF00046|323-379     PP .........89*******************.****************...............*******************8..
+P31273|PF00046|150-206             .........RSGRQTYSRYQTLELEKEFLF.NPYLTRKRRIEVSHAL...............GLTERQVKIWFQNRRMKWKK..
+#=GR P31273|PF00046|150-206     PP .........678******************.****************...............*******************8..
+P31274|PF00046|193-249             .........RKKRCPYTKYQTLELEKEFLF.NMYLTRDRRYEVARVL...............NLTERQVKIWFQNRRMKMKK..
+#=GR P31274|PF00046|193-249     PP .........89*******************.****************...............*******************8..
+P31276|PF00046|261-317             .........RKKRVPYTKVQLKELEKEYAA.SKFITKEKRRRISATT...............NLSERQVTIWFQNRRVKEKK..
+#=GR P31276|PF00046|261-317     PP .........89*******************.****************...............*******************8..
+P31314|PF00046|202-258             .........KKPRTSFTRLQICELEKRFHR.QKYLASAERAALAKAL...............KMTDAQVKTWFQNRRTKWRR..
+#=GR P31314|PF00046|202-258     PP .........89*******************.****************...............*******************8..
+P32242|PF00046|39-95               .........RRERTTFTRSQLDVLEALFAK.TRYPDIFMREEVALKI...............NLPESRVQVWFKNRRAKCRQ..
+#=GR P32242|PF00046|39-95       PP .........89*******************.****************...............*****************996..
+P32243|PF00046|39-95               .........RRERTTFTRAQLDVLEALFAK.TRYPDIFMREEVALKI...............NLPESRVQVWFKNRRAKCRQ..
+#=GR P32243|PF00046|39-95       PP .........89*******************.****************...............*****************996..
+P35452|PF00046|203-259             .........RKKRKPYTKQQIAELENEFLV.NEFINRQKRKELSNRL...............NLSDQQVKIWFQNRRMKKKR..
+#=GR P35452|PF00046|203-259     PP .........89*******************.****************...............*******************8..
+P35453|PF00046|277-333             .........RKKRVPYTKLQLKELENEYAI.NKFINKDKRRRISAAT...............NLSERQVTIWFQNRRVKDKK..
+#=GR P35453|PF00046|277-333     PP .........89*******************.****************...............*******************8..
+P35548|PF00046|143-199             .........RKPRTPFTTSQLLALERKFRQ.KQYLSIAERAEFSSSL...............NLTETQVKIWFQNRRAKAKR..
+#=GR P35548|PF00046|143-199     PP .........89*******************.****************...............******************98..
+P39880|PF00046|1245-1301           .........KKPRVVLAPEEKEALKRAYQQ.KPYPSPKTIEDLATQL...............NLKTSTVINWFHNYRSRIRR..
+#=GR P39880|PF00046|1245-1301   PP .........89*******************.****************...............*****************997..
+P43699|PF00046|162-218             .........RKRRVLFSQAQVYELERRFKQ.QKYLSAPEREHLASMI...............HLTPTQVKIWFQNHRYKMKR..
+#=GR P43699|PF00046|162-218     PP .........89*******************.****************...............*******************8..
+P47902|PF00046|156-211             .........-KYRVVYTDHQRLELEKEFHY.SRYITIRRKSELAANL...............GLTERQVKIWFQNRRAKERK..
+#=GR P47902|PF00046|156-211     PP ..........679*****************.****************...............*******************8..
+P48742|PF00046|181-237             .........RGPRTTIKAKQLETLKAAFAA.TPKPTRHIREQLAQET...............GLNMRVIQVWFQNRRSKERR..
+#=GR P48742|PF00046|181-237     PP .........679******************.****************...............*******************8..
+P49335|PF00046|279-335             .........RKKRTSIEVSVKGVLETHFLK.CPKPAAQEISSLADSL...............QLEKEVVRVWFCNRRQKEKR..
+#=GR P49335|PF00046|279-335     PP .........89*******************.****************...............*******************8..
+P49639|PF00046|233-286             .........---RTNFTTKQLTELEKEFHF.NKYLTRARRVEIAASL...............QLNETQVKIWFQNRRMKQKK..
+#=GR P49639|PF00046|233-286     PP ............9*****************.****************...............*******************8..
+P49640|PF00046|184-240             .........RRYRTAFTREQIARLEKEFYR.ENYVSRPRRCELAAAL...............NLPETTIKVWFQNRRMKDKR..
+#=GR P49640|PF00046|184-240     PP .........899******************.****************...............*******************8..
+P50219|PF00046|242-298             .........RRPRTAFTSQQLLELEHQFKL.NKYLSRPKRFEVATSL...............MLTETQVKIWFQNRRMKWKR..
+#=GR P50219|PF00046|242-298     PP .........89*******************.****************...............*******************8..
+P50221|PF00046|172-228             .........RKERTAFTKEQLRELEAEFAH.HNYLTRLRRYEIAVNL...............DLSERQVKVWFQNRRMKWKR..
+#=GR P50221|PF00046|172-228     PP .........89*******************.****************...............*******************8..
+P50222|PF00046|188-244             .........RKERTAFTKEQIRELEAEFAH.HNYLTRLRRYEIAVNL...............DLTERQVKVWFQNRRMKWKR..
+#=GR P50222|PF00046|188-244     PP .........89*******************.****************...............*******************8..
+P50458|PF00046|267-323             .........KRMRTSFKHHQLRTMKSYFAI.NHNPDAKDLKQLAQKT...............GLTKRVLQVWFQNARAKFRR..
+#=GR P50458|PF00046|267-323     PP .........799******************.****************...............******************97..
+P52945|PF00046|147-203             .........KRTRTAYTRAQLLELEKEFLF.NKYISRPRRVELAVML...............NLTERHIKIWFQNRRMKWKK..
+#=GR P52945|PF00046|147-203     PP .........89*******************.****************...............*******************8..
+P52951|PF00046|248-304             .........RRRRTAFTSEQLLELEKEFHC.KKYLSLTERSQIAHAL...............KLSEVQVKIWFQNRRAKWKR..
+#=GR P52951|PF00046|248-304     PP .........89*******************.****************...............*******************8..
+P52952|PF00046|139-195             .........RKPRVLFSQAQVYELERRFKQ.QRYLSAPERDQLASVL...............KLTSTQVKIWFQNRRYKCKR..
+#=GR P52952|PF00046|139-195     PP .........89*******************.****************...............******************97..
+P52954|PF00046|126-182             .........RKSRTAFTNHQIYELEKRFLY.QKYLSPADRDQIAQQL...............GLTNAQVITWFQNRRAKLKR..
+#=GR P52954|PF00046|126-182     PP .........89*******************.****************...............******************97..
+P54821|PF00046|95-151              .........RRNRTTFNSSQLQALERVFER.THYPDAFVREDLARRV...............NLTEARVQVWFQNRRAKFRR..
+#=GR P54821|PF00046|95-151      PP .........89*******************.****************...............******************97..
+P56177|PF00046|129-185             .........RKPRTIYSSLQLQALNRRFQQ.TQYLALPERAELAASL...............GLTQTQVKIWFQNKRSKFKK..
+#=GR P56177|PF00046|129-185     PP .........89*******************.****************...............******************98..
+P56178|PF00046|138-194             .........RKPRTIYSSFQLAALQRRFQK.TQYLALPERAELAASL...............GLTQTQVKIWFQNKRSKIKK..
+#=GR P56178|PF00046|138-194     PP .........89*******************.****************...............*****************998..
+P56179|PF00046|50-106              .........RKPRTIYSSLQLQALNHRFQQ.TQYLALPERAELAASL...............GLTQTQVKIWFQNKRSKFKK..
+#=GR P56179|PF00046|50-106      PP .........89*******************.****************...............******************98..
+P56915|PF00046|161-217             .........RRHRTIFTDEQLEALENLFQE.TKYPDVGTREQLARKV...............HLREEKVEVWFKNRRAKWRR..
+#=GR P56915|PF00046|161-217     PP .........89*******************.****************...............*******************8..
+P58304|PF00046|149-205             .........RRHRTIFTSYQLEELEKAFNE.AHYPDVYAREMLAMKT...............ELPEDRIQVWFQNRRAKWRK..
+#=GR P58304|PF00046|149-205     PP .........89*******************.****************...............*******************8..
+P61371|PF00046|183-238             .........-RVRTVLNEKQLHTLRTCYAA.NPRPDALMKEQLVEMT...............GLSPRVIRVWFQNKRCKDKK..
+#=GR P61371|PF00046|183-238     PP ..........67******************.****************...............*******************8..
+P78337|PF00046|90-146              .........RRQRTHFTSQQLQELEATFQR.NRYPDMSMREEIAVWT...............NLTEPRVRVWFKNRRAKWRK..
+#=GR P78337|PF00046|90-146      PP .........89*******************.****************...............*******************8..
+P78367|PF00046|207-263             .........KRSRAAFSHAQVFELERRFNH.QRYLSGPERADLAASL...............KLTETQVKIWFQNRRYKTKR..
+#=GR P78367|PF00046|207-263     PP .........89*******************.****************...............******************98..
+P78424|PF00046|608-663             .........RKRRTSFTPQALEILNAHFEK.NTHPSGQEMTEIAEKL...............NYDREVVRVWFCNKRQAL--k.
+#=GR P78424|PF00046|608-663     PP .........89*******************.****************...............***************965..5.
+P78426|PF00046|237-293             .........KHTRPTFSGQQIFALEKTFEQ.TKYLAGPERARLAYSL...............GMTESQVKVWFQNRRTKWRK..
+#=GR P78426|PF00046|237-293     PP .........57899****************.****************...............*******************8..
+Q00056|PF00046|216-272             .........KRSRTAYTRQQVLELEKEFHF.NRYLTRRRRIEIAHTL...............CLSERQVKIWFQNRRMKWKK..
+#=GR Q00056|PF00046|216-272     PP .........89*******************.****************...............*******************8..
+Q00444|PF00046|156-212             .........KRSRTSYTRYQTLELEKEFHF.NRYLTRRRRIEIANNL...............CLNERQIKIWFQNRRMKWKK..
+#=GR Q00444|PF00046|156-212     PP .........89*******************.****************...............*******************8..
+Q01826|PF00046|646-698             .........-RPRTKISVEALGILQSFIQDvGLYPDEEAIQTLSAQL...............DLPKYTIIKFFQNQR-----y.
+#=GR Q01826|PF00046|646-698     PP ..........79***************999899**************...............**************9.....6.
+Q01851|PF00046|356-412             .........KRKRTSIAAPEKRSLEAYFAV.QPRPSSEKIAAIAEKL...............DLKKNVVRVWFCNQRQKQKR..
+#=GR Q01851|PF00046|356-412     PP .........89*******************.****************...............*******************8..
+Q01860|PF00046|231-287             .........KRKRTSIENRVRGNLENLFLQ.CPKPTLQQISHIAQQL...............GLEKDVVRVWFCNRRQKGKR..
+#=GR Q01860|PF00046|231-287     PP .........89*******************.****************...............*****************997..
+Q03014|PF00046|142-194             ........v-----RFSNDQTIELEKKFET.QKYLSPPERKRLAKML...............QLSERQVKTWFQNRRAKWRR..
+#=GR Q03014|PF00046|142-194     PP ........6.....79**************.****************...............*******************8..
+Q03052|PF00046|340-396             .........RKKRTSIEVGVKGALESHFLK.CPKPSAHEITGLADSL...............QLEKEVVRVWFCNRRQKEKR..
+#=GR Q03052|PF00046|340-396     PP .........89*******************.****************...............*******************8..
+Q04741|PF00046|193-249             .........KRIRTAFSPSQLLRLERAFEK.NHYVVGAERKQLAGSL...............SLSETQVKVWFQNRRTKYKR..
+#=GR Q04741|PF00046|193-249     PP .........789******************.****************...............*******************8..
+Q04743|PF00046|155-211             .........KRIRTAFSPSQLLRLEHAFEK.NHYVVGAERKQLAHSL...............SLTETQVKVWFQNRRTKFKR..
+#=GR Q04743|PF00046|155-211     PP .........789******************.****************...............******************98..
+Q05925|PF00046|304-360             .........KRPRTAFTAEQLQRLKAEFQA.NRYITEQRRQTLAQEL...............SLNESQIKIWFQNKRAKIKK..
+#=GR Q05925|PF00046|304-360     PP .........89*******************.****************...............******************98..
+Q06416|PF00046|231-286             .........KRKRTSIENRVRGNLENLFLQ.CPKPTL-QISHIAQQL...............GLEKDVVRVWFCNRRQKGKR..
+#=GR Q06416|PF00046|231-286     PP .........89*******************.****97.69*******...............*****************997..
+Q07687|PF00046|153-209             .........RKPRTIYSSFQLAALQRRFQK.TQYLALPERAELAASL...............GLTQTQVKIWFQNRRSKFKK..
+#=GR Q07687|PF00046|153-209     PP .........89*******************.****************...............******************98..
+Q12837|PF00046|346-402             .........KRKRTSIAAPEKRSLEAYFAI.QPRPSSEKIAAIAEKL...............DLKKNVVRVWFCNQRQKQKR..
+#=GR Q12837|PF00046|346-402     PP .........89*******************.****************...............*******************8..
+Q14774|PF00046|279-333             ........s---RAVFSNLQRKGLEKRFEI.QKYVTKPDRKQLAAML...............GLTDAQVKVWFQNRRMKWRH..
+#=GR Q14774|PF00046|279-333     PP ........5...999***************.****************...............******************95..
+Q14863|PF00046|545-600             .........RKRRTSFTPQAIEALNAYFEK.NPLPTGQEITEIAKEL...............NYDREVVRVWFCNRRQTLK-..
+#=GR Q14863|PF00046|545-600     PP .........89*******************.****************...............***************9765...
+Q15319|PF00046|275-331             .........KRKRTSIAAPEKRSLEAYFAI.QPRPSSEKIAAIAEKL...............DLKKNVVRVWFCNQRQKQKR..
+#=GR Q15319|PF00046|275-331     PP .........89*******************.****************...............*******************8..
+Q15699|PF00046|133-189             .........RRHRTTFTSLQLEELEKVFQK.THYPDVYVREQLALRT...............ELTEARVQVWFQNRRAKWRK..
+#=GR Q15699|PF00046|133-189     PP .........89*******************.****************...............*******************8..
+Q15911|PF00046|2146-2202           .........KRPRTRITDDQLRVLRQYFDI.NNSPSEEQIKEMADKS...............GLPQKVIKHWFRNTLFKERQ..
+#=GR Q15911|PF00046|2146-2202   PP .........89*******************.****************...............*************9999885..
+Q15911|PF00046|2243-2299           .........RSSRTRFTDYQLRVLQDFFDA.NAYPKDDEFEQLSNLL...............NLPTRVIVVWFQNARQKARK..
+#=GR Q15911|PF00046|2243-2299   PP .........789******************.****************...............******************98..
+Q15911|PF00046|2642-2698           .........KRLRTTITPEQLEILYQKYLL.DSNPTRKMLDHIAHEV...............GLKKRVVQVWFQNTRARERK..
+#=GR Q15911|PF00046|2642-2698   PP .........799******************.****************...............*******************8..
+Q15911|PF00046|2947-3003           .........KRFRTQMTNLQLKVLKSCFND.YRTPTMLECEVLGNDI...............GLPKRVVQVWFQNARAKEKK..
+#=GR Q15911|PF00046|2947-3003   PP .........799******************.****************...............*******************8..
+Q5SQQ9|PF00046|101-157             .........KRTRTSFTAEQLYRLEMEFQR.CQYVVGRERTELARQL...............NLSETQVKVWFQNRRTKQKK..
+#=GR Q5SQQ9|PF00046|101-157     PP .........89*******************.****************...............*******************8..
+Q5XKR4|PF00046|105-161             .........KRHRTRFTPAQLNELERSFAK.THYPDIFMREELALRI...............GLTESRVQVWFQNRRAKWKK..
+#=GR Q5XKR4|PF00046|105-161     PP .........89*******************.****************...............*******************8..
+Q68G74|PF00046|226-282             .........KRARTSFTADQLQVMQAQFAQ.DNNPDAQTLQKLAERT...............GLSRRVIQVWFQNCRARHKK..
+#=GR Q68G74|PF00046|226-282     PP .........89*******************.****************...............*******************8..
+Q6NSW7|PF00046|97-152              .........-KTRTVFSSTQLCVLNDRFQR.QKYLSLQQMQELSNIL...............NLSYKQVKTWFQNQRMKSKR..
+#=GR Q6NSW7|PF00046|97-152      PP ..........79******************.****************...............******************98..
+Q6NT76|PF00046|269-339             .......gs---RFTWRKECLAVMESYFNE.NQYPDEAKREEIANACnaviqkpgkklsdleRVTSLKVYNWFANRRKEIKR..
+#=GR Q6NT76|PF00046|269-339     PP .......85...77888999**********.****************************9999999***********98886..
+Q6RFH8|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR Q6RFH8|PF00046|20-74       PP .........89*******************.****************...............***************985....
+Q6RFH8|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR Q6RFH8|PF00046|95-149      PP .........8********************.****************...............****************96....
+Q6ZMG9|PF00046|82-125              ........i--------------LEKVFTAiTKHPDEKRLEGLSKQL...............DWDVRSIQRWFRQRRNQEK-..
+#=GR Q6ZMG9|PF00046|82-125      PP ........5..............9*****99****************...............***************9998...
+Q86UP3|PF00046|2085-2141           .........KRPRTRITDDQLKILRAYFDI.NNSPSEEQIQEMAEKS...............GLSQKVIKHWFRNTLFKERQ..
+#=GR Q86UP3|PF00046|2085-2141   PP .........89*******************.****************...............*************9999885..
+Q86UP3|PF00046|2182-2238           .........RSSRTRFTDYQLRVLQDFFDT.NAYPKDDEIEQLSTVL...............NLPTRVIVVWFQNARQKARK..
+#=GR Q86UP3|PF00046|2182-2238   PP .........789******************.****************...............******************98..
+Q86UP3|PF00046|2561-2617           .........KRLRTTITPEQLEILYEKYLL.DSNPTRKMLDHIAREV...............GLKKRVVQVWFQNTRARERK..
+#=GR Q86UP3|PF00046|2561-2617   PP .........799******************.****************...............*******************8..
+Q86UP3|PF00046|2885-2941           .........KRFRTQMSNLQLKVLKACFSD.YRTPTMQECEMLGNEI...............GLPKRVVQVWFQNARAKEKK..
+#=GR Q86UP3|PF00046|2885-2941   PP .........799******************.****************...............*******************8..
+Q8IU89|PF00046|81-125              ........t-------------VLENFFKHsTRQPLQTDIYGLAKKC...............NLTERQVERWFRSRRNQER-..
+#=GR Q8IU89|PF00046|81-125      PP ........6.............7******88****************...............***************9987...
+Q8N196|PF00046|208-257             .........------FKERSRAALKACYRG.NRYPTPDEKRRLATLT...............GLSLTQVSNWFKNRRQRDR-..
+#=GR Q8N196|PF00046|208-257     PP ...............66778899*******.****************...............*****************97...
+Q8N5B7|PF00046|90-134              ........a-------------ILEKVFISiTKYPDKKRLEGLSKQL...............DWNVRKIQCWFRHRRNQDK-..
+#=GR Q8N5B7|PF00046|90-134      PP ........7.............79****999****************...............***************9987...
+Q8N693|PF00046|140-196             .........RRRRTAFTQFQLQELENFFDE.SQYPDVVARERLAARL...............NLTEDRVQVWFQNRRAKWKR..
+#=GR Q8N693|PF00046|140-196     PP .........89*******************.****************...............*******************8..
+Q8NFW5|PF00046|72-128              .........RRSRTAFTAQQLEALEKTFQK.THYPDVVMRERLAMCT...............NLPEARVQVWFKNRRAKFRK..
+#=GR Q8NFW5|PF00046|72-128      PP .........89*******************.****************...............******************98..
+Q8NHV9|PF00046|104-160             .........RTRRTKFTLLQVEELESVFRH.TQYPDVPTRRELAENL...............GVTEDKVRVWFKNKRARCRR..
+#=GR Q8NHV9|PF00046|104-160     PP .........789******************.****************...............*****************997..
+Q8TAU0|PF00046|149-205             .........RKPRVLFSQAQVFELERRFKQ.QRYLSAPEREHLASSL...............KLTSTQVKIWFQNRRYKCKR..
+#=GR Q8TAU0|PF00046|149-205     PP .........89*******************.****************...............******************97..
+Q8TE12|PF00046|196-252             .........KRPRTILTTQQRRAFKASFEV.SSKPCRKVRETLAAET...............GLSVRVVQVWFQNQRAKMKK..
+#=GR Q8TE12|PF00046|196-252     PP .........89*******************.****************...............*******************8..
+Q92826|PF00046|217-273             .........RKKRIPYSKGQLRELEREYAA.NKFITKDKRRKISAAT...............SLSERQITIWFQNRRVKEKK..
+#=GR Q92826|PF00046|217-273     PP .........89*******************.****************...............*******************8..
+Q92988|PF00046|118-174             .........RKPRTIYSSLQLQHLNQRFQH.TQYLALPERAQLAAQL...............GLTQTQVKIWFQNKRSKYKK..
+#=GR Q92988|PF00046|118-174     PP .........89*******************.****************...............*******************8..
+Q969G2|PF00046|158-214             .........KRPRTTITAKQLETLKNAYKN.SPKPARHVREQLSSET...............GLDMRVVQVWFQNRRAKEKR..
+#=GR Q969G2|PF00046|158-214     PP .........89*******************.****************...............*******************8..
+Q96G23|PF00046|73-126              ktrlrappn------------ATLEHFYLTsGKQPKQVEVELLSRQS...............GLSGRQVERWFRRRRNQDR-..
+#=GR Q96G23|PF00046|73-126      PP 877666665............689999998799**************...............***************9876...
+Q96IS3|PF00046|28-84               .........RRNRTTFTTYQLHQLERAFEA.SHYPDVYSREELAAKV...............HLPEVRVQVWFQNRRAKWRR..
+#=GR Q96IS3|PF00046|28-84       PP .........89*******************.****************...............*******************8..
+Q96QS3|PF00046|329-385             .........RRYRTTFTSYQLEELERAFQK.THYPDVFTREELAMRL...............DLTEARVQVWFQNRRAKWRK..
+#=GR Q96QS3|PF00046|329-385     PP .........899******************.****************...............*******************8..
+Q99453|PF00046|99-155              .........RRIRTTFTSAQLKELERVFAE.THYPDIYTREELALKI...............DLTEARVQVWFQNRRAKFRK..
+#=GR Q99453|PF00046|99-155      PP .........799******************.****************...............******************98..
+Q99626|PF00046|188-243             .........-KYRVVYTDHQRLELEKEFHY.SRYITIRRKAELAATL...............GLSERQVKIWFQNRRAKERK..
+#=GR Q99626|PF00046|188-243     PP ..........679*****************.****************...............*******************8..
+Q99697|PF00046|86-142              .........RRQRTHFTSQQLQELEATFQR.NRYPDMSTREEIAVWT...............NLTEARVRVWFKNRRAKWRK..
+#=GR Q99697|PF00046|86-142      PP .........89*******************.****************...............*******************8..
+Q99801|PF00046|125-181             .........KRSRAAFSHTQVIELERKFSH.QKYLSAPERAHLAKNL...............KLTETQVKIWFQNRRYKTKR..
+#=GR Q99801|PF00046|125-181     PP .........89*******************.****************...............******************98..
+Q9BPY8|PF00046|9-60                ........p-------TEDQVEILEYNFNKvDKHPDSTTLCLIAAEA...............GLSEEETQKWFKQRLAKWRR..
+#=GR Q9BPY8|PF00046|9-60        PP ........5.......89************9****************...............*******************8..
+Q9BQY4|PF00046|140-191             .........-----AFTPLQLQELERIFQR.EQFPSEFLRRRLARSM...............NVTELAVQIWFENRRAKWRR..
+#=GR Q9BQY4|PF00046|140-191     PP ..............59**************.****************...............*******************8..
+Q9BZM3|PF00046|203-259             .........KRMRTAFTSTQLLELEREFSS.NMYLSRLRRIEIATYL...............NLSEKQVKIWFQNRRVKHKK..
+#=GR Q9BZM3|PF00046|203-259     PP .........799******************.****************...............*******************8..
+Q9C056|PF00046|149-205             .........KHSRPTFSGQQIFALEKTFEQ.TKYLAGPERARLAYSL...............GMTESQVKVWFQNRRTKWRK..
+#=GR Q9C056|PF00046|149-205     PP .........57899****************.****************...............*******************8..
+Q9C0A1|PF00046|1598-1652           .........--SRTKFTEFQTQALQSFFET.SAYPKDGEVERLASLL...............GLASRVVVVWFQNARQKARK..
+#=GR Q9C0A1|PF00046|1598-1652   PP ...........5******************.****************...............******************98..
+Q9C0A1|PF00046|1858-1914           .........KRLRTTILPEQLEILYRWYMQ.DSNPTRKMLDCISEEV...............GLKKRVVQVWFQNTRARERK..
+#=GR Q9C0A1|PF00046|1858-1914   PP .........799******************.****************...............*******************8..
+Q9C0A1|PF00046|2066-2122           .........RRYRTQMSSLQLKIMKACYEA.YRTPTMQECEVLGEEI...............GLPKRVIQVWFQNARAKEKK..
+#=GR Q9C0A1|PF00046|2066-2122   PP .........899******************.****************...............*******************8..
+Q9H161|PF00046|215-271             .........RRNRTTFTSYQLEELEKVFQK.THYPDVYAREQLAMRT...............DLTEARVQVWFQNRRAKWRK..
+#=GR Q9H161|PF00046|215-271     PP .........89*******************.****************...............*******************8..
+Q9H2C1|PF00046|181-237             .........RGPRTTIKAKQLETLKAAFAA.TPKPTRHIREQLAQET...............GLNMRVIQVWFQNRRSKERR..
+#=GR Q9H2C1|PF00046|181-237     PP .........679******************.****************...............*******************8..
+Q9H2P0|PF00046|769-810             ........s-------------FLTKYFNK.QPYPTRREIEKLAASL...............WLWKSDIASHFSNKRKK---..
+#=GR Q9H2P0|PF00046|769-810     PP ........7.............599*****.****************...............***************87.....
+Q9H2W2|PF00046|87-143              .........RRKRTSFSAEQLQLLELVFRR.TRYPDIHLRERLAALT...............LLPESRIQVWFQNRRAKSRR..
+#=GR Q9H2W2|PF00046|87-143      PP .........8********************.****************...............******************97..
+Q9H4I2|PF00046|318-359             ........f--------------LKNSFHK.FPYPTKAELCYLTVVT...............KYPEEQLKIWFTAQRLKQ--..
+#=GR Q9H4I2|PF00046|318-359     PP ........7..............99*****.****************...............***************996....
+Q9H4I2|PF00046|502-550             .........-------SHEQLSALKGSFCR.NQFPGQSEVEHLTKVT...............GLSTREVRKWFSDRRYH---cr
+#=GR Q9H4I2|PF00046|502-550     PP ................589***********.****************...............***************86...56
+Q9H4I2|PF00046|620-666             ........a--------PEQLRALESSFAQ.NPLPLDEELDRLRSET...............KMTRREIDSWFSERRKK---..
+#=GR Q9H4I2|PF00046|620-666     PP ........7........79***********.****************...............***************87.....
+Q9H4S2|PF00046|148-204             .........KRMRTAFTSTQLLELEREFAS.NMYLSRLRRIEIATYL...............NLSEKQVKIWFQNRRVKHKK..
+#=GR Q9H4S2|PF00046|148-204     PP .........799******************.****************...............*******************8..
+Q9H9S0|PF00046|97-152              .........-KTRTVFSSTQLCVLNDRFQR.QKYLSLQQMQELSNIL...............NLSYKQVKTWFQNQRMKSKR..
+#=GR Q9H9S0|PF00046|97-152      PP ..........79******************.****************...............******************98..
+Q9HA82|PF00046|82-126              ........a-------------TLEKHFLTeGHRPKEPQLSLLAAQC...............GLTLQQTQRWFRRRRNQDR-..
+#=GR Q9HA82|PF00046|82-126      PP ........6.............7*****9879***************...............***************9876...
+Q9HBU1|PF00046|143-199             .........RRSRTVFTELQLMGLEKRFEK.QKYLSTPDRIDLAESL...............GLSQLQVKTWYQNRRMKWKK..
+#=GR Q9HBU1|PF00046|143-199     PP .........89*******************.****************...............*******************8..
+Q9NP08|PF00046|204-260             .........KKTRTVFSRSQVFQLESTFDL.KRYLSSAERAGLAASL...............QLTETQVKIWFQNRRNKWKR..
+#=GR Q9NP08|PF00046|204-260     PP .........89*******************.****************...............*******************8..
+Q9NPC8|PF00046|130-180             ........c------FKEKSRSVLREWYAH.NPYPSPREKRELAEAT...............GLTTTQVSNWFKNRRQRDR-..
+#=GR Q9NPC8|PF00046|130-180     PP ........6......889999*********.****************...............*****************97...
+Q9NQ69|PF00046|268-324             .........KRMRTSFKHHQLRTMKSYFAI.NHNPDAKDLKQLAQKT...............GLTKRVLQVWFQNARAKFRR..
+#=GR Q9NQ69|PF00046|268-324     PP .........799******************.****************...............******************97..
+Q9NYD6|PF00046|269-325             .........RKKRCPYTKHQTLELEKEFLF.NMYLTRERRLEISKTI...............NLTDRQVKIWFQNRRMKLKK..
+#=GR Q9NYD6|PF00046|269-325     PP .........89*******************.****************...............******************98..
+Q9NZR4|PF00046|165-221             .........RRHRTVFTAHQLEELEKAFSE.AHYPDVYAREMLAVKT...............ELPEDRIQVWFQNRRAKWRK..
+#=GR Q9NZR4|PF00046|165-221     PP .........89*******************.****************...............*******************8..
+Q9UBC0|PF00046|386-439             .........KKPRLVFTDVQRRTLHAIFKE.NKRPSKELQITISQQL...............GLELSTVSNFFMNARRR---..
+#=GR Q9UBC0|PF00046|386-439     PP .........89*******************.****************...............**************975.....
+Q9UBR4|PF00046|158-214             .........KRPRTTITAKQLETLKSAYNT.SPKPARHVREQLSSET...............GLDMRVVQVWFQNRRAKEKR..
+#=GR Q9UBR4|PF00046|158-214     PP .........89*******************.****************...............*******************8..
+Q9UBX0|PF00046|109-165             .........RRPRTAFTQNQIEVLENVFRV.NCYPGIDIREDLAQKL...............NLEEDRIQIWFQNRRAKLKR..
+#=GR Q9UBX0|PF00046|109-165     PP .........89*******************.****************...............******************97..
+Q9UBX2|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR Q9UBX2|PF00046|20-74       PP .........89*******************.****************...............***************985....
+Q9UBX2|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR Q9UBX2|PF00046|95-149      PP .........8********************.****************...............****************96....
+Q9UIU6|PF00046|229-280             ........c------FKEKSRNALKELYKQ.NRYPSPAEKRHLAKIT...............GLSLTQVSNWFKNRRQRDRN..
+#=GR Q9UIU6|PF00046|229-280     PP ........6......889999*********.****************...............*****************995..
+Q9UIW0|PF00046|103-159             .........KRTRTSFTAEQLYRLEMEFQR.CQYVVGRERTELARQL...............NLSETQVKVWFQNRRTKQKK..
+#=GR Q9UIW0|PF00046|103-159     PP .........89*******************.****************...............*******************8..
+Q9UKI9|PF00046|282-338             .........RKKRTSIETNIRLTLEKRFQD.NPKPSSEEISMIAEQL...............SMEKEVVRVWFCNRRQKEKR..
+#=GR Q9UKI9|PF00046|282-338     PP .........89*******************.****************...............*******************8..
+Q9UKY1|PF00046|299-339             ........l---------------LNTYNK.FPYPTMSEITVLSAQA...............KYTEEQIKIWFSAQRLKH--..
+#=GR Q9UKY1|PF00046|299-339     PP ........6...............578999.****************...............***************996....
+Q9UKY1|PF00046|468-520             .........---RAKKTKEQLAELKVSYLK.NQFPHDSEIIRLMKIT...............GLTKGEIKKWFSDTRYNQR-..
+#=GR Q9UKY1|PF00046|468-520     PP ............56779*************.****************...............************9998766...
+Q9UKY1|PF00046|576-620             .........-------TAEQLRVLQASFLN.SSVLTDEELNRLRAQT...............KLTRREIDAWFTEK------k.
+#=GR Q9UKY1|PF00046|576-620     PP ................78************.****************...............***********765......6.
+Q9UKY1|PF00046|668-717             .........-------TPEQLHMLKSAFVR.TQWPSPEEYDKLAKES...............GLARTDIVSWFGDTRYAWKN..
+#=GR Q9UKY1|PF00046|668-717     PP ................89************.****************...............******************95..
+Q9UMQ3|PF00046|134-190             .........RRSRTIFTELQLMGLEKKFQK.QKYLSTPDRLDLAQSL...............GLTQLQVKTWYQNRRMKWKK..
+#=GR Q9UMQ3|PF00046|134-190     PP .........89*******************.****************...............*******************8..
+Q9UPM6|PF00046|220-276             .........KRARTSFTAEQLQVMQAQFAQ.DNNPDAQTLQKLADMT...............GLSRRVIQVWFQNCRARHKK..
+#=GR Q9UPM6|PF00046|220-276     PP .........89*******************.****************...............*******************8..
+Q9UPW6|PF00046|616-671             .........-RSRTKISLEALGILQSFIHDvGLYPDQEAIHTLSAQL...............DLPKHTIIKFFQNQRYH---vk
+#=GR Q9UPW6|PF00046|616-671     PP ..........78**************9998899**************...............***************76...56
+Q9Y2V3|PF00046|137-193             .........RRNRTTFTTYQLHELERAFEK.SHYPDVYSREELAGKV...............NLPEVRVQVWFQNRRAKWRR..
+#=GR Q9Y2V3|PF00046|137-193     PP .........89*******************.****************...............*******************8..
+Q9Y6X8|PF00046|447-495             .........-------TKEQIAHLKASFLQ.SQFPDDAEVYRLIEVT...............GLARSEIKKWFSDHRYR---cq
+#=GR Q9Y6X8|PF00046|447-495     PP ................89************.****************...............***************98...68
+Q9Y6X8|PF00046|537-581             .........-------TQGQVKILEDSFLK.SSFPTQAELDRLRVET...............KLSRREIDSWFSERR-----..
+#=GR Q9Y6X8|PF00046|537-581     PP ................678***********.****************...............*************99.......
+Q9Y6X8|PF00046|636-681             .........-------SQEQVHLLRSTFAR.TQWPTPQEYDQLAAKT...............GLVRTEIVRWFKENR-----c.
+#=GR Q9Y6X8|PF00046|636-681     PP ................589***********.****************...............***********9877.....8.
+A2RU54|PF00046|150-206             .........KKTRTVFSRSQVYQLESTFDM.KRYLSSSERACLASSL...............QLTETQVKTWFQNRRNKWKR..
+#=GR A2RU54|PF00046|150-206     PP .........89*******************.****************...............*******************8..
+A6NHT5|PF00046|228-284             .........KKTRTVFSRSQVFQLESTFDM.KRYLSSSERAGLAASL...............HLTETQVKIWFQNRRNKWKR..
+#=GR A6NHT5|PF00046|228-284     PP .........89*******************.****************...............*******************8..
+A6NJT0|PF00046|106-162             .........RRTRTNFTGWQLEELEKAFNE.SHYPDVFMREALALRL...............DLVESRVQVWFQNRRAKWRK..
+#=GR A6NJT0|PF00046|106-162     PP .........89*******************.****************...............*******************8..
+A6NLW8|PF00046|16-70               .........RRCRTKFTEEQLKILINTFNQ.KPYPGYATKQKLALEI...............NTEESRIQIWFQNRRARH--..
+#=GR A6NLW8|PF00046|16-70       PP .........799******************.****************...............****************96....
+A6NLW8|PF00046|102-155             .........RRCRTTYSASQLHTLIKAFMK.NPYPGIDSREELAKEI...............GVPESRVQIWFQNRRSR---..
+#=GR A6NLW8|PF00046|102-155     PP .........799******************.****************...............***************86.....
+A6NNA5|PF00046|34-90               .........RRNRTTFTLQQLEALEAVFAQ.THYPDVFTREELAMKI...............NLTEARVQVWFQNRRAKWRK..
+#=GR A6NNA5|PF00046|34-90       PP .........89*******************.****************...............*******************8..
+O43812|PF00046|27-72               .........-------TPSQSDALRACFER.NLYPGIATKEELAQGI...............DIPEPRVQIWFQNER-----s.
+#=GR O43812|PF00046|27-72       PP ................799***********.****************...............**************9.....5.
+O43812|PF00046|95-150              .........RRKRTAITGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARHR-..
+#=GR O43812|PF00046|95-150      PP .........8********************.****************...............*****************98...
+O60422|PF00046|415-468             .........KKQRLVFTDLQRRTLIAIFKE.NKRPSKEMQVTISQQL...............GLELNTVSNFFMNARRR---..
+#=GR O60422|PF00046|415-468     PP .........89*******************.****************...............**************975.....
+O95076|PF00046|154-210             .........RRNRTTFSTFQLEELEKVFQK.THYPDVYAREQLALRT...............DLTEARVQVWFQNRRAKWRK..
+#=GR O95076|PF00046|154-210     PP .........89*******************.****************...............*******************8..
+P09630|PF00046|142-198             .........RRGRQIYSRYQTLELEKEFHF.NRYLTRRRRIEIANAL...............CLTERQIKIWFQNRRMKWKK..
+#=GR P09630|PF00046|142-198     PP .........899******************.****************...............*******************8..
+P0C7M4|PF00046|140-191             .........-----AFTPLQLQELECIFQR.EQFPSEFLRRRLARSM...............NVTELAVQIWFENRRAKWRR..
+#=GR P0C7M4|PF00046|140-191     PP ..............59**************.****************...............*******************8..
+P31267|PF00046|156-212             .........RRGRQTYTRYQTLELEKEFHF.NRYLTRRRRIEIANAL...............CLTERQIKIWFQNRRMKWKK..
+#=GR P31267|PF00046|156-212     PP .........899******************.****************...............*******************8..
+P31277|PF00046|267-323             .........RKKRCPYTKYQIRELEREFFF.NVYINKEKRLQLSRML...............NLTDRQVKIWFQNRRMKEKK..
+#=GR P31277|PF00046|267-323     PP .........89*******************.****************...............*******************8..
+Q03828|PF00046|189-245             .........RRYRTAFTREQIARLEKEFYR.ENYVSRPRRCELAAAL...............NLPETTIKVWFQNRRMKDKR..
+#=GR Q03828|PF00046|189-245     PP .........899******************.****************...............*******************8..
+Q17RH7|PF00046|21-75               .........RQDRTIYNWKQQEVLENHFKE.EQYPDYDTRQELAEML...............NLREYQVQVWFKNRRAK---r.
+#=GR Q17RH7|PF00046|21-75       PP .........678******************.****************...............****************9...6.
+Q2M1V0|PF00046|83-139              .........RRVRTTFTTEQLHELEKIFHF.THYPDVHIRSQLAARI...............NLPEARVQIWFQNQRAKWRK..
+#=GR Q2M1V0|PF00046|83-139      PP .........899******************.****************...............*******************8..
+Q3C1V8|PF00046|111-167             .........RKARTVFSDSQLSGLEKRFEI.QRYLSTPERVELATAL...............SLSETQVKTWFQNRRMKHKK..
+#=GR Q3C1V8|PF00046|111-167     PP .........89*******************.****************...............*******************8..
+Q6XYB7|PF00046|86-142              .........RKSRTAFTAQQVLELERRFVF.QKYLAPSERDGLATRL...............GLANAQVVTWFQNRRAKLKR..
+#=GR Q6XYB7|PF00046|86-142      PP .........89*******************.****************...............******************97..
+Q8N7R0|PF00046|40-95               .........-KTRTVFSSTQLCVLNDRFQR.QKYLSLQQMQELSNIL...............NLSYKQVKTWFQNQRMKSKR..
+#=GR Q8N7R0|PF00046|40-95       PP ..........79******************.****************...............******************98..
+Q96A47|PF00046|193-248             .........-RVRTVLNEKQLHTLRTCYAA.NPRPDALMKEQLVEMT...............GLSPRVIRVWFQNKRCKDKK..
+#=GR Q96A47|PF00046|193-248     PP ..........67******************.****************...............*******************8..
+Q99811|PF00046|105-161             .........RRNRTTFNSSQLQALERVFER.THYPDAFVREELARRV...............NLSEARVQVWFQNRRAKFRR..
+#=GR Q99811|PF00046|105-161     PP .........89*******************.****************...............******************97..
+Q9GZZ0|PF00046|233-286             .........---RTNFSTKQLTELEKEFHF.NKYLTRARRIEIANCL...............HLNDTQVKIWFQNRRMKQKK..
+#=GR Q9GZZ0|PF00046|233-286     PP ............9*****************.****************...............*******************8..
+Q9NY43|PF00046|233-289             .........RKARTAFSDHQLNQLERSFER.QKYLSVQDRMDLAAAL...............NLTDTQVKTWYQNRRTKWKR..
+#=GR Q9NY43|PF00046|233-289     PP .........89*******************.****************...............*******************8..
+A0A1W2PPM1|PF00046|30-82           .........-KHRHKFSEELLQELKEIFGE.NCYPDYTTRKTLAIKF...............DCPVNVIDNWFQNKRAR---..
+#=GR A0A1W2PPM1|PF00046|30-82   PP ..........79******************.****************...............***************97.....
+A6NFQ7|PF00046|18-73               .........-RKRTMFTKKQLEDLNILFNE.NPYPNPSLQKEMASKI...............DIHPTVLQVWFKNHRAKLKK..
+#=GR A6NFQ7|PF00046|18-73       PP ..........89******************.****************...............******************98..
+A6NJG6|PF00046|80-135              .........-KERTSFTHQQYEELEALFSQ.TMFPDRNLQEKLALRL...............DLPESTVKVWFRNRRFKLKK..
+#=GR A6NJG6|PF00046|80-135      PP ..........78******************.****************...............*****************997..
+A6NMT0|PF00046|184-238             .........--RRAVFSDVQRKALEKMFQK.QKYISKPDRKKLAAKL...............GLKDSQVKIWFQNRRMKWRN..
+#=GR A6NMT0|PF00046|184-238     PP ...........6999***************.****************...............******************96..
+P0DV77|PF00046|21-74               .........RQERTVYTESQQKVLEFYFQK.DQYPNYDQRLNLAEML...............SLREQQLQVWFKNRRAK---..
+#=GR P0DV77|PF00046|21-74       PP .........789******************.****************...............****************9.....
+P31275|PF00046|215-271             .........RKKRKPYSKLQLAELEGEFLV.NEFITRQRRRELSDRL...............NLSDQQVKIWFQNRRMKKKR..
+#=GR P31275|PF00046|215-271     PP .........89*******************.****************...............*******************8..
+Q14549|PF00046|262-318             .........RRRRTAFTSEQLLELEKEFHC.KKYLSLTERSQIAHAL...............KLSEVQVKIWFQNRRAKWKR..
+#=GR Q14549|PF00046|262-318     PP .........89*******************.****************...............*******************8..
+Q15270|PF00046|297-353             .........RRARTAFTYEQLVALENKFKA.TRYLSVCERLNLALSL...............SLTETQVKIWFQNRRTKWKK..
+#=GR Q15270|PF00046|297-353     PP .........89*******************.****************...............*******************8..
+Q6ZNG2|PF00046|189-243             .........--RRAVFSEDQRKALEKMFQK.QKYISKTDRKKLAINL...............GLKESQVKIWFQNRRMKWRN..
+#=GR Q6ZNG2|PF00046|189-243     PP ...........6999***************.****************...............******************96..
+Q8N7G0|PF00046|223-261             ........n-------------SLEKFFQR.CPKPTPQQISHIAGCL...............QLQKDVVRVWFYNR------..
+#=GR Q8N7G0|PF00046|223-261     PP ........6.............6*******.****************...............*************9........
+Q96PT3|PF00046|54-99               .........-------TPSQSDALRACFER.NLYPGIATKEELAQGI...............DIPEPRVQIWFQNER-----s.
+#=GR Q96PT3|PF00046|54-99       PP ................799***********.****************...............**************9.....5.
+Q96PT3|PF00046|122-177             .........RRKRTAITGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARHR-..
+#=GR Q96PT3|PF00046|122-177     PP .........8********************.****************...............*****************98...
+Q96PT4|PF00046|54-99               .........-------TPSQSDALRACFER.NLYPGIATKEQLAQGI...............DIPEPRVQIWFQNER-----s.
+#=GR Q96PT4|PF00046|54-99       PP ................799***********.****************...............**************9.....5.
+Q96PT4|PF00046|122-176             .........RRKRTAITGSQTALLLRAFEK.DRFPGIPAREELARET...............GLPESRIQLWFQNRRARH--..
+#=GR Q96PT4|PF00046|122-176     PP .........8********************.****************...............****************96....
+Q9BZE3|PF00046|179-235             .........RKARTAFTDHQLAQLERSFER.QKYLSVQDRMELAASL...............NLTDTQVKTWYQNRRTKWKR..
+#=GR Q9BZE3|PF00046|179-235     PP .........89*******************.****************...............*******************8..
+Q9H2Z4|PF00046|190-246             .........RKRRVLFSQAQVYELERRFKQ.QKYLSAPEREHLASMI...............HLTPTQVKIWFQNHRYKMKR..
+#=GR Q9H2Z4|PF00046|190-246     PP .........89*******************.****************...............*******************8..
+Q9HB31|PF00046|20-73               .........RRKRTTFSKGQLLELERAFAA.WPYPNISTHEHLAWVT...............CLPEAKVQVWFQKRWAK---..
+#=GR Q9HB31|PF00046|20-73       PP .........8********************.****************...............************99877.....
+Q9UD57|PF00046|164-220             .........RRARTAFTYEQLVALENKFRA.TRYLSVCERLNLALSL...............SLTETQVKIWFQNRRTKWKK..
+#=GR Q9UD57|PF00046|164-220     PP .........89*******************.****************...............*******************8..
+A0A1W2PPF3|PF00046|17-72           .........-RNRIQYNQSQKDILQSWFQH.DPFPDKAAREQLAKEI...............GVPESNIQVWFKNYRVKQRK..
+#=GR A0A1W2PPF3|PF00046|17-72   PP ..........789*****************.****************...............*******************8..
+A0A1W2PPF3|PF00046|103-155         .........RQKQTFITWTQKNRLVQAFER.NPFPDIATRKKLAEQT...............GLQESRIQMWFQKQR-----s.
+#=GR A0A1W2PPF3|PF00046|103-155 PP .........678999***************.****************...............************999.....6.
+A0A1W2PPK0|PF00046|26-78           .........-KHRHKFSEELLQELKEIFGE.NGYPDFTTRKTLANKF...............DCPVNVINNWFQNNRAR---..
+#=GR A0A1W2PPK0|PF00046|26-78   PP ..........79******************.****************...............***************97.....
+P0CJ85|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ85|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ85|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ85|PF00046|95-149      PP .........8********************.****************...............****************96....
+P0CJ86|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ86|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ86|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ86|PF00046|95-149      PP .........8********************.****************...............****************96....
+P0CJ87|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ87|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ87|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ87|PF00046|95-149      PP .........8********************.****************...............****************96....
+P0CJ88|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ88|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ88|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ88|PF00046|95-149      PP .........8********************.****************...............****************96....
+P0CJ89|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ89|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ89|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ89|PF00046|95-149      PP .........8********************.****************...............****************96....
+P0CJ90|PF00046|20-74               .........RRRRLVWTPSQSEALRACFER.NPYPGIATRERLAQAI...............GIPEPRVQIWFQNERSRQ--..
+#=GR P0CJ90|PF00046|20-74       PP .........89*******************.****************...............***************985....
+P0CJ90|PF00046|95-149              .........RRKRTAVTGSQTALLLRAFEK.DRFPGIAAREELARET...............GLPESRIQIWFQNRRARH--..
+#=GR P0CJ90|PF00046|95-149      PP .........8********************.****************...............****************96....
+Q7Z5D8|PF00046|109-157             ......vsk---------SLMHTLWAKFKL.NRCPTIQESLSLSFEF...............DMTHKQISQWFCKTRKK---y.
+#=GR Q7Z5D8|PF00046|109-157     PP ......865.........5678999*****.****************...............***************98...6.
+#=GC PP_cons                       .........899******************.****************...............*****************998..
+#=GC RF                            .........xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxx..
+//

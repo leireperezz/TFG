@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O00469|PF25342|36-279         t--DKLLVITVATKESDGFHRFMQSAKYFNYTVKVLGQGEEWRGGDGINSIGGGQKVRLMKEVMEHYADQDDLVVMFTECFDVIFAGGPEEVLKKFQK-ANHKVVFAADGILWPDKRLADKYPVVHIGKRYLNSGGFIGYAPYVNRIVQQWNLQDNDDDQLFYTKVYIDPLKREAINITLDHKCKIFQTLNGAVDEVVLK
+#=GR O00469|PF25342|36-279 PP 6..79*********************************************************************************************.6****************************************************************************************************
+O60568|PF25342|37-279         .--EKLLVITVATAETEGYLRFLRSAEFFNYTVRTLGLGEEWRGGDVARTVGGGQKVRWLKKEMEKYADREDMIIMFVDSYDVILAGSPTELLKKFVQ-SGSRLLFSAESFCWPEWGLAEQYPEVGTGKRFLNSGGFIGFATTIHQIVRQWKYKDDDDDQLFYTRLYLDPGLREKLSLNLDHKSRIFQNLNGALDEVVLK
+#=GR O60568|PF25342|37-279 PP ...589********************************************************************************************.6****************************************************************************************************
+Q02809|PF25342|25-267         e--DNLLVLTVATKETEGFRRFKRSAQFFNYKIQALGLGEDWNVEKGT-SAGGGQKVRLLKKALEKHADKEDLVILFADSYDVLFASGPRELLKKFRQ-ARSQVVFSAEELIYPDRRLETKYPVVSDGKRFLGSGGFIGYAPNLSKLVAEWEGQDSDSDQLFYTKIFLDPEKREQINITLDHRCRIFQNLDGALDEVVLK
+#=GR Q02809|PF25342|25-267 PP 6..79**************************************98766.9************************************************.6****************************************************************************************************
+#=GC PP_cons                  ...69***************************************9999**************************************************.6****************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00469|PF25342|36-279         FENGKARAKNTFYETLPVAINGNGPTKILLNYFGNYVPNSWTQDNGC
+#=GR O00469|PF25342|36-279 PP *********************************************99
+O60568|PF25342|37-279         FDRNRVRIRNVAYDTLPIVVHGNGPTKLQLNYLGNYVPNGWTPEGGC
+#=GR O60568|PF25342|37-279 PP ********************************************999
+Q02809|PF25342|25-267         FEMGHVRARNLAYDTLPVLIHGNGPTKLQLNYLGNYIPRFWTFETGC
+#=GR Q02809|PF25342|25-267 PP **********************************************9
+#=GC PP_cons                  *********************************************99
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

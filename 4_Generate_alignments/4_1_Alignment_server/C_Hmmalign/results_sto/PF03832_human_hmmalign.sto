@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P24588|PF03832|77-101          ---GAWASLKRLVTRRKRSESSKQQKP--l
+#=GR P24588|PF03832|77-101  PP ...79*********************9..8
+Q02952|PF03832|605-633         EGVTPWASFKKMVTPKKRVRRPSESDKED.
+#=GR Q02952|PF03832|605-633 PP 8**************************96.
+Q02952|PF03832|754-782         EGVSTWESFKRLVTPRKKSKSKLEEKSED.
+#=GR Q02952|PF03832|754-782 PP 8*************************996.
+Q02952|PF03832|800-826         -KEESWVSIKKFIPGRRKKRPDGKQEQA-.
+#=GR Q02952|PF03832|800-826 PP .689**********************96..
+#=GC PP_cons                   8899**********************986.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

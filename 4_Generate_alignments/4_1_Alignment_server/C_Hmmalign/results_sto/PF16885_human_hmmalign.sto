@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O60840|PF16885|1718-1977         ...............HRRGSGALIFTIPEEGNSQPKGTKGQNKQDEDEEVPDRLSY-----LDEQAGTPPC----SVLLPPHRAQRYMDGHLVPRRRLLPPTPAG.RKPSFTIQCLQRQ.......GSCEDLPIPGTY..-------...-----.-....-HR.GRNSG.PNRAQGSWATPP....QRG.RLLY.APLL
+#=GR O60840|PF16885|1718-1977 PP ...............9****************************************.....*********9....9*****************************.*************.......************........................9*.*****.************....***.****.****
+Q01668|PF16885|1900-2159         ..............y-------------------------------------------------------------------------DSRRSPRRRLLPPTPAShRRSSFNFECLRRQ.......SSQEEVPSSPIFphRTAL-PLhlmQQQIMaVagldSSK.AQKYS.PSHSTRSWATPPatppYRDwTPCY.TPLI
+#=GR Q01668|PF16885|1900-2159 PP ..............8.........................................................................67889*********97637899*********.......*******99888323443.4311123332122222244.55667.9999999*987622223432569*.****
+Q13936|PF16885|1947-2170         denrqltlpeedkrd--------------------------------------------------------------------------IRQSPKRGFLRSASLG.RRASFHLECLKRQkdrggdiSQKTVLPLHLVH..HQALA-V...AGLSP.L....LQRsHSPASfPRPFATPPATPG....SRG.WPPQpVPT-
+#=GR Q13936|PF16885|1947-2170 PP 987777666655544..........................................................................456799**********.************94443221222347777766..54432.2...22222.2....2220223330333333345566....666.54331333.
+#=GC PP_cons                     ...............9****************************************.....*********9....9************87788**********98.99***********.......777889999888..4443243...22222.2....256.66667.777778888887....676.7778.888*
+#=GC RF                          ...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.......xxxxxxxxxxxx..xxxxxxx...xxxxx.x....xxx.xxxxx.xxxxxxxxxxxx....xxx.xxxx.xxxx
+
+O60840|PF16885|1718-1977         LVEEGA---------------AG...EGYL..GRSSGPLR.TFT..CLHVPGTHSDPSHGKRGSADSLVEAVLISEGLGLFARDPRFVALAKQEIADACRLTLDEMDNAASDLL.......AQGT....SSL............YSDEESILSRFDEEDLGDEMACVHAL.
+#=GR O60840|PF16885|1718-1977 PP ******...............9*...****..********.***..********************************************************************.......****....***............************************96.
+Q01668|PF16885|1900-2159         QVEQSEALDQV--NGSLPSLHRS...SWYT..DEPDISYR.TFTpaSLTVPSSFRNKNSDKQRSADSLVEAVLISEGLGRYARDPKFVSATKHEIADACDLTIDEMESAASTLLngnvrprANGDvgplS-HrqdyelqdfgpgYSDEEPDPGR-DEEDLADEMICI---t
+#=GR Q01668|PF16885|1900-2159 PP ***99844443..2233456666...6677..77777899.9987789*****************************************************************93333333333211111.01222223333336666666666.477777777775...7
+Q13936|PF16885|1947-2170         LRLEGVESSEKLNSSF-PSIHCGswaETTPggGGSSAARRvRPV..SLMVPSQAGAPGRQFHGSASSLVEAVLISEGLGQFAQDPKFIEVTTQELADACDMTIEEMESAADNIL.......SGGA....---............--------------------------p
+#=GR Q13936|PF16885|1947-2170 PP 3334444455544432.223333111222211233333331457..99***9999*********************************************************99.......9887.............................................7
+#=GC PP_cons                     88888844444443323344466...6666..66777778.889..9******************************************************************9.......7776....5*5............8888888888*788888888888*96.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxx...xxxx..xxxxxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxx....xxx............xxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

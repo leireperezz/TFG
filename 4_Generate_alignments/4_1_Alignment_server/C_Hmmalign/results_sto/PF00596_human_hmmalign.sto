@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P35611|PF00596|148-329         .-KLAAFYRLADLFGWSQLIYNHITTRVNseQEHFLIVPFGLLYSEVTASSLVKINLQGDIVDR..gSTNLGVNqAGFTLHSAIYAARPDVKCVVHIHTPAGAAVSAM-...........-KCGLLPISPEALS-L--...GEVAYHDYHGiLVDEEE.KVLIQKNLGP..KSKVLILRNHGLVSVGESVEEAFYYIHNL
+#=GR P35611|PF00596|148-329 PP ..5899*********************8667*******************************88..977788998*******************************88.............9************.6.....89***999996444555.8999999998..88***************************
+P35612|PF00596|136-317         k--ISSVYRLLDLYGWAQLSDTYVTLRVSkeQDHFLISPKGVSCSEVTASSLIKVNILGEVVEKg.sS-CFPVDtTGFCLHSAIYAARPDVRCIIHLHTPATAAVSAM-...........-KWGLLPVSHNALL-V--...GDMAYYDFNGeME-QEAdRINLQKCLGP..TCKILVLRNHGVVALGDTVEEAFYKIFHL
+#=GR P35612|PF00596|136-317 PP 6..6689********************7566*******************************998.54.455666*******************************88.............899*999999988.5.....8899988777233.33347788999998..99***************************
+Q96GX9|PF00596|28-221          i---PELCKQFYHLGWVTGTGGGISLK-H..GDEIYIAPSGVQKERIQPEDMFVCDINEKDISGpspSKKLKKS.QCTPLFMNAYTM-RGAGAVIHTHSKAAVMATLLFpgrefkithqeMIKGIKKCTSGGYYR--YddmLVVPIIENTP.-EEKDL.KDRMAHAMNEypDSCAVLVRRHGVYVWGETWEKAKTMCECY
+#=GR Q96GX9|PF00596|28-221  PP 6...589********************.8..89*****************************99***999****.***********8.5*****************76677777776555444444444444433..2568889***9998..99***.********956899***************************
+Q9UEY8|PF00596|140-321         .-KLASLYRLVDLFGWAHLANTYISVRISkeQDHIIIIPRGLSFSEATASNLVKVNIIGEVVDQ..gSTNLKIDhTGFSPHAAIYSTRPDVKCVIHIHTLATAAVSSM-...........-KCGILPISQESLL-L--...GDVAYYDYQGsLEEQEE.RIQLQKVLGP..SCKVLVLRNHGVVALGETLEEAFHYIFNV
+#=GR Q9UEY8|PF00596|140-321 PP ..5899*********************6456*******************************99..98899***********************************98.............9**********98.5.....89***999995555566.7788899988..99***************************
+#=GC PP_cons                   ..57799********************76..9******************************99...7878888.***********9*9*****************886...........4888888888888735.2...88***99988.456666.8899999997..99***************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxx...xxxxxxxxxx.xxxxxx.xxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P35611|PF00596|148-329         VVACEIQV.
+#=GR P35611|PF00596|148-329 PP ******96.
+P35612|PF00596|136-317         QAACEIQV.
+#=GR P35612|PF00596|136-317 PP ******96.
+Q96GX9|PF00596|28-221          DYLFDI--a
+#=GR Q96GX9|PF00596|28-221  PP **9987..6
+Q9UEY8|PF00596|140-321         QLACEIQV.
+#=GR Q9UEY8|PF00596|140-321 PP ******96.
+#=GC PP_cons                   ****9996.
+#=GC RF                        xxxxxxxx.
+//

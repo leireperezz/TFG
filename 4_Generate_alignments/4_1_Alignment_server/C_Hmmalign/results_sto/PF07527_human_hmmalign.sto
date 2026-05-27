@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+O14503|PF07527|141-179         .MFCSGFQTCAREVLQYLAKHE--NT..rDLKsSQLVTHLHRV--v
+#=GR O14503|PF07527|141-179 PP .7********************..55..7************98..6
+Q14469|PF07527|109-148         .KYRAGFSECMNEVTRFLSTCEGVNT...EVR.TRLLGHLANCMT.
+#=GR Q14469|PF07527|109-148 PP .8************************...***.**********96.
+Q5TA89|PF07527|88-121          .-YSEGYSWCLQEAVQFLTLHA--AS...DTQ.MKLLYHFQR---.
+#=GR Q5TA89|PF07527|88-121  PP ..99****************99..78...***.*******97....
+Q96HZ4|PF07527|95-133          .RFAAGYIQCMHEVHTFVSTCQAIDA...TVA.AELLNHLLESM-.
+#=GR Q96HZ4|PF07527|95-133  PP .799**********************...***.*******9876..
+Q9C0J9|PF07527|131-170         .-FHSGFQTCAKEVLQYLSRFESWTP..rEPRcVQLINHLHAVA-.
+#=GR Q9C0J9|PF07527|131-170 PP ..9*******************6666..*6666********875..
+Q9NQ87|PF07527|118-158         s---IGFRECLTEVIRYLGVLEGPSSradPVR.IRLLSHLNSYAA.
+#=GR Q9NQ87|PF07527|118-158 PP 5...7***************************.*********996.
+Q9UBP5|PF07527|124-162         i----GFRECLTEVARYLSSVEGLDSs.dPLR.VRLVSHLSTCAT.
+#=GR Q9UBP5|PF07527|124-162 PP 5....**********************.****.**********96.
+Q9Y5J3|PF07527|123-162         r--SLGFRECLAEVARYLSIIEGLDAs.dPLR.VRLVSHLNNYA-.
+#=GR Q9Y5J3|PF07527|123-162 PP 7..67**********************.****.*********96..
+A6NFD8|PF07527|86-126          .YFHYGYHECMKNLVHYLTTVERMET..kDTKyARILAFLQSK--a
+#=GR A6NFD8|PF07527|86-126  PP .7**********************99..*************97..5
+Q9HCC6|PF07527|109-148         .KYRAGFHECLAEVNRFLAGCEGVPA...DVR.SRLLGHLAACLR.
+#=GR Q9HCC6|PF07527|109-148 PP .8************************...***.**********85.
+Q9Y543|PF07527|85-123          .SYREGYSACVARLARVLPACRVLEP...AVS.ARLLEHLWRR--a
+#=GR Q9Y543|PF07527|85-123  PP .6************************...***.*******776..6
+#=GC PP_cons                   .7999*****************9999...***.*******99876.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxx...xxx.xxxxxxxxxxxx.
+//

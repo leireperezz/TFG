@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+P78395|PF27091|23-133            ........PRRLVELAGQSLLKDEALAIAALELLPRELFPPLFMAAFDGRHSQTLKAMVQAWPFTCLPLGVLM.....KGQHlhL..ETFKAVLDGLDVLLAQEVRP..RRWKLQVLDLRkNSHQDFW..
+#=GR P78395|PF27091|23-133    PP ........569**************************************************************.....9875227..9*******************..**********836778999..
+O60811|PF27091|6-113             ........PPRLLELAGQSLLRDQALSISAMEELPRVLYLPLFREAFSRRHFQTLTVMVQAWPFTCLPLVSLM.....KTLH..L..EPLKALLEGLHMLLTQKDRP..RRWKLQVLDLR.DVDENFW..
+#=GR O60811|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+P0DUQ2|PF27091|8-115             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR P0DUQ2|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q15048|PF27091|12-67             vlqcqpaa-------------------CQALPLLPRELFPLLFKVAFMDKKTVVLRELVHTWPFPLLSFQQLL.....----..-..--------------------..-----------.-------qe
+#=GR Q15048|PF27091|12-67     PP 99988765...................678889********************************99988776.......................................................58
+Q5VXH4|PF27091|6-113             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVHP..RRWKLQVLDLQ.DVCENFW..
+#=GR Q5VXH4|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+O60809|PF27091|6-113             ........PSRLLELAGQSLLRNQFLTIFTLDELPREVFPLMFMEAFSMRRFEALKLMVQAWPFLRLPLGSLM.....KTPH..L..ETLQAVLRGLDTLVAQKVRP..RRWKLQVLDLR.DVDENFW..
+#=GR O60809|PF27091|6-113     PP ........67***************************************************************.....****..*..********************..***********.*******..
+O60810|PF27091|8-115             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQSWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLNLGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR O60810|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+O95521|PF27091|6-113             ........PPRLLELAGQSLLRDQALSISAMEELPRVLYLPLFMEAFSRRHFQTLTVMVQAWPFTCLPLGSLM.....KTLH..L..ETLKALLEGLHMLLTQKDRP..RRWKLQVLDLR.DVDENFW..
+#=GR O95521|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+O95522|PF27091|6-113             ........PPRLLELAEQSLLRDRALAIPTLEELPRELFPPLFMEAFTRRCCETLTTMVQAWPFTCLPLGSLM.....KSCN..L..EIFRAVLEGLDALLAQKVRP..RRWKLQVLDLR.NVDENFW..
+#=GR O95522|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q5TYX0|PF27091|6-113             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVHP..RRWKLQVLDLQ.DVCENFW..
+#=GR Q5TYX0|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+A0A0G2JMD5|PF27091|6-113         ........PSRLLELAGQSLLRNQFLTIFTLDELPREVFPLMFMEAFSMRRFEALKLMVQAWPFLRLPLGSLM.....KTPH..L..ETLQAVLRGLDTLVAQKVRP..RRWKLQVLDLQ.DVDENFW..
+#=GR A0A0G2JMD5|PF27091|6-113 PP ........67***************************************************************.....****..*..********************..***********.*******..
+A3QJZ6|PF27091|8-115             ........PRRLLELAGQSLLGDQALAISILDELPRELFPPLFVEAFTSRRCEVLKVMVQAWPFPCLPLGSLM.....KTPD..L..EILHYVVDGIDCLLAQKVRP..RRWKLQVLELR.DVDENFW..
+#=GR A3QJZ6|PF27091|8-115     PP ........569**************************************************************.....****..*..********************..***********.*******..
+A3QJZ7|PF27091|8-115             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRCCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVCP..RRWKLQVLDLQ.DVCENFW..
+#=GR A3QJZ7|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+A6NGN4|PF27091|8-115             ........PPRLLELAGRSVLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..ETFQAVLNGLDALLTHGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR A6NGN4|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+A6NHZ5|PF27091|11-113            .....sae----------ALVSHPQVARQSLDSVAHNLYPLLFKASYLLEQAEVTRAVLGRWPLEEFRLGALLgpgadHPQD..LrdRTCRACLEALVRGLADHVLQdrSRRRLRVAD--.-------lt
+#=GR A6NHZ5|PF27091|11-113    PP .....865..........677777888899******************************************8333322344..4224667777777666665543201234555655..........58
+H0Y7S4|PF27091|8-115             ........PPRLLELAGRSVLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..ETFQAVLNGLDALLTHGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR H0Y7S4|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+O60813|PF27091|8-115             ........PPRLLELAGRSLLRDQALAVSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR O60813|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+P0DUQ1|PF27091|8-115             ........PPRLLELAGRSLLRDQALAMSTLEELPTELFPPLFMEAFSRRRCEALKLMVQAWPFRRLPLRPLI.....KMPC..L..EAFQAVLDGLDALLTQGVRP..RRWKLQVLDLQ.DVCENFW..
+#=GR P0DUQ1|PF27091|8-115     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q5SWL7|PF27091|6-113             ........PPRLLELAGQSLLRDQALSISAMEELPRVLYLPLFMEAFRRRHFQTLTVMVQAWPFTCLPLGSLM.....KTLH..L..ETLKALLEGLHMLLTQKDRP..RRWKLQVLDLR.DVDENFW..
+#=GR Q5SWL7|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q5SWL8|PF27091|6-113             ........PRRLLELAGQSLLRDQALAISVLDELPRELFPRLFVEAFTSRCCEVLKVMVQAWPFPCLPLGSLM.....KTPD..L..EILHYVVDGIDCLLAQKVRP..RRWKLQVLEMR.DVDENFW..
+#=GR Q5SWL8|PF27091|6-113     PP ........569**************************************************************.....****..*..********************..***********.*******..
+Q5VT98|PF27091|6-113             ........PPRLLELAGRSLLRDEALAISTLEELPTELFPPLFMEAFSRRHCEALKLMVQAWPFLRLPLGSLM.....KRPC..P..ETFQAVLDGLDALLTHRVRL..RRWKLQVLDLQ.DVSENFW..
+#=GR Q5VT98|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q5VTA0|PF27091|6-113             ........PSRLLELAGQSLLRNQFLTIFILDELPREVFPLMFMEASSMRHFEALKLMVQAWPFLRLPLGSLM.....KTPH..L..ETLQAVLKGLDTLLAQKLRP..RRWKLQVLDLR.DVDGNFW..
+#=GR Q5VTA0|PF27091|6-113     PP ........67***************************************************************.....****..*..********************..***********.*******..
+Q5VWM3|PF27091|6-113             ........PRRLLELAGQSLLRDQALAISVLDELPRELFPPLFVEAFTSRRCEVLKVMVQAWPFPCLPLGSLM.....KTPD..L..EILHYVVDGIDCLLAQKVRP..RRWKLQVLEMR.DVDENFW..
+#=GR Q5VWM3|PF27091|6-113     PP ........569**************************************************************.....****..*..********************..***********.*******..
+Q5VWM4|PF27091|6-112             ........PPRLLELARQRLLRDQALAISTMEELPRELFPTLFMEAFSRRRCETLKTMVQAWPFTRLPLGSLM.....KSPH..L..ESLKSVLEGVDVLLTQEVRP..RQSKLQVLDLR.NVDENF-..
+#=GR Q5VWM4|PF27091|6-112     PP ........8****************************************************************.....****..*..********************..***********.*****9...
+Q5VWM6|PF27091|6-113             ........PPRLLELAGQSLLRDQALSISAMEELPRVLYLPLFMEAFRRRHFQTLTVMVQAWPFTCLPLGSLM.....KTLH..L..ETLKALLEGLHMLLTQKDRP..RRRKLQVLDLR.DVDENFW..
+#=GR Q5VWM6|PF27091|6-113     PP ........8****************************************************************.....****..*..********************..***********.*******..
+Q5VXH5|PF27091|6-112             ........PPRLLELARQRLLRDQALAISTMEELPRELFPTLFMEAFSRRRCETLKTMVQAWPFTRLPLGSLM.....KSPH..L..ESLKSVLEGVDVLLTQEVRP..RQSKLQVLDLR.NVDENF-..
+#=GR Q5VXH5|PF27091|6-112     PP ........8****************************************************************.....****..*..********************..***********.*****9...
+#=GC PP_cons                     ........79***************************************************************.....****..*..********************..***********.*******..
+#=GC RF                          ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxx..x..xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxx.xxxxxxx..
+//

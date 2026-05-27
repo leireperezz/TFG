@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P06753|PF00261|68-284         .------------------------AQEKLELAEKKAADAEAEVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIENRALKDEEKMELQEIQLKEAKHIAEEADRKYEEVARKLVIIEGDLERTEERAELAESKCSELEEELKNVTNNLKSLEAQAEKYSQKEDKYEEEIKILTDKLKEAETRAEF
+#=GR P06753|PF00261|68-284 PP .........................6899***************************************************************************************************************************************************************************
+P07951|PF00261|64-283         v----------------------KEAQEKLEQAEKKATDAEADVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIENRAMKDEEKMELQEMQLKEAKHIAEDSDRKYEEVARKLVILEGELERSEERAEVAESKCGDLEEELKIVTNNLKSLEAQADKYSTKEDKYEEEIKLLEEKLKEAETRAEF
+#=GR P07951|PF00261|64-283 PP 6......................79*******************************************************************************************************************************************************************************
+P09493|PF00261|67-283         .------------------------AQEKLELAEKKATDAEADVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIESRAQKDEEKMEIQEIQLKEAKHIAEDADRKYEEVARKLVIIESDLERAEERAELSEGKCAELEEELKTVTNNLKSLEAQAEKYSQKEDRYEEEIKVLSDKLKEAETRAEF
+#=GR P09493|PF00261|67-283 PP .........................6899***************************************************************************************************************************************************************************
+P67936|PF00261|7-247          .LEAVKRKIQALQQQADEAEDRAQGLQRELDGERERREKAEGDVAALNRRIQLVEEELDRAQERLATALQKLEEAEKAADESERGMKVIENRAMKDEEKMEIQEMQLKEAKHIAEEADRKYEEVARKLVILEGELERAEERAEVSELKCGDLEEELKNVTNNLKSLEAASEKYSEKEDKYEEEIKLLSDKLKEAETRAEF
+#=GR P67936|PF00261|7-247  PP .689****************************************************************************************************************************************************************************************************
+#=GC PP_cons                  .689*******************8989*****************************************************************************************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P06753|PF00261|68-284         AERSVAKLEKTIDDLEDELYAQKLKYKAISEELDHALNDMT--s
+#=GR P06753|PF00261|68-284 PP ***************************************97..6
+P07951|PF00261|64-283         AERSVAKLEKTIDDLEDEVYAQKMKYKAISEELDNALNDIT--s
+#=GR P07951|PF00261|64-283 PP **************************************996..6
+P09493|PF00261|67-283         AERSVTKLEKSIDDLEDELYAQKLKYKAISEELDHALNDMT--s
+#=GR P09493|PF00261|67-283 PP ***************************************97..6
+P67936|PF00261|7-247          AERTVAKLEKTIDDLEEKLAQAKEENVGLHQTLDQTLNELN--c
+#=GR P67936|PF00261|7-247  PP ***************************************98..5
+#=GC PP_cons                  ***************************************97...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

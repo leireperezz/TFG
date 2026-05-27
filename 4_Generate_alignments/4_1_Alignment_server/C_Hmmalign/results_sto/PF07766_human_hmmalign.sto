@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O95202|PF07766|191-421         LTRRERRQFLRICADLFRLVPFLVFVVVPFMEFLLPVAVKLFPN.MLPSTFETQSLKEERL....KKELRVKLELAKFLQDTIEEMalKNKAAKGSATKDFSVFFQKIRETGERPSNEEIMRFSKLFEDE.LTLDNLTRPQLVALCKLLELQSIGTNNFLRFQLTMRLRSIKADDKLIAEEGVDSLNVKELQAACRARGM
+#=GR O95202|PF07766|191-421 PP 8*******************************************.****************....*********************75447777899*********************************.*********************************************************************
+Q6P1Q0|PF07766|120-349         LPYREMEHLRQFRQDVTKCLFLGIISIPPFANYLVFLLMYLFPRqLLIRHFWTPKQQTDFLdiyhAFRKQSHPEIISYLEKVIP--..LISDAG--LRWRLTDLCTKIQRGTHPAI-HDILALRECFSNHpLGMNQLQALHVKALSRAMLLTSYLPPPLLRHRLKTHTTVIHQLDKALAKLGIGQLTAQEVKSACYLRGL
+#=GR Q6P1Q0|PF07766|120-349 PP 89*************************************************************999999***********9984....335555..9*****************99.***********************************************************************************
+Q2VYF4|PF07766|160-390         LTRRERRRLLRTCVDFFRLVPFMVFLIVPFMEFLLPVFLKLFPE.MLPSTFESESKKEEKQ....KKKMAVKLELAKFLQETMTEMarRNRAKMGDASTQLSSYVKQVQTGHKPST-KEIVRFSKLFEDQ.LALEHLDRPQLVALCKLLELQTFGTNNLLRFQLLMKLKSIKADDEIIAKEGVTALSVSELQAACRARGM
+#=GR Q2VYF4|PF07766|160-390 PP 8*******************************************.****************....*********************643377778999**********99866655.*************.*********************************************************************
+#=GC PP_cons                   89******************************************.****************....*****************98**..336666899*************999988**************.*********************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95202|PF07766|191-421         RALGVTEDRLRGQLKQWLDLHLHQEIPTSLLILSRAM-
+#=GR O95202|PF07766|191-421 PP **********************************985.
+Q6P1Q0|PF07766|120-349         NSTHIGEDRCRTWLGEWLQISCSLKEAELSLLLHNVV-
+#=GR Q6P1Q0|PF07766|120-349 PP **********************************975.
+Q2VYF4|PF07766|160-390         RSLGLTEEQLRQQLTEWQDLHLKENVPPSLLLLSRTFY
+#=GR Q2VYF4|PF07766|160-390 PP ***********************************985
+#=GC PP_cons                   **********************************9865
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

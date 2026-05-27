@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O95936|PF16176|463-684         QIVPGGRYGVQ.SFFPEPFVNTLPQARYY.........NGERTVPQTNGLLSPQQSE-EVANPPQRWLVTPVQQPGTNKLDI..SSYE..SEYT..SSTLLPY...GIKSLPL....QTSHALGYYPDPT..................FPAM...-AGWGGRGS-..YQRKMAAGLPWTSRTSP.TVFSEDQL-SKEKVK
+#=GR O95936|PF16176|463-684 PP 9**********.*****************.........******************9.8999********************..****..****..*******...*******....*************..................****....********...*****************.********.9*****
+Q16650|PF16176|418-680         QIVPGARYAMAgSFLQDQFVSNYAKARFHpgagagpgpGTDRSVPHTNGLLSPQQAEDPGAPSPQRWFVTPA----NNRLDFaaSAYDtaTDFAgnAATLLSYaaaGVKALPLqaagCTGRPLGYYADPSgwgarsppqycgtksgsvLPCWpnsAAAAARMAGAnpYLGEEAEGLA-AERSPLpPGAAEDAK-PKDL-S
+#=GR Q16650|PF16176|418-680 PP 9***********************************************************************....8*****9999**999***999****************99999******************************8888652344466666678**********.899998789999988.9*99.7
+#=GC PP_cons                   9**********.*****************.........********************999***************9*****..****..9***..*******...*******....*************..................9999...3777888886..***********999999.99999999.9**9*9
+#=GC RF                        xxxxxxxxxxx.xxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx..xxxx..xxxxxxx...xxxxxxx....xxxxxxxxxxxxx..................xxxx...xxxxxxxxxx..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx
+
+O95936|PF16176|463-684         EEIGSSWIETPPSIKSLDSNDSGVYTSACKRRRLSPSNSSNENSPS-IKCEDINAEEYSKDTSKGMgGYYAFYT
+#=GR O95936|PF16176|463-684 PP **********************************************.*******************99*****8
+Q16650|PF16176|418-680         D---SSWIETPSSIKSIDSSDSGIYEQA-KRRRISPADTPVSESSSPLKSEVLAQRDCEKNCAKDIsGYYGFYS
+#=GR Q16650|PF16176|418-680 PP 7...9***********************.********************************************6
+#=GC PP_cons                   9*****************************************************************.******7
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx
+//

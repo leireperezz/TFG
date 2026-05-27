@@ -1,0 +1,68 @@
+# STOCKHOLM 1.0
+
+A5PKW4|PF01369|557-707         ..aa-----------------------------..----QRLAKRLYRLDGFRKADVARHLGKNN.DFSKLVAGEYLKFFVFTGMTLDQALRVFLKELALMGET.QERERVLAHFSQRYFQCNPE...AL....SSEDGAHTLTCALMLLNTDLH.GHNI...GKRMTCGDFIGNLEGLNDGGDFPRELLKALYSSIKNE
+#=GR A5PKW4|PF01369|557-707 PP ..85...................................789***********************.**************************************.********************...**....*********************.****...***********************************98
+O43739|PF01369|66-248          ....RNKQIAMGRKKFNMDPKKGIQFLIENDLL..QSSPEDVAQFLYKGEGLNKTVIGDYLGERD.EFNIKVLQAFVELHEFADLNLVQALRQFLWSFRLPGEA.QKIDRMMEAFASRYCLCNPG...VF....QSTDTCYVLSFAIIMLNTSLH.NHNV...RDKPTAERFIAMNRGINEGGDLPEELLRNLYESIKNE
+#=GR O43739|PF01369|66-248  PP ....578999***********************..******************************.**************************************.***************99***...**....*********************.****...************************************9
+Q15438|PF01369|62-244          ....RNKQVAMGRKKFNMDPKKGIQFLIENDLL..KNTCEDIAQFLYKGEGLNKTAIGDYLGERD.EFNIQVLHAFVELHEFTDLNLVQALRQFLWSFRLPGEA.QKIDRMMEAFAQRYCQCNNG...VF....QSTDTCYVLSFAIIMLNTSLH.NPNV...KDKPTVERFIAMNRGINDGGDLPEELLRNLYESIKNE
+#=GR Q15438|PF01369|62-244  PP ....5789999**********************..******************************.**************************************.********************...**....*********************.****...************************************9
+Q5JU85|PF01369|754-940         ...r--RHYRIGLNLFNKKPEKGIQYLIERGFL..SDTPVGVAHFILERKGLSRQMIGEFLGNRQkQFNRDVLDCVVDEMDFSSMDLDDALRKFQSHIRVQGEA.QKVERLIEAFSQRYCVCNPAlvrQF....RNPDTIFILAFAIILLNTDMY.SPSVk.aERKMKLDDFIKNLRGVDNGEDIPRDLLVGIYQRIQGR
+#=GR Q5JU85|PF01369|754-940 PP ...7..67899**********************..***************************88769*************************************.***************99**977789....*********************.****8.88*********************************976
+Q6DN90|PF01369|524-712         ....RKRHYRIGLNLFNKKPEKGVQYLIERGFV..PDTPVGVAHFLLQRKGLSRQMIGEFLGNRQkQFNRDVLDCVVDEMDFSTMELDEALRKFQAHIRVQGEA.QKVERLIEAFSQRYCICNPGvvrQF....RNPDTIFILAFAIILLNTDMY.SPNVk.pERKMKLEDFIKNLRGVDDGEDIPREMLMGIYERIRKR
+#=GR Q6DN90|PF01369|524-712 PP ....799**************************..***************************88769*************************************.***************99***66668....*********************.****9.88***********************************9
+Q8NDX1|PF01369|586-737         kvaw-----------------------------..-----NLASRLYRLEGFRKSEVAAYLQKNN.DFSRAVAEEYLSFFQFGGQSLDRALRSFLQALVLSGET.QERERILYQFSRRFHHCNPG...IF....PSVDSVHTLTCAIMLLNTDLH.GQNI...GKSMSCQEFITNLNGLRDGGNFPKELLKALYWSIRSE
+#=GR Q8NDX1|PF01369|586-737 PP 9987....................................578999*******************.**************************************.********************...**....*********************.****...**********************************998
+Q92538|PF01369|700-885         ....KKKLLITGTEQFNQKPKKGIQFLQEKGLLtiPMDNTEVAQWLRENPRLDKKMIGEFVSDRK.--NIDLLESFVSTFSFQGLRLDEALRLYLEAFRLPGEA.PVIQRLLEAFTERWMNCNGS...PF....ANSDACFSLAYAVIMLNTDQH.NHNVrkqNAPMTLEEFRKNLKGVNGGKDFEQDILEDMYHAIKNE
+#=GR Q92538|PF01369|700-885 PP ....6999*************************99999***************************...************************************.********************...**....*********************.****998899**********************************
+Q99418|PF01369|61-243          ....RNRKMAMGRKKFNMDPKKGIQFLVENELL..QNTPEEIARFLYKGEGLNKTAIGDYLGERE.ELNLAVLHAFVDLHEFTDLNLVQALRQFLWSFRLPGEA.QKIDRMMEAFAQRYCLCNPG...VF....QSTDTCYVLSFAVIMLNTSLH.NPNV...RDKPGLERFVAMNRGINEGGDLPEELLRNLYDSIRNE
+#=GR Q99418|PF01369|61-243  PP ....5789999**********************..******************************.**************************************.***************99***...**....*********************.****...************************************9
+Q9NYI0|PF01369|583-735         ..ea-----------------------------..---AKRLAKRLYQLDRFKRSDVAKHLGKNN.EFSKLVAEEYLKFFDFTGMTLDQSLRYFFKAFSLVGET.QERERVLIHFSNRYFYCNPD...TI....ASQDGVHCLTCAIMLLNTDLHgHVNI...GKKMTCQEFIANLQGVNEGVDFSKDLLKALYNSIKNE
+#=GR Q9NYI0|PF01369|583-735 PP ..76..................................6889***********************.**************************************.***************99***...**....*********************54567...9**********************************98
+Q9UIA0|PF01369|62-243          ...e--KELCIGRKKFNMDPAKGIQYFIEHKLL..TPDVQDIARFLYKGEGLNKTAIGTYLGERD.PINLQVLQAFVDCHEFANLNLVQALRQFLWSFRLPGEA.QKIDRMMEAFATRYCLCNPG...VF....QSTDTCYVLSFSIIMLNTSLH.NPNV...RDRPPFERFVSMNRGINNGSDLPEDQLRNLFDSIKSE
+#=GR Q9UIA0|PF01369|62-243  PP ...7..5677899********************..******************************.**************************************.***************99***...**....*********************.****...************************************9
+Q9UPP2|PF01369|651-839         ....RKRLYRIGLNLFNINPDKGIQFLISRGFI..PDTPIGVAHFLLQRKGLSRQMIGEFLGNSKkQFNRDVLDCVVDEMDFSSMELDEALRKFQAHIRVQGEA.QKVERLIEAFSQRYCMCNPEvvqQF....HNPDTIFILAFAIILLNTDMY.SPNIk.pDRKMMLEDFIRNLRGVDDGADIPRELVVGIYERIQQK
+#=GR Q9UPP2|PF01369|651-839 PP ....6999*************************..***************************87669*************************************.***************99***66668....*********************.****8.88***********************************9
+Q9Y6D5|PF01369|643-827         ....QKEIIEHGIELFNKKPKRGIQFLQEQGML..GTSVEDIAQFLHQEERLDSTQVGDFLGDSA.RFNKEVMYAYVDQLDFCEKEFVSALRTFLEGFRLPGEA.QKIDRLMEKFAARYIECNQGq.tLF....ASADTAYVLAYSIIMLTTDLH.SPQV...KNKMTKEQYIKMNRGINDSKDLPEEYLSSIYEEIEGK
+#=GR Q9Y6D5|PF01369|643-827 PP ....6899*************************..******************************.**************************************.***************877764.479....*********************.****...**********************************988
+Q9Y6D6|PF01369|698-882         ....QKEIIEQGIDLFNKKPKRGIQYLQEQGML..GTTPEDIAQFLHQEERLDSTQVGEFLGDND.KFNKEVMYAYVDQHDFSGKDFVSALRMFLEGFRLPGEA.QKIDRLMEKFAARYLECNQGq.tLF....ASADTAYVLAYSIIMLTTDLH.SPQV...KNKMTKEQYIKMNRGINDSKDLPEEYLSAIYNEIAGK
+#=GR Q9Y6D6|PF01369|698-882 PP ....6899*************************..******************************.**************************************.***************877764.479....*********************.****...**********************************988
+Q9BQI7|PF01369|310-463         .vse-----------------------------..--AAHRLARRLYHLEGFQRCDVARQLGKNN.EFSRLVAGEYLSFFDFSGLTLDGALRTFLKAFPLMGET.QERERVLTHFSRRYCQCNPD...DS....TSEDGIHTLTCALMLLNTDLH.GHNI...GKKMSCQQFIANLDQLNDGQDFAKDLLKTLYNSIKNE
+#=GR Q9BQI7|PF01369|310-463 PP .865.................................57889***********************.**************************************.********************...**....*********************.****...***********************************98
+Q9NRD0|PF01369|138-311         ...q----LDEGSLTFNANPDEGVNYFMSKGIL..DDSPKEIAKFIFCTRTLNWKKLRIYLDERR.----DVLDDLVTLHNFRNQFLPNALREFFRHIHAPEERgEYLETLITKFSHRFCACNPD...LMrelgLSPDAVYVLCYSLILLSIDLT.SPHV...KNKMSKREFIRNTRRAA--QNISEDFVGHLYDNI---
+#=GR Q9NRD0|PF01369|138-311 PP ...6....788999*******************..**************************9998.....9*******************************862679*****************...663334788******************.****...**************888..59***********98...
+#=GC PP_cons                   ....6889999**********************..**9999*********************999.**************************************.***************99*99...99....*********************.****...9**********************************98
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...xx....xxxxxxxxxxxxxxxxxxxxx.xxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A5PKW4|PF01369|557-707         K-.
+#=GR A5PKW4|PF01369|557-707 PP 5..
+O43739|PF01369|66-248          PF.
+#=GR O43739|PF01369|66-248  PP 86.
+Q15438|PF01369|62-244          PF.
+#=GR Q15438|PF01369|62-244  PP 86.
+Q5JU85|PF01369|754-940         --e
+#=GR Q5JU85|PF01369|754-940 PP ..5
+Q6DN90|PF01369|524-712         EL.
+#=GR Q6DN90|PF01369|524-712 PP 86.
+Q8NDX1|PF01369|586-737         --k
+#=GR Q8NDX1|PF01369|586-737 PP ..5
+Q92538|PF01369|700-885         EI.
+#=GR Q92538|PF01369|700-885 PP 98.
+Q99418|PF01369|61-243          PF.
+#=GR Q99418|PF01369|61-243  PP 86.
+Q9NYI0|PF01369|583-735         K-.
+#=GR Q9NYI0|PF01369|583-735 PP 5..
+Q9UIA0|PF01369|62-243          PF.
+#=GR Q9UIA0|PF01369|62-243  PP 86.
+Q9UPP2|PF01369|651-839         EL.
+#=GR Q9UPP2|PF01369|651-839 PP 96.
+Q9Y6D5|PF01369|643-827         KI.
+#=GR Q9Y6D5|PF01369|643-827 PP 76.
+Q9Y6D6|PF01369|698-882         KI.
+#=GR Q9Y6D6|PF01369|698-882 PP 76.
+Q9BQI7|PF01369|310-463         K-.
+#=GR Q9BQI7|PF01369|310-463 PP 5..
+Q9NRD0|PF01369|138-311         --.
+#=GR Q9NRD0|PF01369|138-311 PP ...
+#=GC PP_cons                   76.
+#=GC RF                        xx.
+//

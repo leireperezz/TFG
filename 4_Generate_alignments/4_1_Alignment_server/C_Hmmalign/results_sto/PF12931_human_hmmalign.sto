@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O15027|PF12931|1622-1856         r--ELLLYGRKKDALESAMKNGLWGHALLLASKMDSRTHARVMTRFANSLPI-----NDPLQTVYQLMSGRMPAA--------------STCCGDEKWGDWRPHLAMVLSNLnnnMDVE.SRTMAT.MGDTLASRGL...LDAAHFCYLMA--Q-AGFGVYTKKTTKLVLIGSNHSLPFLKF-ATNEAIQRTEAYEYAQS
+#=GR O15027|PF12931|1622-1856 PP 5..79******************************************99773.....79************9955..............2344678889***********986544445.99****.**********...***********..3.569999999999*******99766666.888**************
+O94979|PF12931|573-767           .ITQALLTGNFESAVDLCLHDNRMADAIILAIAGGQELLARTQKKYFAKSQ------SKITRLITAVVMKNWKEIV----E-------------SCDLKNWREALAAVLTYA...KPDE.FSALCDlLGTRLENEGDsllQTQACLCYICAGNVEKLVAC---------WTKAQDGSHPLSLQDLIEKV---VILRKAVQ
+#=GR O94979|PF12931|573-767   PP .6789*****************************************99988......57899***********654....4.............34589*************...****.88888737******997332579********555433333.........33333333333332222222...23333333
+Q96JE7|PF12931|447-682           r---LLYYGRKKEALEWAMKNHLWGHALFLSSKMDPQTYSWVMSGFTSTLA-----LNDPLQTLFQLMSGRIPQA--------------ATCCGEKQWGDWRPHLAVILSNQa.gDPELyQRAIVA.IGDTLAGKGL...VEAAHFCYLMA---HVPFGHYTVKTDHLVLLGSSHSQEFLKF-ATTEAIQRTEIFEYCQM
+#=GR Q96JE7|PF12931|447-682   PP 6...7899**************************************99877.....379***********99955..............2334567789*************8.8666679*****.**********...***********...5689*****************9888777.899*************9
+#=GC PP_cons                     .678899***************************************998873....3689***********99554....4........2344556789************9...7777.999999.9********9...89*********55445677799999****88888776666662666777***78888887
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx.xxxxxx.xxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15027|PF12931|1622-1856         LG----AETCPLPSFQVFKF.IYSCRLAEMGLATQAFHYCEAIAKSILTQP---HLYSPVLISQLVQMASQL-----------------------------------r.
+#=GR O15027|PF12931|1622-1856 PP **....344679********.*************************76655...688888999988888877...................................6.
+O94979|PF12931|573-767           LTQAMD--TSTVGVLLAAKMsQYANLLAAQGSIAA------------------------------------------------------------------------al
+#=GR O94979|PF12931|573-767   PP 332222..234455555554356666666666665........................................................................58
+Q96JE7|PF12931|447-682           LG---R-PKSFIPSFQVYKL.LYASRLADYGLVSQALHYCEAIGAAVLSQGE---SSHPVLLVELIKLAEKLK----------------------------------ls
+#=GR Q96JE7|PF12931|447-682   PP 99...4.4489*********.*************************988775...568999999999999986..................................78
+#=GC PP_cons                     77222334367888888888.89999999999998***********877665..6678999999999988886....................................
+#=GC RF                          xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

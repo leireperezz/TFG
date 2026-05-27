@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P14902|PF01231|13-397         --KEYHIDEEVGFA-LPNPQENLPD-FYNDWMFIAKHLPDLIESGQLRERVEKLNMLSIDHLTDHKSQRLARLVLGCITMAYVWGKgHGDVRKVLPRNIAVPYCQLSKKLELPPILVYADCVLANWKKKDPNK--PLTYENMDVLFSFRDGDCSKGFFLVSLLVEIAAASAIKVIPTVFKAMQMQERDTLLKALLEIASC
+#=GR P14902|PF01231|13-397 PP ..58*********9.899******9.6**********************************************************9558999*************************************9986..999**************************************************************
+Q6ZQW0|PF01231|16-400         -LESYHISEEYGFL-LPDSLKELPDH-YRPWMEIANKLPQLIDAHQLQAHVDKMPLLSCQFLKGHREQRLAHLVLSFLTMGYVWQEgEAQPAEVLPRNLALPFVEVSRNLGLPPILVHSDLVLTNWTKKDPDG--FLEIGNLETIISFPGGESLHGFILVTALVEKEAVPGIKALVQATNAILQPNQEALLQALQRLRLS
+#=GR Q6ZQW0|PF01231|16-400 PP .589**********.8889******8.***********************************************************6699***************************************9997..99***********************************************99**************
+#=GC PP_cons                  .569**********.888******986**********************************************************9.589***************************************9997..999**********************************************99**************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P14902|PF01231|13-397         LEKALQVFHQIHDHVNPKAFFSVLRIYLSGWKGNPQ--LSDGLVYEGFW---EDPKEFAGGSAGQSSVFQCFDVLLGIQQTAGGGH---AAQFLQDMRRYMPPAHRNFLCSLESNPSVREFVLSKGDAG--LREAYDACVKALVSLRSYHLQIVTKYILIPASQQPKENKTS-----------EDPSKLEAKGTGGTDLM
+#=GR P14902|PF01231|13-397 PP **********************************99..9********87...889**************************76654...689******************************9999988..*********************************87664433...........3578899**********
+Q6ZQW0|PF01231|16-400         IQDITKTLGQMHDYVDPDIFYAGIRIFLSGWKDNPA--MPAGLMYEGVS---QEPLKYSGGSAAQSTVLHAFDEFLGIRHSK------ESGDFLYRMRDYMPPSHKAFIEDIHSAPSLRDYILSSGQDH--LLTAYNQCVQALAELRSYHITMVTKYLITAAAKAKHGKPNH--------LP-GPPQALKDRGTGGTAVM
+#=GR Q6ZQW0|PF01231|16-400 PP **********************************99..9********87...89***************************4......3578******************************9999988..*********************************77664433........22.3577999**********
+#=GC PP_cons                  **********************************99..9********87...899**************************66654..3679******************************9999988..*********************************87664433........22.3577999**********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P14902|PF01231|13-397         NFLKTVRSTTE--k
+#=GR P14902|PF01231|13-397 PP *********97..5
+Q6ZQW0|PF01231|16-400         SFLKSVRDKTL--e
+#=GR Q6ZQW0|PF01231|16-400 PP *********96..6
+#=GC PP_cons                  *********97...
+#=GC RF                       xxxxxxxxxxxxx.
+//

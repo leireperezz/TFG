@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q96IZ2|PF04750|6-216          t--CIYHFLVLSWYTFLNYYISQEGKDEVKpkilANGARWKYMTLLNLLLQTIFYGVTCLDDVLk.......rTKGGKDIKFLTAFRDLLFTTLAFPVSTFVFLAFWILFLYNRDLIYPKVLDTVIPVWLNHAMHTFIFPITLAEVVLRPHSYPSKKTGLTLLAAASIAYISRILWLYFETGTWVYPVFAKLSLLGLAAF
+#=GR Q96IZ2|PF04750|6-216  PP 5..89***********************99********************************999.......99******************************************************************************************************************************
+Q9NVV5|PF04750|13-219         i--LLSYCSILCNYKAIEMPSHQ-------....TYGGSWKFLTFIDLVIQAVFFGICVLTDLSslltrgsgnQEQERQLKKLISLRDWMLAVLAFPVGVFVVAVFWIIYAYDREMIYPKLLDNFIPGWLNHGMHTTVLPFILIEMRTSHHQYPSRSSGLTAICTFSVGYILWVCWVHHVTGMWVYPFLEHIGPGARIIF
+#=GR Q9NVV5|PF04750|13-219 PP 7..789999**************...........****************************99****************************************************************************************************************************************
+#=GC PP_cons                  ...7999*********************99....****************************99.........*******************************************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96IZ2|PF04750|6-216          FSLSYVFIASIYLLGEKLNH
+#=GR Q96IZ2|PF04750|6-216  PP ******************96
+Q9NVV5|PF04750|13-219         FGSTTILMNFLYLLGEVLNN
+#=GR Q9NVV5|PF04750|13-219 PP ******************97
+#=GC PP_cons                  ******************97
+#=GC RF                       xxxxxxxxxxxxxxxxxxxx
+//

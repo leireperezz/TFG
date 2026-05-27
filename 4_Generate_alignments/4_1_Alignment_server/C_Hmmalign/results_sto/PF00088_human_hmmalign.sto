@@ -1,0 +1,31 @@
+# STOCKHOLM 1.0
+
+O43451|PF00088|90-133            .CPVVNELERINCIP..dQPPTKATCDQR.GCCWNPQG......AVSVPWCYYS
+#=GR O43451|PF00088|90-133    PP .9***********77..999*********.********......*********5
+O43451|PF00088|958-998           i----RDEEKIDC-YpdeNGASAENCTAR.GCIWEASN......SSGVPFCYF-
+#=GR O43451|PF00088|958-998   PP 6....6799****.769999*********.********......********7.
+O43451|PF00088|1854-1894         i----RDEEKIDC-YpdeNGDSAENCTAR.GCIWEASN......SSGVPFCYF-
+#=GR O43451|PF00088|1854-1894 PP 6....6799****.76888899*******.********......********7.
+P04155|PF00088|31-71             .CT-VAPRERQNCGF...PGVTPSQCANK.GCCFDDTV......-RGVPWCFYP
+#=GR P04155|PF00088|31-71     PP .99.***********...***********.********.......********8
+P10253|PF00088|82-130            .CD-VPPNSRFDCAP..dKAITQEQCEAR.GCCYIPAKqglqgaQMGQPWCFFP
+#=GR P10253|PF00088|82-130    PP .99.*********99..999*********.***********************8
+P14410|PF00088|70-108            .----PVNVRINCIP..eQFPTEGICAQR.GCCWRPWN......DSLIPWCFF-
+#=GR P14410|PF00088|70-108    PP .....6789****66..888*********.********......********7.
+P14410|PF00088|936-977           s-----ENERFNC-YpdaDLATEQKCTQR.GCVWRTGS.....sLSKAPECYFP
+#=GR P14410|PF00088|936-977   PP 6.....79*****.84555599*******.****9877.....6799******8
+Q03403|PF00088|31-72             .CSRLSPHNRTNCGF...PGITSDQCFDN.GCCFDSSV......-TGVPWCFHP
+#=GR Q03403|PF00088|31-72     PP .9*************...***********.********.......*******98
+Q03403|PF00088|81-121            .CV-MEVSDRRNCGY...PGISPEECASR.KCCFSNFI......-FEVPWCFFP
+#=GR Q03403|PF00088|81-121    PP .88.9**********...***********.********.......********8
+Q07654|PF00088|32-72             .CA-VPAKDRVDCGY...PHVTPKECNNR.GCCFDSRI......-PGVPWCFKP
+#=GR Q07654|PF00088|32-72     PP .99.***********...***********.********.......*******98
+Q12836|PF00088|143-182           .CDSIPARDRLPCAP...SPISRGDCEGL.GCCYSSEE......---VNSCYYG
+#=GR Q12836|PF00088|143-182   PP .************99...***********.********.........******5
+Q2M2H8|PF00088|43-87             .CPEIPQSERIDCTP..dQEVTEDICRWQyKCCWSPVA......DANVPRCFFP
+#=GR Q2M2H8|PF00088|43-87     PP .9***********88..999*******9889*******......*********8
+Q2M2H8|PF00088|908-948           .---VSDLEKFNC-YpddPTASEESCRQR.GCLWEDTS......TPGVPTCYY-
+#=GR Q2M2H8|PF00088|908-948   PP ....67789****.769999*********.********......********9.
+#=GC PP_cons                     .99*9999*****98...99*********.********......9*******98
+#=GC RF                          .xxxxxxxxxxxxxx...xxxxxxxxxxx.xxxxxxxx......xxxxxxxxxx
+//

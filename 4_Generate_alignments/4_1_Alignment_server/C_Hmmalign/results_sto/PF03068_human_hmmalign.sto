@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+Q6TGC4|PF03068|293-691         l--YKDTVVFRVAPCVFIPCTQVPLEVYLCRELQL.---QGFVDTVTKLSEKSNSQVASVYEDPNRLGRWLQDEMAFCYTQAPHKTTSLILDTPQAADLDEFPMKYSLSPGIGYMIQDTEDHKVASMDSIGNLMVSPPVKVQGKEYPLGRVLIGS--SFYPsAEGRAMSKTLRDFLYAQQVQAPVELYSDWLMTGHVDEF
+#=GR Q6TGC4|PF03068|293-691 PP 6..89*************************76666....9******************************************************************************************************************8..999999*************************************
+Q9ULC6|PF03068|282-660         l--FTDTVGFRMAPWIMTPNTQPPEELYVCRVMDThGSNEKFLEDMSYLTLKANCKLTICPQVENRNDRWIQDEMEFGYIEAPHKSFPVVFDSPRNRGLKDFPYKRILGPDFGYVTREIPLPGPSSLDSFGNLDVSPPVTVGGTEYPLGRILIG---SSFPkSGGRQMARAVRNFLKAQQVQAPVELYSDWLSVGHVDEF
+#=GR Q9ULC6|PF03068|282-660 PP 5..89*****************************999*********************************************************************************************************************...5777788************************************
+Q9ULW8|PF03068|284-661         .-IFTDTVVFRVAPWIMTPSTLPPLEVYVCRVRNN.---TCFVDAVAELARKAGCKLTICPQAENRNDRWIQDEMELGYVQAPHKTLPVVFDSPRNGELQDFPYKRILGPDFGYVTREPRDRSVSGLDSFGNLEVSPPVVANGKEYPLGRILIGG---NLPgSSGRRVTQVVRDFLHAQKVQPPVELFVDWLAVGHVDEF
+#=GR Q9ULW8|PF03068|284-661 PP ..689****************************99....9******************************************************************************************************************5...889899************************************
+Q9UM07|PF03068|284-660         v--FQDSVVFRVAPWIMTPNTQPPQEVYACSIFEN.---EDFLKSVTTLAMKAKCKLTICPEEENMDDQWMQDEMEIGYIQAPHKTLPVVFDSPRNRGLKEFPIKRVMGPDFGYVTRGPQTGGISGLDSFGNLEVSPPVTVRGKEYPLGRILFGD--SCYPsNDSRQMHQALQDFLSAQQVQAPVKLYSDWLSVGHVDEF
+#=GR Q9UM07|PF03068|284-660 PP 5..89*****************************9....*******************************************************************************************************************8..99**99*************************************
+Q9Y2J8|PF03068|285-662         .-IFTDTVIFRIAPWIMTPNILPPVSVFVCCMKDN.---YLFLKEVKNLVEKTNCELKVCFQYLNRGDRWIQDEIEFGYIEAPHKGFPVVLDSPRDGNLKDFPVKELLGPDFGYVTREPLFESVTSLDSFGNLEVSPPVTVNGKTYPLGRILIG---SSFPlSGGRRMTKVVRDFLKAQQVQAPVELYSDWLTVGHVDEF
+#=GR Q9Y2J8|PF03068|285-662 PP ..689******************************....*******************************************************************************************************************...6999999************************************
+#=GC PP_cons                   ..689*************************99999.9*********************************************************************************************************************7..7999.99************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6TGC4|PF03068|293-691         MCFIPTDdkneGKKGFLLLLASPSACYKLFREKQKEGYGDALLFDELRADQLLSNGREAKTIDQLLADESLKKQNEYVEKCIHLNRDILKTELGLVEQDIIEIPQLFCLEkltniPSDQQPKRSFARPYFPDLLRMIVMGKNLGIPKPFGPQIKGTCCLEEKICCLLEPLGFKCTFINDFDCYLTEVGDICACANIRRVP
+#=GR Q6TGC4|PF03068|293-691 PP ******96655679************************************************************************************************999999999999999***************************************************************************
+Q9ULC6|PF03068|282-660         LTFVPTS....DQKGFRLLLASPSACLKLFQEKKEEGYGEAAQFDGL-------KHQAKRSINEMLADRHLQRDNLHAQKCIDWNRNVLKRELGLAESDIVDIPQLFFL-.....------KNFYAEAFFPDMVNMVVLGKYLGIPKPYGPIINGRCCLEEKVQSLLEPLGLHCIFIDDYLSYHELQGEIHCGTNVRRKP
+#=GR Q9ULC6|PF03068|282-660 PP *******....***********************************9.......5999***************************************************............999****************************************************************************
+Q9ULW8|PF03068|284-661         LSFVPAP....DGKGFRMLLASPGACFKLFQEKQKCGHGRALLFQGV----VDDEQVKTISINQVLSNKDLINYNKFVQSCIDWNREVLKRELGLAECDIIDIPQLFKT-.....------ERKKATAFFPDLVNMLVLGKHLGIPKPFGPIINGCCCLEEKVRSLLEPLGLHCTFIDDFTPYHMLHGEVHCGTNVCRKP
+#=GR Q9ULW8|PF03068|284-661 PP *******....***********************************9....57899*****************************************************............999****************************************************************************
+Q9UM07|PF03068|284-660         LSFVPAP....DRKGFRLLLASPRSCYKLFQEQQNEGHGEALLFEGI-------KKKKQQKIKNILSNKTLREHNSFVERCIDWNRELLKRELGLAESDIIDIPQLFKL-.....-----KEFSKAEAFFPNMVNMLVLGKHLGIPKPFGPVINGRCCLEEKVCSLLEPLGLQCTFINDFFTYHIRHGEVHCGTNVRRKP
+#=GR Q9UM07|PF03068|284-660 PP *******....***********************************9.......589999*************************************************...........999*****************************************************************************
+Q9Y2J8|PF03068|285-662         MSFVPIP....GTKKFLLLMASTSACYKLFREKQKDGHGEAIMFKGLG-----GMSSKRITINKILSNESLVQENLYFQRCLDWNRDILKKELGLTEQDIIDLPALFKM-.....-----DEDHRARAFFPNMVNMIVLDKDLGIPKPFGPQVEEECCLEMHVRGLLEPLGLECTFIDDISAYHKFLGEVHCGTNVRRKP
+#=GR Q9Y2J8|PF03068|285-662 PP *******....***********************************96.....8899****************************************************...........8999****************************************************************************
+#=GC PP_cons                   *******....99*********************************98***799899*****************************************************.....999999999****************************************************************************
+#=GC RF                        xxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6TGC4|PF03068|293-691         FAFKWWK
+#=GR Q6TGC4|PF03068|293-691 PP ******6
+Q9ULC6|PF03068|282-660         FPFKWWN
+#=GR Q9ULC6|PF03068|282-660 PP ******7
+Q9ULW8|PF03068|284-661         FSFKWWN
+#=GR Q9ULW8|PF03068|284-661 PP ******7
+Q9UM07|PF03068|284-660         FSFKWWN
+#=GR Q9UM07|PF03068|284-660 PP ******7
+Q9Y2J8|PF03068|285-662         FTFKWWH
+#=GR Q9Y2J8|PF03068|285-662 PP ******7
+#=GC PP_cons                   ******7
+#=GC RF                        xxxxxxx
+//

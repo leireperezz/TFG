@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+Q99613|PF05470|31-705         yg----KQPLLLSEDEEDTKRVVRSAKDKRFEELTNLIRTIRNAMKIRDVTKCLEEFELLGKAYGKAKSIVDKEGVPRFYIRILADLEDYLNELWEDKEGKKKMNKNNAKALSTLRQKIRKYNRDFESHITSYKQNPEQSADEDAEKNEEDSEGSSDEDEDEDGVSAATFLKKKSEApsgesrkflkkmddededsedse
+#=GR Q99613|PF05470|31-705 PP 76....6677889****************************************************************************************************************************************************************999999999******************
+B5ME19|PF05470|31-706         yg----KQPLLLSEDEEDTKRVVRSAKDKRFEELTNLIRTIRNAMKIRDVTKCLEEFELLGKAYGKAKSIVDKEGVPRFYIRILADLEDYLNELWEDKEGKKKMNKNNAKALSTLRQKIRKYNRDFESHITSYKQNPEQSADEDAEKNEEDSEGSSDEDEDEDGVSAATFLKKKSEApsgesrkflkkmddededsedse
+#=GR B5ME19|PF05470|31-706 PP 76....6677889****************************************************************************************************************************************************************999999999******************
+#=GC PP_cons                  ......6677889****************************************************************************************************************************************************************9999.......................
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......................
+
+Q99613|PF05470|31-705         ddedwdtgstssdsdseeee.gkqtalasrflkkapttdedkkaaekkredkakkkhdrkskrlDEEEEDNEGGEWERVRGGVPLVKEKPKMFAKGTEITHAVVIKKLNEILQARGKKGTDRAAQIELLQLLVQIAAENNLgegvIVKIKFNIIASLYDYNPNLATYMKPEMWGKCLDCINELMDILFANPNIFVGENIL
+#=GR Q99613|PF05470|31-705 PP ********************.*****************************************9999999999********************************************************************************************************************************
+B5ME19|PF05470|31-706         ddedwdtgstssdsdseeeegkqtalasrflkkapttdedkkaaekkredkakkkhdrkskrldEEEEEDNEGGEWERVRGGVPLVKEKPKMFAKGTEITHAVVIKKLNEILQARGKKGTDRAAQIELLQLLVQIAAENNLgegvIVKIKFNIIASLYDYNPNLATYMKPEMWGKCLDCINELMDILFANPNIFVGENIL
+#=GR B5ME19|PF05470|31-706 PP *************************************************************9988899999999******************************************************************************************************************************
+#=GC PP_cons                  ................................................................999999999********************************************************************....*******************************************************
+#=GC RF                       ................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q99613|PF05470|31-705         EESENLH-----NADQPLRVRGCILTLVERMDEEFTKIMQNTDPHSQEYVEHLKDEAQVCAIIERVQRYLEEKGTTEEVCRIYLLRILHTYYKFDYKA--HQRQLTPPEGSSKSEQDQAENEGEDSAVLMERLCKYIYaKDRTDRIRTCAILCHIYHHALHSRWYQARDLMLMSHLQDNIQHADPPVQILYNRTMVQLGI
+#=GR Q99613|PF05470|31-705 PP *****99.....89*********************************************************************************999..8***************************************************************************************************
+B5ME19|PF05470|31-706         EESENLH-----NADQPLRVRGCILTLVERMDEEFTKIMQNTDPHSQEYVEHLKDEAQVCAIIERVQRYLEEKGTTEEVCRIYLLRILHTYYKFDYKA--HQRQLTPPEGSSKSEQDQAENEGEDSAVLMERLCKYIYaKDRTDRIRTCAILCHIYHHALHSRWYQARDLMLMSHLQDNIQHADPPVQILYNRTMVQLGI
+#=GR B5ME19|PF05470|31-706 PP *****99.....89*********************************************************************************999..8***************************************************************************************************
+#=GC PP_cons                  *****99.....89*********************************************************************************999..8*************************************.*************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q99613|PF05470|31-705         CAFRQGLTKDAHNALLDIQSSGRAKELLGQGLLLRSLQERNQEQEKVERRRQVPFHLHINLELLECVYLVSAMLLEIPYMAAHESDA
+#=GR Q99613|PF05470|31-705 PP *************************************************************************************96
+B5ME19|PF05470|31-706         CAFRQGLTKDAHNALLDIQSSGRAKELLGQGLLLRSLQERNQEQEKVERRRQVPFHLHINLELLECVYLVSAMLLEIPYMAAHESDA
+#=GR B5ME19|PF05470|31-706 PP *************************************************************************************96
+#=GC PP_cons                  *************************************************************************************96
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

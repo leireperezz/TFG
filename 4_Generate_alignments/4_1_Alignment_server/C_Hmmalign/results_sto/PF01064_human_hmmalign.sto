@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O00238|PF01064|30-108         ..........-LRCKC-HHHCPEDsvNNICSTDGYCFTMIEEDDSGL.PVVTSGCLGLEG...--.SDFQCRDTPIPH...QRR.SIEC.CtERNECNKDLH--p.
+#=GR O00238|PF01064|30-108 PP ...........68***.9******9**********************.**********96......************...***.****.*999*****976..6.
+P36894|PF01064|59-136         ..........-LKCYC-SGHCPDDaiNNTCITNGHCFAIIEEDDQGE.TTLASGCMKYEG...--.SDFQCKDSPKAQ...LRR.TIEC.C.RTNLCNQYL---qp
+#=GR P36894|PF01064|59-136 PP ...........69***.9*****************************.********9985......************...99*.****.*.******865...67
+P36896|PF01064|32-104         .........l--LCAC--TSCLQA..NYTCETDGACMVSIFN-LDGM.EHHVRTCIPKVElvpAG.KPFYCLSSEDLR...---.NTHC.C.YTDYCNR-----i.
+#=GR P36896|PF01064|32-104 PP .........5..6***..9*****..*************999.9***.************9999*.********9965.......9***.*.******8.....6.
+P36897|PF01064|34-112         ..........-LQCFC--HLCTKD..NFTCVTDGLCFVSVTE-TTDK.VIHNSMCIAEIDlipRD.RPFVCAPSSKTG...SVT.TTYC.C.NQDHCNKIE---lp
+#=GR P36897|PF01064|34-112 PP ...........69***..9*****..****************.****.*****************.**********99...999.****.*.******987...57
+Q04771|PF01064|33-105         ..........-YMCVCEGLSCGN-..EDHCE-GQQCFSSLSI-NDGF.HVYQKGCFQVYE...-Q.GKMTCKTPPSPG...--Q.AVEC.C.QGDWCNRNIT--a.
+#=GR Q04771|PF01064|33-105 PP ...........68********99...9****.9*********.****.***********8....*.**********76.....7.****.*.*******976..7.
+Q13705|PF01064|46-114         lercegeqdk--------------..------RLHCYASWRN-SSGTiELVKKGCWLDDF...NCyDRQECVATEENP...-QV.YFCC.C.EGNFCNER----ft
+#=GR Q13705|PF01064|46-114 PP 9865554443......................568*******.66655********9988...542668999999955....46.9***.*.******87....57
+Q13873|PF01064|48-129         .........e-------SRISHEN.gTILCSKGSTCYGLWEKSKGDI.NLVKQGCWSHIGdpqEC.HYEECVVTTTPPsiqNGTyRFCC.C.STDLCNVNFT--e.
+#=GR Q13873|PF01064|48-129 PP .........6.......5677888.899**************55555.**********99999**.**********999986667****.*.******9976..7.
+Q16671|PF01064|52-121         ........ai--------------..--RCLYSRCCFGIWNLTQDRA.QVEMQGCRDSDE..pGC.ESLHCDPSPRAHpspGST.LFTCsC.GTDFCNAN----ys
+#=GR Q16671|PF01064|52-121 PP ........75..................6888999*******88888.*********999..99*.*******99988885445.89999*.******98....57
+Q8NER5|PF01064|26-96          ..........-LKCVC--LLCDSS..NFTCQTEGACWASVML-TNGK.EQVIKSCVSLPE...LN.AQVFCHSSNNVT...---.KTEC.C.FTDFCNNI----t.
+#=GR Q8NER5|PF01064|26-96  PP ...........69***..9*****..****************.****.************...**.**********77.......9***.*.******96....7.
+#=GC PP_cons                  ...........68****899**99..**9***99********89999.*********998...99.9*********88...878.9***.*.******9876....
+#=GC RF                       ..........xxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx...xx.xxxxxxxxxxxx...xxx.xxxx.x.xxxxxxxxxxxx..
+//

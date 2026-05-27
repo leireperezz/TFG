@@ -1,0 +1,72 @@
+# STOCKHOLM 1.0
+
+Q0VDD8|PF12780|2007-2243         ct--------------------------IFQI.GIDGCGKKTCATLACYLTDNKLYRVPISHKCAYIEFKEVFKKVFIHAGLKGKPTVLMVPNLNIEQDSFLEDLNYIISSGRIPDLFENVELDSIAMKIRYLTEQS....G.HMD.NRQSLLSFFQKRIYKNLHIFVIMSPEGPSFRQNCRVYPSMISS..CTIDWYER
+#=GR Q0VDD8|PF12780|2007-2243 PP 75..........................689*.**************************************************************************************************999999....*.***.*******************************************..********
+Q14204|PF12780|2908-3186         .p--LVLFNEVLDHVLRIDRIFRQPQGHLLLI.GVSGAGKTTLSRFVAWMNGLSVYQIKVHRKYTGEDFDEDLRTVLRRSGCKNEKIAFIMDESNVLDSGFLERMNTLLANGEVPGLFEGDEYATLMTQCKEGAQKE....GlMLD.SHEELYKWFTSQVIRNLHVVFTMNPSSEGLKDRAATSPALFNR..CVLNWFGD
+#=GR Q14204|PF12780|2908-3186 PP .6..9***************************.****************************************************************************************************9999....62579.*******************************************..********
+Q6ZR08|PF12780|2227-2301         ..MNLVIFRYVLEHLSRICRVLKQSGGNALLV.GLGGSGRQSLTRLATSMAKMHIFQPEISKSYGMNEWREDMKSFI------------------------------------------------------------....-.---.-------------------------------------------..--------
+#=GR Q6ZR08|PF12780|2227-2301 PP ..9*****************************.*****************************************986...........................................................................................................................
+Q8IVF4|PF12780|2773-3032         ..MNLVLFDDALEHLTRVHRIIRMDRGHALLV.GVGGSGKQSLSRLAAFTASCEVFEILLSRGYSENSFREDLKSLYLKLGIENKAMIFLFTDAHVAEEGFLELINNMLTSGIVPALFSEEEKESILSQIGQEALKQ....G.MGP.AKESVWQYFVNKSANNLHIVLGMSPVGDTLRTWCRNFPGMVNN..TGIDWFMP
+#=GR Q8IVF4|PF12780|2773-3032 PP ..9*****************************.********************************************************************************************************....*.***.*******************************************..********
+Q8NCM8|PF12780|2625-2881         ..LDILLFHEVLEYMSRIDRVLSFPGGSLLLA.GRSGVGRRTITSLVSHMHGAVLFSPKISRGYELKQFKNDLKHVLQLAGIEAQQVVLLLEDYQFVHPTFLEMINSLLSSGEVPGLYTLEELEPLLLPLKDQASQD....-.--G.FFGPVFNYFTYRIQQNLHIVLIMDSANSNFMINCESNPALHKK..CQVLWMEG
+#=GR Q8NCM8|PF12780|2625-2881 PP ..699***************************.**************************************************************************************************888766........6.6789***************************************..********
+Q8TD57|PF12780|2404-2664         ..MSLVMFRFAIEHISRICRVLKQDKGHLLLV.GIGGSGRQSAAKLSTFMNAYELYQIEITKNYAGNDWREDLKKIILQVGVATKSTVFLFADNQIKDESFVEDINMLLNTGDVPNIFPADEKADIVEKMQTAARTQg..eK.VEV.TPLSMYNFFIERVINKISFSLAMSPIGDAFRNRLRMFPSLINC..CTIDWFQS
+#=GR Q8TD57|PF12780|2404-2664 PP ..89****************************.*****************************************************************************************************9998..88.999.*******************************************..********
+Q8TE73|PF12780|2926-3186         ..MDMVFFADAMVHLVKISRVIRTPQGNALLV.GVGGSGKQSLTRLASFIAGYVSFQITLTRSYNTSNLMEDLKVLYRTAGQQGKGITFIFTDNEIKDESFLEYMNNVLSSGEVSNLFARDEIDEINSDLASVMKKEf..pR.CLP.TNENLHDYFMSRVRQNLHIVLCFSPVGEKFRNRALKFPALISG..CTIDWFSR
+#=GR Q8TE73|PF12780|2926-3186 PP ..89****************************.**************************************************************************************************9999999..99.9**.*******************************************..********
+Q8WXX0|PF12780|2311-2572         ..MNLVLFRFAIEHISRISRILKQPRSHALLV.GVGGSGRQSVTRLAAHMADYSVFQVEISKGYDTTEWHEDLKVILRKCAEGEMQGVFLFTDTQIKEESFLEDVSNLLNAGEIPNLFALDEKQEICDKMRQLDRQRdktkQ.TDG.SPIALFNMFIDHCRSQLHVVLAMSPIGDAFRNRLRKFPALVNC..CTIDWFQS
+#=GR Q8WXX0|PF12780|2311-2572 PP ..9*****************************.**************************************************************************************************66555577779.999.*******************************************..********
+Q96DT5|PF12780|2825-3084         ..MHLVLFEDAMQHVCRISRILRTPQGCALLV.GVGGSGKQSLSRLAAYLRGLEVFQITLTEGYGIQELRVDLANLYIRTGAKNMPTVFLLTDAQVLDESFLVLINDLLASGEIPDLFSDEDVDKIISGIHNEVHAL....G.MVD.SRENCWKFFMARVRLQLKIILCFSPVGRTLRVRARKFPAIVNC..TAIDWFHA
+#=GR Q96DT5|PF12780|2825-3084 PP ..89****************************.********************************************************************************************************....*.***.*******************************************..********
+Q96JB1|PF12780|2790-3052         ..LDLVFFKDAMTHLIKISRIIRTSCGNALLV.GVGGSGKQSLSRLASFIAGYQIFQITLTRSYNVTNLTDDLKALYKVAGADGKGITFIFTDSEIKDEAFLEYLNNLLSSGEISNLFARDEMDEITQGLISVMKREl..pR.HPP.TFDNLYEYFISRSRKNLHVVLCFSPVGEKFRARSLKFPGLISG..CTMDWFSR
+#=GR Q96JB1|PF12780|2790-3052 PP ..79****************************.************************************************************************************************998888888..89.99*.*******************************************..********
+Q96M86|PF12780|2865-3124         .c------HSMAQHVARLVRVLARPRQHGLLLsGALGTGRHTAITLASSICQAHFFHLPSGS---EEAILQCLRDASWHAGMLSQPVALLVPSG-V-DLTTLHRLLALATSGSFPGQYTEADLDRIGEHLPRENLGV....K.QNI.KKEMVLQRFHQQVCSHLHLFFLIGDKQAHKQLPSTLFLRLLQLatASIDRYEP
+#=GR Q96M86|PF12780|2865-3124 PP .6......5689****************88774799********************987665...7888899**************99988765.3.7799******************************999999....9.999.9******************99887766665555666888877511579*****
+Q9C0G6|PF12780|2418-2676         ..-KLVFFQDAIEHVSRIARMIRQERGNALLV.GVGGTGKQSLTRLAAHICGYKCLQIELSRGYNYDSFHEDLRKLYKMAGVEDKNMVFLFTDTQIVVEEFLEDINNILNSGEVPNLFEKDELEQVLAATRPRAKEV....G.ISEgNRDEVFQYFISKVRQKLHIVLCMSPVGEAFRSRCRMFPSLVNC..CTIDWFVQ
+#=GR Q9C0G6|PF12780|2418-2676 PP ...59***************************.*******************************************************************************************************9....8.86527899***************************************..********
+Q9NYC9|PF12780|2795-3054         ..MDLVLFEDAMRHVCHINRILESPRGNALLV.GVGGSGKQSLTRLAAFISSMDVFQITLRKGYQIQDFKMDLASLCLKAGVKNLNTVFLMTDAQVADERFLVLINDLLASGEIPDLYSDDEVENIISNVRNEVKSQ....G.LVD.NRENCWKFFIDRIRRQLKVTLCFSPVGNKLRVRSRKFPAIVNC..TAIHWFHE
+#=GR Q9NYC9|PF12780|2795-3054 PP ..9*****************************.********************************************************************************************************....*.***.*******************************************..********
+Q9P225|PF12780|2732-2992         ..MQLVLFREAIEHITRIVRVIGQPRGNMLLV.GIGGSGRQSLARLASSICDYTTFQIEVTKHYRKQEFRDDIKRLYRQAGVELKTTSFIFVDTQIADESFLEDINNILSSGEVPNLYKPDEFEEIQSHIIDQARVE....Q.VPE.SSDSLFAYLIERVQNNLHIVLCLSPMGDPFRNWIRQYPALVNC..TTINWFSE
+#=GR Q9P225|PF12780|2732-2992 PP ..89****************************.********************************************************************************************************....*.***.*******************************************..********
+Q9P2D7|PF12780|2556-2815         ..LKLVLFMDAMSHICRISRTLRQALGNALLL.GVGGSGRSSLTRLASHMAEYECFQIELSKNYGMSEWRDDVKKVLLKAGLQNLPITFLFSDTQIKNESFLEDINNVLNSGDIPNLYTADEQDQIVSTMRPYIQEQ....G.LQP.TKANLMAAYTGRVRSNIHMVLCMSPIGEVFRARLRQFPSLVNC..CTIDWFNE
+#=GR Q9P2D7|PF12780|2556-2815 PP ..68****************************.********************************************************************************************************....*.***.*******************************************..********
+Q9UFH2|PF12780|2771-3030         ..MNLVLFEDAVAHICRINRILESPRGNALLV.GVGGSGKQSLSRLAAYISGLDVFQITLKKGYGIPDLKIDLAAQYIKAAVKNVPSVFLMTDSQVAEEQFLVLINDLLASGEIPGLFMEDEVENIISSMRPQVKSL....G.MND.TRETCWKFFIEKVRRQLKVILCFSPVGSVLRVRARKFPAVVNC..TAIDWFHE
+#=GR Q9UFH2|PF12780|2771-3030 PP ..9*****************************.********************************************************************************************************....*.***.*******************************************..********
+#=GC PP_cons                     ..89****************************.**************************************************************************************************999999....9.999.9******************************************..********
+#=GC RF                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxx
+
+Q0VDD8|PF12780|2007-2243         WPEEALLIVANSFL....................KEkvnFENRENLKE...........KLAPTCVQIHKSMKDLNRKYF..EETGRFYYTTPNSYLQFMETFA--h.
+#=GR Q0VDD8|PF12780|2007-2243 PP **************....................*988778899****...........*********************..*******************996..7.
+Q14204|PF12780|2908-3186         WSTEALYQVGKEFTskmdlekpnyivpdympvvyDK...LPQPPSHRE...........AIVNSCVFVHQTLHQANARLA..KRGGRTMAITPRHYLDFINHYANL..
+#=GR Q14204|PF12780|2908-3186 PP *************94444444444444444443333...444455555...........*********************..*********************997..
+Q6ZR08|PF12780|2227-2301         --------------....................--...---------...........---------------------..------------------------a.
+#=GR Q6ZR08|PF12780|2227-2301 PP ..........................................................................................................7.
+Q8IVF4|PF12780|2773-3032         WPPQALHAVAKSFL....................GY..nPMIPAENIE...........NVVKHVVLVHQSVDHYSQQFL..QKLRRSNYVTPKNYLDFINTYSKL..
+#=GR Q8IVF4|PF12780|2773-3032 PP **************....................98..6899******...........*********************..*********************987..
+Q8NCM8|PF12780|2625-2881         WSNSSMKKIPEMLF....................SE...TGGGEKYND...........KKRKEEKKKNSVDPDFLKSFLliHESCKAYGATPSRYMTFLHVYS--a.
+#=GR Q8NCM8|PF12780|2625-2881 PP **************....................99...777777776...........666666666666666767664225666777788999999988885..8.
+Q8TD57|PF12780|2404-2664         WPTDALELVANKFL....................ED...VELDDNIRV...........EVVSMCKYFQESVKKLSLDYY..NKLRRHNYVTPTSYLELILTFKTL..
+#=GR Q8TD57|PF12780|2404-2664 PP **************....................**...*********...........*********************..*********************987..
+Q8TE73|PF12780|2926-3186         WPKDALVAVSEHFL....................TSy.dIDCSLEIKK...........EVVQCMGSFQDGVAEKCVDYF..QRFRRSTHVTPKSYLSFIQGYK--..
+#=GR Q8TE73|PF12780|2926-3186 PP **************....................997.7888999***...........*********************..*******************997....
+Q8WXX0|PF12780|2311-2572         WPEDALQAVASRFL....................EE...IEMSEEIRD...........GCIDMCKSFHTSTIDLSKSFF..VELQRYNYVTPTSYLELISTFK--l.
+#=GR Q8WXX0|PF12780|2311-2572 PP **************....................**...*********...........*********************..********************97..8.
+Q96DT5|PF12780|2825-3084         WPQEALVSVSRRFI....................EE..tKGIEPVHKD...........SISLFMAHVHTTVNEMSTRYY..QNERRHNYTTPKSFLEQISLFKNL..
+#=GR Q96DT5|PF12780|2825-3084 PP **************....................**..5666777788...........8888999**************..**********************97..
+Q96JB1|PF12780|2790-3052         WPREALIAVASYFL....................SDy.nIVCSSEIKR...........QVVETMGLFHDMVSESCESYF..QRYRRRAHVTPKSYLSFINGYKNI..
+#=GR Q96JB1|PF12780|2790-3052 PP **************....................**9.88899*****...........*********************..*********************986..
+Q96M86|PF12780|2865-3124         WDQAALAKVAQHHL....................EGaqsVPLDDG--SwkypdlqasipSVAKAMALIHLSATHYHEHLC..PAL---PLVTPKTFLDFLDTF---lm
+#=GR Q96M86|PF12780|2865-3124 PP **************....................77644222222..233566666667888888888988888877666..554...68**********998...68
+Q9C0G6|PF12780|2418-2676         WPREALLSVSKTFF....................SQ..vDAGNEELKE...........KLPLMCVNVHLSVSSMAERYY..NELRRRYYTTPTSYLELINLYL--s.
+#=GR Q9C0G6|PF12780|2418-2676 PP **************....................**..8899******...........*********************..********************95..7.
+Q9NYC9|PF12780|2795-3054         WPQQALESVSLRFL....................QN..tEGIEPTVKQ...........SISKFMAFVHTSVNQTSQSYL..SNEQRYNYTTPKSFLEFIRLYQSL..
+#=GR Q9NYC9|PF12780|2795-3054 PP **************....................**..7788999***...........*********************..*********************987..
+Q9P225|PF12780|2732-2992         WPQEALLEVAEKCL....................IGv.dLGTQENIHR...........KVAQIFVTMHWSVAQYSQKML..LELRRHNYVTPTKYLELLSGYKKL..
+#=GR Q9P225|PF12780|2732-2992 PP **************....................655.5999******...........*********************..**********************97..
+Q9P2D7|PF12780|2556-2815         WPAEALKSVATVFL....................NEipeLESSQEEIQ...........GLIQVCVYIHQSVSKKCIEYL..AELTRHNYVTPKSYLELLHIF---s.
+#=GR Q9P2D7|PF12780|2556-2815 PP **************....................*9888788888899...........*********************..******************988...6.
+Q9UFH2|PF12780|2771-3030         WPEDALVSVSARFL....................EE..tEGIPWEVKA...........SISFFMSYVHTTVNEMSRVYL..ATERRYNYTTPKTFLEQIKLYQNL..
+#=GR Q9UFH2|PF12780|2771-3030 PP **************....................**..88899*****...........*********************..*********************997..
+#=GC PP_cons                     **************....................99...788888999...........99*****************99..999*****************9897..
+#=GC RF                          xxxxxxxxxxxxxx....................xx...xxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx..
+//

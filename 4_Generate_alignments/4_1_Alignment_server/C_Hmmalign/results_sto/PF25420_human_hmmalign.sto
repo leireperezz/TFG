@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+O60281|PF25420|531-563         .SARFRNWQAYMQYCVLCDKEFLGHRIVRHAQKH
+#=GR O60281|PF25420|531-563 PP .89*******************************
+Q13129|PF25420|544-576         .SERYQRWLQYKFFCLLCKRECIEARILHHSKMH
+#=GR Q13129|PF25420|544-576 PP .9********************************
+Q8IZM8|PF25420|539-566         d------HNVPRHRCMLCNKEFLGGHIVRHAQAH
+#=GR Q8IZM8|PF25420|539-566 PP 7......67889*********************9
+#=GC PP_cons                   .89****9999***********************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

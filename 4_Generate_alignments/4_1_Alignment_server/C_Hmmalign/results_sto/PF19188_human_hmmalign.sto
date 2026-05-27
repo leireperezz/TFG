@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O14514|PF19188|41-219         EPCATLVQGKFFGYFSAAAVFPANASRCSWTLRNPDPRRYTLYMKVAKAPVPCSgPGRVRTYQFDSFLEST-............-RTYLGVESFDEV.....LRLCDPSAPLAFLQASKQFLQMRRQQPPQHDglrPRAGPPGPTDDFSVEYLVVGNRNPSRAACQMLCRWLDACLAGSRS.SHPCGIMQTPCACLGG--
+#=GR O14514|PF19188|41-219 PP 69****************************************************99***************..............************.....******************************9999999******************************************.*************975..
+O60241|PF19188|38-229         SACSALASGVLYGAFSLQDLFPTIASGCSWTLENPDPTKYSLYLRFNRQEQVCA.HFAPRLLPLDHYLVNFTclrpspeeavaqAESEVGRPEEEEAeaaagLELCSGSGPFTFLHFDKNFVQLCLSAEPSEA...PRLLAPAALAFRFVEVLLINNNNSSQFTCGVLCRWSEECGRAA--.GRACGFAQPGCSCPGE--
+#=GR O60241|PF19188|38-229 PP 58****************************************************.***************************9999******99998899999******************************...*****************************************99...**************87..
+O60242|PF19188|30-201         --CSTLVKGVIYGSYSVSEMFPKNFTNCTWTLENPDPTKYSIYLKFSKKDLSCS.NFSLLAYQFDHFSHEK-............IKDLLRKN--HSI.....MQLCNSKNAFVFLQYDKNFIQIRRVFPTNFP...GLQKKGEEDQKSFFEFLVLNKVSPSQFGCHVLCTWLESCLKSENGrTESCGIMYTKCTCPQH--
+#=GR O60242|PF19188|30-201 PP ..****************************************************.************9998.............77777766..899.....************************9888877...77777788889999****************************9652789**********975..
+#=GC PP_cons                  69****************************************************.**************99*............89999999**999.....*************************999999...9999999999********************************987.99***********986..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx............xxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx
+
+O14514|PF19188|41-219         e
+#=GR O14514|PF19188|41-219 PP 7
+O60241|PF19188|38-229         a
+#=GR O60241|PF19188|38-229 PP 6
+O60242|PF19188|30-201         .
+#=GR O60242|PF19188|30-201 PP .
+#=GC PP_cons                  .
+#=GC RF                       .
+//

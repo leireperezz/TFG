@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+A6NKB5|PF05041|1619-1844         .........DSDEDSPLVTLSFALCTLGRRALGTAAHN-MAISLDSFLYGLHVLFKGDFRITA-RDEWVFADMDLLHKVVAPAIRMSLKLHQDQFTCPDEYEDPAVLYEAIQSFEKKVVICHEGDPAWRGAVLSNKEELLTLRHVVDEGADEYKVIMLHRSFLSFKVIKVNKECVRGLWAGQQQELIFLRNRNPERGSIQ
+#=GR A6NKB5|PF05041|1619-1844 PP .........7899************************9.**********************99.****************************************************************************************************************************************
+Q96RV3|PF05041|1782-2008         .........DVDKDSSLVTLCYGLCVLGRRALGTASHH-MSSNLESFLYGLHALFKGDFRISSIRDEWIFADMELLRKVVVPGIRMSIKLHQDHFTSPDEYDDPTVLYEAIVSHEKNLVIAHEGDPAWRSAVLANSPSLLALRHVMDDGTNEYKIIMLNRRYLSFRVIKVNKECVRGLWAGQQQELVFLRNRNPERGSIQ
+#=GR Q96RV3|PF05041|1782-2008 PP .........6789*************************.*****************************************************************************************************************************************************************
+Q9H6A9|PF05041|1571-1795         ......qdw----NSPLVTLCFGLCVLGRRALGTASHS-MSASLEPFLYGLHALFKGDFRITSPRDEWVFADMDLLHRVVAPGVRMALKLHQDHFTSPDEYEEPAALYDAIAANEERLVISHEGDPAWRSAILSNTPSLLALRHVLDDASDEYKIIMLNRRHLSFRVIKVNRECVRGLWAGQQQELVFLRNRNPERGSIQ
+#=GR Q9H6A9|PF05041|1571-1795 PP ......876....6889*********************.*****************************************************************************************************************************************************************
+Q63HM2|PF05041|1011-1164         wltekpelf-------------------------------------------------------------------QLALK-AFRYTLKLMIDKASLGP-IEDFRELIKYLEEYERDWYIGLVSDEKWKEAILQEKPYLFSLGY--DSNMGIYTGRVLSLQELLIQVGKLNPEAVRGQWANLSWELLYATNDDEERYSIQ
+#=GR Q63HM2|PF05041|1011-1164 PP 777666555...................................................................44444.99******999976655.899999************************************75..5555566666677788999***********************************
+#=GC PP_cons                     .........6789899**********************.*************************************99999*************99999*******************************************99**999999999999999***************************************
+#=GC RF                          .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+A6NKB5|PF05041|1619-1844         NNKQVLRNLINSSCDQPLGYPMYVSPLTTSYLGTHRQ.
+#=GR A6NKB5|PF05041|1619-1844 PP ********************************99976.
+Q96RV3|PF05041|1782-2008         NAKQALRNMINSSCDQPIGYPIFVSPLTTSYSDSHEQ.
+#=GR Q96RV3|PF05041|1782-2008 PP *********************************9986.
+Q9H6A9|PF05041|1571-1795         NAKQALRNMINSSCDQPLGYPIYVSPLTTSLAGSH--p
+#=GR Q9H6A9|PF05041|1571-1795 PP ******************************98765..7
+Q63HM2|PF05041|1011-1164         AHPLLLRNLTVQAAEPPLGYPIYSS------------.
+#=GR Q63HM2|PF05041|1011-1164 PP **********************976.............
+#=GC PP_cons                     ***********************99******998886.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

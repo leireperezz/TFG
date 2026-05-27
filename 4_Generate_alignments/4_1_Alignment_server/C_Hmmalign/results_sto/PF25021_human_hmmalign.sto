@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q6N022|PF25021|1200-1563         PPVIGSIMGNGRRRSISCPSCNGLADGNKLLAPVALTCGSDGSLYVGDFNYIRRIFPSGNVTNILELrnkdfrhSHSPAHKYYLATDPMSGAVFLSDSNSRRVFKIKSTVVVKDLVKNSEVVAGTGDQCLPFDDTRCGDGGKATEATLTNPRGITVDKFGLIYFVDGTMIRRIDQNGIISTLLGSNDLTSARPLSCDSVM
+#=GR Q6N022|PF25021|1200-1563 PP 99*****************************************************************8887777777***************************************************************************************************************************
+Q9NT68|PF25021|1208-1571         PAIITSIMGNGRRRSISCPSCNGLAEGNKLLAPVALAVGIDGSLYVGDFNYIRRIFPSRNVTSILELrnkefkhSNNPAHKYYLAVDPVSGSLYVSDTNSRRIYRVKSLSGTKDLAGNSEVVAGTGEQCLPFDEARCGDGGKAIDATLMSPRGIAVDKNGLMYFVDATMIRKVDQNGIISTLLGSNDLTAVRPLSCDSSM
+#=GR Q9NT68|PF25021|1208-1571 PP 89*****************************************************************9999988888***************************************************************************************************************************
+Q9P273|PF25021|1143-1499         PPVVSSIMGNGRRRSISCPSCNGQADGNKLLAPVALACGIDGSLYVGDFNYVRRIFPSGNVTSVLEL.......SSNPAHRYYLATDPVTGDLYVSDTNTRRIYRPKSLTGAKDLTKNAEVVAGTGEQCLPFDEARCGDGGKAVEATLMSPKGMAVDKNGLIYFVDGTMIRKVDQNGIISTLLGSNDLTSARPLTCDTSM
+#=GR Q9P273|PF25021|1143-1499 PP 99*****************************************************************.......******************************************************************************************************************************
+Q9UKZ4|PF25021|1165-1522         PPVISTIMGNGHQRSVACTNCNGPAHNNKLFAPVALASGPDGSVYVGDFNFVRRIFPSGNSVSILEL.......STSPAHKYYLAMDPVSESLYLSDTNTRKVYKLKSLVETKDLSKNFEVVAGTGDQCLPFDQSHCGDGGRASEASLNSPRGITVDRHGFIYFVDGTMIRKIDENAVITTVIGSNGLTSTQPLSCDSGM
+#=GR Q9UKZ4|PF25021|1165-1522 PP 99*****************************************************************.......******************************************************************************************************************************
+#=GC PP_cons                     99*****************************************************************.......999***************************************************************************************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6N022|PF25021|1200-1563         DISQVHLEWPTDLAINPMDNSLYVLDNNVVLQISENHQVRIVAGRPMHCQVPGIDHFlLSKVAIHATLESATALAVSHNGVLYIAETDEKKINRIRQVTTSGEISLVAGAPSGCDCKNDANCDCFSGDDGYAKDAKLNTPSSLAVCADGELYVADLGNIRIRF--i
+#=GR Q6N022|PF25021|1200-1563 PP ******************************************************9653799****************************************************************************************************96..5
+Q9NT68|PF25021|1208-1571         DVAQVRLEWPTDLAVNPMDNSLYVLENNVILRITENHQVSIIAGRPMHCQVPGIDYS.LSKLAIHSALESASAIAISHTGVLYITETDEKKINRLRQVTTNGEICLLAGAASDCDCKNDVNCNCYSGDDAYATDAILNSPSSLAVAPDGTIYIADLGNIRIRAVS.
+#=GR Q9NT68|PF25021|1208-1571 PP *********************************************************.**********************************************************************************************************8.
+Q9P273|PF25021|1143-1499         HISQVRLEWPTDLAINPMDNSIYVLDNNVVLQITENRQVRIAAGRPMHCQVPGVEYP.VGKHAVQTTLESATAIAVSYSGVLYITETDEKKINRIRQVTTDGEISLVAGIPSECDCKNDANCDCYQSGDGYAKDAKLSAPSSLAASPDGTLYIADLGNIRIRAVS.
+#=GR Q9P273|PF25021|1143-1499 PP *********************************************************.**********************************************************************************************************8.
+Q9UKZ4|PF25021|1165-1522         DITQVRLEWPTDLAVNPMDNSLYVLDNNIVLQISENRRVRIIAGRPIHCQVPGIDHFlVSKVAIHSTLESARAISVSHSGLLFIAETDERKVNRIQQVTTNGEIYIIAGAPTDCDCKIDPNCDCFSGDGGYAKDAKMKAPSSLAVSPDGTLYVADLGNVRIRTIS.
+#=GR Q9UKZ4|PF25021|1165-1522 PP ******************************************************9653899******************************************************************************************************98.
+#=GC PP_cons                     *******************************************************88.9*******************************************************************************************************998.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

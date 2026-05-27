@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+P07305|PF00538|25-96           ..HPKYSDMIVAAIQAEKNRAGSSRQSIQKYIKSHYKVG--ENADSQIKLSIKRLVTTGVLKQT...KGVGASGSFRLA.
+#=GR P07305|PF00538|25-96   PP ..9**********************************94..689********************...**********96.
+P10412|PF00538|38-108          ..-PPVSELITKAVAASKERSGVSLAALKKALAAAGY--DVEKNNSRIKLGLKSLVSKGTLVQT...KGTGASGSFKLN.
+#=GR P10412|PF00538|38-108  PP ...89*******************************8..9************************...**********96.
+P16401|PF00538|41-111          ..-PPVSELITKAVAASKERNGLSLAALKKALAAGGY--DVEKNNSRIKLGLKSLVSKGTLVQT...KGTGASGSFKLN.
+#=GR P16401|PF00538|41-111  PP ...89*******************************8..9************************...**********96.
+P16402|PF00538|39-109          ..-PPVSELITKAVAASKERSGVSLAALKKALAAAGY--DVEKNNSRIKLGLKSLVSKGTLVQT...KGTGASGSFKLN.
+#=GR P16402|PF00538|39-109  PP ...89*******************************8..9************************...**********96.
+P16403|PF00538|38-108          ..-PPVSELITKAVAASKERSGVSLAALKKALAAAGY--DVEKNNSRIKLGLKSLVSKGTLVQT...KGTGASGSFKLN.
+#=GR P16403|PF00538|38-108  PP ...89*******************************8..9************************...**********96.
+P22492|PF00538|43-112          ..--SVSKLITEALSVSQERVGMSLVALKKALAAAGY--DVEKNNSRIKLSLKSLVNKGILVQT...RGTGASGSFKLS.
+#=GR P22492|PF00538|43-112  PP ....6899****************************8..9************************...**********96.
+P60008|PF00538|114-169         ..KPSTSKVILRAVADKGTCKYVSLATLKKAVSTTGY--DMARNAYHFKRVLKGLVDKG-----...------------s
+#=GR P60008|PF00538|114-169 PP ..69********************************8..9******************9....................6
+Q02539|PF00538|41-111          ..-PSVSELIVQAASSSKERGGVSLAALKKALAAAGY--DVEKNNSRIKLGIKSLVSKGTLVQT...KGTGASGSFKLN.
+#=GR Q02539|PF00538|41-111  PP ...89*******************************8..9************************...**********96.
+Q149N8|PF00538|440-510         ..-PPTRVMILTAVKEMNGKKGVSILSIYKYVSSIYRY-DVQRNRSLLKRMLKCLIFEGLVKQI...KGHGFSGTFTL-.
+#=GR Q149N8|PF00538|440-510 PP ...89*********************************.*************************...*********87..
+Q5SSJ5|PF00538|159-229         ..-PKMDAILTEAIKACFQKSGASVVAIRKYIIHKYPSLELERRGYLLKQALKRELNRGVIKQV...KGKGASGSF---v
+#=GR Q5SSJ5|PF00538|159-229 PP ...78999*****************************99*************************...********9...8
+Q5SSJ5|PF00538|266-328         af------------TRLCEPKEASYSLIRKYVSQYYPKLRVDIRPQLLKNALQRAVERGQLEQI...TGKGASGTFQL-.
+#=GR Q5SSJ5|PF00538|266-328 PP 76............56778999***************986666678******************...*********97..
+Q5SSJ5|PF00538|343-411         ey------AILSAIAAMNEPKTCSTTALKKYVLENHPGTNSNYQMHLLKKTLQKCEKNGWMEQI...SGKGFSGTFQL-.
+#=GR Q5SSJ5|PF00538|343-411 PP 87......599**************************9999999********************...*********97..
+Q8IZA3|PF00538|52-127          ..HPPVLRMVLEALQAGEQRRGTSVAAIKLYILHKYPTVDVLRFKYLLKQALATGMRRGLLARPlnsKARGATGSFKL-.
+#=GR Q8IZA3|PF00538|52-127  PP ..9**********************************99*************************55555********8..
+Q92522|PF00538|47-117          ..--KYSQLVVETIRRLGERNGSSLAKIYTEAKKVPWF-DQQNGRTYLKYSIKALVQNDTLLQV...KGTGANGSFKLN.
+#=GR Q92522|PF00538|47-117  PP ....69*******************************9.*************************...**********96.
+#=GC PP_cons                   ..8999******************************9989999*********************...**********96.
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxx.
+//

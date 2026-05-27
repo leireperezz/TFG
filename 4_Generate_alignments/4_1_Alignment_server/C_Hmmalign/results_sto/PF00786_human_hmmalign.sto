@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+O00401|PF00786|202-260         DIGTP.SNFQHIGHVGWDPNTGFDL..............nNLDPELKNLFDMCGISEAQLKDRETSKVIYDFI--e
+#=GR O00401|PF00786|202-260 PP 7****.*******************..............*******************************987..6
+O14613|PF00786|29-86           MISPPlGDFRHTIHIGSGGGSDMFGd.............iSFLQGKFHLLPGT---MVEGPEEDGTFDLPFQF--t
+#=GR O14613|PF00786|29-86   PP 8*************************.............**************...99999999999888888..6
+O75914|PF00786|69-141          EISLP.SDFEHTIHVGFDAVTGEFTpdlygsqmcpgklpeGIPEQWARLLQTSNITKLEQKKNPQAVLDVLKFY-.
+#=GR O75914|PF00786|69-141  PP 7****.*******************************************************************8..
+O96013|PF00786|10-63           EISAP.SNFEHRVHTGFDQHEQKFT...............GLPRQWQSLIEES-ARRPKPLVDPACITSI-----q
+#=GR O96013|PF00786|10-63   PP 7****.*******************...............*************.************9987.....5
+P42768|PF00786|237-294         DIGAP.SGFKHVSHVGWDPQNGFDV..............nNLDPDLRSLFSRAGISEAQLTDAETSKLIYDFI--.
+#=GR P42768|PF00786|237-294 PP 7****.*******************..............******************************9975...
+Q00587|PF00786|37-64           MISHPlGDFRHTMHVGRGGDVFGDT...............SFL--------------------------------.
+#=GR Q00587|PF00786|37-64   PP 8************************...............985.................................
+Q13153|PF00786|74-132          EISLP.SDFEHTIHVGFDAVTGEFT...............GMPEQWARLLQTSNITKSEQKKNPQAVLDVLEFYN.
+#=GR Q13153|PF00786|74-132  PP 7****.*******************...............*********************************96.
+Q13177|PF00786|73-130          EISPP.SDFEHTIHVGFDAVTGEFT...............GMPEQWARLLQTSNITKLEQKKNPQAVLDVLKFY-.
+#=GR Q13177|PF00786|73-130  PP 7****.*******************...............*********************************8..
+Q6NZY7|PF00786|23-49           -ISAPlGDFRHTLHVGRGGDAFGDT...............SFL--------------------------------.
+#=GR Q6NZY7|PF00786|23-49   PP .9***********************...............985.................................
+Q9H3Q1|PF00786|26-84           MISAPlGDFRHTMHVGRAGDAFGDT...............SFLNSKAGEPDGESLDEQPSSSSSKRSLLSRKFR-.
+#=GR Q9H3Q1|PF00786|26-84   PP 8************************...............*******************************996..
+Q9NQU5|PF00786|11-63           EISAP.QNFQHRVHTSFDPKEGKFV...............GLPPQWQNILDTL--RRPKPVVDPSRITRVQ----.
+#=GR Q9NQU5|PF00786|11-63   PP 7****.*******************...............*************..***********99875.....
+Q9NRR3|PF00786|28-43           MIGEP.TNFVHTAHVG---------...............-----------------------------------s
+#=GR Q9NRR3|PF00786|28-43   PP 8****.**********...........................................................6
+Q9P286|PF00786|10-63           EISGP.SNFEHRVHTGFDPQEQKFT...............GLPQQWHSLLADT-ANRPKPMVDPSCITPI-----q
+#=GR Q9P286|PF00786|10-63   PP 7****.*******************...............*************.************9876.....6
+Q9UKI2|PF00786|30-84           MISPPlGDFRHTIHIGKEGQHDVFGd.............iSFLQGNYELLPGN-----QEKAHLGQFPGHNEF--.
+#=GR Q9UKI2|PF00786|30-84   PP 8*************************.............**************.....777777777777665...
+#=GC PP_cons                   7****.*******************...............**9**********************9999999886.
+#=GC RF                        xxxxx.xxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

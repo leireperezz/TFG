@@ -1,0 +1,46 @@
+# STOCKHOLM 1.0
+
+Q5THJ4|PF25036|3030-3557         ...v------------------------------------------------------RVVFAVTMEGSARKVITVRSALIVRNRLETPMELRLDSPSAPDKPVVlPAIMPGDSFAVPLHL-TSWRLQARPKG..-LGVFFCKAPIHWTNVVktaeiS--SS...KRECHSMDTEKsRFFRFCvaikkenypdympSNIF
+#=GR Q5THJ4|PF25036|3030-3557 PP ...6......................................................79999*******************************888888888889***************.999*****996...67778889****9999555432..22...33445444444366677777666555555555555
+Q709C8|PF25036|2482-3016         ..rq-------------ESSFFTLTIVPHGYTEVANIPVARPGRRLYNVRNPNASHSDSVLVQIDATEG-NKVITLRSPLQIKNHFSIAFIIYKFVKNVKLLERI.GIARPEEEFHVPLDS-YRCQLFIQPAGilEHQYKESTTYISWKEEL.....HRSREvrcMLQCPSVEVSFlPL-IVN.............TVAL
+#=GR Q709C8|PF25036|2482-3016 PP ..75.............5677888888899*************************999***99998775.59*****************9888888999999999.999************.**********9999************9999.....6666211145555555555333.333.............3333
+Q7Z7G8|PF25036|2631-2714         ...h-----------------------------------------------------------------------------------------------------.---------------------------..-----------------.....-----...-----------.------.............----
+#=GR Q7Z7G8|PF25036|2631-2714 PP ...6....................................................................................................................................................................................................
+Q96RL7|PF25036|1945-2452         pvnh---------------------------STADKIPLTKVGRRLYTVRHRESGVERSIVCQIDTVE-GSKKVTIRSPVQIRNHFSVPLSVYE-------GDTLlGTASPENEFNIPLGS-YRSFIFLKPED..-ENYQMC-EGIDFEEII.....KNDGA...LLKKKCRSKNP.SKESFL.............INIV
+#=GR Q96RL7|PF25036|1945-2452 PP *976...........................57789****************************9876.56779*************9996554.......45555899************.********995...689987.99*******.....**997...77666666665.666666.............6665
+#=GC PP_cons                     .................5677888888899*8899***********************99****998878799****************9888788999997778.999************.*********97..978998899****9999.....68863...45555555555.556555.............5555
+#=GC RF                          ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxx.....xxxxx...xxxxxxxxxxx.xxxxxx.............xxxx
+
+Q5THJ4|PF25036|3030-3557         SDSAKQIF.R-Q.......PGHTIYLLPTVVICNLLPCELDFYV----KGMPINGTLKPGKEAALHTADTSQNIELGVSLE--NFPLCKELLIPPGTQNYM-----V.RMRLY.DVNRRQLNLTIRIVCRAEGSLKIFISAPYWLINKTGLPLIFRQDNAKTDAAGQFEEHELARSLSPLLFCYAD..KEQPNLCTMRIG
+#=GR Q5THJ4|PF25036|3030-3557 PP 55555555.5.4.......*************************....778999***************************..****************95.....9.*****.************************************************************************..************
+Q709C8|PF25036|2482-3016         PDELSYIC.T-Hge..dwdVAYIIHLYPSLTLRNLLPYSLRYLL----EGTAETHELAEGSTADVLHSRISGEIMELVLVKYQGKNWNGHFRIRDTLPEFF--PVCF.SSDST.EVTTVDLSVHVRR---IGSRMVLSVFSPYWLINKTTRVLQYRSEDIHVKHP------ADFRDI--ILFSFKKknIFTKNKVQLKIS
+#=GR Q709C8|PF25036|2482-3016 PP 34444444.4.246..66666779********************....778889***************99999999999999**********99998876..6677.88888.8999999999998...4555567*******************995432222......345778..9******54459*********
+Q7Z7G8|PF25036|2631-2714         --------.---.......----------------------------------------------------------------------------------------.-----.------------------------------------------------------------------------..------------
+#=GR Q7Z7G8|PF25036|2631-2714 PP ........................................................................................................................................................................................................
+Q96RL7|PF25036|1945-2452         PEKDNLTSlSVYsedgwdlP-YIMHLWPPILLRNLLPYKIAYYI---EGIENSVFTLSEGHSAQICTAQLGKARLHLKLLDYLNHDWKSEYHIKPNQQDI-----SFvSFTCVtEMEKTDLDIAVHMTYNTGQTV-VAFHSPYWMVNKTGRMLQYKADGIHRKHPPN--------YKKPVLFSFQPnhFFNNNKVQLMVT
+#=GR Q96RL7|PF25036|1945-2452 PP 5454444325668****998.5589*******************...444456689**************9875433344446**********9999775.....333445444688999999999999999889.********************99765333322........235******995456999*******
+#=GC PP_cons                     45544444.464.......88789********************...46677889***************9998877778878***********9998876..6656.77777.89999999999999998888889*******************99776555566****6788777*******9..679*********
+#=GC RF                          xxxxxxxx.xxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx
+
+Q5THJ4|PF25036|3030-3557         RgihpegmPGWCQGFSLDGGSGVRALKVIQQGNRpGLIYnIGIDVKKGRGRYIDTCMVIFAPRYLLDNKSSHKLAFAQREFARgqgtanpegYISTLP....GSSVVFHWPRNDYDQLLCVRLMDVPNcIWSGGFEVNKNNSFHINMRDTLGKCFFLRVEITLRGATYRISFsDTDQLPPPFRIDNFSKVPVVFTQhgvA
+#=GR Q5THJ4|PF25036|3030-3557 PP ****************************999988656667**********************************************************....************************999*******************************************999*******************999***
+Q709C8|PF25036|2482-3016         T.......SAWSSSFSLDTVGSYGCVKCPA--NN.MEYL.VGVSIKMSS--FNLSRIVTLTPFCTIANKSSLELEVGEIASDG.........SMPTNKwnyiASSECLPFWPESLSGKLCVRVVGCEG.-SSKPFFYNRQDNGTLLSLEDLNGGILVDVNT--AEHSTVITFsDYHEGSAPALIMNHTPWDILTYK...Q
+#=GR Q709C8|PF25036|2482-3016 PP *.......***************6666655..55.6779.9****9998..****************************9999.........7777662222344567777888888999***88776..9****98876665666666667777766665..777778999899999*************99988...5
+Q7Z7G8|PF25036|2631-2714         -.......--------------------------.----.-----------------------FVICNDTQETLRFGQVDTDE.........NILLAS....LHSHQYSWRSHKSPQLLHICIEGWGNwRWSEPFSVDHAG-TFIRTIQ-----------------------.-----------------------...-
+#=GR Q7Z7G8|PF25036|2631-2714 PP ...............................................................9*******************.........******....***999999999999999*********************.5555544...................................................
+Q96RL7|PF25036|1945-2452         D.......SELSNQFSIDTVGSH--GAVKCKGLK.MDYQ.VGVTIDLSS--FNITRIVTFTPFYMIKNKSKYHISVAEEGNDK.........WLSLDL....EQCIPFWPEYASSKLLIQVE------.-------------------------------------------.-----------------------...-
+#=GR Q96RL7|PF25036|1945-2452 PP *.......**************9..566677888.889*.*******99..********************************.........******....******77776666666554..............................................................................
+#=GC PP_cons                     *.......***************88777778877.7778.*******99**********************************.........999999....88989988888888888898*99998.*******9999987777777888888888888**88899999*.9999****************988...7
+#=GC RF                          x.......xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx...x
+
+Q5THJ4|PF25036|3030-3557         EPRLRTE------------VKPMTSLDYAWDEPT---............................................................................................
+#=GR Q5THJ4|PF25036|3030-3557 PP ******8............**************6...............................................................................................
+Q709C8|PF25036|2482-3016         SGSPEEM-----------VLLPRQARLFAWADPT---g...........................................................................................
+#=GR Q709C8|PF25036|2482-3016 PP 5443342...........3788888888888886...7...........................................................................................
+Q7Z7G8|PF25036|2631-2714         -------------------------------------yrgrtasliik.................................................................................
+#=GR Q7Z7G8|PF25036|2631-2714 PP .....................................44555666789.................................................................................
+Q96RL7|PF25036|1945-2452         -------------------------------------rsedppkriyfnkqencillrldnelggiiaevnlaehstvitfldyhdgaatfllinhtknelvqynqsslseiedslppgkavfytwadp
+#=GR Q96RL7|PF25036|1945-2452 PP .....................................44455555555555555555555566666666666666666666666666666666666666666666666666666666666666666666
+#=GC PP_cons                     7777775...........3899999999999996...............................................................................................
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................................................................................
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P29401|PF00456|17-269         .d----TANRLRISSIQATTAAGSGHPTSCCSAAEIMAVLFFHTMRYKSQDPRNPHNDRFVLSKGHAAPILYAVWAEAGFLA-EAELLNLRKISSDLDGHPV-PKQAFTDVATGSLGQGLGAACGMAYTGKYF---------DKASYRVYCLLGDGELSEGSVWEAMAFASIYKLDNLVAILDINRLGQSDPAPLQHQMD
+#=GR P29401|PF00456|17-269 PP .7....57899*********************************************************************55.578999************8.666777******************887764.........3445679**************************************8776666666655
+P51854|PF00456|88-239         .f----------------------------------------------------------------------------------------------------------VDVATGWLGQGLGVACGMAYTGKYF---------DRASYRVFCLMSDGESSEGSVWEAMAFASYYSLDNLVAIFDVNRLGHSGALPAEHCIN
+#=GR P51854|PF00456|88-239 PP .8..........................................................................................................89*****************887754.........4445679********************************************9988877
+Q9H0I9|PF00456|18-270         dt-----ANRLRIHSIRATCASGSGQLTSCCSAAEVVSVLFFHTMKYKQTDPEHPDNDRFILSRGHAAPILYAAWVEVG-DISESDLLNLRKLHSDLERHPT-PRLPFVDVATGSLGQGLGTACGMAYTGKYLDK---------ASYRVFCLMGDGESSEGSVWEAFAFASHYNLDNLVAVFDVNRLGQSGPAPLEHGAD
+#=GR Q9H0I9|PF00456|18-270 PP 75.....7889999999********************************************************999988.9********************9.8899********************99888753.........33469**********************************************99999
+#=GC PP_cons                  ......57899***************************************************************99999*77*78999*************8.778888******************98776553.......4444579**************************************9999998888877
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P29401|PF00456|17-269         IyQKR.CEAFGWHAII-VDGHSVEELCKAFGQAKHQ---PTAIIAKTFKGRGITGVEDKESWHGKPLPK---------------------------------------------------------------------nmaeq
+#=GR P29401|PF00456|17-269 PP 42899.********99.799************9877...***************************976.....................................................................57789
+P51854|PF00456|88-239         IyQRR.CEAFGWNTYV-VDGRDVEALCQVFWQASQVKHKPTAVVAKTFKGRGTPSIEDAESWHAKPM-----------------------------------------------------------------------pre..
+#=GR P51854|PF00456|88-239 PP 62568.9******875.89*****************************************9998886.......................................................................678..
+Q9H0I9|PF00456|18-270         I.YQNcCEAFGWNTYL-VDGHDVEALCQAFWQASQVKNKPTAIVAKTFKGRGIPNIEDAENWHGKPVP----------------------------------------------------------------------ker..
+#=GR Q9H0I9|PF00456|18-270 PP 8.765279*****998.79*********************************************9975......................................................................679..
+#=GC PP_cons                  6.777.9******987.79**************999***************************999766..........................................................................
+#=GC RF                       x.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

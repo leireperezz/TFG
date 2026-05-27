@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P53814|PF12510|1-41            .---------MADEALAGLDEGALRKLLEVTADLAERRRIRSAIRELQRQE
+#=GR P53814|PF12510|1-41    PP ..........789************************************97
+P53814|PF12510|74-122          .-EQRAALARLAGQLESMNDVEELTALLRSAGEYEERKLIRAAIRRVRAQE
+#=GR P53814|PF12510|74-122  PP ..799********************************************97
+P53814|PF12510|571-619         a--PEGRSPLSAEELMTIEDEGVLDKMLDQSTDFEERKLIRAALRELRQRK
+#=GR P53814|PF12510|571-619 PP 7..6899******************************************98
+#=GC PP_cons                   ..7799****99*************************************97
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

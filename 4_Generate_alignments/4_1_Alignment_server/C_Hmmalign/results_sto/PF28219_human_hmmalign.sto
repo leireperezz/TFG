@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q96EA4|PF28219|5-458          ...i------ITNLRCRLKEAEEERLKAAQYGLQLVESQNELQNQLDKCRNEMMTMTESYEQEKYTLQREVELKSRMLESLSCECEAIKQQQKMHLEKLEEQL...SRSHGQEVNELKTKIEKLKVELDEARLSEKQLKHQVDHQKELLSCKSEELRVMSERVQESMSSEMLALQIELTEMESMKTTLKEEVNELQYRQE
+#=GR Q96EA4|PF28219|5-458  PP ...8......569******************************************************************************************...**********************************************************************************************
+Q6ZP65|PF28219|99-352         llsv-------------IRQKEKDLVLAARLGKALLERNQDMSRQYEQMHKELTDKLEHLEQEKHELRRRFENREGEWEGRVSELESDVKQLQDELERQQIHLreaDREKSRAVQELSEQNQRLLDQLSRASEVERQLSMQVHALREDFREKNSS--------TNQHIIRLESLQAEIKMLSDRKRELEHRLSATLEEND
+#=GR Q6ZP65|PF28219|99-352 PP 8765.............789*******************************************************************999999999999866522278999***************************99999888777776543........3344567889***************************
+#=GC PP_cons                  ..........569****89********************************************************************999*******999887...899********************************99999988888876********777778999****************************
+#=GC RF                       ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96EA4|PF28219|5-458          QLELLITNLMRQVDRLKEEKEEREKEAVSYYNALEKARVANQDLQVQLDQALQQA..LDPNSKGNSLFAEVEDRRAAMERQLISMKVKYQSLKKQNVFNREQMQRMKLQIATLLQMKGSQTEFEQQERLLAMLEQKNGEIKHLLGEIRNLEKFKNLYDSMESKPSVDSGTLEDNTYYTDLLQMKLDNLNKEIESTKGELS
+#=GR Q96EA4|PF28219|5-458  PP *******************************************************..************************************************************************************************************9999*******************************
+Q6ZP65|PF28219|99-352         LLQGTVEELQDRVLILERQGHDKDLQLHQSQLELQEVRLSCRQLQVKVEELTEERslQSSAATSTSLLSEIE--------------------------------------------------------------------------------------------------------------------------------
+#=GR Q6ZP65|PF28219|99-352 PP *************************************************99887512444556678999988................................................................................................................................
+#=GC PP_cons                  **************************************************99988..777778899999999*********************************************************************************************9999*******************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96EA4|PF28219|5-458          IQRMKALFESQRALDIERKLFANERCLQLSESENMKLRAKLDELKLKYEPEETVEVPVLKKRREVLPV...
+#=GR Q96EA4|PF28219|5-458  PP ******************************************************************97...
+Q6ZP65|PF28219|99-352         --------------------------------------------------------------------qsm
+#=GR Q6ZP65|PF28219|99-352 PP ....................................................................689
+#=GC PP_cons                  ******************************************************************97...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

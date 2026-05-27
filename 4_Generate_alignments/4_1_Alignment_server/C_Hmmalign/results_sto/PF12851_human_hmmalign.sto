@@ -1,0 +1,38 @@
+# STOCKHOLM 1.0
+
+O43151|PF12851|985-1697          SWSMYFNGCKYARSKTPRKFRLAGDNPKEEEVLRKSFQDLATEVAPLYKRLAPQAYQNQVTNEEIAIDCRLglkEGRPFAGVTACMDFCAHAHKDQHNLYNGCTVVCTLTkednrcvgkipedeqlhvlplykmantdefgseenqnakvgsgaiqvltafprevrrlpepakscrqrqlearkaaaekkkiqkeklstp
+#=GR O43151|PF12851|985-1697  PP 7*******************************************************************************************************************************************************************************************************
+Q6N021|PF12851|1290-1905         SWSMYYNGCKFARSKIPRKFKLLGDDPKEEEKLESHLQNLSTLMAPTYKKLAPDAYNNQIEYEHRAPECRLglkEGRPFSGVTACLDFCAHAHRDLHNMQNGSTLVCTLTrednrefggkpedeqlhvlplykvsdvdefgsveaqeekkrsgaiqvlssfrrkvrmlaepvktcrqrkleakkaaaeklsslenssnkn
+#=GR Q6N021|PF12851|1290-1905 PP 7*******************************************************************************************************************************************************************************************************
+Q8NFU7|PF12851|1580-2052         SWSMYFNGCKFGRSPSPRRFRIDPSSPLHEKNLEDNLQSLATRLAPIYKQYAPVAYQNQVEYENVARECRLgskEGRPFSGVTACLDFCAHPHRDIHNMNNGSTVVCTLTrednrslgvipqdeqlhvlplyklsdtdefgskegmeakiksgaievlaprrkkrtcftqpvprsgkkraammtevlahkiravekkpip
+#=GR Q8NFU7|PF12851|1580-2052 PP 7*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                     7**********************************************************************...************************************..........................................................................................
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........................................................................................
+
+O43151|PF12851|985-1697          ekikqealelagitsdpglslkgglsqqglkpslkvepqnhfssfkysgnavvesysvlgncrpsdpysmnsvysyhsyyaqpsltsvngfhskyalpsfsyygfpssnpvfpsqflgpgawghsgssgsfekkpdlhalhnslspayggaefaelpsqavptdahhptphhqqpaypgpkeyllpkapllhsvsrdpsp
+#=GR O43151|PF12851|985-1697  PP ********************************************************************************************************************************************************************************************************
+Q6N021|PF12851|1290-1905         ekeksapsrtkqtenasqakqlaellrlsgpvmqqsqqpqplqkqppqpqqqqrpqqqqphhpqtesvnsysasg.................................................................................................stnpymrrpnpvspypnsshtsdiygst
+#=GR Q6N021|PF12851|1290-1905 PP ***************************************************************************.................................................................................................****************************
+Q8NFU7|PF12851|1580-2052         rikrknnstttnnskpsslptlgsntetvqpevkseteph................................................................................................................................................................
+#=GR Q8NFU7|PF12851|1580-2052 PP ****************************************................................................................................................................................................................
+#=GC PP_cons                     ........................................................................................................................................................................................................
+#=GC RF                          ........................................................................................................................................................................................................
+
+O43151|PF12851|985-1697          faqssncynrsikqepvdpltqaepvprdagkmgktplsevsqnggpshlwgqysggpsmspkrtngvggswgvfssgespaivpdklssfgasclapshftdgqwglfpgegqqaashsggrlrgkpwspckfgnstS---------Alagpsltekpwalgagdfnsalkgspgfqdklwnpmkgeegripaagasql
+#=GR O43151|PF12851|985-1697  PP ***************************************************7777777777777777777777777777777777777777777777777777777777777777766666666666666655555551.........0445555555666666666666666666666666666666666666666666
+Q6N021|PF12851|1290-1905         spmnfystssqaagsylnssnpmnpypgllnqntqypsyqcngnlsvdncspylgsyspqsqpmdlyrypsqdplsklslppihtlyqprfgnsqsftskylgygnqnmqgdgfssctirpnvhhvgklppypthemdGHFMGATSRLPpnlsnpnmdykngehhspshiihnysaapgmfnsslhalhlqnkendmlsh
+#=GR Q6N021|PF12851|1290-1905 PP ******************************************************************************************************************************************9********99***************************************************
+Q8NFU7|PF12851|1580-2052         ........filkssdntktyslmpsaphpvkeaspgfswspktasatpaplkndatascgfsersstphctmpsgrlsganaaaadgpgisqlgevaplptlsapvmeplinsepstgvtepltphqpnhqpsfltspQDLASSPMEEDeqhseadeppsdeplsddplsp.............................
+#=GR Q8NFU7|PF12851|1580-2052 PP ........******************************************************************8888888888888888888888888888888888888888888777777777777777777777444444444447777777777777777777777.............................
+#=GC PP_cons                     ..........................................................................................................................................57777777774...................................................
+#=GC RF                          ..........................................................................................................................................xxxxxxxxxxx...................................................
+
+O43151|PF12851|985-1697          drawqsfglplgsseklfgalkseeklwdpfsleegpaeeppskgavkeekggggaeeeeeelwsdsehnfldenIGGVAVAPAHGSILIECARRELHATTPLKKPNrCHPTRISLVFYQHK
+#=GR O43151|PF12851|985-1697  PP 666666666666666666666666677777777777777777777777777777777777777777777778887********************************99************7
+Q6N021|PF12851|1290-1905         tanglsk.........mlpalnhdrtacvqgglhklsdangqekqplalvqgvasgaedndevwsdseqsfldpdIGGVAVAPTHGSILIECAKRELHATTPLKNPNrNHPTRISLVFYQHK
+#=GR Q6N021|PF12851|1290-1905 PP *******.........*********************************************************************************************************7
+Q8NFU7|PF12851|1580-2052         ....................................................aeeklphideywsdsehifldanIGGVAIAPAHGSVLIECARRELHATTPVEHPNrNHPTRLSLVFYQHK
+#=GR Q8NFU7|PF12851|1580-2052 PP ....................................................77777777777777777777777**********************************************7
+#=GC PP_cons                     ...........................................................................********************************.*************7
+#=GC RF                          ...........................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+//

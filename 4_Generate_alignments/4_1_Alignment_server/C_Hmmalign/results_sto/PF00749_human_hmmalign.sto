@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P07814|PF00749|197-501         KVTVRFPPEASGYLHIGHAKAALLNQHYQVNFKGKLIMRFDDTNPEKEKEDFEKVILEDVAMLHIKP-........DQFTYTSDHFETIMKYAEKLIQEGKAYVDDTPAEQMKAEREQ--RIDSKHRKNPIEKNLQMW-EEMKKGSQFGQSCCLRAKIDMSSNnGCMRDPTLYRCKIQP---.HPRTGNKYNVYPTYDFA
+#=GR P07814|PF00749|197-501 PP 79*****************************************************************.........77****************************************..99999*************.9***********************9***************....*****************
+P47897|PF00749|263-562         QVRTRFPPEPNGILHIGHAKAINFNFGYAKANNGICFLRFDDTNPEKEEAKFFTAICDMVAWLGYTP-........YKVTYASDYFDQLYAWAVELIRRGLAYVCHQRGEELKGHN----TLPSPWRDRPMEESLLLF-EAMRKGKFSEGEATLRMKLVMEDG.--KMDPVAYRVKYTP---.HHRTGDKWCIYPTYDYT
+#=GR P47897|PF00749|263-562 PP 69*****************************************************************.........**************************************99....6799**************.9*********************66...89***********....*****************
+Q5JPH6|PF00749|37-351          -VRVRFAPSPTGFLHLGGLRTALYNYIFAKKYQGSFILRLEDTDQTRVVPGAAENIEDMLEWAGIPPDesprrggpAGPYQQSQRLELYAQATEALLKTGAAYPCFCSPQRLELLKKE--ALRNHQTPRYDNRCRNMSQEQVAQKLAKDPKPAIRFRLEQVVP.-AFQDLVYGWNRHEVASVeGDPVIMKSDGFPTYHLA
+#=GR Q5JPH6|PF00749|37-351  PP .8**************************************************************************99**************************************99..666669********************************99988..********887777777699***************
+#=GC PP_cons                   79******************************************************************........99**************************************99..77888**************9*********************88.**99*****999999777.*****************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+P07814|PF00749|197-501         CPIVDSIEGVTHALRTTEYHDRDEQFYWIIEALGIR-KPYIWEYSRLNLNNTVLSKRKLTWFVNEGLVDGWDDPRFPTVRGVLRRGMTVEGLKQFIAAQGSSRSV-VNMEWDKIWAFNKKVID-
+#=GR P07814|PF00749|197-501 PP ************************************.********************************************************************.**************985.
+P47897|PF00749|263-562         HCLCDSIEHITHSLCTKEFQARRSSYFWLCNALDVY-CPVQWEYGRLNLHYAVVSKRKILQLVATGAVRDWDDPRLFTLTALRRRGFPPEAINNFCARVGVTVAQ-TTMEPHLLEACVRDVLN-
+#=GR P47897|PF00749|263-562 PP ************************************.9*******************************************************************.*************9996.
+Q5JPH6|PF00749|37-351          CVVDDHHMGISHVLRGSEWLVSTAKHLLLYQALGWQPPHFAHLPLLLNRDGSKLSKRQGDVF--LEHFAADGFLPDSLLDIITNCGSGFAENQMGRTLPELITQFNLTQVTCHSALLDLEKL--
+#=GR Q5JPH6|PF00749|37-351  PP ************************************************************99..9**************************99999*********99999988888888776..
+#=GC PP_cons                   *********************************************************************************************************9*****999999999876.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

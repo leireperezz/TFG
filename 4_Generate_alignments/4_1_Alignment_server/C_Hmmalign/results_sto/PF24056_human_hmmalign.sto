@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+Q15911|PF24056|1040-1064         LKCNACDYYTNSLEKLRLHTVNSRH
+#=GR Q15911|PF24056|1040-1064 PP 8************************
+Q86UP3|PF24056|973-997           LKCNACDYYTNSVDKLRLHTTNHRH
+#=GR Q86UP3|PF24056|973-997   PP 8************************
+Q9C0A1|PF24056|821-845           LRCNICDFESNSKEKMQLHARGAAH
+#=GR Q9C0A1|PF24056|821-845   PP 8*********************999
+#=GC PP_cons                     8***********************9
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxx
+//

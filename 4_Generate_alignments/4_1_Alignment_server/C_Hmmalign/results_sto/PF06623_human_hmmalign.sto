@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+P01889|PF06623|337-362         SGGKGGSYSQAACSDSAQGSDVSLTA--
+#=GR P01889|PF06623|337-362 PP 9************************9..
+P01893|PF06623|337-362         SDRKGGSYSQAASSNSAQGSDVSLTA--
+#=GR P01893|PF06623|337-362 PP 89***********************9..
+P04439|PF06623|337-364         SDRKGGSYTQAASSDSAQGSDVSLTACK
+#=GR P04439|PF06623|337-364 PP 89*************************9
+P10321|PF06623|338-365         SGGKGGSCSQAACSNSAQGSDESLITCK
+#=GR P10321|PF06623|338-365 PP 9**************************9
+P13747|PF06623|334-353         SGGKGGSYSKAEWSDSAQGS--------
+#=GR P13747|PF06623|334-353 PP 9******************9........
+#=GC PP_cons                   8************************9*9
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P19447|PF04851|315-471         v---LRPYQEKSLRKMFGN--GRARSGVIVLPCGAGKSLVGVTAACTVRK-----....RCLVLGNSAVSVEQWK.AQFKMWSTIDDSQICRFTSDAKDKP.....--IGCSVAISTYSMLGHTTkrsweaERVMEWLKTQEWGLMILDEVHTIPA-KMFRRV........LTIVQA.............HCKLGLTATL
+#=GR P19447|PF04851|315-471 PP 6...8***********854..58889***********************9.........9***************.**********999******999999.......9*************9999999998999999999999************.******........******.............*********6
+Q92900|PF04851|482-551         l----NHSQVYAVKTVL-----QRPLSLIQGPPGTGKTVTSATIVYHLARQGN-G....PVLVCAPSNIAVDQLT.EKIHQT-------------------.....-------------------......--------------------------------........------.............----------
+#=GR Q92900|PF04851|482-551 PP 6....667888888887.....778899**********************866.7....****************.999876......................................................................................................................
+Q96C10|PF04851|1-170           .-MELRSYQWEVIMPAL-----EGKNIIIWLPTGAGKTRAAAYVAKRHLETVDGA....KVVVLVNRVHLVTQHG.EEFRRMLDGRW--TVTTLSGDMGPRagfghLARCHDLLICTAELLQMALt....sPEEEEHVELTVFSLIVVDECHHTHKDTVYNVImsqylelkLQ---Raq.........plPQVLGLTASP
+#=GR Q96C10|PF04851|1-170   PP ..689**********99.....789******************************....****************.********985..8999999999999999756666777888877777776....67788888889999************86666664333322322...134.........468999999976
+Q9BYX4|PF04851|306-491         l--QLRPYQMEVAQPAL-----EGKNIIICLPTGSGKTRVAVYIAKDHLDKKKKAsepgKVIVLVNKVLLVEQLFrKEFQPFLKKWY--RVIGLSGDTQLKisfpeVVKSCDIIISTAQILENSLln..leNGEDAGVQLSDFSLIIIDECHHTNKEAVYNNImr...hylMQKLKNnrlkkenkpviplPQILGLTAS-
+#=GR Q9BYX4|PF04851|306-491 PP 5..79***********9.....779****************99998777766655799***************9889********99..55556666666667998899****************99..888888889999999************988999955...5553333333344455556666777777775.
+#=GC PP_cons                   ..68999999999999854..57899*******************9999987777....***************9.***999**99899888888888888.....7788999999999999999......8888889999999************8888888........556665.............8999999976
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxx.............xxxxxxxxxx
+
+P19447|PF04851|315-471         --v..
+#=GR P19447|PF04851|315-471 PP ..8..
+Q92900|PF04851|482-551         --glk
+#=GR Q92900|PF04851|482-551 PP ..688
+Q96C10|PF04851|1-170           --...
+#=GR Q96C10|PF04851|1-170   PP .....
+Q9BYX4|PF04851|306-491         --p..
+#=GR Q9BYX4|PF04851|306-491 PP ..5..
+#=GC PP_cons                   .....
+#=GC RF                        xx...
+//

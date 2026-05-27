@@ -1,0 +1,49 @@
+# STOCKHOLM 1.0
+
+O00182|PF00337|16-147          ...PFSGTIQGGLQDGLQITVNGTVL..sSSGTRFAVNFQTG-.-FSGNDIAFHFNPRFED...gGYVVCNTRQNGSWGP.EER..KTHMPFQKGMPFDLCFLVQSSDFKVMVNGILFVQYFHRVPF.HRVDTISVNGSVQLSYISF.
+#=GR O00182|PF00337|16-147  PP ...7999*******************..77789*********...8***************...9***************.***..*****************************************.**************99975.
+O00182|PF00337|226-354         ...PFITTILGGLYPSKSILLSGTVL...PSAQRFHINLCSG-.----NHIAFHLNPRFDE....NAVVRNTQIDNSWGS.EERslPRKMPFVRGQSFSVWILCEAHCLKVAVDGQHLFEYYHRLRNlPTINRLEVGGDIQLTHVQ-.
+#=GR O00182|PF00337|226-354 PP ...78999******************...*************......*************....***************.***8889*******************************************************985..
+O00214|PF00337|18-150          ...PFVGTIPDQLDPGTLIVIRGHVP...SDADRFQVDLQNGSsMKPRADVAFHFNPRFKR...aGCIVCNTLINEKWGR.EEI..TYDTPFKREKSFEIVIMVLKDKFQVAVNGKHTLLYGHRIGP.EKIDTLGIYGKVNIHSI--g
+#=GR O00214|PF00337|18-150  PP ...799********************...********************************...****************.***..*****************************************.***************98..7
+O00214|PF00337|186-314         ...PFAARLNTPMGPGRTVVVKGEVN...ANAKSFNVDLLAG-.--KSKDIALHLNPRLNI....KAFVRNSFLQESWGE.EER.nITSFPFSPGMYFEMIIYCDVREFKVAVNGVHSLEYKHRFKElSSIDTLEINGDIHLLEV--.
+#=GR O00214|PF00337|186-314 PP ...7999*******************...*************....8**************....***************.999.679************************************9999*************9765...
+P05162|PF00337|9-129           .nm--------DMKPGSTLKITGSIA...DGTDGFVINLGQG-.---TDKLNLHFNPRFSE....STIVCNSLDGSNWGQ.EQR..EDHLCFSPGSEVKFTVTFESDKFKVKLPDGHELTFPNRLGH.SHLSYLSVRGGFNMSSF--k
+#=GR P05162|PF00337|9-129   PP .75........79*************...*************.....9*************....***************.***..*****************************************.*************9986..7
+P09382|PF00337|10-134          ..l--------NLKPGECLRVRGEVA...PDAKSFVLNLGKD-.---SNNLCLHFNPRFNAhgdaNTIVCNSKDGGAWGT.EQR..EAVFPFQPGSVAEVCITFDQANLTVKLPDGYEFKFPNRLNL.EAINYMAADGDFKIKCVAF.
+#=GR P09382|PF00337|10-134  PP ..8........699************...*************.....9********************************.***..*****************************************.***************9975.
+P17931|PF00337|117-246         ...PYNLPLPGGVVPRMLITILGTVK...PNANRIALDFQRG-.----NDVAFHFNPRFNEn.nrRVIVCNTKLDNNWGR.EER..QSVFPFESGKPFKIQVLVEPDHFKVAVNDAHLLQYNHRVKKlNEISKLGISGDIDLTSA--s
+#=GR P17931|PF00337|117-246 PP ...68899******************...*************......**************.99***************.***..**************************************9999**************985..7
+P47929|PF00337|6-134           .hk---SSLPEGIRPGTVLRIRGLVP...PNASRFHVNLLCG-.EEQGSDAALHFNPRLDT....SEVVFNSKEQGSWGR.EER..GPGVPFQRGQPFEVLIIASDDGFKAVVGDAQYHHFRHRLPL.ARVRLVEVGGDVQLDSV--r
+#=GR P47929|PF00337|6-134   PP .85...689*****************...*************..8****************....***************.***..*****************************************.***************98..6
+P56470|PF00337|18-149          ...PYYQPIPGGLNVGMSVYIQGVAS...EHMKRFFVNFVVG-.QDPGSDVAFHFNPRFDG...wDKVVFNTLQGGKWGS.EER..KRSMPFKKGAAFELVFIVLAEHYKVVVNGNPFYEYGHRLPL.QMVTHLQVDGDLQLQSINF.
+#=GR P56470|PF00337|18-149  PP ...78999******************...*************..8****************...****************.***..*****************************************.****************986.
+P56470|PF00337|193-323         ...PYFGRLQGGLTARRTIIIKGYVP...PTGKSFAINFKVG-.--SSGDIALHINPRMGN....GTVVRNSLLNGSWGS.EEK.kITHNPFGPGQFFDLSIRCGLDRFKVYANGQHLFDFAHRLSAfQRVDTLEIQGDVTLSYVQI.
+#=GR P56470|PF00337|193-323 PP ...78999******************...*************....8**************....**************8.777.489************************************9999***************9985.
+Q05315|PF00337|11-136          .aa--------SLSTGSTVTIKGRPLacfLNEPYLQVDFHTE-.MKEESDIVFHFQVCFGR....-RVVMNSREYGAWKQ.QVE..SKNMPFQDGQEFELSISVLPDKYQVMVNGQSSYTFDHRIKP.EAVKMVQVWRDISLTKF--n
+#=GR Q05315|PF00337|11-136  PP .86........689************9999************..9**************99.....788***********.***..*****************************************.**************986..6
+Q6DKI2|PF00337|16-147          ...PFSGTIQGGLQDGFQITVNGAVL..sCSGTRFAVDFQTG-.-FSGNDIAFHFNPRFED...gGYVVCNTRQKGTWGP.EER..KMHMPFQKGMPFDLCFLVQSSDFKVMVNGSLFVQYFHRVPF.HRVDTISVNGSVQLSYISF.
+#=GR Q6DKI2|PF00337|16-147  PP ...7999*******************..66779*********...8***************...9***************.***..*****************************************.**************99975.
+Q6DKI2|PF00337|227-355         ...PFITTIPGGLYPSKSIILSGTVL...PSAQRFHINLCSG-.----SHIAFHMNPRFDE....NAVVRNTQINNSWGS.EERslPRKMPFVRGQSFSVWILCEAHCLKVAVDGQHVFEYYHRLRNlPTINKLEVGGDIQLTHVQ-.
+#=GR Q6DKI2|PF00337|227-355 PP ...7999*******************...*************......9************....***************.***8889*******************************************************985..
+Q8TCE9|PF00337|6-136           .vp---YTLPVSLPVGSCVIITGTPIltfVKDPQLEVNFYTG-.MDEDSDIAFQFRLHFGH....PAI-MNSCVFGIWRY.EEK..CYYLPFEDGKPFELCIYVRHKEYKVMVNGQRIYNFAHRFPP.ASVKMLQVFRDISLTRV--l
+#=GR Q8TCE9|PF00337|6-136   PP .86...68999***************999999**********..9****************....**9.9**********.***..*****************************************.**************987..7
+Q9UHV8|PF00337|6-135           .vp---YKLPVSLSVGSCVIIKGTPIhsfINDPQLQVDFYTD-.MDEDSDIAFRFRVHFGN....-HVVMNRREFGIWML.EET..TDYVPFEDGKQFELCIYVHYNEYEIKVNGIRIYGFVHRIPP.SFVKMVQVSRDISLTSV--.
+#=GR Q9UHV8|PF00337|6-135   PP .86...67999**************9888788**********..9**************97.....788***********.***..*****************************************.***************98...
+Q3B8N2|PF00337|16-147          ...PFSGTIQGGLQDGFQITVNGAVL..sSSGTRFAVDFQTG-.-FSGNDIAFHFNPRFED...gGYVVCNTRQKGRWGP.EER..KMHMPFQKGMPFDLCFLVQSSDFKVMVNGSLFVQYFHRVPF.HRVDTISVNGSVQLSYISF.
+#=GR Q3B8N2|PF00337|16-147  PP ...7999******************9..77789*********...8***************...9***************.***..*****************************************.**************99975.
+Q3B8N2|PF00337|227-355         ...PFITTIPGGLYPSKSIILSGTVL...PSAQRFHINLCSG-.----SHIAFHMNPRFDE....NAVVRNTQINNSWGS.EERslPRKMPFVRGQSFSVWILCEAHCLKVAVDGQHVFEYYHRLRNlPTINKLEVGGDIQLTHVQ-.
+#=GR Q3B8N2|PF00337|227-355 PP ...7999*******************...*************......9************....***************.***8889*******************************************************985..
+Q96DT0|PF00337|48-181          ...PYVTTIFGGLHAGKMVMLQGVVP...LDAHRFQVDFQCGCsLCPRPDIAFHFNPRFHTt..kPHVICNTLHGGRWQR.EAR..WPHLALRRGSSFLILFLFGNEEVKVSVNGQHFLHFRYRLPL.SHVDTLGIFGDILVEAV--g
+#=GR Q96DT0|PF00337|48-181  PP ...7899*******************...*******************************99..9***************.***..*****************************************.************99987..7
+Q96DT0|PF00337|212-335         csh----ALPQGLSPGQVIIVRGLVL...QEPKHFTVSLRDQ-.---AAHAPVTLRASFAD....RTL----AWISRWGQkKLI..SAPFLFYPQRFFEVLLLFQEGGLKLALNGQGLGATSMNQQAlEQLRELRISGSVQLYCVH-.
+#=GR Q96DT0|PF00337|212-335 PP 875....68*****************...*************.....56666667788999....555....66779**83556..99*****************************99999988888**************9986..
+A8MUM7|PF00337|8-136           ..y----KLPVSLSVGSCVIIKGTLIdssINEPQLQVDFYTE-.MNEDSEIAFHLRVHLGR....-RVVMNSREFGIWML.EEN..LHYVPFEDGKPFDLRIYVCHNEYEVKVNGEYIYAFVHRIPP.SYVKMIQVWRDVSLDSV--l
+#=GR A8MUM7|PF00337|8-136   PP ..7....68999*************9666677**********..9**************98.....788***********.***..*****************************************.**************998..6
+Q3ZCW2|PF00337|39-171          ...PFCGHIKGGMRPGKKVLVMGIVD...LNPESFAISLTCGDsEDPPADVAIELKAVFTD....RQLLRNSCISGERGE.EQS.aIPYFPFIPDQPFRVEILCEHPRFRVFVDGHQLFDFYHRIQTlSAIDTIKINGDLQITK---l
+#=GR Q3ZCW2|PF00337|39-171  PP ...68899******************...**************9*****************....************999.888.689************************************9999**************97...6
+A4D1Z8|PF00337|7-131           .af-----CAGGLAPGWKLLVQGHAD...SGEDRFETNFLLE-.---TGDIAFHIKPRFSS....ATVVGNAFQYGRWGP.EQV..SSIFPLAPGEPFEIEVSWDAEHFHVYAPEHKVLQFPCRQRPlGATTRVRVLSDHCLAQV--e
+#=GR A4D1Z8|PF00337|7-131   PP .86.....689***************...*************.....9*************....***************.***..**************************************888799*********998887..5
+#=GC PP_cons                   ...789999**9**************...999***********.99***************....*99************.*99..9****************************************.**************99875.
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.
+//

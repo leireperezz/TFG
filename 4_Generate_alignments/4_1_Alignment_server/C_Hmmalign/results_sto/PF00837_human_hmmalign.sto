@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P49895|PF00837|8-248          LWLKRLWVLLEVAVHVVVGKVLLILFPDRVKRNILAMGEKtg..............mtrNPHFSHDNWIpTFFSTQYFWFVLKVRWQRLEDTTELGGLAPNCPVVRLSGQR-.................CNIWEFMQGNRPLVLNFGSCTUPSFMFKFDQFKRLIEDFSSIADFLVIYIEEAHASDGWAFKNN-...MDI
+#=GR P49895|PF00837|8-248  PP 89***********************************98888..............888*********99*****************************************..................****************************************************************....***
+P55073|PF00837|38-293         LCAQTASCLVLFPRFLGTAFMLWLLDFLCIRKHFLGRRRRgqpepevelnsegeevppdDPPICVSDDN.RLCTLASLKAVWHGQKLDFFKQAHEGGPAPNSEVVLPDGFQS.................QHILDYAQGNRPLVLNFGSCTUPPFMARMSAFQRLVTKYQRDVDFLIIYIEEAHPSDGWVTTDSP...YII
+#=GR P55073|PF00837|38-293 PP 89*******************************************************************.******************************************.................*****************************************************************...***
+Q92813|PF00837|4-262          LSVDLLITLQILPVFFSNCLFLALYDSVILLKHVVLLLSR...................SKST-RGEWR.RMLTSEGLRCVWKSFLLDAYKQVKLGEDAPNSSVVHVSSTEGgdnsgngtqekiaegatCHLLDFASPERPLVVNFGSATUPPFTSQLPAFRKLVEEFSSVADFLLVYIDEAHPSDGWAIPGDSslsFEV
+#=GR Q92813|PF00837|4-262  PP 789*************************************...................***9.*****.**************************************************************************************************************************99999***
+#=GC PP_cons                  79************************************99...................**********.******************************************.................****************************************************************9...***
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...................xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxx
+
+P49895|PF00837|8-248          RNHQNLQDRLQAAHLLLARS...PQCPVVVDTMQNQSSQLYAALPERLYIIQEGRILYKGKSGPWNYNPEEVRAVLEKLH
+#=GR P49895|PF00837|8-248  PP ********************...*******************************************************86
+P55073|PF00837|38-293         PQHRSLEDRVSAARVLQQGA...PGCALVLDTMANSSSSAYGAYFERLYVIQSGTIMYQGGRGPDGYQVSELRTWLERYD
+#=GR P55073|PF00837|38-293 PP ********************...*******************************************************96
+Q92813|PF00837|4-262          KKHQNQEDRCAAAQQLLERFslpPQCRVVADRMDNNANIAYGVAFERVCIVQRQKIAYLGGKGPFSYNLQEVRHWLEKNF
+#=GR Q92813|PF00837|4-262  PP ******************************************************************************86
+#=GC PP_cons                  ********************...*******************************************************86
+#=GC RF                       xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O00567|PF01798|174-406         .LLDQLDKDINTFSMRVREWYGYHFPELVKIINDNATYCRLAQFIGNR-RELNEDklEKleeltmDGA.KAKAILDASRS--..SMGMDISAIDLINIESFSSRVVSLSEYRQSLHTYLRSKMSQVAPSLSALIGEAVGARLIAHAGSLTNLAKYPASTVQILGAEKALFRALKTRGNTPKYGLIFHSTFIGRAAAKNKG
+#=GR O00567|PF01798|174-406 PP .689******************************************65.5553431322443433333.67777777777....************************************************************************************************************77******
+Q8WWY3|PF01798|100-330         t--VEIENELNIIHKFIRDKYSKRFPELESLVPNALDYIRTVKELGNSLDKCKNN..EN......LQQiLTNATIMVVSVTAstTQGQQLSEEELERLEEACDMALELNASKHRIYEYVESRMSFIAPNLSIIIGASTAAKIMGVAGGLTNLSKMPACNIMLLGAQRKTLSGFSSTSVLPHTGYIYHSDIVQSLPPDLRR
+#=GR Q8WWY3|PF01798|100-330 PP 7..68*****************************************998888777..55......3337**************************************************************************************************88888886667**********************
+Q9Y2X3|PF01798|168-396         .LLDDLDKELNNYIMRCREWYGWHFPELGKIISDNLTYCKCLQKVG-DRKNYASA..KLse..llPEE.VEAEVKAAAEI--..SMGTEVSEEDICNILHLCTQVIEISEYRTQLYEYLQNRMMAIAPNVTVMVGELVGARLIAHAGSLLNLAKHAASTVQILGAEKALFRALKSRRDTPKYGLIYHASLVGQTSPKHKG
+#=GR Q9Y2X3|PF01798|168-396 PP .689******************************************.88998666..4434..55444.77777777777....******************************************************************************************999***************99******
+#=GC PP_cons                   .6889*****************************************878777666..44......333.88888888888**..***********************************************************************************99999998889**************98******
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx......xxx.xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00567|PF01798|174-406         RISRYLANKCSIASRIDCFSEVPtSVFGEKLREQVEERL--s
+#=GR O00567|PF01798|174-406 PP *******************9988899***********98..6
+Q8WWY3|PF01798|100-330         KAARLVAAKCTLAARVDSFHESTeGKVGYELKDEIERKFDK.
+#=GR Q8WWY3|PF01798|100-330 PP *****************9998889**************986.
+Q9Y2X3|PF01798|168-396         KISRMLAAKTVLAIRYDAFGEDSsSAMGVENRAKLEARLR-.
+#=GR Q9Y2X3|PF01798|168-396 PP *******************999889************985..
+#=GC PP_cons                   ******************99988.9************9866.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx.
+//

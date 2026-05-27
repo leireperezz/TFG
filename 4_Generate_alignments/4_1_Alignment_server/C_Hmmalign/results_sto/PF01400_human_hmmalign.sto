@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+O43897|PF01400|150-344         .t--SRTERIWPGGVIPYVIGGNFTGSQRAMFKQAMRHWEKHTCVTFIERSDEESYIVFTyRPCGCCSYVGRRGnGPQAISIGKNCDK..FGIVVHELGHVIGFWHEHTRPDRDNHVTIIRENIQPGQEYNFLKMEPGEVNSLGERYDFDSIMHYARNTFSRGMFLDTILPSRDDngIRPAIGQRTRLSKGDIAQARKLY
+#=GR O43897|PF01400|150-344 PP .7..57899***************************************************999*********999*************..*********************************************************************************9877679*******************999
+P13497|PF01400|123-318         .t--SRPERVWPDGVIPFVIGGNFTGSQRAVFRQAMRHWEKHTCVTFLERTDEDSYIVFTyRPCGCCSYVGRRGgGPQAISIGKNCDK..FGIVVHELGHVVGFWHEHTRPDRDRHVSIVRENIQPGQEYNFLKMEPQEVESLGETYDFDSIMHYARNTFSRGIFLDTIVPKYEVngVKPPIGQRTRLSKGDIAQARKLY
+#=GR P13497|PF01400|123-318 PP .6..6789****************************************************999*********9989************..**********************************************************************************9887799*********************
+Q16819|PF01400|70-258          .d----PNTRW-TFPIPYILADNLGLNAKGAILYAFEMFRLKSCVDFKPYEGESSYIIFQ.QFDGCWSEVGDQH.VGQNISIGQGCAY..KAIIEHEILHALGFYHEQSRTDRDDYVNIWWDQILSGYQHNFDTYDDSLITDLNTPYDYESLMHYQPFSFNKNASVPTITAKIPE..FNSIIGQRLDFSAIDLERLNRMY
+#=GR Q16819|PF01400|70-258  PP .7....6799*.************************************************.*************.99***********..*************************************************************************************..***********************
+Q16820|PF01400|67-254          ek------YRW-PHTIPYVLEDSLEMNAKGVILNAFERYRLKTCIDFKPWAGETNYISVF.KGSGCWSSVGNRRvGKQELSIGANCDR..IATVQHEFLHALGFWHEQSRSDRDDYVRIMWDRILSGREHNFNTYSDDISDSLNVPYDYTSVMHYSKTAFQNGTE-PTIVTRISD..FEDVIGQRMDFSDSDLLKLNQLY
+#=GR Q16820|PF01400|67-254  PP 75......689.899*********************************************.***********999*************..************************************************************************999.*********..***********************
+Q6HA08|PF01400|102-279         .v------------EVPFLLSSKYDEPSRQVILEALAEFERSTCIRFVTYQDQRDFISII.PMYGCFSSVGRSG.GMQVVSLAPTCLQkgRGIVLHELMHVLGFWHEHTRADRDRYIRVNWNEILPGFEINFIKSQSSN---MLTPYDYSSVMHYGRLAFSRRGL-PTITPLWA-..PSVHIGQRWNLSASDITRVLKLY
+#=GR Q6HA08|PF01400|102-279 PP .7............699*******************************************.*************.***********995668****************************************9988655...566*****************888.*****988...5899*************999888
+Q9Y6L7|PF01400|153-347         .s---RTERIWPGGVIPYVIGGNFTGSQRAIFKQAMRHWEKHTCVTFIERTDEESFIVFSyRTCGCCSYVGRRGgGPQAISIGKNCDK..FGIVAHELGHVVGFWHEHTRPDRDQHVTIIRENIQPGQEYNFLKMEAGEVSSLGETYDFDSIMHYARNTFSRGVFLDTILPRQDDngVRPTIGQRVRLSQGDIAQARKLY
+#=GR Q9Y6L7|PF01400|153-347 PP .7...57899*************************************************999**********9989************..**********************************************************************************998889**********************
+#=GC PP_cons                   ....567889**9*9*********************************************.***********99.*************..9*********************************************999***999******************99*******999..99*******************99
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx
+
+O43897|PF01400|150-344         -
+#=GR O43897|PF01400|150-344 PP .
+P13497|PF01400|123-318         K
+#=GR P13497|PF01400|123-318 PP 6
+Q16819|PF01400|70-258          N
+#=GR Q16819|PF01400|70-258  PP 6
+Q16820|PF01400|67-254          N
+#=GR Q16820|PF01400|67-254  PP 6
+Q6HA08|PF01400|102-279         -
+#=GR Q6HA08|PF01400|102-279 PP .
+Q9Y6L7|PF01400|153-347         K
+#=GR Q9Y6L7|PF01400|153-347 PP 6
+#=GC PP_cons                   6
+#=GC RF                        x
+//

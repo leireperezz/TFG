@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P21817|PF06459|4383-4671         -MPDPTSDEVHGEQpAGPGGDADGEGASEgaGDAAE.GA--GDEEEAVHEAgpGGADgavAVTDGGPFR---PEGAGGLGDMGDTTPAEPPtpegsPILKRKLGvdgVEEELPPEPEPEPEPELEPEKADAENGEKEEVPEP-------TPEPPKKQAPPSPPPKKE--EAGGEFWGELEVQRVKFLNYLSRNFYTLRFL
+#=GR P21817|PF06459|4383-4671 PP .9***********97777766655554442255555.33..3333333332112333222566999886...99999************9999**99*****9965555666678999999999************998888.......455555555555444443..456679*************************
+Q15413|PF06459|4234-4504         DMPDPTQFGIHDDT.MEAERAEVMEPGIT..TELVHfIKGEKGDTDIMSDL..FGLH...PKKEGS----LKHGPEVGLGDLSEIIGKDEPp..tlESTVQKKR...KAQAAEMKAANEAEGKVESEKADMEDGEKEDKDKEEEQAEYLWTEVTKKKKRRCGQKVEKPEAFTANFFKGLEIYQTKLLHYLARNFYNLRFL
+#=GR Q15413|PF06459|4234-4504 PP 6*************.**************..*****99*************..****...******....67*****************995..5555556666...8899999999*************************999999999999999*******************************************
+Q92736|PF06459|4333-4599         NMPDPTQDEVRGDG.EEGERKPLEAALPS..EDLTD.LKELTEESDLLSDI..FGLD...LKREGGQYKLIPHNPNAGLSDLMSNPVPMP-.....-EVQEKFQ...EQKAKEEEKEEKEETKSEPEKAEGEDGEKEEKAKE--------DKGKQKLRQLHTHRYGEPEVPESAFWKKIIAYQQKLLNYFARNFYNMRML
+#=GR Q92736|PF06459|4333-4599 PP 7*************.**************..*****.**************..****...***********************9998775.......7******...******************************99988........899999********************************************
+#=GC PP_cons                     6*************.99999988888888..88888.88**8888888887..7888...899***998*899************999989.....77888988...8888889999*********************99999999999778888888888888888**88999**************************
+#=GC RF                          xxxxxxxxxxxxxx.xxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxxx..xxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P21817|PF06459|4383-4671         ALFLAFAINFILLFYKVSDSPPGEDDMEGSAAGDVSGaGSG.GssgwglgageeAEGDEDENMVYYFLEESTGYMEPALRCLSLLHTLVAFLCIIGYNCLKVPLVI
+#=GR P21817|PF06459|4383-4671 PP ****************************9999998875443.24799****9765699***********************************************9
+Q15413|PF06459|4234-4504         ALFVAFAINFILLFYKVTEEPLEEETEDVANLWNSF-.---.-...........NDEEEEEAMVFFVLQESTGYMAPTLRALAIIHTIISLVCVVGYYCLKVPLVV
+#=GR Q15413|PF06459|4234-4504 PP *********************999998844333222..................57999**********************************************8
+Q92736|PF06459|4333-4599         ALFVAFAINFILLFYKVSTSSVVEGKELPTRSSSENA.KVTsL...........DSSSHRIIAVHYVLEESSGYMEPTLRILAILHTVISFFCIIGYYCLKVPLVI
+#=GR Q92736|PF06459|4333-4599 PP *******************999999988777766664.44424...........7799***********************************************9
+#=GC PP_cons                     *********************9999999777666556.444.3...........6799***********************************************8
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.x...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

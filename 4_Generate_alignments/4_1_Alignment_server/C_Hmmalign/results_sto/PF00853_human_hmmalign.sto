@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+Q01196|PF00853|52-179          v--EVLADHPGELVRTDSPNFLCSVLPTHWRCNKTLPIAFKVVALGDVPDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKITVDGPREPRRH
+#=GR Q01196|PF00853|52-179  PP 6..799**************************************************************************************************************************96
+Q13761|PF00853|56-183          v--DVLADHAGELVRTDSPNFLCSVLPSHWRCNKTLPVAFKVVALGDVPDGTVVTVMAGNDENYSAELRNASAVMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPTQVATYHRAIKVTVDGPREPRRH
+#=GR Q13761|PF00853|56-183  PP 6..7899*************************************************************************************************************************96
+Q13950|PF00853|103-230         v--EIIADHPAELVRTDSPNFLCSVLPSHWRCNKTLPVAFKVVALGEVPDGTVVTVMAGNDENYSAELRNASAVMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKVTVDGPREPRRH
+#=GR Q13950|PF00853|103-230 PP 6..7899*************************************************************************************************************************96
+#=GC PP_cons                   ...7899*************************************************************************************************************************96
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

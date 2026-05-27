@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P50053|PF00294|4-289          .k--QILCVGLVVLDVISLVDKYp.kEDSEIRCLSQRWQRGGNASNSCTVLSLLG....APCAFMGSMAPGHVADFLVADFRRRGVDVSQVAWQSKgDTPSSCCIINNSNGNRTIVLHDTSLPDVSATDF-...-EKVDLTQFKWIHIEGrnaSEQVKMLQRIDAHNTRQPPEQK--IRVSVEVEKP-.-REELFQLFGY
+#=GR P50053|PF00294|4-289  PP .6..699****************9.55555599999*******************....*********************************999944555566666666*******9998888888877.....555789*********5444444444444444455555555..8888888887...9*********
+P55263|PF00294|45-356         ld-----KYSLKPNDQILAEDKHkelFDELVKKFKVEYHAGGSTQNSIKVAQWMIqqphKAATFFGCIGIDKFGEILKRKAAEAHVDAHYYEQNEQ.-PTGTCAACITGD-NRSLIANLAAANCYKKEKHLdleKNWMLVEKARVCYIAG...FFLTVSPESVLKVAHHASENNRIFTLNLSAPFISQfYKESLMKVMPY
+#=GR P55263|PF00294|45-356 PP 87.....5667789999**************************************999999*******************************8888..**********98.9**************99988899****************...***********************************************
+Q9H477|PF00294|17-312         .a---VVVVGSCMTDLVSLTSRLp.kTGETIHGHKFFIGFGGKGANQCVQAARLG....AMTSMVCKVGKDSFGNDYIENLKQNDISTEFTYQTKD.AATGTASIIVNNEGQNIIVIVAGANLLLNTE---...---DLRAAANVISRAKv.mVCQLEITPATSLEALTMARRSG--VKTLFNPAPA-.IADLDPQFYTL
+#=GR Q9H477|PF00294|17-312 PP .8...89*****************.******************************....*************************************.***********99*****************5.........56677777777778.89999999***************..99*******9..89999******
+#=GC PP_cons                  ....689899999**********...88888************************....*********************************9999.7888899999988**********99999997888...*787888999999999...7888888888888888888888**9999999999*.99*********
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+P50053|PF00294|4-289          GDVVFVSKDVAKHLGFQS-......--AEEALRGLYGRVRKG-AVLVCAWAEEGADALG.pDGKLLHSDAFPPPRVVDTLGAGDTFNASVIFSLSQ..GRSVQEALRFGCQVAG---------------kkc
+#=GR P50053|PF00294|4-289  PP ********9999776666.........555555555545566.6***************.66666666777*************************..*************996...............678
+P55263|PF00294|45-356         VDILFGNETEAATFAREQGfetkdiKEIAKKTQALPKMNSKRQRIVIFTQGRDDTIMATesEVTAFAVLDQDQKEIIDTNGAGDAFVGGFLSQLVS..DKPLTECIRAGHYAASIIIRRTGCTF-----p..
+#=GR P55263|PF00294|45-356 PP ***********************************************************9999999999999************************..***********************986.....6..
+Q9H477|PF00294|17-312         SDVFCCNESEAEILTGLTV......GSAADAGEAALVLLKRGCQVVIITLGAEGCVVLS.qTEPEPKHIPTEKVKAVDTTGAGDSFVGALAFYLAYypNLSLEDMLNRSNFIAAVSVQAAGTQSSYP--...
+#=GR Q9H477|PF00294|17-312 PP *******************......*********************************9.8444555555599****************999999899*************************9865.....
+#=GC PP_cons                  ************999999*......**888888888888889*9***************..66677777779***********************9..***************9********98865.....
+#=GC RF                       xxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

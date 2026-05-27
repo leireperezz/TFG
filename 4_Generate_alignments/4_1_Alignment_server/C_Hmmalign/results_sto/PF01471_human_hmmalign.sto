@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+O60882|PF01471|36-94          .....n---NYRLAQAYLDKYYTNke.....ghqIG....EMV.....ARGS.NSMIRKIKELQAFFGLQVTGKLDQTTMN--v
+#=GR O60882|PF01471|36-94  PP .....7...56899*******99997.....76555....888.....****.**************************97..6
+P03956|PF01471|28-87          .....e--QDVDLVQKYLEKYYNLkn......dgRQ....VEK.....RRNS.GPVVEKLKQMQEFFGLKVTGKPDAETLKVM.
+#=GR P03956|PF01471|28-87  PP .....6..79***********99997......5433....666.....8888.89999***********************98.
+P08254|PF01471|33-87          .....l-------VQKYLENYYDLk.......kdV-....--Kqf.vrRKDS.GPVVKKIREMQKFLGLEVTGKLDSDTLEVM.
+#=GR P08254|PF01471|33-87  PP .....6.......89******7775.......441.......244.558888.8899***********************998.
+P09237|PF01471|31-82          .....q----WEQAQDYLKRFYLY..........-D....S-E.....TKNA.NSLEAKLKEMQKFFGLPITGMLNSRVIEIM.
+#=GR P09237|PF01471|31-82  PP .....6....689********999...........4....3.4.....89**.*************************99987.
+P09238|PF01471|33-86          .....l-------AQQYLEKYYNLe.......kdVK....QFR.....RKDS.NLIVKKIQGMQKFLGLEVTGKLDTDTLEVM.
+#=GR P09238|PF01471|33-86  PP .....6.......7*******9995.......4333....666.....9***.***************************998.
+P22894|PF01471|28-86          .....k---NTKTVQDYLEKFYQLps......nqYQ....STR.....KNGT.NVIVEKLKEMQRFFGLNVTGKPNEETLDMM.
+#=GR P22894|PF01471|28-86  PP .....7...5799********99977......5544....777.....9999.9**************************998.
+P39900|PF01471|28-87          .....n---NVLFGERYLEKFYGLei.....nklPV....TKM.....KYSG.NLMKEKIQEMQHFLGLKVTGQLDTSTLEMM.
+#=GR P39900|PF01471|28-87  PP .....6...6777899*****87767.....74444....666.....****.****************************98.
+P45452|PF01471|33-91          .....e--EDLQFAERYLRSYYHPt.......nlAG....ILK.....ENAA.SSMTERLREMQSFFGLEVTGKLDDNTLDVM.
+#=GR P45452|PF01471|33-91  PP .....6..788999*******9988.......8888....888.....9***.***************************998.
+P50281|PF01471|37-88          .....a----------WLQQYGYL.........pPGd.lrTHT.....QRSP.QSLSAAIAAMQKFYGLQVTGKADADTMKAM.
+#=GR P50281|PF01471|37-88  PP .....6..........8*******.........7557.77889.....****.*****************************9.
+P51511|PF01471|53-106         .....a--------ENWLRLYGYL..........PQpsrhMST.....MRSA.QILASALAEMQRFYGIPVTGVLDEETKEWM.
+#=GR P51511|PF01471|53-106 PP .....6........689*******..........554456888.....****.**************************9987.
+P51512|PF01471|43-96          ....ve---------VWLQKYGYLp........pT-....--DprmsvLRSA.ETMQSALAAMQQFYGINMTGKVDRNTIDWM.
+#=GR P51512|PF01471|43-96  PP ....76.........58*******5........41.......233556****.***************************988.
+Q8N119|PF01471|49-112         .....d----LHAAQRFLSRYGWSgvwaawgpspEG....PPE.....TPKG.AALAEAVRRFQRANALPASGELDAATLAAM.
+#=GR Q8N119|PF01471|49-112 PP .....6....5689***************9999888....***.....****.*****************************9.
+Q99542|PF01471|31-80          ......----------YLSQYGYLq........kPL....EGS.....NNFKpEDITEALRAFQEASELPVSGQLDDATRARM.
+#=GR Q99542|PF01471|31-80  PP ................8*******7........644....555.....5555168*************************998.
+Q9H239|PF01471|31-86          ....el----RKEAEAFLEKYGYL.........nEQ....VPK.....APTS.TRFSDAIRAFQWVSQLPVSGVLDRATLRQM.
+#=GR Q9H239|PF01471|31-86  PP ....75....7999**********.........888....999.....****.***************************998.
+Q9H306|PF01471|27-86          .....e--ENMQLAQAYLNQFYSLei......egNH....LVQ.....SKNR.SLIDDKIREMQAFFGLTVTGKLDSNTLEIM.
+#=GR Q9H306|PF01471|27-86  PP .....6..78999********99987......5544....999.....****.***************************998.
+Q9NPA2|PF01471|26-85          .....a--QDVSLGVDWLTRYGYLpp......phPA....QAQ.....LQSP.EKLRDAIKVMQRFAGLPETGRMDPGTVATM.
+#=GR Q9NPA2|PF01471|26-85  PP .....7..68888999********87......5555....888.....****.***************************987.
+Q9ULZ9|PF01471|48-105         dlslgv---------EWLSRFGYLp........pAD....PTTg...qLQTQ.EELSKAITAMQQFGGLEATGILDEATLALM.
+#=GR Q9ULZ9|PF01471|48-105 PP 988876.........79*******6........433....4444...46778.99*************************988.
+Q9Y5R2|PF01471|81-134         .....g--------QNWLKSYGYLlp......ydSR....ASA.....LHSA.KALQSAVSTMQQFYGIPVTGVLDQTTIEWM.
+#=GR Q9Y5R2|PF01471|81-134 PP .....7........9*********98......7555....666.....****.***************************988.
+#=GC PP_cons                  ........777899999****999..........45....776.....9999.9**************************998.
+#=GC RF                       ......xxxxxxxxxxxxxxxxxx..........xx....xxx.....xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O00219|PF13641|190-358         ....w-----------------------------------------------------------------------GGKREVMYTAFKALGdsVDYIQVCDSDTVLDPACTIEMLRVLeEDPQVGGVGGDVQILNkYDSWISFLSSVRYWMAFNVERACQSYFGcVQCISGPLGMYRNSLLQQFLedwyhqKFLGSKCSF
+#=GR O00219|PF13641|190-358 PP ....9.......................................................................589999999***9776789***************9*****************9997776599*********9*9999999999999999*********************9977666666999*
+Q92839|PF13641|203-379         rcvcv-----------------------------------------------------------------AQRW--GGKREVMYTAFKALGdsVDYVQVCDSDTRLDPMALLELVRVLdEDPRVGAVGGDVRILNpLDSWVSFLSSLRYWVAFNVERACQSYFHcVSCISGPLGLYRNNLLQQFLeawynqKFLGTHCTF
+#=GR Q92839|PF13641|203-379 PP 76554.................................................................4433..59**********9876789************************************9999899**********************99999*********************88877666667789
+#=GC PP_cons                   ......................................................................4433..5999********977..89***********************.*********9998887.99**************999999999999.********************......666668899
+#=GC RF                        .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx......xxxxxxxxx
+
+O00219|PF13641|190-358         GDDRHLTNRVLSLGYRTKYTARSKCLTETPTKYLRWLNQQTRWS--
+#=GR O00219|PF13641|190-358 PP *******************************************5..
+Q92839|PF13641|203-379         GDDRHLTNRMLSMGYATKYTSRSRCYSETPSSFLRWLSQQTRWS--
+#=GR Q92839|PF13641|203-379 PP 9******************************************5..
+#=GC PP_cons                   9******************************************5..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

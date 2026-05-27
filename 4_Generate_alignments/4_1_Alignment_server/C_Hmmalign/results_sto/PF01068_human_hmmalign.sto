@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P18858|PF01068|542-746         PMLAHPTRGISEVLKRFEEAAFTCEYKYDGQRAQIHAlEGGEVKIFSRNQEDNTG......KYPDIISRIPKIKLPSVTSFILDTEAVAWDREKKQIQPFQVLTTRKRKEVDASEI--QVQVCLYAFDLIYLNGESLVREPLSRRRQLLRENFVETEGEFVFATSLDTKDIEQIAEFLEQSVKDSCEGLMVKTldVDATY
+#=GR P18858|PF01068|542-746 PP 9***********************************99*****************......*******************************************************..***************************************************************************999****
+P49916|PF01068|483-677         PMLAEACKSVEYAMKKC-PNGMFSEIKYDGERVQVHK.NGDHFSYFSRSLKPVLP......HKVAHFKDYIPQAFPGGHSMILDSEVLLIDNKTGKPLPFGTLGVHKKAAFQ------DANVCLFVFDCIYFNDVSLMDRPLCERRKFLHDNMVEIPNRIMFSEMKRVTKALDLADMITRVIQEGLEGLVLKD..VKGTY
+#=GR P49916|PF01068|483-677 PP 9****************.67777**************.*****************......*********************************************888883......789************************************************************************..*****
+P49917|PF01068|248-451         PMLAAIAD-IEHIEKDMKHQSFYIETKLDGERMQMHK.DGDVYKYFSRNGYNYTDqfgaspTEGSLTPFIHNAFKADIQICILDGEMMAYNPNTQTFMQKGTKFDI-KRMVEDSD----LQTCYCVFDVLMVNNKKLGHETLRKRYEILSSIFTPIPGRIEIVQKTQAHTKNEVIDALNEAIDKREEGIMVKQ..PLSIY
+#=GR P49917|PF01068|248-451 PP 9**99988.77888888889*****************.*****************9**99999***************************************9999.78885555....59************************************************************************..*****
+#=GC PP_cons                   9*****99*99999999989999**************.*****************......*********************************************988886777*..879************************************************************************..*****
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx
+
+P18858|PF01068|542-746         EIAKRSHNWLKLK
+#=GR P18858|PF01068|542-746 PP ************9
+P49916|PF01068|483-677         EPGKR--HWLKVK
+#=GR P49916|PF01068|483-677 PP *****..*****9
+P49917|PF01068|248-451         KPDKRGEGWLKIK
+#=GR P49917|PF01068|248-451 PP ************9
+#=GC PP_cons                   ************9
+#=GC RF                        xxxxxxxxxxxxx
+//

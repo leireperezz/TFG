@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+P51816|PF05110|18-535          ......YEQDRSALKKREWERRNQEVQQEDDLFSSGFDLFGEPYKvaeyTNKGDALANRVQNTLGNYDEMKNLLTNHSNQnHLVGIPKNSVPQNPNNKNEPSFFPEQKNR.IIPPHQDNThPSAPMPPPSVVILNST.LIHSNRKSK--PEWSRDSHNPS.TVLASQASGQPNKM------QTLTQDQSQAKLEDFFVYP
+#=GR P51816|PF05110|18-535  PP ......9*******************************************************************************************************.9999999996899***********99.******887..9**********.****9998877665......3444444456899999999
+P51825|PF05110|8-520           ......YNDDRNLLRIREKERRNQEAHQEKEAFPEKIPLFGEPYK....TAKGDELSSRIQNMLGNYEEVKEFLSTKSHT.HRLDASEN-----RLGKPKYPLIPDKGSSiPSSSFHTSV.HHQSIHTPASGPLSVGnISHNPKMAQPRTEPMPSLHAKS.CGPPDSQHLTQDRL--GQEGFGSSHHKKGDRRADGDHCA
+#=GR P51825|PF05110|8-520   PP ......9**************************************....*******************************.********.....5689************9999******.***************988*********************.*****999999988..***********************
+P51826|PF05110|20-166          ......YEPDRNALRRKERERRNQETQQDDGTFNSSYSLFSEPYK....TNKGDELSNRIQNTLGNYDEMKDFLTDRSNQsHLVGVPKPGVPQTPVNKIDEHFVADSRAQ.NQPS---SI.CSTTTSTPAAVP----.-VQQSKR--GTMGWQKAGHPPS.DGQQRATQ-------------------------------
+#=GR P51826|PF05110|20-166  PP ......99*************************************....***********************************************************99.4333...45.777777777777......344552..3699999999998.88866554...............................
+P51826|PF05110|172-473         lgdgvg---------------------------------------....-------------------------------.-----------------------------.---------.----------------.----------------------.---------------------------------------
+#=GR P51826|PF05110|172-473 PP 987765..................................................................................................................................................................................................
+Q9UHB7|PF05110|3-479           ......-REDRNVLRMKERERRNQEIQQGEDAFPPSSPLFAEPYK...vTSKEDKLSSRIQSMLGNYDEMKDFIGDRSIP.KLVAIPKPTVPPSADEKSNPNFFEQRHGG.----SHQSS.KWTPVGPAPSTS----.--QSQKRSS-GLQSGHSSQRTSaGSSSGTNSSGQRHDRESYNNSGSSSRK------KGQHGS
+#=GR Q9UHB7|PF05110|3-479   PP .......59************************************...********************************.***********99*********9999877.....67799.*********999.......7888776.7777777776662566667788888874444444444444......223322
+#=GC PP_cons                   ......99*************************************....*******************************.************9999**********999.777789988.899999999999**99.9888887887799999999999.88888887888777447777666666677899*777777
+#=GC RF                        ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P51816|PF05110|18-535          AEQPQ..IGEVEESNPS--------------AKEDSNPNSSGEDAF.....KEIFQSNSPEESEFAVQAPGSplVASSLLAPSSGLSVQNFPPG.LYCKTSMGQQKPTAYVRPMDGQDQAPDISPTLKPSiEfeNSFGNLSF.GTLLDGKPSaasSKTKLPKFTIL-QTSEVSLPSD.PSCVEEILREMTHSWPTPLTSM
+#=GR P51816|PF05110|18-535  PP 99988..5555555444..............45566667789999*.....*********************8777889999************.***********************************637699******.*******999999**********.**********.**********************
+P51825|PF05110|8-520           SVTDSapERELSPLI-SLPSPVPPLSPIHSNQQTLPRTQGSSKVHGssnnsKGYCPAKSPKDLAVKVHDKET..PQDSLV-APAQPPSQTFPPPsLPSKSVAMQQKPTAYVRPMDGQDQAPSESPELKPL.P..EDYRQQTF.EK-TDLKVP...AKAKLTKLKMPSQSVEQTYSNE.VHCVEEILKEMTHSWPPPLTAI
+#=GR P51825|PF05110|8-520   PP *99998899*****9.78***************999999888866555555889999***************..876665.599*******9988***********************************.*..********.**.******...**********************.**********************
+P51826|PF05110|20-166          -----..---------------------------------------.....---------------------..--------------------.-----------------------------------.-..--------.---------...----------------------.----------------------
+#=GR P51826|PF05110|20-166  PP ........................................................................................................................................................................................................
+P51826|PF05110|172-473         -----..---------------------------------------.....RQQPRAKQVCNVEVGLQTQER.pPAMAAKHSSSGHCVQNFPPS.LASKPSLVQQKPTAYVRPMDGQDQAPDESPKLKSSsE..TSVHCTSY.RGVPASKPEparAKAKLSKFSIPKQ-GEESRSGEtNSCVEEIIREMT--WLPPLSAI
+#=GR P51826|PF05110|172-473 PP ...................................................566778999999999*****9.76777778899**********.***********************************45..789*****.*******99999***********55.55556655278*********9..********
+Q9UHB7|PF05110|3-479           EHSK-..---SRSSSPGKPQAVSSLNSSHSRSHG-------NDHHS.....KEHQRSKSPRDPDANWDSPSR..----VPFSSGQHSTQSFPPS.LMSKSNSMLQKPTAYVRPMDGQ-----ESMEPKLS.S..EHYSSQSHgNSMTELKPS...SKAHLTKLKIPSQPLDASASGD.VSCVDEILKEMTHSWPPPLTAI
+#=GR Q9UHB7|PF05110|3-479   PP 2222......233344457799999999999995.......57899.....*********************......8899************.**********************.....********.*..********889*******...**********************.**********************
+#=GC PP_cons                   77768..7776666645689999********887788888878888.....889999***************..7777779899**********.***********************************.7..99******.9*******9...***********89*99999999.9*********************
+#=GC RF                        xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x..xxxxxxxx.xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx
+
+P51816|PF05110|18-535          HTAGHSEQSTFSIPGQESQHLTPGFTLQKWNDPTTRASTKSVSFK.SMLEDDLKLSSDEDDLEPvktlttqctatelyQAVEKAKPRNNPVNPPLATPQ-........PPPAVQASGGSGSSSESESSSESDSDTESSTTDSESNEAPRVATPEPEPPSTNKWQLDKWLN..
+#=GR P51816|PF05110|18-535  PP ****************************77777776677777777.*****************9**********************************9.........78899999*****************************************************7..
+P51825|PF05110|8-520           HTPSTAEPSKFPFPTKDSQHVSSVTQNQKQYDTSSKTHSNSQQGTsSMLEDDLQLSDSEDSDSE..............QTPEKPPSSSAPPSAPQSLPEP........VASAHSSSAESESTSDSDSS--SDSESESSSSDSEENEPLETPAPEPEPPTTNKWQLDNWLT..
+#=GR P51825|PF05110|8-520   PP ********************************************99******************..............**********************........********************..**************************************97..
+P51826|PF05110|20-166          ---------------------------------------------.------------------..............----------------------........--------------------------------------------------------------qg
+#=GR P51826|PF05110|20-166  PP ..........................................................................................................................................................................47
+P51826|PF05110|172-473         QAPGKVEPTKFPFPNKDSQLVSSGHNNPKKGDAEPESPDNGTSNT.SMLEDDLKLSSDEEENEQ..............QAAQRTALRALSDSAVVQQPNCrtsvpsskGSSSSSSSGSSSSSSDSESSSGSDSETESSSSESEGSKPPHFSSPEAEPASSNKWQLDKWLN..
+#=GR P51826|PF05110|172-473 PP *********************************************.******************..............*********99999888877642222211234556777888999***********************************************7..
+Q9UHB7|PF05110|3-479           HTPCKTEPSKFPFPTKESQQSNFGTGEQKRYN-PSK-TSNGHQSK.SMLKDDLKLSSSEDSDGE..............QDCDKTMPRSTPGSNSEPSHHN........SEGADNSRDDSSSHSGSESSSGSDSESESSSSDSEANEPSQSASPEPEPPPTNKWQLDNWLN..
+#=GR Q9UHB7|PF05110|3-479   PP *******************************9.565.4566999*.******************..............**********************........*************************************************************7..
+#=GC PP_cons                   ****************************99999888988889999.******************..............***************9999998........8889999999**************************************************97..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx..............xxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+O15197|PF25599|233-301         .PAVLRSFASFPETQASgAGGASLVAAVGTCVAHAEpeedgvggqAGGSPPRLHCNGEGKWM.VAVGGCRC
+#=GR O15197|PF25599|233-301 PP .799**********98626689***************999999888899*************.********
+P21709|PF25599|205-264         .PETLNGLAQFPDTLPG.P--AGLVEVAGTCLPHARa......spRPSGAPRMHCSPDGEWL.VPVGRCHC
+#=GR P21709|PF25599|205-264 PP .7899************.*..9**************9......99999**************.********
+P29317|PF25599|202-262         .PELLQGLAHFPETIAG.SDAPSLATVAGTCVDHAVv.......pPGGEEPRMHCAVDGEWL.VPIGQCLC
+#=GR P29317|PF25599|202-262 PP .6899************.*******************.......99****************.********
+P29320|PF25599|204-259         f--TVKNLAMFPDTVPM.D-SQSLVEVRGSCVNNSK.........-EEDPPRMYCSTEGEWL.VPIGKCSC
+#=GR P29320|PF25599|204-259 PP 8..79************.9.9***************..........****************.********
+P29322|PF25599|205-262         .PAMVRNLAAFSEAVTG.ADSSSLVEVRGQCVRHSE.........-ERDTPKMYCSAEGEWL.VPIGKCVC
+#=GR P29322|PF25599|205-262 PP .799*************.******************..........****************.********
+P29323|PF25599|198-256         .PRIIQNGAIFQETLSG.AESTSLVAARGSCIANAE.........EVDVPIKLYCNGDGEWL.VPIGRCMC
+#=GR P29323|PF25599|198-256 PP .67899***********.******************.........*****************.********
+P54753|PF25599|214-271         s--TTAGFALFPETLTG.AEPTSLVIAPGTCIPNAV.........EVSVPLKLYCNGDGEWM.VPVGACTC
+#=GR P54753|PF25599|214-271 PP 5..8899**********.******************.........*****************.********
+P54756|PF25599|234-291         .PSVVRHLAVFPDTITG.ADSSQLLEVSGSCVNHSV.........-TDEPPKMHCSAEGEWL.VPIGKCMC
+#=GR P54756|PF25599|234-291 PP .789*************.******************..........****************.********
+P54760|PF25599|200-255         l---TVNLTRFPETVPR.E---LVVPVAGSCVVDAV........pAPGPSPSLYCREDGQWAeQPVTGCSC
+#=GR P54760|PF25599|200-255 PP 7...679**********.*...**************........999***************99*******
+P54762|PF25599|197-255         .PSIVQNFAVFPETMTG.AESTSLVIARGTCIPNAE.........EVDVPIKLYCNGDGEWM.VPIGRCTC
+#=GR P54762|PF25599|197-255 PP .789*************.******************.........*****************.********
+P54764|PF25599|205-262         .PLTVRNLAQFPDTITG.ADTSSLVEVRGSCVNNSE.........-EKDVPKMYCGADGEWL.VPIGNCLC
+#=GR P54764|PF25599|205-262 PP .579*************.******************..........****************.********
+Q15375|PF25599|208-265         i---IENLAIFPDTVTG.SEFSSLVEVRGTCVSSAE........eEAENAPRMHCSAEGEWL.VPIGKCIC
+#=GR Q15375|PF25599|208-265 PP 6...68***********.******************........999***************.********
+Q5JZY3|PF25599|213-271         .-ATVRGLATFPATAAE.SAFSTLVEVAGTCVAHSE........gEPGSPPRMHCGADGEWL.VPVGRCSC
+#=GR Q5JZY3|PF25599|213-271 PP ..69*************.******************........******************.********
+Q9UF33|PF25599|209-265         f--TVRNLAMFPDTIPR.VDSSSLVEVRGSCVKSAE.........-ERDTPKLYCGADGDWL.VPLGRCIC
+#=GR Q9UF33|PF25599|209-265 PP 8..89************.******************..........****************.********
+#=GC PP_cons                   .78999***********.******************.........9****************.********
+#=GC RF                        .xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxx.xxxxxxxx
+//

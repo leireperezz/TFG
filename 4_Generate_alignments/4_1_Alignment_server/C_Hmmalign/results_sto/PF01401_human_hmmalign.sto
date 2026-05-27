@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P12821|PF01401|41-623           a--DEAGAQLFAQSYNSSAEQVLFQSVAASWAHDTNITAENARRQEEAALLSQEFAEAWGQKAKElYEpiWQNFTDPQLRRIIGAVRTLGSANLPLAKRQQYNALLSNMSRIYSTAKVCLPNKTATCWSLDPDLTNILASSRSYAMLLFAWEGWHNAAGIPLKPLYEDFTALSNEAYKQDGFTDTGAYWRSWYN......
+#=GR P12821|PF01401|41-623   PP 6..7999**********************************************************88899****************************************************************************************************************************......
+P12821|PF01401|644-1221         .-TDEAEASKFVEEYDRTSQVVWNEYAEANWNYNTNITTETSKILLQKNMQIANHTLKYGTQARK.FD..VNQLQNTTIKRIIKKVQDLERAALPAQELEEYNKILLDMETTYSVATVCH--PNGSCLQLEPDLTNVMATSRKYEDLLWAWEGWRDKAGRAILQFYPKYVELINQAARLNGYVDAGDSWRSMYE......
+#=GR P12821|PF01401|644-1221 PP ..589************************************************************.**..**************************************************..7899********************************************************************......
+Q9BYF1|PF01401|21-606           i---EEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNITEENVQNMNNAGDKWSAFLKEQSTLAQM.YP..LQEIQNLTVKLQLQALQQNGSSVLSEDKSKRLNTILNTMSTIYSTGKVCNPDNPQECLLLEPGLNEIMANSLDYNERLWAWESWRSEVGKQLRPLYEEYVVLKNEMARANHYEDYGDYWRGDYEvngvdg
+#=GR Q9BYF1|PF01401|21-606   PP 8...799**********************************************************.**..**********************************************************************************************************************************
+#=GC PP_cons                    ..5889***********************************************************.99..****************************************************99**********************************************************************......
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+P12821|PF01401|41-623           ....SPTFEDDLEHLYQQLEPLYLNLHAFVRRALHRRYGDRYINLRGPIPAHLLGDMWAQSWENIYDMVVPFPDKPNLDVTSTMLQQGWNATHMFRVAEEFFTSLELSPMPPEFWEGSMLEKPADGREVVCHASAWDFYNRKDFRIKQCTRVTMDQLSTVHHEMGHIQYYLQYKDLPVSLRRGANPGFHEAIGDVLALSV
+#=GR P12821|PF01401|41-623   PP ....****************************************************************************************************************************************************************************************************
+P12821|PF01401|644-1221         ....TPSLEQDLERLFQELQPLYLNLHAYVRRALHRHYGAQHINLEGPIPAHLLGNMWAQTWSNIYDLVVPFPSAPSMDTTEAMLKQGWTPRRMFKEADDFFTSLGLLPVPPEFWNKSMLEKPTDGREVVCHASAWDFYNGKDFRIKQCTTVNLEDLVVAHHEMGHIQYFMQYKDLPVALREGANPGFHEAIGDVLALSV
+#=GR P12821|PF01401|644-1221 PP ....****************************************************************************************************************************************************************************************************
+Q9BYF1|PF01401|21-606           ydysRGQLIEDVEHTFEEIKPLYEHLHAYVRAKLMNAY-PSYISPIGCLPAHLLGDMWGRFWTNLYSLTVPFGQKPNIDVTDAMVDQAWDAQRIFKEAEKFFVSVGLPNMTQGFWENSMLTDPGNVQKAVCHPTAWDL-GKGDFRILMCTKVTMDDFLTAHHEMGHIQYDMAYAAQPFLLRNGANEGFHEAVGEIMSLSA
+#=GR Q9BYF1|PF01401|21-606   PP ***999********************************.9**************************************************************************************************.899**********************************************************
+#=GC PP_cons                    ....***************************************************************************************************************************************9************************************************************
+#=GC RF                         ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P12821|PF01401|41-623           STPEHLHKIGLL.DRVTNDTESDINYLLKMALEKIAFLPFGYLVDQWRWGVFSGRTPPSRYNFDWWYLRTKYQGICPPVTRNETHFDAGAKFHVPNVTPYIRYFVSFVLQFQFHEALCKEAGYEGPLHQCDIYRSTKAGAKLRKVLQAGSSRPWQEVLKDMVGLDALDAQPLLKYFQPVTQWLQEQNQQNGEVLGW
+#=GR P12821|PF01401|41-623   PP ************.***************************************************************************************************************************************************************************************
+P12821|PF01401|644-1221         STPKHLHSLNLL.SSEGGSDEHDINFLMKMALDKIAFIPFSYLVDQWRWRVFDGSITKENYNQEWWSLRLKYQGLCPPVPRTQGDFDPGAKFHIPSSVPYIRYFVSFIIQFQFHEALCQAAGHTGPLHKCDIYQSKEAGQRLATAMKLGFSRPWPEAMQLITGQPNMSASAMLSYFKPLLDWLRTENELHGEKLGW
+#=GR P12821|PF01401|644-1221 PP ************.***************************************************************************************************************************************************************************************
+Q9BYF1|PF01401|21-606           ATPKHLKSIGLLsPDFQEDNETEINFLLKQALTIVGTLPFTYMLEKWRWMVFKGEIPKDQWMKKWWEMKREIVGVVEPVPHDETYCDPASLFHVSNDYSFIRYYTRTLYQFQFQEALCQAAKHEGPLHKCDISNSTEAGQKLFNMLRLGKSEPWTLALENVVGAKNMNVRPLLNYFEPLFTWLKDQN--KNSFVGW
+#=GR Q9BYF1|PF01401|21-606   PP ************99*****************************************************************************************************************************************************************************..99*****
+#=GC PP_cons                    ************.***************************************************************************************************************************************************************************************
+#=GC RF                         xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

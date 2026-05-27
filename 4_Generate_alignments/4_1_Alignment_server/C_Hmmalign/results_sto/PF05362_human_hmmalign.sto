@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P36776|PF05362|737-947         .-VTPENLQDFVGKPVFTVERMYDVTPPGVVMGLAWTAMGGSTLFVETSLRRpqdkdakgdKDGSLEVTGQLGEVMKESARIAYTFARAFLMQHAPAN.....DYLVTSHIHLHVPEGATPKDGPSAGCTIVTALLSLAMGRPVRQNLAMTGEVSLTGKILPVGGIKEKTIAAKRAGVTCIVLPAENKKDFYDLAAFITE
+#=GR P36776|PF05362|737-947 PP ..6889*****************************************987431222211113579*********************************.....*************************************************************************************************
+Q86WA8|PF05362|629-835         i--DFHALKDILGPPMYEMEVSQRLSQPGVAIGLAWTPLGGEIMFVEASRMD.........GEGQLTLTGQLGDVMKESAHLAISWLRSNAKKYQLTNafgsfDLLDNTDIHLHFPAGAVTKDGPSAGVTIVTCLASLFSGRLVRSDVAMTGEITLRGLVLPVGGIKDKVLAAHRAGLKQVIIPRRNEKDLEGIPGNVRQ
+#=GR Q86WA8|PF05362|629-835 PP 6..56789********************************************.........*********************************9876222225689*********************************************************************************************
+#=GC PP_cons                   ..66789*****************************************9876.........7789*****************************9988.....7899*********************************************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P36776|PF05362|737-947         GLEVHFVEHYREIFDIA---f
+#=GR P36776|PF05362|737-947 PP *************9987...5
+Q86WA8|PF05362|629-835         DLSFVTASCLDEVLNAA---f
+#=GR Q86WA8|PF05362|629-835 PP **************988...5
+#=GC PP_cons                   **************987....
+#=GC RF                        xxxxxxxxxxxxxxxxxxxx.
+//

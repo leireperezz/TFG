@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+P04114|PF01347|46-597         .FKHLRKYTYNYEAESSSGVPG.TADSRSATRINCKVELEVPQLCS.......FILKTSQCTLKEVYGFNPE...gKALLKKTKNSEEFAAAMSRyELKLAIPEGKQVFLYPEKDEPTYILNIKRGIISALLVPPE----TEEAKQVLFLDTVYGNCSTHFTVKTRKGNVATEISTERDLGQCDRFKPIRTGISpLALIK
+#=GR P04114|PF01347|46-597 PP .78999****************.***********************.......*******************...*************************************************************....************************************************************
+P55157|PF01347|29-579         n--NDRLYKLTYSTEVLLDRGKgKLQDSVGYRISSNVDVALLWRNPdgdddqlIQITMKDVNVENVNQQRGEksifKGKSPSKIMGKENLEALQR.PTLLHLIHGKVKEFYSYQNEAVAIENIKRGLASLFQTQLS--------SGTTNEVDISGNCKVTYQAH------QDKVIKIKALDSCK---IARSGFT.-----
+#=GR P55157|PF01347|29-579 PP 6..6789************9985777888**************9999999*******************99899*********************.****************************************........********************......999***********...9999998......
+#=GC PP_cons                  .787899*************99.999999*****************.......****************999....*******************.****************************************....******************************99***************9*****9.*****
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx
+
+P04114|PF01347|46-597         GMTRPLSTLISSSQSCQYTLDAKRKH--VAEAICKEQHLFLPFSYKNKYgMVAQVTQTLKLEDTPKINSRFFGEGT--KKMGLAFESTK-------------------STSPPKQAEAVLKTLQELKKLTISEQNIQRANLFNKLVTELRGLSDEAVTSLLPQLIE------VSSPITLQALVQCGQPQCSTHILQWLKR
+#=GR P04114|PF01347|46-597 PP **********************9995..*********************667899*************99999888..********888...................88899****************************************************9......77789***********************
+P55157|PF01347|29-579         TPNQVLGVSSKATSVTTYKIED----SFVIAVLAEETHNFGLNFLQTIK.GKIVSKQKLELKTTEAGPRLMSGKQAAAIIKAVDSKYTA------IPIVGQVFQSHCKG--CPSLSELWRSTRKYLQPDNLS--KAEAVRNFLAFIQHLRTAKKEEILQILK------MENKEVLPQLVDAVTSAQTSDSLEAILDFLDF
+#=GR P55157|PF01347|29-579 PP 8889**************9998....56889******************.***************************************......*************9..8**************766666..***************************9......5668999999**********************
+#=GC PP_cons                  999***************9999999556999******************.8899**************99999999**********999......*************9889**************888888*********************************9..566888889***********************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P04114|PF01347|46-597         VHANPLLIDVVTYLVAL.IPEPSAQQLREIFNMARD-------QRSRATLYALSHAVNNYHKTNPT---GTQELLDIANYLMEQIQ----DdctGDED.YTYLILRVIGNMGQtmeqltPELKSSILKCV-QSTKPSLMIQKAAIQALRKMEPKDKD--QEVLLQTFLDDASPGD..KRLAAYLMLMRS-PSQADINKIV
+#=GR P04114|PF01347|46-597 PP *****************.*****************8.......6678899****************...99944455555555555....5555****.*******************************.**************************..****************..************.**********
+P55157|PF01347|29-579         KSDSSIILQERFLYACGfASHPNEELLRALISKFKGSIGSSD--IRETVMIITGTLVRKLCQNEG----CKL---KAVVEAKKLILGGLEK...AEKKeDTRMYLLALKNALL......PEGIPSLLKYAEAGEGPISHLATTALQRYD--LPFITDEVKKTLNRIYHQNRKVHEktVRTAAAAIILNNNPSYMDVKNIL
+#=GR P55157|PF01347|29-579 PP ************************************888877..9********************....**9...8888889999999999...88888**************......******************************..99**********************9***********************9
+#=GC PP_cons                  *****************.*****************9888877.688999*****************...9*94447777777777799997...9999.**************......********************************9***********************..**********************9
+#=GC RF                       xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx.xxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx
+
+P04114|PF01347|46-597         QILPWEQNEQVKNFVASHI-........
+#=GR P04114|PF01347|46-597 PP ******************8.........
+P55157|PF01347|29-579         LSIGE-LPQEM---------nkymlaiv
+#=GR P55157|PF01347|29-579 PP 88765.44444.........45556789
+#=GC PP_cons                  99987*77777*******8.........
+#=GC RF                       xxxxxxxxxxxxxxxxxxxx........
+//

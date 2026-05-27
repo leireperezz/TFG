@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+Q00613|PF00447|18-118             FLTKLWTLVSDPDTDALICWSPSGNSFHVFDQGQFAKEVLP.................KYFKHNNMASFVRQLNMYGFRKVVHIEQ...........gGL.VKPERDDTEFQHPCFLRGQEQLLENIKRK
+#=GR Q00613|PF00447|18-118     PP 9****************************************.................**********************999988...........544.67777889********************7
+Q03933|PF00447|10-110             FLSKLWTLVEETHTNEFITWSQNGQSFLVLDEQRFAKEILP.................KYFKHNNMASFVRQLNMYGFRKVVHIDS............GIvKQERDGPVEFQHPYFKQGQDDLLENIKRK
+#=GR Q03933|PF00447|10-110     PP 9****************************************.................**********************999988............44366666789********************7
+Q96LI6|PF00447|80-194             FPRKLWKIVES-DQFKSISWDENGTCIVI-NEELFKKEILEtk............apyRIFQTDAIKSFVRQLNLYGFSKIQQNFQrsaflatflseeKE.SSVLSKLKFYYNPNFKRGYPQLLVRVKRR
+#=GR Q96LI6|PF00447|80-194     PP 9********96.77789************.9**********99............9999**********************9988899****99987544.56666777999****************96
+Q9UBD0|PF00447|99-211             FPQKLWRLVSS-NQFSSIWWDDSGACRVI-NQKLFEKEILKrd............vahKVFATTSIKSFFRQLNLYGFRKRRQCTFrtftr..ifsakRL.VSILNKLEFYCHPYFQRDSPHLLVRMKRR
+#=GR Q9UBD0|PF00447|99-211     PP 9********96.77788***********9.9**********99............9999*********************55433356667..7766433.55555677899****************96
+Q9ULV5|PF00447|20-120             FLGKLWALVGDPGTDHLIRWSPSGTSFLVSDQSRFAKEVLP.................QYFKHSNMASFVRQLNMYGFRKVVSIEQ...........gGL.LRPERDHVEFQHPSFVRGREQLLERVRRK
+#=GR Q9ULV5|PF00447|20-120     PP 999**************************************.................**********************998888...........544.67777899*******************97
+Q4G112|PF00447|14-129             FPAKLWRLVNSPRY-RSIRWDGRGEGLLI-DQPLFEAELLSppgpgggggtagagaepELFKTTSFTSFIRQLNLYGFRKVVLGGPg..........gGK.PAGNGPLHHFHNPHFRRDQPQLLVHLKR-
+#=GR Q4G112|PF00447|14-129     PP 99********8655.68************.99************************************************8876666..........644.55555778****************9997.
+A0A1B0GTS1|PF00447|83-182         FPRKLWTIVEE-DTFKSVSWNDDGDAVII-DKDLFQREVLQrk............gaeRIFKTDNLTSFIRQLNLYGFCKTRPSNS............--.-PGNKKMMIYCNSNFQRDKPRLLENIQRK
+#=GR A0A1B0GTS1|PF00447|83-182 PP 9********95.88999************.***********99............9999*********************996654................55667889******************97
+A0A1B0GWH4|PF00447|83-182         FPRKLWTIVEE-DTFKSVSWNDDGDAVII-DKDLFQREVLQrk............gaeRIFKTDSLTSFIRQLNLYGFCKTRPSNS............--.-PGNKKMMIYCNSNFQRDKPRLLENIQRK
+#=GR A0A1B0GWH4|PF00447|83-182 PP 9********95.88999************.***********99............9999*********************996654................55667889******************97
+#=GC PP_cons                      9*********8988999************************.................**********************987776............44.666667889******************97
+#=GC RF                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxx............xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

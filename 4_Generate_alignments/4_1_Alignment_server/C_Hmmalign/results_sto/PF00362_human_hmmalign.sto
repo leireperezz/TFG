@@ -1,0 +1,40 @@
+# STOCKHOLM 1.0
+
+P05106|PF00362|134-381         .-EDYPVDIYYLMDLSYSMKDDLWSIQNLGTKLATQMRKLTSNLRIGFGAFVDKPVSPYMYISPpEALENPCYDMK..TTCLPMFGYKHVLTLTDQVTRFNEEVKKQSVSRNRDAPEGGFDAIMQATVCDEKIGWRNDASHLLVFTTDAKTHIALDGR..LAGIVQPNDGQCHVGSDNHYSASTTMDYPSLGLMTEKLSQ
+#=GR P05106|PF00362|134-381 PP ..69*********************************************************9872556********..********************************************************************************..****************************************
+P05107|PF00362|122-367         .AKGYPIDLYYLMDLSYSMLDDLRNVKKLGGDLLRALNEITESGRIGFGSFVDKTVLPFVNTHP.DKLRNPCPNKE..KECQPPFAFRHVLKLTNNSNQFQTEVGKQLISGNLDAPEGGLDAMMQVAACPEEIGWRN-VTRLLVFATDDGFHFAGDGK..LGAILTPNDGRCHLE-DNLYKRSNEFDYPSVGQLAHKLAE
+#=GR P05107|PF00362|122-367 PP .578************************************************************.***********..**********************************************************9.99******************..**************9.9***********************
+P05556|PF00362|138-382         .AEDYPIDLYYLMDLSYSMKDDLENVKSLGTDLMNEMRRITSDFRIGFGSFVEKTVMPYISTTP.AKLRNPCTS-E..QNCTSPFSYKNVLSLTNKGEVFNELVGKQRISGNLDSPEGGFDAIMQVAVCGSLIGWRN-VTRLLVFSTDAGFHFAGDGK..LGGIVLPNDGQCHLE-NNMYTMSHYYDYPSIAHLVQKLSE
+#=GR P05556|PF00362|138-382 PP .68*************************************************************.*******88.5..9*********************************************************9.99******************..**************9.9***********************
+P16144|PF00362|127-369         e---SPVDLYILMDFSNSMSDDLDNLKKMGQNLARVLSQLTSDYTIGFGKFVDKVSVPQTDMRP.EKLKEPWPNS-..---DPPFSFKNVISLTEDVDEFRNKLQGERISGNLDAPEGGFDAILQTAVCTRDIGWRPDSTHLLVFSTESAFHYEADGAnvLAGIMSRNDERCHLDTTGTYTQYRTQDYPSVPTLVRLLAK
+#=GR P16144|PF00362|127-369 PP 6...7***********************************************************.*******997......9***************************************************************************999****************************************
+P18084|PF00362|134-382         .-EDYPVDLYYLMDLSLSMKDDLDNIRSLGTKLAEEMRKLTSNFRLGFGSFVDKDISPFSYTAP.RYQTNPCIGYKlfPNCVPSFGFRHLLPLTDRVDSFNEEVRKQRVSRNRDAPEGGFDAVLQAAVCKEKIGWRKDALHLLVFTTDDVPHIALDGK..LGGLVQPHDGQCHLNEANEYTASNQMDYPSLALLGEKLAE
+#=GR P18084|PF00362|134-382 PP ..69************************************************************.*******99764479******************************************************************************..****************************************
+P18564|PF00362|129-375         .-EDYPVDLYYLMDLSASMDDDLNTIKELGSRLSKEMSKLTSNFRLGFGSFVEKPVSPFVKTTP.EEIANPCSSIP..YFCLPTFGFKHILPLTNDAERFNEIVKNQKISANIDTPEGGFDAIMQAAVCKEKIGWRNDSLHLLVFVSDADSHFGMDSK..LAGIVIPNDGLCHLDSKNEYSMSTVLEYPTIGQLIDKLVQ
+#=GR P18564|PF00362|129-375 PP ..69************************************************************.***********..********************************************************************************..****************************************
+P26010|PF00362|147-393         .AEGYPVDLYYLMDLSYSMKDDLERVRQLGHALLVRLQEVTHSVRIGFGSFVDKTVLPFVSTVP.SKLRHPCPTRL..ERCQSPFSFHHVLSLTGDAQAFEREVGRQSVSGNLDSPEGGFDAILQAALCQEQIGWRN-VSRLLVFTSDDTFHTAGDGK..LGGIFMPSDGHCHLDSNGLYSRSTEFDYPSVGQVAQALSA
+#=GR P26010|PF00362|147-393 PP .589************************************************************.***********..**********************************************************9.89******************..****************************************
+P26012|PF00362|143-388         .-KKYPVDLYYLVDVSASMHNNIEKLNSVGNDLSRKMAFFSRDFRLGFGSYVDKTVSPYISIHP.ERIHNQCSDYN..LDCMPPHGYIHVLSLTENITEFEKAVHRQKISGNIDTPEGGFDAMLQAAVCESHIGWRKEAKRLLLVMTDQTSHLALDSK..LAGIVVPNDGNCHLK-NNVYVKSTTMEHPSLGQLSEKLID
+#=GR P26012|PF00362|143-388 PP ..58************************************************************.***********..********************************************************************************..**************9.9***********************
+#=GC PP_cons                   .6799***********************************************************.999*****999..9*******************************************************************************..****************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P05106|PF00362|134-381         KNINLIFAVTENVVNLYQNYSELIPGTTVGVLSMDSSNVLQLIVDAYGKIRSKV.
+#=GR P05106|PF00362|134-381 PP ***************************************************987.
+P05107|PF00362|122-367         NNIQPIFAVTSRMVKTYEKLTEIIPKSAVGELSEDSSNVVHLIKNAYNKLSSRV.
+#=GR P05107|PF00362|122-367 PP ***************************************************986.
+P05556|PF00362|138-382         NNIQTIFAVTEEFQPVYKELKNLIPKSAVGTLSANSSNVIQLIIDAYNSLSSEV.
+#=GR P05556|PF00362|138-382 PP ***************************************************986.
+P16144|PF00362|127-369         HNIIPIFAVTNYSYSYYEKLHTYFPVSSLGVLQEDSSNIVELLEEAFNRIRS--n
+#=GR P16144|PF00362|127-369 PP **************************************************98..5
+P18084|PF00362|134-382         NNINLIFAVTKNHYMLYKNFTALIPGTTVEILDGDSKNIIQLIINAYNSIRSKV.
+#=GR P18084|PF00362|134-382 PP ***************************************************987.
+P18564|PF00362|129-375         NNVLLIFAVTQEQVHLYENYAKLIPGATVGLLQKDSGNILQLIISAYEELRSEV.
+#=GR P18564|PF00362|129-375 PP ***************************************************986.
+P26010|PF00362|147-393         ANIQPIFAVTSAALPVYQELSKLIPKSAVGELSEDSSNVVQLIMDAYNSLSSTV.
+#=GR P26010|PF00362|147-393 PP ***************************************************986.
+P26012|PF00362|143-388         NNINVIFAVQGKQFHWYKDLLPLLPGTIAGEIESKAANLNNLVVEAYQKLISEV.
+#=GR P26012|PF00362|143-388 PP **************************************************9986.
+#=GC PP_cons                   **************************************************9986.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

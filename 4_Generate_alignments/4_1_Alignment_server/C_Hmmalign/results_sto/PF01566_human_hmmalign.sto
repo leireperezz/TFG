@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P49279|PF01566|65-486         GFLMSIAFLDPGNIESDLQAGAVAGFKLLWVLLWATVLGLLCQRLAARLGVVTGKDLGEVCHLYYPKVPRTVLWLTIELAIVGSDMQEVIGTAIAFNLLSAgrIPLWGGVLITIVDTFFFLFLDNYgLRKLEAFFGLLITIMALTFGYEYVVARPEQGALLRGLFLPSCPgcGHPE..LLQAVGIVGAIIMPHNIYLHSA
+#=GR P49279|PF01566|65-486 PP 89*************************************************************************************************9889*******************************************************************888888..**********************
+P49281|PF01566|77-496         GFLMSIAYLDPGNIESDLQSGAVAGFKLLWILLLATLVGLLLQRLAARLGVVTGLHLAEVCHRQYPKVPRVILWLMVELAIIGSDMQEVIGSAIAINLLSVgrIPLWGGVLITIADTFVFLFLDKYgLRKLEAFFGFLITIMALTFGYEYVTVKPSQSQVLKGMFVPSCS..GCRTpqIEQAVGIVGAVIMPHNMYLHSA
+#=GR P49281|PF01566|77-496 PP 89*************************************************************************************************8679*****************************************************************99..554455**********************
+#=GC PP_cons                  89*************************************************************************************************87..***********************.******************************************9..6666..**********************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx..xxxxxxxxxxxxxxxxxxxxxx
+
+P49279|PF01566|65-486         LVKSREIDRARRAdiREANMYFLIEATIALSVSFIINLFVMAVFGQAFYqktnqaafnicansslhdyakifpMNNATVAV......DIYQGGVILGCLFGPAALYIWAIGLLAAGQSSTMTGTYAGQFVMEGFLR--LRWSRFARVLLTRSCAILPTVLVAVFRDLRdLSGLNDLLNVLQSLLLPFAVLPILTFTSMPT
+#=GR P49279|PF01566|65-486 PP **********9999************************************9999999999999999999999644444445......*************************************************..************************9886666*******************************
+P49281|PF01566|77-496         LVKSRQVNRNNKQevREANKYFFIESCIALFVSFIINVFVVSVFAEAFFgktneqvvevc.tntssphaglfpK------DnstlavDIYKGGVVLGCYFGPAALYIWAVGILAAGQSSTMTGTYSGQFVMEGFLN--LKWSRFARVVLTRSIAIIPTLLVAVFQDVEhLTGMNDFLNVLQSLQLPFALIPILTFTSLRP
+#=GR P49281|PF01566|77-496 PP *********99999***********************************77777777766.6666666666643......0444346999999*******************************************..*************************997778*******************************
+#=GC PP_cons                  **********999..**********************************........................44444442......999**********************************************..*************************98767.*******************************
+#=GC RF                       xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........................xxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49279|PF01566|65-486         LMQEFANGLLNKVVTSSIMVLVCAINLYFVVS
+#=GR P49279|PF01566|65-486 PP *****************************985
+P49281|PF01566|77-496         VMSDFANGLGWRIAGGILVLIICSINMYFVV-
+#=GR P49281|PF01566|77-496 PP ****************************986.
+#=GC PP_cons                  *****************************975
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

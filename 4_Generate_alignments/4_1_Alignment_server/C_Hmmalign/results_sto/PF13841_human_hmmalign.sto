@@ -1,0 +1,55 @@
+# STOCKHOLM 1.0
+
+Q30KQ6|PF13841|28-58             .RCTKR..YGRCKRDCLESEKQIDIC.sLPRKICC
+#=GR Q30KQ6|PF13841|28-58     PP .8****..******************.********
+Q8N104|PF13841|25-54             .KCNKL..KGTCKNNCGKNEELIALC..QKSLKCC
+#=GR Q8N104|PF13841|25-54     PP .8****..******************..*******
+Q8WTQ1|PF13841|29-58             .ICGYG..TARCRKKCRSQEYRIGRC..PNTYACC
+#=GR Q8WTQ1|PF13841|29-58     PP .5****..******************..*******
+Q96PH6|PF13841|26-55             .KCWNR..SGHCRKQCKDGEAVKDTC..KNLRACC
+#=GR Q96PH6|PF13841|26-55     PP .8****..******************..*******
+Q9H1M4|PF13841|23-54             .KCWNNyvQGHCRKICRVNEVPEALC..ENGRYCC
+#=GR Q9H1M4|PF13841|23-54     PP .8************************..*******
+Q30KQ9|PF13841|34-64             .ECRIG..NGQCKNQCHENEIRIAYC.iRPGTHCC
+#=GR Q30KQ9|PF13841|34-64     PP .6****..******************.********
+Q5J5C9|PF13841|22-51             .KCWGK..SGRCRTTCKESEVYYILC..KTEAKCC
+#=GR Q5J5C9|PF13841|22-51     PP .8****..******************..*******
+Q7Z7B7|PF13841|26-56             .KCVSN.tPGYCRTCCHWGETALFMC..NASRKCC
+#=GR Q7Z7B7|PF13841|26-56     PP .8****.*******************..*******
+Q8NET1|PF13841|28-56             .-CERP..NGSCRDFCLETEIHVGRC..LNSQPCC
+#=GR Q8NET1|PF13841|28-56     PP ..9999..******************..*******
+A8MXU0|PF13841|28-56             .-CERP..NGSCRDFCLETEIHVGRC..LNSRPCC
+#=GR A8MXU0|PF13841|28-56     PP ..9999..******************..*******
+P59861|PF13841|28-57             .ECPSE..YYHCRLKCNADEHAIRYC..ADFSICC
+#=GR P59861|PF13841|28-57     PP .699**..******************..*******
+Q30KQ1|PF13841|30-59             .SCFIM..RGKCRHECHDFEKPIGFC.tKLNANC-
+#=GR Q30KQ1|PF13841|30-59     PP .6****..******************.9999999.
+Q30KQ4|PF13841|40-68             .-CELY..QGMCRNACREYEIQYLTC..PNDQKCC
+#=GR Q30KQ4|PF13841|40-68     PP ..99**..******************..*******
+Q30KQ5|PF13841|37-66             .RCYYG..TGRCRKSCKEIERKKEKC..GEKHICC
+#=GR Q30KQ5|PF13841|37-66     PP .8****..******************..*******
+Q30KQ8|PF13841|53-83             .SCTAI..GGRCKNQCDDSEFRISYC.aRPTTHCC
+#=GR Q30KQ8|PF13841|53-83     PP .69999..******************.********
+Q7Z7B8|PF13841|23-53             .KCFNK.vTGYCRKKCKVGERYEIGC..LSGKLCC
+#=GR Q7Z7B8|PF13841|23-53     PP .8****.*******************..*******
+Q8IZN7|PF13841|35-64             k---RM..EGHCEAECLTFEVKIGGCraELAPFCC
+#=GR Q8IZN7|PF13841|35-64     PP 6...68..9**************************
+Q8N687|PF13841|26-56             .KCWKN.nVGHCRRRCLDTERYILLC..RNKLSCC
+#=GR Q8N687|PF13841|26-56     PP .8****.*******************..*******
+Q8N688|PF13841|24-53             .RCWNL..YGKCRYRCSKKERVYVYC..INNKMCC
+#=GR Q8N688|PF13841|24-53     PP .8****..******************..*******
+Q8NES8|PF13841|26-55             .RCWKG..QGACQTYCTRQETYMHLC..PDASLCC
+#=GR Q8NES8|PF13841|26-55     PP .8****..******************..*******
+Q8NG35|PF13841|45-74             .SCKLG..RGKCRKECLENEKPDGNC..RLNFLCC
+#=GR Q8NG35|PF13841|45-74     PP .6****..******************..*******
+A0A096LNP1|PF13841|28-57         .ECPSE..YYHCRLKCNADEHAIRYC..ADFSICC
+#=GR A0A096LNP1|PF13841|28-57 PP .699**..******************..*******
+Q30KP9|PF13841|36-65             .SCWRL..QGTCRPKCLKNEQYRILC..DTIHLCC
+#=GR Q30KP9|PF13841|36-65     PP .6****..******************..*******
+Q30KQ7|PF13841|34-62             .ECQLV..RGACKPECNSWEYVYYYC..-NVNPCC
+#=GR Q30KQ7|PF13841|34-62     PP .6****..******************...******
+Q4QY38|PF13841|31-59             .KCYKN..-GICRLECYESEMLVAYC..MFQLECC
+#=GR Q4QY38|PF13841|31-59     PP .89999...*****************..*******
+#=GC PP_cons                     .7****..******************..*******
+#=GC RF                          .xxxxx..xxxxxxxxxxxxxxxxxx..xxxxxxx
+//

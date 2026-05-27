@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q16526|PF03441|288-486         g---QLLWREFFYTAATNNPRF-DKMEGNPICVqIPWDKNPE--ALAKWAEGRTGFPWIDAIMTQLRQEGWIHHLARHAVACFLTRgDLWISWEEGMKVFEELLLDADWSINAGSWMWLSCSSFFQQ-FFHCYCPVGFGRRTDPNGDYIRRYLPVLRGFPAKYIYDPWNAPEGIQKVAKCLIGVNYPKPMVNHAEASRLN
+#=GR Q16526|PF03441|288-486 PP 6...8*****************.66666666666***66655..7****************************************************************************998888.9***********************************************************************
+Q49AN0|PF03441|307-505         g---QLLWREFFYTAATNNPRF-DRMEGNPICIqIPWDRNPE--ALAKWAEGKTGFPWIDAIMTQLRQEGWIHHLARHAVACFLTRgDLWVSWESGVRVFDELLLDADFSVNAGSWMWLSCSAFFQQ-FFHCYCPVGFGRRTDPSGDYIRRYLPKLKAFPSRYIYEPWNAPESIQKAAKCIIGVDYPRPIVNHAETSRLN
+#=GR Q49AN0|PF03441|307-505 PP 6...8*****************.77777777766***66655..7****************************************************************************888887.9***********************************************************************
+#=GC PP_cons                   ....8*****************.6777777776.***66655..7*****************************************.**********************************888887.9***********************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q16526|PF03441|288-486         IERMKQ
+#=GR Q16526|PF03441|288-486 PP ***996
+Q49AN0|PF03441|307-505         IERMKQ
+#=GR Q49AN0|PF03441|307-505 PP ***986
+#=GC PP_cons                   ***986
+#=GC RF                        xxxxxx
+//

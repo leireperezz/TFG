@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5JQC4|PF15623|1-278             MSATGDRHPTQGDQEAPVSQEGAQAEAAGAGNQEGGDSGPDSSDVVPAAEVVGVAGPVEGLGEEEGEQAAGLAAVPRGGSAEEDSDIGPA.........TEEEEEEEGNE........AANFDLAVVARRYPASGIHFVLLDMVHSLLHRLSHNDHILIENRQlSRLMVGPHAAARNLWGNLPPLLLPQRLG-AGAAARA
+#=GR Q5JQC4|PF15623|1-278     PP 9*****************************************************************************************.........9999999999*........*********************************************9****************************.*******
+P0C2W7|PF15623|1-288             MSATGDRHPTQGDQEAPVSQEGAQAEAAGAGNQEGGDSGPDSSDMVPAAEVVGVAGPVEGLGEEEGEQAAGLAAVPQGGSAEEDSDIGPA........tEEEEEEEEGNE........AANFDLAVATRRYPAAGIGFVFLYLVHSLLRRLYHNDHIQIANRHlSRLMVGPHAAVPNLWDNPPLLLLSQRLG-AGAAAPE
+#=GR P0C2W7|PF15623|1-288     PP 9*****************************************************************************************........99999999999*........**************************************************************************.*******
+A0A0U1RQG5|PF15623|1-238         MSATGDQDLIQEDQEAPVNQEGAQAEAVG--DREGGDSGPDSGN-----TVAGVAGPMRGLGEEEGEQAAGLAAAPGGGNAEEDSEIRIVvemveeeedEEEEE-----EeeeeerneADNFDLVAAARRYPIRGFRMEFLDMVHSLLLRIYHNDHILIRMRG.GRLMRRRRTAAPSGSEEPRLLLVHERLG-VGAAGPE
+#=GR A0A0U1RQG5|PF15623|1-238 PP 9***************************9..*************.....99*******************************************8765522222.....123445777*********************************************.****************************.*******
+#=GC PP_cons                     9*****************************************************************************************.........77777999997........*********************************************.****************************.*******
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5JQC4|PF15623|1-278             GEGLGLIQEAASV......PEPAVPADLAEMAREPAEEAAEEKLSEEATEE....PDAEEPATEEPTAQEATAPEEVTKSQPEKWDEEAQDAAGEEEKE-QEKEKDA
+#=GR Q5JQC4|PF15623|1-278     PP *************......********************************....********************************************.*****96
+P0C2W7|PF15623|1-288             GEGLGLIQEAASVqeaasvPEPAVPADLAEMAREPAEEAADEKPPEEAAEEklteEATEEPAAEEPTSEEAVAPEEVTKSQPEKWDEEAQDAAGEEEKE-QEKEKD-
+#=GR P0C2W7|PF15623|1-288     PP *********9999999999**********************999999999977767888888*************************************.****97.
+A0A0U1RQG5|PF15623|1-238         GEGLGLLQEAALV......PEPEVPADLAEMAREPAEEPA-EEASEKPTEE....-AAEEPAEE-------------------------------------------
+#=GR A0A0U1RQG5|PF15623|1-238 PP *************......*********************.7999999999.....88888765...........................................
+#=GC PP_cons                     *************......**********************99*****999....999999998***********************************.****986
+#=GC RF                          xxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

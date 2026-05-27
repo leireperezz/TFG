@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O15079|PF15290|19-329          t--SPPVSVRDAYGTSSlSSSSNSGSYKGSDSSPTPRRSMKYTLCSDNHGIKPPTPEQYLTPLQQKEVCIRHLKARLKDTQDRLQDRDTEIDDLKTQLSRMQEDWIEEECHRVEAQLALKEARKEIKQLKQVIDTVKNNLIDKDKGLQKYFVDINIQNKKLETLLHSMEVAQNGMAKEDGTGESAGGSPARSLTRSSTYT
+#=GR O15079|PF15290|19-329  PP 7..689**************************************************************************************************************************************************************************************************
+Q9NX95|PF15290|211-503         .NQLSPVNIHPSYAPSS.PSSSNSGSYKGSDCSPIMRRSGRYMSCGENHGVRPPNPEQYLTPLQQKEVTVRHLKTKLKESERRLHERESEIVELKSQLARMREDWIEEECHRVEAQLALKEARKEIKQLKQVIETMRSSLADKDKGIQKYFVDINIQNKKLESLLQSMEMAHSGSLRDELCLDFPCDSPEKSLTLNPPLD
+#=GR Q9NX95|PF15290|211-503 PP .789*************.**************************************************************************************************************************************************************************************
+#=GC PP_cons                   .7879************.**************************************************************************************************************************************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15079|PF15290|19-329          KLSDPAVcgdrqpGDPSSGSAEDGADSGFAAADDTLSRTDALEASSlLSSGVDCGTEETSLhSSFGLgprFPASNTYEKLLCGMEAGVQASCMQERAIQTDFVQYQPDLDTIL
+#=GR O15079|PF15290|19-329  PP ******9999998899999***********************7654155667777655443133322222222223333334555566789*******************986
+Q9NX95|PF15290|211-503         TMADGLS......--LEEQVTGEGADRELLVGDSIANSTDLFDEIV.TATTTESGDLELVH.STPGA...-----NVLELLPIVMGQEEGSVVVERAVQTDVVPYSPAISELI
+#=GR Q9NX95|PF15290|211-503 PP *******........99*****************************.**************.*9965........56777777888899*********************997
+#=GC PP_cons                   ******9......89999************************9877.78888888887776.66644...222224455556666777899*******************986
+#=GC RF                        xxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

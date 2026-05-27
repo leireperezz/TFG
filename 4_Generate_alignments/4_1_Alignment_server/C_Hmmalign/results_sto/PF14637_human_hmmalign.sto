@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q8TF40|PF14637|318-549         cgp-----NPGIVRKKKIAIGVIFSLSKDEDenNKFNEFFFSHFPLFESHMNKLKSAIEQamkmsrrsadASQRSLA-YNRIVDALNEFRTTICNLYTMPRIGEPVWLTMMSGTPEKNHLCYRFMKEFTFLMENASKNQ---FLPALITAVLTNHLAWVPTVMPNGQP----PIKIFLEKHSSQSVDMLAKTHPYNPLWA
+#=GR Q8TF40|PF14637|318-549 PP 876.....56789**************9988889********************************99865655555.5************************************************************...**************************....****************************
+Q9P278|PF14637|298-531         ..t--CSSNPAMVRRKKIAISIIFSLCEKEEaqRNFQDFFFSHFPLFESHMNRLKSAIEKamiscrkiaeSSLRVQFYVSRLMEALGEFRGTIWNLYSVPRIAEPVWLTMMSGTLEKNQLCQRFLKEFTLLIEQINKNQ---FFAALLTAVLTYHLAWVPTVMPVDHP----PIKAFSEKRTSQSVNMLAKTHPYNPLWA
+#=GR Q9P278|PF14637|298-531 PP ..6..7899********************99999***********************************9999******************************************************************...99************************....****************************
+#=GC PP_cons                   .....78978899**************9999..9**************************..........7778877*7************************************************************...9*************************....****************************
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8TF40|PF14637|318-549         QLGDLYGAIGSPVRLARTVVVGKRQDMVQRLLYFLTYFIRCSELQ
+#=GR Q8TF40|PF14637|318-549 PP *******************************************86
+Q9P278|PF14637|298-531         QLGDLYGAIGSPVRLTRTVVVGKQKDLVQRILYVLTYFLRCSELQ
+#=GR Q9P278|PF14637|298-531 PP *******************************************86
+#=GC PP_cons                   *******************************************86
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

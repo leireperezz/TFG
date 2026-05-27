@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+Q9Y2L5|PF12739|13-517         p--DSFVPCVAALCSDEAERLTRLNHLS-FAELLKPFS-RLTSEVHMRDPNNQLHVIKNLKIAVSNIVTQPPQPGA-IRKLLNDVVSGSQPAEGLVANVITAGDYDLNIS--------ATTPWFESYRETFLQSMPALDHEFLNHYLACMLVASSSEAEPVEQFSKLSQEQHRiqhNSDYSYPKWFIPNTLKYYVLLHDV
+#=GR Q9Y2L5|PF12739|13-517 PP 8..68***********************.*********.8899******************************996.6********************************........2379******************************************************************************
+#=GC PP_cons                  ...68***********************.*********.8899******************************996.6********************************........2379***************************************************...************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9Y2L5|PF12739|13-517         SAGDEQRAESIYEEMKQKYGTQgCYLLKINSRTsNRASDEQIPDP-WSQylqknsiqnqesyedgpctitsnknsdnnllsldgldnevkdglpnnfrahplqleqssdpsnsidGPDHLRSASSLHETKKGNT-GIIHGACLTLTDHDRIRQFIQEFTFRGLLPHIEKTIRQLNDQLIS-RKGLSRSLFSATKKWFSGS
+#=GR Q9Y2L5|PF12739|13-517 PP *********************************999*********.**99*****************************************************9999998877776667777777777777333.589******************************************.******************9
+#=GC PP_cons                  **********************.**********.99*********.**9..................................................................6667777777777777333.589******************************************.******************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxxxxxx..................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9Y2L5|PF12739|13-517         KV-PEKSINDLKNTSGLLYPPEAPELQIRKMADLCFLVQHYDLAYSCYHTAKKDFLNDQAMLYAAGALEMAAVSAFLQP-------GAPRPYPAHYMDTAIQTYRDICKNMVLAERCVLLSAELLKSQS
+#=GR Q9Y2L5|PF12739|13-517 PP 98.**************************************************************************99.......****************************************975
+#=GC PP_cons                  98.**************************************************************************99.......****************************************975
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

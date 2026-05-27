@@ -1,0 +1,153 @@
+# STOCKHOLM 1.0
+
+O14686|PF00628|229-273           CAVCEG.......PGELCDLFFCTS.CGHHYHGACLDTALTARKR--A.......GWQCPEC
+#=GR O14686|PF00628|229-273   PP ******.......************.***************5555..5.......6******
+O14686|PF00628|276-320           CQACRK.......PGNDSKMLVCET.CDKGYHTFCLKPPME--ELPAH.......SWKCKAC
+#=GR O14686|PF00628|276-320   PP ******.......************.***************..77777.......8******
+O14686|PF00628|1380-1427         CVVCGSf.....gRGAEGHLLACSQ.CSQCYHPYCVNSKITKVMLLK-.......GWRCVEC
+#=GR O14686|PF00628|1380-1427 PP *******.....999**********.***************888887........9******
+O14686|PF00628|1430-1474         CEVCGQ.......ASDPSRLLLCDD.CDISYHTYCLDPPLL--TVPKG.......GWKCKWC
+#=GR O14686|PF00628|1430-1474 PP ******.......************.***************..99999.......*****99
+O15164|PF00628|829-870           CAVCQN.......---GGELLCCEK.CPKVFHLSCHVPTLT--NFPSG.......EWICTFC
+#=GR O15164|PF00628|829-870   PP 9*****..........9********.***************..9999*.......******9
+O43189|PF00628|90-139            CCVCRSe.....tVVPGNRLVSCEK.CRHAYHQDCHVPRAPAPGEGEG......tSWVCRQC
+#=GR O43189|PF00628|90-139    PP 99****8.....8778*********.*************998777777......9*******
+O43918|PF00628|299-340           CAVCRD.......---GGELICCDG.CPRAFHLACLSPPLR--EIPSG.......TWRCSSC
+#=GR O43918|PF00628|299-340   PP 9*****..........9********.***************..*****.......*******
+O75151|PF00628|8-53              C-VCRL......pYDVTRFMIECDA.CKDWFHGSCVGVEEEEAPDID-.......IYHCPNC
+#=GR O75151|PF00628|8-53      PP 7.9**9......9999*********.*************99777665........9******
+O94880|PF00628|728-776           CGICKK.......NHDQHLLLLCDT.CKLHYHLGCLDPPLTRMPRKTKn.....sYWQCSEC
+#=GR O94880|PF00628|728-776   PP ******.......************.***************99998889.....9*******
+O94880|PF00628|871-918           CATCKG.......TGDNENLVRCDE.CRLCYHFGCLDPPLKKSPKQTG......yGWICQEC
+#=GR O94880|PF00628|871-918   PP ******.......************.***************9999999......********
+O96028|PF00628|834-872           CFVCSK.......---GGSLLCCES.CPAAFHPDCLNIEMP-----DG.......SWFCNDC
+#=GR O96028|PF00628|834-872   PP 99****..........9********.************977.....67.......8******
+P29375|PF00628|296-340           CMFCGR.......GNNEDKLLLCDG.CDDSYHTFCLIPPLP--DVPKG.......DWRCPKC
+#=GR P29375|PF00628|296-340   PP 9*****.......************.***************..999**.......*******
+P29375|PF00628|1164-1215         C-ICRK.......-TASGFMLQCEL.CKDWFHNSCVPLPKSSSQKKGSswqakevKFLCPLC
+#=GR P29375|PF00628|1164-1215 PP 8.****........89*********.***************888887789999999999999
+P41229|PF00628|327-371           CRMCSR.......GDEDDKLLLCDG.CDDNYHIFCLLPPLP--EIPKG.......VWRCPKC
+#=GR P41229|PF00628|327-371   PP ******.......************.***************..*****.......*******
+Q03164|PF00628|1482-1530         CHVCGR......qHQATKQLLECNK.CRNSYHPECLGPNYPTKPTKKK......kVWICTKC
+#=GR Q03164|PF00628|1482-1530 PP ******......88889********.*************998888877......79******
+Q03164|PF00628|1569-1624         CPLCDKcy...ddDDYESKMMQCGK.CDRWVHSKCENLSDEMYEILSNlp..esvAYTCVNC
+#=GR Q03164|PF00628|1569-1624 PP 66777776...68899*********.*********************9**..**********
+Q12830|PF00628|393-434           CRVCHK.......---LGDLLCCET.CSAVYHLECVKPPLE--EVPED.......EWQCEVC
+#=GR Q12830|PF00628|393-434   PP 9*****..........9********.***************..99999.......******9
+Q12830|PF00628|2870-2915         C-ICKT......pYDESKFYIGCDR.CQNWYHGRCVGILQSEAELID-.......EYVCPQC
+#=GR Q12830|PF00628|2870-2915 PP 8.****......999**********.***************888887........*******
+Q12873|PF00628|382-423           CEVCQQ.......---GGEIILCDT.CPRAYHLVCLDPELD--RAPEG.......KWSCPHC
+#=GR Q12873|PF00628|382-423   PP ******..........9********.***************..88889.......9******
+Q12873|PF00628|459-500           CRVCKD.......---GGELLCCDA.CISSYHIHCLNPPLP--DIPNG.......EWLCPRC
+#=GR Q12873|PF00628|459-500   PP 9****9..........9********.***************..*****.......*******
+Q13263|PF00628|628-669           CRVCQK.......---PGDLVMCNQ.CEFCFHLDCHLPALQ--DVPGE.......EWSCSLC
+#=GR Q13263|PF00628|628-669   PP ******..........9********.***************..99999.......*****99
+Q13342|PF00628|693-733           CEVCRD.......---GGELFCCDT.CSRVFHEDCHIPPVEAERT---.......PWNCIFC
+#=GR Q13342|PF00628|693-733   PP 9*****..........9********.**************95555..........4***999
+Q14839|PF00628|373-414           CEVCQQ.......---GGEIILCDT.CPRAYHMVCLDPDME--KAPEG.......KWSCPHC
+#=GR Q14839|PF00628|373-414   PP ******..........9********.*************99..88999.......9******
+Q14839|PF00628|452-493           CRVCKD.......---GGELLCCDT.CPSSYHIHCLNPPLP--EIPNG.......EWLCPRC
+#=GR Q14839|PF00628|452-493   PP 9****9..........9********.***************..*****.......*******
+Q5T6S3|PF00628|99-148            CNICLGk.....tSGPLNEILICGK.CGLGYHQQCHIPIAGSADQPLL......tPWFCRRC
+#=GR Q5T6S3|PF00628|99-148    PP 9***998.....8899*********.***********99988888776......7*******
+Q5VWG9|PF00628|868-912           CPGCNK.......PDDGSPMIGCDD.CDDWYHWPCVGIMTAPPEEM--.......QWFCPKC
+#=GR Q5VWG9|PF00628|868-912   PP 999***.......************.*************9954444.........7******
+Q6ZMT4|PF00628|40-85             C-VCRQ......pYDVNRFMIECDI.CKDWFHGSCVGVEEHHAVDI-D.......LYHCPNC
+#=GR Q6ZMT4|PF00628|40-85     PP 8.****......9999*********.*************9966665.5.......*******
+Q8NEZ4|PF00628|344-388           CAVCDS.......PGDLLDQFFCTT.CGQHYHGMCLDIAVT--PLKRA.......GWQCPEC
+#=GR Q8NEZ4|PF00628|344-388   PP ******.......999*********.***************..66667.......8******
+Q8NEZ4|PF00628|391-435           CQNCKQ.......SGEDSKMLVCDT.CDKGYHTFCLQPVMK--SVPTN.......GWKCKNC
+#=GR Q8NEZ4|PF00628|391-435   PP 9*****.......************.*************99..88889.......9******
+Q8NEZ4|PF00628|960-1007          CVVCGSf.....gQGAEGRLLACSQ.CGQCYHPYCVSIKITKVVL-SK.......GWRCLEC
+#=GR Q8NEZ4|PF00628|960-1007  PP *******.....999**********.***************5555.66.......*******
+Q8NEZ4|PF00628|1010-1054         CEACGK.......ATDPGRLLLCDD.CDISYHTYCLDPPLQ--TVPKG.......GWKCKWC
+#=GR Q8NEZ4|PF00628|1010-1054 PP ******.......************.***************..99999.......*****99
+Q8TDI0|PF00628|346-387           CEVCQQ.......---GGEIILCDT.CPRAYHLVCLDPELE--KAPEG.......KWSCPHC
+#=GR Q8TDI0|PF00628|346-387   PP ******..........9********.***************..88999.......9******
+Q8TDI0|PF00628|419-460           CRVCKD.......---GGELLCCDA.CPSSYHLHCLNPPLP--EIPNG.......EWLCPRC
+#=GR Q8TDI0|PF00628|419-460   PP 9****9..........9********.***************..*****.......*******
+Q8WUB8|PF00628|380-433           CGICLKgke.snkKGKAESLIHCSQ.CENSGHPSCLDMTMELVSMIKT......yPWQCMEC
+#=GR Q8WUB8|PF00628|380-433   PP 999999888.877777999******.***************9888888......9*******
+Q8WUB8|PF00628|436-478           CIICGQ.......PHHEEEMMFCDM.CDRGYHTFCVGLGAI----PSG.......RWICDCC
+#=GR Q8WUB8|PF00628|436-478   PP 99****.......************.************966....999.......9****99
+Q8WYB5|PF00628|272-317           CSACRV......qGRNADNMLFCDS.CDRGFHMECCDPPLS--RMPKG.......MWICQVC
+#=GR Q8WYB5|PF00628|272-317   PP 9****9......9999*********.***************..88889.......9*****9
+Q92782|PF00628|274-325           CDFCLGgs...kkTGCPEDLISCAD.CGRSGHPSCLQFTVNMTAAVRT......yRWQCIEC
+#=GR Q92782|PF00628|274-325   PP 99999987...777789********.***************9999988......9*******
+Q92782|PF00628|328-372           CSLCGT.......SENDDQLLFCDD.CDRGYHMYCLSPPMA--EPPEG.......SWSCHLC
+#=GR Q92782|PF00628|328-372   PP ******.......************.*************99..99999.......*****99
+Q92784|PF00628|262-316           CDFCLGgsnmnkkSGRPEELVSCAD.CGRSGHPTCLQFTLNMTEAVKT......yKWQCIEC
+#=GR Q92784|PF00628|262-316   PP 88888888777667789********.******************9999......9*******
+Q92784|PF00628|319-363           CILCGT.......SENDDQLLFCDD.CDRGYHMYCLNPPVA--EPPEG.......SWSCHLC
+#=GR Q92784|PF00628|319-363   PP 99****.......************.*************99..99999.......*****99
+Q92785|PF00628|273-327           CDFCLGdskinkkTGQPEELVSCSD.CGRSGHPSCLQFTPVMMAAVKT......yRWQCIEC
+#=GR Q92785|PF00628|273-327   PP 88888877787767889********.************9999988888......9*******
+Q92785|PF00628|330-374           CNICGT.......SENDDQLLFCDD.CDRGYHMYCLTPSMS--EPPEG.......SWSCHLC
+#=GR Q92785|PF00628|330-374   PP ******.......************.*************99..99999.......*****99
+Q92794|PF00628|209-262           CSFCLGtke.qnrEKKPEELISCAD.CGNSGHPSCLKFSPELTVRVKA......lRWQCIEC
+#=GR Q92794|PF00628|209-262   PP 999998888.888889*********.*************998888888......9*******
+Q92794|PF00628|265-310           CSSCRD......qGKNADNMLFCDS.CDRGFHMECCDPPLT--RMPKG.......MWICQIC
+#=GR Q92794|PF00628|265-310   PP 99****......9999*********.***************..88889.......9****99
+Q96BD5|PF00628|491-532           CSVCRK.......---SGQLLMCDT.CSRVYHLDCLDPPLK--TIPKG.......MWICPRC
+#=GR Q96BD5|PF00628|491-532   PP ******..........9********.***************..9****.......*******
+Q96CB8|PF00628|162-212           CVVCRQm.....mVASGNQLVECQE.CHNLYHRDCHKPQVTDKEANDPr.....lVWYCARC
+#=GR Q96CB8|PF00628|162-212   PP ******9.....9899*********.***************99888889.....9*******
+Q96L73|PF00628|1710-1748         CFVCSE.......---GGSLLCCDS.CPAAFHRECLNIDIP-----EG.......NWYCNDC
+#=GR Q96L73|PF00628|1710-1748 PP 99****..........9********.************966.....78.......9******
+Q96PU4|PF00628|347-392           CRVCGG.......KHEPNMQLLCDE.CNVAYHIYCLNPPLDKVPE--E......eYWYCPSC
+#=GR Q96PU4|PF00628|347-392   PP ******.......************.***************4444..4......3*******
+Q96QT6|PF00628|59-102            CDSCKE.......---GGDLLCCDH.CPAAFHLQCCNPPLSEEMLPPG.......EWMCHRC
+#=GR Q96QT6|PF00628|59-102    PP 777777..........*********.**********************.......*******
+Q96QT6|PF00628|274-316           CFTCNR.......SCRVAPLIQCDY.CPLLFHMDCLEPPLT--AMPLG.......RWMCP--
+#=GR Q96QT6|PF00628|274-316   PP 99****.......************.***************..66667.......8***7..
+Q96T23|PF00628|894-938           CKKCGL.......PNHPELILLCDS.CDSGYHTACLRPPLM--IIPDG.......EWFCPPC
+#=GR Q96T23|PF00628|894-938   PP 999***.......************.**************9..99999.......*******
+Q96T88|PF00628|318-363           CHLCGG.......RQDPDKQLMCDE.CDMAFHIYCLDPPLSSVPS--E......dEWYCPEC
+#=GR Q96T88|PF00628|318-363   PP ******.......************.***************4444..4......4*******
+Q9BTC0|PF00628|271-319           C-ICRQ.......PHNNRFMICCDR.CEEWFHGDCVGISEARGRLLERn....geDYICPNC
+#=GR Q9BTC0|PF00628|271-319   PP 8.****.......************.***************99999989....99*******
+Q9BY66|PF00628|317-361           CQVCSR.......GDEDDKLLFCDG.CDDNYHIFCLLPPLP--EIPRG.......IWRCPKC
+#=GR Q9BY66|PF00628|317-361   PP ******.......************.***************..9999*.......*******
+Q9NRL2|PF00628|1151-1195         CKICRK.......KGDAENMVLCDG.CDRGHHTYCVRPKLK--TVPEG.......DWFCPEC
+#=GR Q9NRL2|PF00628|1151-1195 PP ******.......************.***************..9999*.......*******
+Q9P0U4|PF00628|29-73             C-ICRK.......PDINCFMIGCDN.CNEWFHGDCIRITEKMAKAIR-.......EWYCREC
+#=GR Q9P0U4|PF00628|29-73     PP 8.****.......************.*************99777766........*******
+Q9UGL1|PF00628|312-356           CLLCGS.......GNDEDRLLLCDG.CDDSYHTFCLIPPLH--DVPKG.......DWRCPKC
+#=GR Q9UGL1|PF00628|312-356   PP 99****.......************.***************..99***.......*******
+Q9UGL1|PF00628|1179-1221         C-LCQK.......-APAAPMIQCEL.CRDAFHTSCVAVPSISQGLRI-.......-WLCPHC
+#=GR Q9UGL1|PF00628|1179-1221 PP 7.9***........799********.***************888877.........******
+Q9UGL1|PF00628|1492-1535         ---CLQ......pEGDEVDWVQCDGsCNQWFHQVCVGVSPEMAEKE--.......DYICVRC
+#=GR Q9UGL1|PF00628|1492-1535 PP ...666......677899******77*************9966665.........6******
+Q9UIF8|PF00628|1934-1978         CQICRK.......GDNEELLLLCDG.CDKGCHTYCHRPKIT--TIPDG.......DWFCPAC
+#=GR Q9UIF8|PF00628|1934-1978 PP ******.......************.***************..9****.......*******
+Q9UIF9|PF00628|1679-1723         CLVCRK.......GDNDEFLLLCDG.CDRGCHIYCHRPKME--AVPEG.......DWFCTVC
+#=GR Q9UIF9|PF00628|1679-1723 PP 99****.......************.*************99..9999*.......*****99
+Q9UIG0|PF00628|1187-1231         CKVCRK.......KGEDDKLILCDE.CNKAFHLFCLRPALY--EVPDG.......EWQCPAC
+#=GR Q9UIG0|PF00628|1187-1231 PP ******.......************.***************..9****.......*******
+Q9ULU4|PF00628|91-130            CWVCHR.......---EGQVLCCEL.CPRVYHAKCLRLTSE----PEG.......DWFCPEC
+#=GR Q9ULU4|PF00628|91-130    PP 99****..........9********.*************88....888.......9******
+Q9UMN6|PF00628|1252-1300         CHVCGR......kGRGSKHLLECER.CRHAYHPACLGPSYPTRATRKR......rHWICSAC
+#=GR Q9UMN6|PF00628|1252-1300 PP ******......878899*******.************9987777776......7*******
+Q9UMN6|PF00628|1338-1393         CPICTRcy...edNDYESKMMQCAQ.CDHWVHAKCEGLSDEDYEILSGlp..dsvLYTCGPC
+#=GR Q9UMN6|PF00628|1338-1393 PP 88888888...79999*********.*********************999..9999***999
+Q9UPN9|PF00628|890-931           CAVCQN.......---GGDLLCCEK.CPKVFHLTCHVPTLL--SFPSG.......DWICTFC
+#=GR Q9UPN9|PF00628|890-931   PP 9*****..........9********.***************..99999.......******9
+Q9UPP1|PF00628|44-89             C-LCRL......pYDVTRFMIECDM.CQDWFHGSCVGVEEEKAADID-.......LYHCPNC
+#=GR Q9UPP1|PF00628|44-89     PP 7.8999......88999********.**************9777766........*******
+Q9Y483|PF00628|105-154           CTICQEe.....ySEAPNEMVICDK.CGQGYHQLCHTPHIDSSVIDSD......eKWLCRQC
+#=GR Q9Y483|PF00628|105-154   PP *******.....*9***********.*****************99999......9*******
+O15016|PF00628|1108-1149         CAVCLN.......---GGELLCCDR.CPKVFHLSCHVPALL--SFPGG.......EWVCTLC
+#=GR O15016|PF00628|1108-1149 PP 99***9..........9********.***************..99999.......*****99
+Q9H930|PF00628|406-446           CEVCRD.......---GGELFCCDT.CSRVFHEDCHIPPVESEKT---.......PWNCIFC
+#=GR Q9H930|PF00628|406-446   PP 9*****..........9********.***************5555..........5***999
+Q9P1Y6|PF00628|186-230           CEVCGR.......SDREDRLLLCDG.CDAGYHMECLDPPLQ--EVPVD.......EWFCPEC
+#=GR Q9P1Y6|PF00628|186-230   PP ******.......************.***************..88888.......9******
+Q92576|PF00628|720-769           CGFCKK.......PHGNRFMVGCGR.CDDWFHGDCVGLSLSQAQQMGEe....dkEYVCVKC
+#=GR Q92576|PF00628|720-769   PP ******.......************.***************99998889....99*******
+Q96EK2|PF00628|355-396           CAACKR.......---GANLQPCGT.CPGAYHLSCLEPPLK--TAPKG.......VWVCPRC
+#=GR Q96EK2|PF00628|355-396   PP 999*99..........99999****.***************..88889.......9******
+Q9Y242|PF00628|296-339           C-CCLP.......QEETVAWVQCDG.CDVWFHVACVGCSIQAARE--A.......DFRCPGC
+#=GR Q9Y242|PF00628|296-339   PP 6.8999.......99**********.***************5555..5.......6****99
+#=GC PP_cons                     99****.......999*********.**************98788888.......9******
+#=GC RF                          xxxxxx.......xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.......xxxxxxx
+//

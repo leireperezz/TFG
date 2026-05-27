@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+P78364|PF21319|798-827         .LKCEYCGKYAPAEQFR-GSKRFCSMTCAKRY
+#=GR P78364|PF21319|798-827 PP .79**************.**************
+Q05BQ5|PF21319|53-82           t--CEMCGMVGVRDAFYSKTKRFCSVSCSRSY
+#=GR Q05BQ5|PF21319|53-82   PP 6..*****************************
+Q8IXK0|PF21319|640-669         .LKCELCGRVDFAYKFK-RSKRFCSMACAKRY
+#=GR Q8IXK0|PF21319|640-669 PP .79**************.**************
+Q8NDX5|PF21319|783-812         .LKCEFCGKMGYANEFL-RSKRFCTMSCAKRY
+#=GR Q8NDX5|PF21319|783-812 PP .79**************.**************
+Q969R5|PF21319|88-118          .AVCEMCGIVGTREAFFSKTKRFCSVSCSRSY
+#=GR Q969R5|PF21319|88-118  PP .69*****************************
+#=GC PP_cons                   .79*****************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

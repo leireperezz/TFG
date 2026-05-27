@@ -1,0 +1,59 @@
+# STOCKHOLM 1.0
+
+O43278|PF00014|250-301           .-CLASNKVG.RCRGSFPRWYYD...PTEQICKSFVYGGCLGN..KNNYLREEECILACR.
+#=GR O43278|PF00014|250-301   PP ..999*****.************...*****************..*************96.
+O43278|PF00014|391-442           .-CVDLPDTG.LCKESIPRWYYN...PFSEHCARFTYGGCYGN..KNNFEEEQQCLESCR.
+#=GR O43278|PF00014|391-442   PP ..88889***.************...*****************..**************6.
+O43291|PF00014|37-88             .FCLVSKVVG.RCRASMPRWWYN...VTDGSCQLFVYGGCDGN..SNNYLTKEECLKKC-.
+#=GR O43291|PF00014|37-88     PP .69*******.************...*****************..*************9..
+O43291|PF00014|132-183           .YCTANAVTG.PCRASFPRWYFD...VERNSCNNFIYGGCRGN..KNSYRSEEACMLRC-.
+#=GR O43291|PF00014|132-183   PP .5********.************...*****************..***********999..
+O95428|PF00014|753-805           .RCLLPSAHG.SCADWAARWYFV...ASVGQCNRFWYGGCHGN..ANNFASEQECMSSCQ.
+#=GR O95428|PF00014|753-805   PP .5********.************...*****************..**************6.
+O95925|PF00014|76-128            .VCEMPKETG.PCLAYFLHWWYD...KKDNTCSMFVYGGCQGN..NNNFQSKANCLNTCK.
+#=GR O95925|PF00014|76-128    PP .6********.************...*****************..**************6.
+P02760|PF00014|231-282           .-CQLGYSAG.PCMGMTSRYFYN...GTSMACETFQYGGCMGN..GNNFVTEKECLQTCR.
+#=GR P02760|PF00014|231-282   PP ..9999****.************...*****************..**************6.
+P02760|PF00014|286-337           .ACNLPIVRG.PCRAFIQLWAFD...AVKGKCVLFPYGGCQGN..GNKFYSEKECREYC-.
+#=GR P02760|PF00014|286-337   PP .5********.************...*****************..**************..
+P05067|PF00014|290-341           .VCSEQAETG.PCRAMISRWYFD...VTEGKCAPFFYGGCGGN..RNNFDTEEYCMAVC-.
+#=GR P05067|PF00014|290-341   PP .6********.************...*****************..**************..
+P10646|PF00014|53-104            .FCAFKADDG.PCKAIMKRFFFN...IFTRQCEEFIYGGCEGN..QNRFESLEECKKMC-.
+#=GR P10646|PF00014|53-104    PP .6********.************...*****************..**************..
+P10646|PF00014|124-176           .FCFLEEDPG.ICRGYITRYFYN...NQTKQCERFKYGGCLGN..MNNFETLEECKNICE.
+#=GR P10646|PF00014|124-176   PP .6********.************...*****************..**************5.
+P10646|PF00014|216-268           .WCLTPADRG.LCRANENRFYYN...SVIGKCRPFKYSGCGGN..ENNFTSKQECLRACK.
+#=GR P10646|PF00014|216-268   PP .5********.************...*****************..**************6.
+P12111|PF00014|3111-3162         .ICKLPKDEG.TCRDFILKWYYD...PNTKSCARFWYGGCGGN..ENKFGSQKECEKVC-.
+#=GR P12111|PF00014|3111-3162 PP .6********.************...*****************..**************..
+P48307|PF00014|35-86             .ICLLPLDYG.PCRALLLRYYYD...RYTQSCRQFLYGGCEGN..ANNFYTWEACDDAC-.
+#=GR P48307|PF00014|35-86     PP .6********.************...*****************..**************..
+P48307|PF00014|95-149            .VCRLQVSVDdQCEGSTEKYFFN...LSSMTCEKFFSGGCHRNriENRFPDEATCMGFC-.
+#=GR P48307|PF00014|95-149    PP .69999999989***********...*****************666*************..
+P48307|PF00014|157-208           .FCYSPKDEG.LCSANVTRYYFN...PRYRTCDAFTYTGCGGN..DNNFVSREDCKRAC-.
+#=GR P48307|PF00014|157-208   PP .6********.************...*****************..**************..
+Q02388|PF00014|2876-2929         .-CSLPLDEG.SCTAYTLRWYHRavtGSTEACHPFVYGGCGGN..ANRFGTREACERRC-.
+#=GR Q02388|PF00014|2876-2929 PP ..********.***********933345678************..**************..
+Q06481|PF00014|309-361           .VCSQEAMTG.PCRAVMPRWYFD...LSKGKCVRFIYGGCGGN..RNNFESEDYCMAVCK.
+#=GR Q06481|PF00014|309-361   PP .6********.************...*****************..**************6.
+Q2UY09|PF00014|1071-1122         .RCLEALKPG.NCGEYVVRWYYD...KQVNSCARFWFSGCNGS..GNRFNSEKECQETC-.
+#=GR Q2UY09|PF00014|1071-1122 PP .5********.************...*****************..**************..
+Q8TEU8|PF00014|328-379           .-CLKPPDSE.DCGEEQTRWHFD...AQANNCLTFTFGHCHRN..LNHFETYEACMLACM.
+#=GR Q8TEU8|PF00014|328-379   PP ..9*******.************...*****************..**************5.
+Q8TEU8|PF00014|385-436           .ACSLPALQG.PCKAYAPRWAYN...SQTGQCQSFVYGGCEGN..GNNFESREACEESC-.
+#=GR Q8TEU8|PF00014|385-436   PP .5********.************...*****************..**************..
+Q96NZ8|PF00014|307-351           t--------G.PTSPHLVLWHYD...PQRGGCMTFPARGCDGA..ARGFETYEACQQAC-.
+#=GR Q96NZ8|PF00014|307-351   PP 6........6.77777889****...*****************..**************..
+Q96NZ8|PF00014|358-409           .ACVLPAVQG.PCRGWEPRWAYS...PLLQQCHPFVYGGCEGN..GNNFHSRESCEDAC-.
+#=GR Q96NZ8|PF00014|358-409   PP .5********.************...*****************..**************..
+Q8IUA0|PF00014|95-146            .-CMLPVRHG.NCNHEAQRWHFD...FKNYRCTPFKYRGCEGN..ANNFLNEDACRTACM.
+#=GR Q8IUA0|PF00014|95-146    PP ..9*******.************...*****************..**************5.
+Q9BQY6|PF00014|98-128            k---------.------------...--TKICSEFIYGGSQGN..NNNFQTEAICLVTCK.
+#=GR Q9BQY6|PF00014|98-128    PP 5...........................889************..**************6.
+P49223|PF00014|35-87             .VCAFPMEKG.PCQTYMTRWFFN...FETGECELFAYGGCGGN..SNNFLRKEKCEKFCK.
+#=GR P49223|PF00014|35-87     PP .6********.************...*****************..**************6.
+Q6UDR6|PF00014|41-91             .-CKLDMNFG.SCYEVHFRYFYN...RTSKRCETFVFSGCNGN..LNNFKLKIEREVA--c
+#=GR Q6UDR6|PF00014|41-91     PP ..9*******.************...*****************..****977665555..5
+#=GC PP_cons                     .6********.************...*****************..**************6.
+#=GC RF                          .xxxxxxxxx.xxxxxxxxxxxx...xxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,49 @@
+# STOCKHOLM 1.0
+
+O15197|PF07699|305-345           yqpa-----RGDKACQACPRGLYKS...SAGNAPCSPCP...ARSHAPNPAA------.
+#=GR O15197|PF07699|305-345   PP 8776.....57789***********...***********...*999887765.......
+P01266|PF07699|1465-1510         ....GSYSQDE--ECIPCPVGFYQE...QAGSLACVPCP...VGRTTISAGAFSQTHC.
+#=GR P01266|PF07699|1465-1510 PP ....8899999..9***********...***********...****************.
+P21709|PF07699|275-309           ...e---------ACVACPSGSYRM...DMDTPHCLTCP...QQSTAESEGAT-----.
+#=GR P21709|PF07699|275-309   PP ...6.........6***********...***********...*********97......
+P29320|PF07699|268-303           ...f---------MCQACRPGFYKA...LDGNMKCAKCP...PHSSTQEDGSMN----.
+#=GR P29320|PF07699|268-303   PP ...8.........6***********...***********...*********975.....
+P29323|PF07699|268-302           ...v----------CRGCPSGTFKA...NQGDEACTHCP...INSRTTSEGATN----.
+#=GR P29323|PF07699|268-302   PP ...7..........***********...***********...**********97.....
+P54753|PF07699|281-316           ..es---------QCRPCPPGSYKA...KQGEGPCLPCP...PNSRTTSPAA------s
+#=GR P54753|PF07699|281-316   PP ..75.........7***********...***********...*******998......5
+P54760|PF07699|261-299           ..aa-----EGNTKCRACAQGTFKP...LSGEGSCQPCP...ANSHSNTIGS------.
+#=GR P54760|PF07699|261-299   PP ..75.....7899************...***********...****999987.......
+Q15375|PF07699|271-308           .qkg--------DTCEPCGRGFYKS...SSQDLQCSRCP...THSFSDKEGS------s
+#=GR Q15375|PF07699|271-308   PP .876........58***********...***********...********99......5
+Q4LDE5|PF07699|310-360           ....GYYGKGLQYECTACPSGTYKPegsPGGISSCIPCP...DENHTSPPGSTSPEDC.
+#=GR Q4LDE5|PF07699|310-360   PP ....9999*****************88889*********...****************.
+Q4LDE5|PF07699|1005-1052         ....GTYYNLEHFTCESCRIGSYQD...EEGQLECKLCP...SGMYTEYIHSRNISDC.
+#=GR Q4LDE5|PF07699|1005-1052 PP ....9********************...***********...****************.
+Q4LDE5|PF07699|1059-1106         ....GTYSYSGLETCESCPLGTYQP...KFGSRSCLSCP...ENTSTVKRGAVNISAC.
+#=GR Q4LDE5|PF07699|1059-1106 PP ....9********************...***********...****************.
+Q4LDE5|PF07699|1113-1160         ....GKFSRSGLMPCHPCPRDYYQP...NAGKAFCLACP...FYGTTPFAGSRSITEC.
+#=GR Q4LDE5|PF07699|1113-1160 PP ....99*******************...***********...****************.
+Q8IWY4|PF07699|636-683           ....GTHFGGELGQCVSCMPGTYQD...MEGQLSCTPCP...SSDGLGLPGARNVSEC.
+#=GR Q8IWY4|PF07699|636-683   PP ....899999***************...***********...****************.
+Q8IWY4|PF07699|690-737           ....GFFSADGFKPCQACPVGTYQP...EPGRTGCFPCG...GGLLTKHEGTTSFQDC.
+#=GR Q8IWY4|PF07699|690-737   PP ....899******************...***********...****************.
+Q8IWY4|PF07699|746-793           ....GHHYNTTTHRCIRCPVGTYQP...EFGQNHCITCP...GNTSTDFDGSTNVTHC.
+#=GR Q8IWY4|PF07699|746-793   PP ....7789*****************...***********...****************.
+Q8IX30|PF07699|642-689           ....GTYYHGQTEQCVPCPAGTFQE...REGQLSCDLCP...GSDAHGPLGATNVTTC.
+#=GR Q8IX30|PF07699|642-689   PP ....9********************...***********...***************9.
+Q8IX30|PF07699|696-743           ....GQHSVDGFKPCQPCPRGTYQP...EAGRTLCFPCG...GGLTTKHEGAISFQDC.
+#=GR Q8IX30|PF07699|696-743   PP ....777889***************...***********...****************.
+Q8IX30|PF07699|752-799           ....GHYYNTSIHRCIRCAMGSYQP...DFRQNFCSRCP...GNTSTDFDGSTSVAQC.
+#=GR Q8IX30|PF07699|752-799   PP ....89*******************...***********...****************.
+Q9NQ36|PF07699|644-694           ....GTYYDGARERCILCPNGTFQN...EEGQMTCEPCPrpgNSGALKTPEAWNMSEC.
+#=GR Q9NQ36|PF07699|644-694   PP ....9********************...***********977778899**********.
+Q9NQ36|PF07699|701-748           ....GEYSADGFAPCQLCALGTFQP...EAGRTSCFPCG...GGLATKHQGATSFQDC.
+#=GR Q9NQ36|PF07699|701-748   PP ....99*******************...***********...****************.
+Q9NQ36|PF07699|757-804           ....GHFYNTTTHRCIRCPVGTYQP...EFGKNNCVSCP...GNTTTDFDGSTNITQC.
+#=GR Q9NQ36|PF07699|757-804   PP ....89*******************...***********...****************.
+Q9UF33|PF07699|271-312           .eie--------GSCHACRPGFYKA...FAGNTKCSKCP...PHSLTYME-ATSVCQC.
+#=GR Q9UF33|PF07699|271-312   PP .886........58***********...***********...*9998765.6998888.
+#=GC PP_cons                     ....899**9**99***********...***********...*******9*9*9****.
+#=GC RF                          ....xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx...xxxxxxxxxxxxxxxx.
+//

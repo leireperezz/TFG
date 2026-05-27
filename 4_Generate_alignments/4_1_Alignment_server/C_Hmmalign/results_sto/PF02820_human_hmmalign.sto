@@ -1,0 +1,63 @@
+# STOCKHOLM 1.0
+
+Q05BQ5|PF02820|190-248         kv----------...---FWIAGIVKLA.GYNALLRYEGFENd..sGLDFWCNICGSDIHPVGWCAASGKPLVPPRT--i
+#=GR Q05BQ5|PF02820|190-248 PP 86................8*********.*************9..899***************************86..6
+Q05BQ5|PF02820|289-352         ..MRVEVVDKRH...LCRTRVAVVESVI.GGRLRLVYEESED...rTDDFWCHMHSPLIHHIGWSRSIGHRF-------k
+#=GR Q05BQ5|PF02820|289-352 PP ..9*********...*************.**********999...9***********************975.......7
+Q05BQ5|PF02820|388-459         ..MKLEAIDPLN...LSTICVATIRKVLaDGFLMIGIDGSEAa.dgSDWFCYHATSPSIFPVGFCEINMIELTPPRGY-.
+#=GR Q05BQ5|PF02820|388-459 PP ..9*********...************************999*.********************************98..
+Q05BQ5|PF02820|496-561         ..MKLEAVDLME...PRLICVATVTRII.HRLLRIHFDGWEE....EYDQWVDCESPDLYPVGWCQLTGYQLQPP----a
+#=GR Q05BQ5|PF02820|496-561 PP ..9*********...*************.*************....*****************************....6
+Q5VUG0|PF02820|78-147          ..MKLEVANKNN...PDTYWVATIITTC.GQLLLLRYCGYGEd..rRADFWCDVVIADLHPVGWCTQNNKVLMPPDA--i
+#=GR Q5VUG0|PF02820|78-147  PP ..9*********...*************.***********999..9*****************************86..6
+Q5VUG0|PF02820|192-259         ..--IELQDSQN...PFQYWIVSVIENV.GGRLRLRYVGLEDt..eSYDQWLFYLDYRLRPVGWCQENKYRMDPPSE--i
+#=GR Q5VUG0|PF02820|192-259 PP ....69******...*************.**************..******************************86..6
+Q5VUG0|PF02820|304-376         ..MKLETVNMCE...PFYISPASVTKVFnNHFFQVTIDDLRPe.psKLSMLCHADSLGILPVQWCLKNGVSLTPPKGYS.
+#=GR Q5VUG0|PF02820|304-376 PP ..9*********...**************************99.999******************************95.
+Q5VUG0|PF02820|412-479         ..MKLEAVNPRN...PGELCVASVVSVK.GRLMWLHLEGLQT...pVPEVIVDVESMDIFPVGWCEANSYPLTAPH---k
+#=GR Q5VUG0|PF02820|412-479 PP ..9*********...*************.*************...99****************************7...6
+Q969R5|PF02820|214-286         ..MKVEVLNSDAvlpSRVYWIASVIQTA.GYRVLLRYEGFENd..aSHDFWCNLGTVDVHPIGWCAINSKILVPPRT--i
+#=GR Q969R5|PF02820|214-286 PP ..9****99999886779**********.**************..******************************86..6
+Q969R5|PF02820|327-389         ..MRLEVVDKSQ...VSRTRMAVVDTVI.GGRLRLLYEDGDS....DDDFWCHMWSPLIHPVGWSRRVGHGI-------k
+#=GR Q969R5|PF02820|327-389 PP ..9*********...*************.*************....***********************976.......6
+Q969R5|PF02820|432-504         ..MKLEAIDPLN...LGNICVATVCKVLlDGYLMICVDGGPSt.dgLDWFCYHASSHAIFPATFCQKNDIELTPPKGYE.
+#=GR Q969R5|PF02820|432-504 PP ..9*********...************************9999.999******************************95.
+Q969R5|PF02820|540-605         ..MKLEAVDLME...PRLICVATVKRVV.HRLLSIHFDGWDS....EYDQWVDCESPDIYPVGWCELTGYQLQPP----v
+#=GR Q969R5|PF02820|540-605 PP ..9*********...*************.*************....****************************9....7
+Q96GD3|PF02820|62-129          ..MKLEAQDPRN...TTSTCIATVVGLT.GARLRLRLDGSDN....KNDFWRLVDSAEIQPIGNCEKNGGMLQPPLGF-.
+#=GR Q96GD3|PF02820|62-129  PP ..9*********...*************.*************....*****************************985..
+Q96GD3|PF02820|171-236         ..MKLEAVDRKN...PHFICPATIGEVR.GSEVLVTFDGWRG....AFDYWCRFDSRDIFPVGWCSLTGDNLQPP----g
+#=GR Q96GD3|PF02820|171-236 PP ..9*********...*************.*************....****************************9....6
+Q96JM7|PF02820|268-336         ..MKLEGVDPEH...QSVYCVLTVAEVC.GYRIKLHFDGYSD....CYDFWVNADALDIHPVGWCEKTGHKLHPPKGYK.
+#=GR Q96JM7|PF02820|268-336 PP ..9*********...*************.*************....*******************************96.
+Q96JM7|PF02820|375-442         ..MKLEAVDKKN...PSFICVATVTDMV.DNRFLVHFDNWDE....SYDYWCEASSPHIHPVGWCKEHRRTLITPPGY-.
+#=GR Q96JM7|PF02820|375-442 PP ..9*********...*************.*************....******************************98..
+Q96JM7|PF02820|479-544         ..MKLEVVDKRN...PMFIRVATVADTD.DHRVKVHFDGWNN....CYDYWIDADSPDIHPVGWCSKTGHPLQPP----l
+#=GR Q96JM7|PF02820|479-544 PP ..9*********...*************.*************....*****************************....6
+Q9UHJ3|PF02820|54-123          ..MKLEVAVRTD...PETYWVATVITTC.EQLLLLRYDGYGEd..rRADFWCDIRKADLYPIGWCEQNKKTLEAPEGI-.
+#=GR Q9UHJ3|PF02820|54-123  PP ..9*********...*************.************99..9*****************************985..
+Q9UHJ3|PF02820|167-235         ..-RLECQAFQD...SLSTWIVTVVENI.GGRLKLRYEGLESs..dNYEHWLYYLDPFLHHVGWAAQQGYELQPPSA--i
+#=GR Q9UHJ3|PF02820|167-235 PP ...79*******...*************.***********999..9*****************************85..6
+Q9UHJ3|PF02820|279-351         ..MKLEAVDPWS...PFGISPATVVKVFdEKYFLVEMDDLRPenhaRRSFVCHADSPGIFPVQWSLKNGLHISPPPGY-.
+#=GR Q9UHJ3|PF02820|279-351 PP ..9*********...**************************999********************************98..
+Q9UHJ3|PF02820|388-455         ..MKLEAVNPIL...PEEVCVATITAVR.GSYLWLQLEGSKK...pIPECIVSVESMDIFPLGWCETNGHPLSTPR---r
+#=GR Q9UHJ3|PF02820|388-455 PP ..9*********...*************.**********999...9*****************************7...6
+Q9UQR0|PF02820|67-135          ..MKLEARDPRN...ATSVCIATVIGIT.GARLRLRLDGSDN....RNDFWRLVDSPDIQPVGTCEKEGDLLQPPLGYQ.
+#=GR Q9UQR0|PF02820|67-135  PP ..9*********...*************.*************....*******************************96.
+Q9UQR0|PF02820|176-241         ..MKLEAIDKKN...PYLICPATIGDVK.GDEVHITFDGWSG....AFDYWCKYDSRDIFPAGWCRLTGDVLQPP----g
+#=GR Q9UQR0|PF02820|176-241 PP ..9*********...*************.*************....****************************9....6
+Q9Y468|PF02820|310-378         ..MKLEGIDPQH...PSMYFILTVAEVC.GYRLRLHFDGYSE....CHDFWVNANSPDIHPAGWFEKTGHKLQPPKGYK.
+#=GR Q9Y468|PF02820|310-378 PP ..9*********...*************.*************....*******************************96.
+Q9Y468|PF02820|417-484         ..MKLEAVDRMN...PSLVCVASVTDVV.DSRFLVHFDNWDD....TYDYWCDPSSPYIHPVGWCQKQGKPLTPPQDY-.
+#=GR Q9Y468|PF02820|417-484 PP ..9*********...*************.*************....******************************98..
+Q9Y468|PF02820|521-587         ..MKLEAVDRRN...PALIRVASVEDVE.DHRIKIHFDGWSH....GYDFWIDADHPDIHPAGWCSKTGHPLQPPLG--.
+#=GR Q9Y468|PF02820|521-587 PP ..9*********...*************.*************....*****************************86...
+Q8NA19|PF02820|88-156          ..MRLEGIDPRH...PSVFCVLSVAEVC.GYRLRLHFDGYLS....CYDFWTNAGSPDIHPVGWCEKTKHELHIPKGYR.
+#=GR Q8NA19|PF02820|88-156  PP ..9*********...*************.*************....*******************************96.
+Q8NA19|PF02820|196-263         ..MKLEAVDRKN...PSLVCVATIADIV.EDRLLVHFDNWDD....SYDYWCDVNSPYVQPVGWCQENGRTLIAPQGY-.
+#=GR Q8NA19|PF02820|196-263 PP ..9*********...*************.*************....******************************98..
+Q8NA19|PF02820|300-367         ..MKLEVVDKRN...PRLIRVATIVDVD.DQRVKVHFDGWDH....KYDYWVEADSPDIHPIGWCDVTGHPLEVPQR--t
+#=GR Q8NA19|PF02820|300-367 PP ..9*********...*************.*************....*****************************86..7
+#=GC PP_cons                   ..9*********...*************.*************....*****************************9886.
+#=GC RF                        ..xxxxxxxxxx...xxxxxxxxxxxxx.xxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

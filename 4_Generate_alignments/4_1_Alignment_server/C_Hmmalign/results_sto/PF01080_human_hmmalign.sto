@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P49768|PF01080|76-457          ..KYGAKHVIMLFVPVTLCMVVVVATIKSVSFYT--RKDGQ-LIYTPFTEDTETVGQRALHSILNAAIMISVIVVMTILLVVLYKYRCYKVIHAWLIISSLLLLFFFSFIYLGEVFKTYNVAVDYITVALLIWNFGVVGMISIHWKGPLRLQQAYLIMISALMALVFIKYLPEWTAWLILAVISVYDLVAVLCPKGPLRM
+#=GR P49768|PF01080|76-457  PP ..799*****************************..55544.9*************************************************************************************************************************************************************
+P49810|PF01080|82-306          ..KYGAKHVIMLFVPVTLCMIVVVATIKSVRFYT--EKNGQ-LIYTPFTEDTPSVGQRLLNSVLNTLIMISVIVVMTIFLVVLYKYRCYKFIHGWLIMSSLMLLFLFTYIYLGEVLKTYNVAMDYPTLLLTVWNFGAVGMVCIHWKGPLVLQQAYLIMISALMALVFIKYLPEWSAWVILGAISVYDLVAVLCPKGPLRM
+#=GR P49810|PF01080|82-306  PP ..799*****************************..34433.9*************************************************************************************************************************************************************
+P49810|PF01080|352-438         le------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR P49810|PF01080|352-438 PP 95......................................................................................................................................................................................................
+#=GC PP_cons                   ..799*****************************..44434.9*************************************************************************************************************************************************************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49768|PF01080|76-457          LVETAQERNETLFPALIYSSTMVWL---------VNMAEGDPEAQRRVSKNSKYNAESTERESQDT-VAENDD---GGF-------SEEWEAQRDSHLGPHRSTPESRAAVQELSSSILAG----------EDPEERGVKLGLGDFIFYSVLVGKASAtaSGDWNTTIACFVAILIGLCLTLLLLAIFKKALPALPISIT
+#=GR P49768|PF01080|76-457  PP *************************.........67888888888887777777776666654333.333322...111.......11122222222222222222222222222222222..........234578*******************98789***************************************
+P49810|PF01080|82-306          LVETAQERNEPIFPALIYSSAMVWTV------------------------------------------------------------------------------------------------------------------------------------..----------------------------------------
+#=GR P49810|PF01080|82-306  PP ************************85..............................................................................................................................................................................
+P49810|PF01080|352-438         ------------------------------------------------------------------------------------------------------------------------------------EEEERGVKLGLGDFIFYSVLVGKAAAtgSGDWNTTLACFVAILIGLCLTLLLLAVFKKALPALPISIT
+#=GR P49810|PF01080|352-438 PP ....................................................................................................................................57889********************98889**************************************
+#=GC PP_cons                   ************************95........67888888888887777777776666654333.333322...111.......11122222222222222222222222222222222..........245678*******************99..89**************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49768|PF01080|76-457          FGLVFYFATDYLVQPFM....
+#=GR P49768|PF01080|76-457  PP ****************7....
+P49810|PF01080|82-306          -----------------gmak
+#=GR P49810|PF01080|82-306  PP .................5678
+P49810|PF01080|352-438         FGLIFYFSTDNLVRPFM....
+#=GR P49810|PF01080|352-438 PP ****************7....
+#=GC PP_cons                   ****************7....
+#=GC RF                        xxxxxxxxxxxxxxxxx....
+//

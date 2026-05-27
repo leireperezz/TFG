@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O60825|PF01591|27-249         k--CSWASYMTNSPTLIVMIGLPARGKTYVSKKLTRYLNWIGVPTKVFNLGVYRREAVKSYKSYDFFRHDNEEAMKIRKQCALVALEDVKAYLTEENGQIAVFDATNTTRERRDMILNFAEQNSFKVFFVESVCDDPDVIAANILEVKVSSPDYPERNRENVMEDFLKRIECYKVTYRPLDpDNYDKDLSFIKVINVGQR
+#=GR O60825|PF01591|27-249 PP 7..5788999***************************************************************************************************************************************************************************9******************
+P16118|PF01591|31-251         r--GSSIPQFTNSPTMVIMVGLPARGKTYISTKLTRYLNWIGTPTKVFNLGQYRREAVSY-KNYEFFLPDNMEALQIRKQCALAALKDVHNYLSHEEGHVAVFDATNTTRERRSLILQFAKEHGYKVFFIESICNDPGIIAENIRQVKLGSPDYIDCDREKVLEDFLKRIECYEVNYQPLD.EELDSHLSYIKIFDVGTR
+#=GR P16118|PF01591|31-251 PP 6..57899************************************************9986.9***********************************************************************************************************************.******************
+Q16875|PF01591|26-246         s----CGPKLTNSPTVIVMVGLPARGKTYISKKLTRYLNWIGVPTKVFNVGEYRREAVKQYSSYNFFRPDNEEAMKVRKQCALAALRDVKSYLAKEGGQIAVFDATNTTRERRHMILHFAKENDFKAFFIESVCDDPTVVASNIMEVKISSPDYKDCNSAEAMDDFMKRISCYEASYQPLDpDKCDRDLSLIKVIDVGRR
+#=GR Q16875|PF01591|26-246 PP 6....78999**********************************************************************************************************************************************************************************************
+Q16877|PF01591|35-249         m---------TNCPTLIVMVGLPARGKTYISKKLTRYLNWIGVPTREFNVGQYRRDVVKTYKSFEFFLPDNEEGLKIRKQCALAALRDVRRFLSEEGGHVAVFDATNTTRERRATIFNFGEQNGYKTFFVESICVDPEVIAANIVQVKLGSPDYVNRDSDEATEDFMRRIECYENSYESLD.EDLDRDLSYIKIMDVGQS
+#=GR Q16877|PF01591|35-249 PP 6.........799************************************************************************************************************************************************************************.******************
+#=GC PP_cons                  ...57889999***********************************************99*************************************************************************************************************************.******************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx
+
+O60825|PF01591|27-249         FLVNRVQDYIQSKIVYYLMNIHVQP
+#=GR O60825|PF01591|27-249 PP **********************987
+P16118|PF01591|31-251         YMVNRVQDHIQSRTVYYLMNIHVTP
+#=GR P16118|PF01591|31-251 PP **********************997
+Q16875|PF01591|26-246         FLVNRVQDHIQSRIVYYLMNIHVQP
+#=GR Q16875|PF01591|26-246 PP **********************987
+Q16877|PF01591|35-249         YVVNRVADHIQSRIVYYLMNIHVTP
+#=GR Q16877|PF01591|35-249 PP **********************997
+#=GC PP_cons                  **********************997
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxx
+//

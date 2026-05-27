@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O43316|PF00292|7-129           s---SMNQLGGLFVNGRPLPLDTRQQIVRLAVSGMRPCDISRILKVSNGCVSKILGRYYRTGVLEPKGIGGSKPR.LATPPVVARIAQLKGECPALFAWEIQRQLCAEGLCTQDKTPS..VSSINRVLR
+#=GR O43316|PF00292|7-129   PP 6...68*********************************************************************.******************************************..*******98
+P15863|PF00292|100-222         .--GEVNQLGGVFVNGRPLPNAIRLRIVELAQLGIRPCDISRQLRVSHGCVSKILARYNETGSILPGAIGGSKPR.VTTPNVVKHIRDYKQGDPGIFAWEIRDRLLADGVCDKYNVPS..VSSISRILR
+#=GR P15863|PF00292|100-222 PP ...68**********************************************************************.******************************************..*******98
+P23759|PF00292|34-161          .GQGRVNQLGGVFINGRPLPNHIRHKIVEMAHHGIRPCVISRQLRVSHGCVSKILCRYQETGSIRPGAIGGSKPRqVATPDVEKKIEEYKRENPGMFSWEIRDRLLKDGHCDRSTVPSglVSSISRVLR
+#=GR P23759|PF00292|34-161  PP .79***********************************************************************99*****************************************9889******98
+P23760|PF00292|34-159          .GQGRVNQLGGVFINGRPLPNHIRHKIVEMAHHGIRPCVISRQLRVSHGCVSKILCRYQETGSIRPGAIGGSKPKqVTTPDVEKKIEEYKRENPGMFSWEIRDKLLKDAVCDRNTVPS..VSSISRILR
+#=GR P23760|PF00292|34-159  PP .79***********************************************************************99******************************************..*******98
+P26367|PF00292|4-128           .SHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISRILQVSNGCVSKILGRYYETGSIRPRAIGGSKPR.VATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPS..VSSINRVLR
+#=GR P26367|PF00292|4-128   PP .699***********************************************************************.******************************************..*******98
+P55771|PF00292|6-128           .--GEVNQLGGVFVNGRPLPNAIRLRIVELAQLGIRPCDISRQLRVSHGCVSKILARYNETGSILPGAIGGSKPR.VTTPTVVKHIRTYKQRDPGIFAWEIRDRLLADGVCDKYNVPS..VSSISRILR
+#=GR P55771|PF00292|6-128   PP ...68**********************************************************************.******************************************..*******98
+Q02548|PF00292|16-140          .GHGGVNQLGGVFVNGRPLPDVVRQRIVELAHQGVRPCDISRQLRVSHGCVSKILGRYYETGSIKPGVIGGSKPK.VATPKVVEKIAEYKRQNPTMFAWEIRDRLLAERVCDNDTVPS..VSSINRIIR
+#=GR Q02548|PF00292|16-140  PP .79************************************************************************.******************************************..*******98
+Q02962|PF00292|16-140          .GHGGVNQLGGVFVNGRPLPDVVRQRIVELAHQGVRPCDISRQLRVSHGCVSKILGRYYETGSIKPGVIGGSKPK.VATPKVVDKIAEYKRQNPTMFAWEIRDRLLAEGICDNDTVPS..VSSINRIIR
+#=GR Q02962|PF00292|16-140  PP .79************************************************************************.******************************************..*******98
+Q06710|PF00292|9-133           .GHGGLNQLGGAFVNGRPLPEVVRQRIVDLAHQGVRPCDISRQLRVSHGCVSKILGRYYETGSIRPGVIGGSKPK.VATPKVVEKIGDYKRQNPTMFAWEIRDRLLAEGVCDNDTVPS..VSSINRIIR
+#=GR Q06710|PF00292|9-133   PP .79************************************************************************.******************************************..*******98
+#=GC PP_cons                   .7999**********************************************************************.******************************************..*******98
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxx
+//

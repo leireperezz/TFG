@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5T4B2|PF01755|320-502         d--EVFVISLARRPDRRERMLASLWEMEISGRVVDAVDGWMLNSsaiRNLGVDLLPGYQDPYSGRTLTKGEVGCFLSHYSIWEEVVARGLARVLVFEDDVRFESNFRGRLERLMEDVE...AEKLSWDLIYL-------------GRKQVNPE------KETAVEGLpGLVVAGYSYWTLAYALRLAGARKLLASQ-PLR
+#=GR Q5T4B2|PF01755|320-502 PP 7..68***********************************999966677777999*************************************************************99...87777761111.............11111111......1111222234556666777888888888888877654.333
+Q8IYK4|PF01755|342-525         d--EIFMINLKRRKDRRDRMLRTLYEQEIEVKIVEAVDGKALNTsqlKALNIEMLPGYRDPYSSRPLTRGEIGCFLSHYSVWKEVIDRELEKTLVIEDDVRFEHQFKKKLMKLMDNIDqaqLDWELIYIGRKRMQVKEPEKAVPNVANLVEADYSY-----------.---------WTLGYVISLEGAQKLVGANPFGK
+#=GR Q8IYK4|PF01755|342-525 PP 6..79***************************************9999999******************************************************************987777889999*******************99999666.....................9***************9985544
+Q8NBJ5|PF01755|341-524         d--EVFMINLRRRQDRRERMLRALQAQEIECRLVEAVDGKAMNTsqvEALGIQMLPGYRDPYHGRPLTKGELGCFLSHYNIWKEVVDRGLQKSLVFEDDLRFEIFFKRRLMNLMRDVEregLDWDLIYVGRKRMQVEHPEKAVPRVRNLVEADYSY-----------.---------WTLAYVISLQGARKLLAAEPLSK
+#=GR Q8NBJ5|PF01755|341-524 PP 7..68**************************************9778888899**************************************************************9998887788888899*****************99999666.....................9***************9863333
+#=GC PP_cons                   ...69**************************************9...888899***************************************************************99...77888886777*************77777777666...11112222.45566667799999999999999998764433
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5T4B2|PF01755|320-502         rmLPVDE--f
+#=GR Q5T4B2|PF01755|320-502 PP 4566665..6
+Q8IYK4|PF01755|342-525         .mLPVDE--f
+#=GR Q8IYK4|PF01755|342-525 PP .678886..5
+Q8NBJ5|PF01755|341-524         .mLPVDE--f
+#=GR Q8NBJ5|PF01755|341-524 PP .588887..5
+#=GC PP_cons                   ..77776...
+#=GC RF                        ..xxxxxxx.
+//

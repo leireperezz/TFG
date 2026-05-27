@@ -1,0 +1,52 @@
+# STOCKHOLM 1.0
+
+O75477|PF01145|27-209          .-KIEEGHLAVYYR..GGALLT...sPSGPGYHIMLPFITTFR.SVQTTLQTDEVKNVPCGTSGGVMIYIDRIE..VVNMlAPYAVFDIVRNY......-TADYDKTLIFNKIHHELNQFCSAHTLQEVYIElFDQIDENLKQALQKDlnLMAPGLTIQAVRVTKPKIPEAIRRNfelMEAEKTKLLIA...AQKQKVVE
+#=GR O75477|PF01145|27-209  PP ..699*********..999999...9*****************.******************************..**998999999999999.......******************************9978**************889999*********************77788888888888...99998888
+O75955|PF01145|6-184           g----PNEAMVVSG..FCRSPP...vMVAGGRVFVLPCIQQIQ.RISLNTLTLNVKSEKVYTRHGVPISVTGIA..QVKI.QGQNKEMLAAACqm.flgKTEAEIAHIALETLEGHQRAIMAHMTVEEIYKD.RQKFSEQVFKVASSD..LVNMGISVVSYTLKDIHDDQDYLHS...LGKARTAQVQK...DARIGEAE
+#=GR O75955|PF01145|6-184   PP 6....789999977..666555...455566667*********.******************************..****.66666666666688.8999********************************.***************..*************************...***********...*******9
+O94905|PF01145|25-207          .-KIEEGHIGVYYR..GGALLT...sTSGPGFHLMLPFITSYK.SVQTTLQTDEVKNVPCGTSGGVMIYFDRIEvvNFLV.-PNAVYDIVKNY......-TADYDKALIFNKIHHELNQFCSVHTLQEVYIElFDQIDENLKLALQQDltSMAPGLVIQAVRVTKPNIPEAIRRNyelMESEKTKLLIA...AQKQKVVE
+#=GR O94905|PF01145|25-207  PP ..699*********..999999...8*****************.**************************9965115567..***********.......******************************9978**************5556678********************99999999999999...99999999
+P27105|PF01145|55-227          .KIIKEYERAIIFR..LGRILQg..gAKGPGLFFILPCTDSFI.KVDMRTISFDIPPQEILTKDSVTISVDGVV..YYRV.--QNATLAVANI......---TNADSATRLLAQTTLRNVLGTKNLSQILSD.REEIAHNMQSTLDDA..TDAWGIKVERVEIKDVKLPVQLQRA...MAAEAEASREA...RAKVIAAE
+#=GR P27105|PF01145|55-227  PP .589**********..****999..******************.******************************..****...**********.........******************************.***************..*************************...***********...*******9
+P35232|PF01145|29-206          n--VDAGHRAVIFD..--RFRGvqdiVVGEGTHFLIPWVQKPI.IFDCRSRPRNVPV-ITGSKDLQNVNITLRI..LFRP.VASQLPRIFTSI......-GEDYDERVLPSITTEILKSVVARFDAGELITQ.RELVSRQVSDDLTER..AATFGLILDDVSLTHLTFGKEFTEA...VEAKQVAQQEAeraRFVVEKAE
+#=GR P35232|PF01145|29-206  PP 7..899******55....55444458*****************.*************.777*************..****.************.......********************************.***************..*************************...***********97766666666
+Q14254|PF01145|6-187           .-TVGPNEALVVSGgcCGSDYK...qYVFGGWAWAWWCISDTQ.RISLEIMTLQPRCEDVETAEGVALTVTGVA..QVKI.--MTEKELLAVAceqflgKNVQDIKNVVLQTLEGHLRSILGTLTVEQIYQD.RDQFAKLVREVAAPD..VGRMGIEILSFTIKDVYDKVDYLSS...LGKTQTAVVQR...DADIGVAE
+#=GR Q14254|PF01145|6-187   PP ..589*******8889555555...59999****8889*****.******************************..****...66666666666789**99*******************************.***************..****************8777*****...***********...*******9
+Q99623|PF01145|42-220          .-TVEGGHRAIFFN.rIGGVQQd..tILAEGLHFRIPWFQYPI.IYDIRARPRKISS-PTGSKDLQMVNISLRV..LSRP.NAQELPSMYQRL......-GLDYEERVLPSIVNEVLKSVVAKFNASQLITQ.RAQVSLLIRRELTER..AKDFSLILDDVAITELSFSREYTAA...VEAKQVAQQEAqraQFLVEKAK
+#=GR Q99623|PF01145|42-220  PP ..5899******99.97777777..******************.*************.****************..****.************.......********************************.***************..*************************...***********77766666666
+Q9NP85|PF01145|126-299         .KVVQEYERVIIFR..LGHLLPg..rAKGPGLFFFLPCLDTYH.KVDLRLQTLEIPFHEIVTKDMFIMEIDAIC..YYRM.--ENASLLLSSL......---AHVSKAVQFLVQTTMKRLLAHRSLTEILLE.RKSIAQDAKVALDSV..TCIWGIKVERIEIKDVRLPAGLQHS...LAVEAEAQRQA...KVRMIAAE
+#=GR Q9NP85|PF01145|126-299 PP .589**********..9998888..8*****************.******************************..****...**********.........******************************.***************..*************************...***********...********
+Q9UBI4|PF01145|80-217          .KIVPTYERMIVFR..LGRIRT....PQGPGMVLLLPFIDSFQ.RVDLRTRAFNVPPCKLASKDGAVLSVGADV..QFRI.--WDPVLSVMTV......---KDLNTATRMTAQNAMTKALLKRPLREIQME.KLKISDQLLLEINDV..TRAWGLEVDRVEL------------...-----------...--------
+#=GR Q9UBI4|PF01145|80-217  PP .58***********..******....*****************.******************************..****...**********.........******************************.***************..*********9975.....................................
+Q9UJZ1|PF01145|41-209          .--VPQQEAWVVER..MGRFHR....ILEPGLNILIPVLDRIRyVQSLKEIVINVPEQSAVTLDNVTLQIDGVL..YLRI.--MDPYKASYGV......---EDPEYAVTQLAQTTMRSELGKLSLDKVFRE.RESLNASIVDAINQA..ADCWGIRCLRYEIKDIHVPPRVKES...MQMQVEAERRK...RATVLESE
+#=GR Q9UJZ1|PF01145|41-209  PP ...79*********..******....*****************677888*************************..****...**********.........******************************.***************..*************************...***********...99988776
+Q8TAV4|PF01145|52-224          .KIIKEYERAVVFR..LGRIQAd..kAKGPGLILVLPCIDVFV.KVDLRTVTCNIPPQEILTRDSVTTQVDGVV..YYRI.--YSAVSAVANV......---NDVHQATFLLAQTTLRNVLGTQTLSQILAG.REEIAHSIQTLLDDA..TELWGIRVARVEIKDVRIPVQLQRS...MAAEAEATREA...RAKVLAAE
+#=GR Q8TAV4|PF01145|52-224  PP .589**********..*******..******************.******************************..****...**********.........******************************.***************..*************************...***********...****9999
+#=GC PP_cons                   .57999******99..988888....999**************.******************************..****.999999999999......9********************************.***************..9************************...***********...99999888
+#=GC RF                        .xxxxxxxxxxxxx..xxxxxx....xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx.xxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxx...xxxxxxxx
+
+O75477|PF01145|27-209          KEA.
+#=GR O75477|PF01145|27-209  PP 886.
+O75955|PF01145|6-184           A--k
+#=GR O75955|PF01145|6-184   PP 8..6
+O94905|PF01145|25-207          KEA.
+#=GR O94905|PF01145|25-207  PP 886.
+P27105|PF01145|55-227          GE-.
+#=GR P27105|PF01145|55-227  PP 87..
+P35232|PF01145|29-206          Q--q
+#=GR P35232|PF01145|29-206  PP 5..5
+Q14254|PF01145|6-187           AE-.
+#=GR Q14254|PF01145|6-187   PP 97..
+Q99623|PF01145|42-220          Q--e
+#=GR Q99623|PF01145|42-220  PP 6..5
+Q9NP85|PF01145|126-299         AEK.
+#=GR Q9NP85|PF01145|126-299 PP 996.
+Q9UBI4|PF01145|80-217          ---.
+#=GR Q9UBI4|PF01145|80-217  PP ....
+Q9UJZ1|PF01145|41-209          ---g
+#=GR Q9UJZ1|PF01145|41-209  PP ...6
+Q8TAV4|PF01145|52-224          GE-.
+#=GR Q8TAV4|PF01145|52-224  PP 86..
+#=GC PP_cons                   876.
+#=GC RF                        xxx.
+//

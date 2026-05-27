@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+Q99732|PF10601|90-159           r--PIQMCCPSCNKMIVSQLSYNAGALTWLSCGSLCLLGCiAGCCFIPFCVDALQDVDHYCPNCRALLGTYK
+#=GR Q99732|PF10601|90-159   PP 6..89*****************************************************************97
+Q9H305|PF10601|137-205          .--PVQTVCPHCQQAITTKISYEIGLMNFVLGFFCCFMGCdLGCCLIPCLINDFKDVTHTCPSCKAYIYTYK
+#=GR Q9H305|PF10601|137-205  PP ...89****************************************************************996
+A0A1B0GVX0|PF10601|2-70         .--PVQAVCPYCGNRIITVTTFVPGALTWLLCTTLFLFGYvLGCCFLAFCIRSLMDVKHSCPVCQRELFYYH
+#=GR A0A1B0GVX0|PF10601|2-70 PP ...899*************************************************************98885
+#=GC PP_cons                    ...899**********************************.***************************9996
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

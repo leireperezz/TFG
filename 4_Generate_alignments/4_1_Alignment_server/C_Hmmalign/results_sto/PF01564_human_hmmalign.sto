@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P19623|PF01564|76-260          ..................EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIG....YSSSKLTLHVGDGFEFMKQNQD......AFDVII..TDSSD.PM....GPAES.....LFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFP.VVAYA
+#=GR P19623|PF01564|76-260  PP ..................799*****************************************************************....**********************......******..*****.**....*****.....**********************************************.*****
+P52788|PF01564|176-364         ..................--AYTRAIMGSGKEDYT-GKDVLILGGGDGGILCEIVKLK-PKMVTMVEIDQMVIDGCKKYMRKTCGDvldnLKGDCYQVLIEDCIPVLKRYAKe...grEFDYVI..NDLTAvPI....STSPEedstwEFLRLILDLSMKVLKQDGKYFTQGNCVNLTEALSLYEEQLGRLYCPvEFSKE
+#=GR P52788|PF01564|176-364 PP ....................699**********99.9*********************.****************************999***********************...********..********....*999989999****************************************************
+Q8N6R0|PF01564|477-613         miaglallrnpellleip-------------------LALLVVGLGGGSLPLFVHDHFPKSCIDAVEIDPSMLEVATQWFGFSQSD....----RMKVHIADGLDYIASLAGggearpCYDVIMfdVDSKD.PTlgmsCPPPA.....FVEQSFLQKVKSILTPEGVFI-------------------------.-----
+#=GR Q8N6R0|PF01564|477-613 PP 777766666666555555...................55677776666666666666645779*****************976665........****************999999999****95567999.96322244455.....8999****************8...............................
+#=GC PP_cons                   ..................798****************8899999999999999999987899*******************99998....*********************9......******..99***.*9....88888.....99******************9*************************.*****
+#=GC RF                        ..................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxx......xxxxxx..xxxxx.xx....xxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx
+
+P19623|PF01564|76-260          YCTIPTYPSGQIGFMLCSKNPSTNF--q
+#=GR P19623|PF01564|76-260  PP ********************98887..6
+P52788|PF01564|176-364         IVCVPSYLELWVFYTVWKKA-------.
+#=GR P52788|PF01564|176-364 PP *****************985........
+Q8N6R0|PF01564|477-613         ---------------------------l
+#=GR Q8N6R0|PF01564|477-613 PP ...........................5
+#=GC PP_cons                   ******************9898887...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

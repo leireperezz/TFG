@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+
+P53701|PF01265|12-260         vqa--------------------SNASASPPSGCPMHE-GKMKGCPVNTEPSGPTCEKKTYSVPAHQERAYeyVECPIRGTAAENKENLDPSNLMPP-PNQTPAPDQPFALSTVREESSIPRADSEKKWVYPSEQMFWNAMLKKGWkwkdEDISQKDMYNIIRIHNQNNEQAWKEILKWEALHAA------------ECP
+#=GR P53701|PF01265|12-260 PP 975....................4567899*******5.4444455555666666677777888844444355333344555667899********8.56777**********************************************99*********************************9............777
+#=GC PP_cons                  .......................4567899*******5.44444555556666666777778888444443..333344555667899********8.56777*******************************************....9*********************************9............777
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P53701|PF01265|12-260         C----------GPSLIRFGGKAKEYSPRARIRSWMGY--------ELPFDRHDWIINRC-----GTEVRYVIDYYDGGEVNKDYQFTILDVRPALDSLSAVWDRM---k
+#=GR P53701|PF01265|12-260 PP 6..........8************************9........9*************.....479*************************************8...6
+#=GC PP_cons                  6..........8************************9........9*************.....479*************************************8....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

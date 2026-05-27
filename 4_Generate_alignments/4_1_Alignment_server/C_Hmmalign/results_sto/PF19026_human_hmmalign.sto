@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+Q13765|PF19026|176-214           v---EVKDIELVMSQANVSRAKAVRALKNNSNDIVNAIMELT
+#=GR Q13765|PF19026|176-214   PP 5...568*********************************96
+Q9NX55|PF19026|80-120            .VTIKKEDLELIMTEMEISRAAAERSLREHMGNVVEALIALT
+#=GR Q9NX55|PF19026|80-120    PP .89*************************************96
+E9PAV3|PF19026|2039-2077         v---EVKDIELVMSQANVSRAKAVRALKNNSNDIVNAIMELT
+#=GR E9PAV3|PF19026|2039-2077 PP 5...568*********************************96
+O15069|PF19026|1527-1561         .------DIELVMAQANVSRAKAVRALRDNHSDIVNAIMELT
+#=GR O15069|PF19026|1527-1561 PP .......9********************************96
+Q9H009|PF19026|176-214           v---EVKDVKLVMSQANVSRAKAVRALKNNSNDIVNAIMELT
+#=GR Q9H009|PF19026|176-214   PP 5...568*********************************96
+#=GC PP_cons                     .89*679*********************************96
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

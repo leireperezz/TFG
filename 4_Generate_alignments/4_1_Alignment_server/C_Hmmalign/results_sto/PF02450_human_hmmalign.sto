@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P04180|PF02450|81-408         FF--TIWLDLNMFLPLGVDCWIDNTRVVYNRSSGLVSNAPGVQIRVP-GFgktYSVEYLDSSKLAG--Y--LHTLVQNLVNNGYVRDETVRAAPYDWRLEPGQQEEYYRKLAGLVEEMHAAYGKPVFLIGHSLGCLHLLYFLLR-QPQAWKDRFIDGFISLGAPWGGSIKPMLVLASGDNQGIPIMSSIKLKEEQRITTT
+#=GR P04180|PF02450|81-408 PP 67..9******************************************.******************..9..*************************************************************************.*******************************************************
+Q8NCC3|PF02450|72-397         YF--TIWLNLELLLPVIIDCWIDNIRLVYNKTSRATQFPDGVDVRVP-GFgktFSLEFLDPSKSSVGSY--FHTMVESLVGWGYTRGEDVRGAPYDWRRAPNENGPYFLALREMIEEMYQLYGGPVVLVAHSMGNMYTLYFLQR-QPQAWKDKYIRAFVSLGAPWGGVAKTLRVLASGDNNRIPVIGPLKIREQQRSAVS
+#=GR Q8NCC3|PF02450|72-397 PP 89..9******************************999*********.**9999***********9899..*************************************************************************.*******************************************************
+#=GC PP_cons                  78..9******************************************.**...9***********9899..*************************************************************************.*******************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P04180|PF02450|81-408         SPWMFP-------SRMAWPEDHVFISTPSFNYTGRDFQRFFAD-----------LHFEEGWYMWLQSRDLLAGLP------------------------APGVEVYCLYGVGLPTPRTYIYDHG------------FPYTDPVGVLYEDGDDTVATRSTELCGLWQ-GRQPQPVHLLPL----HGIQHLNMVFSN.
+#=GR P04180|PF02450|81-408 PP ******.......******************************...........9********************........................*************************............******************************.************....*********985.
+Q8NCC3|PF02450|72-397         TSWLLP-------YNYTWSPEKVFVQTPTINYTLRDYRKFFQD-----------IGFEDGWLMRQDTEGLVEATM------------------------PPGVQLHCLYGTGVPTPDSFYYESF--------------PDRDPKICFGDGDGTVNLKSALQCQAWQ-SRQEHQVLLQEL----PGSEHIEML---a
+#=GR Q8NCC3|PF02450|72-397 PP ******.......9*****************************...........999**********99987777........................8*********************866..............888999**********************.9***********....889999987...7
+#=GC PP_cons                  ******.......******************************...........99**************99988........................9*********************988............**99999***********************.9***********....999999998985.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

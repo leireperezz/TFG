@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q99689|PF07763|58-296         .SMEDLVNEFDEKLNVCFRNYNAKTE.NLAPVknqlQIQEEEETLQDEEVWDALTDNYIPSLSEDWRDPNIEALNG--------.NCSDTEIHEKEEEEFNEKSEN----DSGINEEPLLTADQVIEEIEEMMQNSPDPEeeeevleeEDGGETSSQaDSVLLQEMQALTQTFNNNWSYE-GLRHMSGSELTELLDQVEG
+#=GR Q99689|PF07763|58-296 PP .89***********************.*****99999**************************************9.........8999*****************....9*****************************7777777655556666667*********************.*******************
+Q9UHY8|PF07763|52-285         c-------SLEEKLSLCFRPSDPGAEpPRTAV....RPITERSLLQGDEIWNALTDNYGNVMPVDWKSSHTRTLHLLTLNLSEKgVSDSLLFDTSDDEELREQLDMHSIIVSCVNDEPLFTADQVIEEIEEMMQESPDPE........DDETPTQSDrLSMLSQEIQTLK--RSSTGSYEERVKRLSVSELNEILEEIET
+#=GR Q9UHY8|PF07763|52-285 PP 8.......579**************9668999....***********************************************9667778899***********************************************........*********99********888..556778**********************
+#=GC PP_cons                  .89*****89****************.8999*....***********************************************9.7888999************************************************........777888888.8********999**788899**********************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q99689|PF07763|58-296         AIRDFSEELVQQLARRDELEFEKEVKNSFITVLIEVQNKQKEQRELMKKRRKEK--g
+#=GR Q99689|PF07763|58-296 PP ****************************************************98..6
+Q9UHY8|PF07763|52-285         AIKEYSEELVQQLALRDELEFEKEVKNSFISVLIEVQNKQKEHKETAKKKKKLKN-.
+#=GR Q9UHY8|PF07763|52-285 PP ****************************************************986..
+#=GC PP_cons                  ****************************************************986..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

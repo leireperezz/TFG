@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q13472|PF06839|811-851           .VTCN.CG.QEAVLLTVRKEGPNRGRQFFKCNGGS-......--CNFFLWADS-.
+#=GR Q13472|PF06839|811-851   PP .68**.**.*************************9.........*******96..
+Q13472|PF06839|896-939           .-SCL.CS.QPSVTRTVQKDGPNKGRQFHTCAKPRE......QQCGFFQWVDEN.
+#=GR Q13472|PF06839|896-939   PP ..5**.**.***************************......**********96.
+Q86YA3|PF06839|1347-1390         .PSCH.HS.QPAKLVMVKKEGPNKGRLFYTCDGPKA......DRCKFFKWLE--d
+#=GR Q86YA3|PF06839|1347-1390 PP .68**.**.***************************......********76..6
+Q8TAT5|PF06839|506-549           r--CSkHN.RLCILRVVGKDGENKGRQFYACPLPRE......AQCGFFEWAD--l
+#=GR Q8TAT5|PF06839|506-549   PP 7..77588.***************************......*********9..7
+Q8TAT5|PF06839|552-595           .PFCN.HG.KRSTMKTVLKIGPNNGKNFFVCPLGKE......KQCNFFQWAEN-.
+#=GR Q8TAT5|PF06839|552-595   PP .68**.**.***************************......********985..
+Q9H5U6|PF06839|38-82             .PLCP.HGpTLLFVKVT--QGKEETRRFYACSACRD.....rKDCNFFQWEDEK.
+#=GR Q9H5U6|PF06839|38-82     PP .79**.***********..6****************.....***********96.
+Q9UBZ4|PF06839|467-515           .PLCGgHR.EPCVMRTVKKPGPNLGRRFYMCARPRGpptdpsSRCNFFLW----s
+#=GR Q9UBZ4|PF06839|467-515   PP .6899677.**************************999999999******....6
+Q9UNY4|PF06839|5-39              r--CPeHG.TFCFLKTGVRDGPNKGKSFYVCRADT-......--CSF-------.
+#=GR Q9UNY4|PF06839|5-39      PP 7..999**.*******999************8766.........776........
+A8K979|PF06839|595-642           .PLCK.CG.RRSKRLVVSNNGPNHGKVFYCCPIGKYqe..nrKCCGYFKWEQ--t
+#=GR A8K979|PF06839|595-642   PP .79**.**.*************************9999..99********98..5
+#=GC PP_cons                     .6899.99.************************99*......********9976.
+#=GC RF                          .xxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5T9A4|PF12037|40-286         rpa----------------PKDKWSNFDPTGLERAAKAARELEHSRYAKEALNLAQMQEQTLQLEQQSKLKEYEAAVEQLKSEQIRAQAEERRKTLSEETRQHQARAQYQDKLARQRYEDQLKQQQLLNEENLRKQEESVQKQEAMR-----RATVEREMELRHKNEMLRVETEARARAKAERENADIIREQIRLKASEH
+#=GR Q5T9A4|PF12037|40-286 PP 985................6789****************************************************************************************************************************.....************************************************
+Q9NVI7|PF12037|40-286         rpa----------------PKDKWSNFDPTGLERAAKAARELEHSRYAKDALNLAQMQEQTLQLEQQSKLKEYEAAVEQLKSEQIRAQAEERRKTLSEETRQHQARAQYQDKLARQRYEDQLKQQQLLNEENLRKQEESVQKQEAMR-----RATVEREMELRHKNEMLRVEAEARARAKAERENADIIREQIRLKAAEH
+#=GR Q9NVI7|PF12037|40-286 PP 985................6789****************************************************************************************************************************.....************************************************
+Q5T2N8|PF12037|31-110         .dl-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RKQEESVQKH
+#=GR Q5T2N8|PF12037|31-110 PP .85...........................................................................................................................................................................................66678899**
+#=GC PP_cons                  ...................6789****************************************************************************************************************************.....**************************************999999****
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5T9A4|PF12037|40-286         RQTVLESIRTAGTLFGEGFRAFVTDRDKVTATVAGLTLLAVGVYSAKNATAVTGRFIEARLGKPSLVR
+#=GR Q5T9A4|PF12037|40-286 PP *******************************************************************9
+Q9NVI7|PF12037|40-286         RQTVLESIRTAGTLFGEGFRAFVTDWDKVTATVAGLTLLAVGVYSAKNATLVAGRFIEARLGKPSLVR
+#=GR Q9NVI7|PF12037|40-286 PP *******************************************************************9
+Q5T2N8|PF12037|31-110         HQTFLESIRAAGTLFGEGFRAFVTDRDKVTATVAGLTLLAVGVYSAKNATAVTGRYIEARLGKPSLVR
+#=GR Q5T2N8|PF12037|31-110 PP *******************************************************************9
+#=GC PP_cons                  *******************************************************************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

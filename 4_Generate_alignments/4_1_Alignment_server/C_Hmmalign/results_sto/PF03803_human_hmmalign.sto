@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O15162|PF03803|86-306          ...MPAP-QPPLNCPPGLEYLSQIDQILIHQQIELLEVLTGFETNNKYEIKNSFGQRVYFAAEDTDCCTRNCCGPSRPFTLRIIDNMGQEVITLERPLRCSScC...CPCCLQEIEIQAPPGVPIGYVIQTWHPCLPKFTIQNEKREDVLKISGPCVVCSCCGDVDFEIKSLDEqCVVGKISKHWTGILREAFTDADNFG
+#=GR O15162|PF03803|86-306  PP ...6778.99*******************************************************************************************955...*******************************************************************9*************************
+Q9NRQ2|PF03803|100-322         ...MPGP-TPMANCPPGLEYLVQLDNIHVLQHFEPLEMMTCFETNNRYDIKNNSDQMVYIVTEDTDDFTRNAYRTLRPFVLRVTDCMGREIMTMQRPFRCTC.CcfcCPSARQELEVQCPPGVTIGFVAEHWNLCRAVYSIQNEKKENVMRVRGPCSTYGCGSDSVFEVKSLDGiSNIGSIIRKWNGLLS-AMADADHFD
+#=GR Q9NRQ2|PF03803|100-322 PP ...7788.89******************************************************************************************99.5466**********************************************************************************9.9********
+Q9NRY6|PF03803|64-284          .ap----FLPLPGVPSGLEFLVQIDQILIHQKAERVETFLGWETCNRYELRSGAGQPLGQAAEESNCCARLCCGARRPLRVRLADPGDREVLRLLRPLHCGCsC...CPCGLQEMEVQAPPGTTIGHVLQTWHPFLPKFSIQDADRQTVLRVVGPCWTCGCGTDTNFEVKTRDEsRSVGRISKQWGGLVREALTDADDFG
+#=GR Q9NRY6|PF03803|64-284  PP .75....567899***************************************************************************************9999...*********************************************************************************************
+Q9NRY7|PF03803|74-295          ...MPAP-PPPLNCPPGLEYLSQIDMILIHQQIELLEVLFSFESSNMYEIKNSFGQRIYFAAEDTNFCIRNCCGRSRPFTLRITDNVGREVITLERPLRCNCcC...CPCCLQEIEIQAPPGVPVGYVTQTWHPCLTKFTIKNQKREDVLKISGPCIVCSCIAGVDFEITSLDEqIVVGRISKHWSGFLREAFTDADNFG
+#=GR Q9NRY7|PF03803|74-295  PP ...5667.789*****************************************************************************************9955...*******************************************************************999***********************
+A0PG75|PF03803|47-265          sfl------PTVSLPPGLEYLSQLDLIIIHQQVELLGMILGTETSNKYEIKNSLGQRIYFAVEESICFNRTFCSTLRSCTLRITDNSGREVITVNRPLRCNS.C..wCPCYLQELEIQAPPGTIVGYVTQKWDPFLPKFTIQNANKEDILKIVGPCVTCGCFGDVDFEVKTINEkLTIGKISKYWSGFVNDVFTNADNFG
+#=GR A0PG75|PF03803|47-265  PP 876......67789****************************************************************************************.*..9*******************************************************************999***********************
+#=GC PP_cons                   ...6777578999****************************************************************************************9.7...*******************************************************************.9************************
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15162|PF03803|86-306          IQFPLDLDVKMKAVMIGACFLIDFMFFE-
+#=GR O15162|PF03803|86-306  PP ***************************8.
+Q9NRQ2|PF03803|100-322         IHFPLDLDVKMKAMIFGACFLIDFMYFER
+#=GR Q9NRQ2|PF03803|100-322 PP ***************************97
+Q9NRY6|PF03803|64-284          LQFPLDLDVRVKAVLLGATFLIDYMFFEK
+#=GR Q9NRY6|PF03803|64-284  PP ***************************96
+Q9NRY7|PF03803|74-295          IQFPRDLDVKMKAVMIGACFLIDYMFFER
+#=GR Q9NRY7|PF03803|74-295  PP ***************************97
+A0PG75|PF03803|47-265          IHVPADLDVTVKAAMIGACFLFDFMFFE-
+#=GR A0PG75|PF03803|47-265  PP ***************************8.
+#=GC PP_cons                   ***************************97
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

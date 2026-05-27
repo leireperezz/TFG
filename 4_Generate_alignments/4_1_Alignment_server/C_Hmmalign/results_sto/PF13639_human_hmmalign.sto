@@ -1,0 +1,107 @@
+# STOCKHOLM 1.0
+
+O00237|PF13639|620-663           .-ECVVCLENFENGCL....LM..GLPCGHVFHQNCIVMW..LAGGRH.cCPVCR
+#=GR O00237|PF13639|620-663   PP ..7*************....**..****************..**9999.9****9
+O43164|PF13639|633-675           c--CPICCSEYIKDDI....AT..ELPCHHFFHKPCVSIW..LQKSGT..CPVCR
+#=GR O43164|PF13639|633-675   PP 6..*************....**..****888*********..******..****9
+O43567|PF13639|239-282           v--CAICLDEYEDGDK....LR..ILPCSHAYHCKCVDPW..LTKTKK.tCPVCK
+#=GR O43567|PF13639|239-282   PP 7..*************....**..****************..887777.7****7
+O60683|PF13639|272-311           l--CTLCL---EERRH....PT..ATPCGHLFCWECITAW..CSSKAE..CPLCR
+#=GR O60683|PF13639|272-311   PP 6..****9...999**....**..****************..******..****9
+P53804|PF13639|1956-1997         .-SCEICHEVF-KSKN....VR..VLKCGHKYHKGCFKQW..LKGQSA..CPACQ
+#=GR P53804|PF13639|1956-1997 PP ..6****8777.7799....99..999*************..******..****5
+P78317|PF13639|131-177           .-SCPICMDGYSEIVQngrlIV..STECGHVFCSQCLRDS..LKNANT..CPTCR
+#=GR P78317|PF13639|131-177   PP ..6*****98855444455455..778*************..******..****9
+Q13702|PF13639|363-403           .--CGLCGESIGEKNS...rLQ..ALPCSHIFHLRCLQN-..-NGTRS..CPNCR
+#=GR Q13702|PF13639|363-403   PP ...9*******77777...366..99**********877....56666..****9
+Q5M7Z0|PF13639|374-413           i--CSICQAEF---QK....PI..LLICQHIFCEECMTLW..FNREKT..CPLCR
+#=GR Q5M7Z0|PF13639|374-413   PP 7..*****999...66....66..666*************..******..****9
+Q68DV7|PF13639|272-312           .--CAICLEEFSEGQE....LR..VISCLHEFHRNCVDPW..LHQHRT..CPLC-
+#=GR Q68DV7|PF13639|272-312   PP ...*************....**..999*************..******..****.
+Q6PCD5|PF13639|285-331           .DTCTICLEQWTNAGD....HRlsALRCGHLFGYRCISTW..LKGQVR.kCPQCN
+#=GR Q6PCD5|PF13639|285-331   PP .58********77766....4435889*************..**9999.9****6
+Q6ZNA4|PF13639|941-983           .-KCTICLSILEEGED....VR..RLPCMHLFHQVCVDQW..LITNKK..CPICR
+#=GR Q6ZNA4|PF13639|941-983   PP ..6*************....**..****************..******..****9
+Q6ZSG1|PF13639|293-335           .-KCTICLSMLEDGED....VR..RLPCMHLFHQLCVDQW..LAMSKK..CPICR
+#=GR Q6ZSG1|PF13639|293-335   PP ..6*************....**..****************..******..****9
+Q7Z569|PF13639|263-304           .-KCTVCLERMDESVNg..iLT..TL-CNHSFHSQCLQRW..--DDTT..CPVCR
+#=GR Q7Z569|PF13639|263-304   PP ..6********999996..333..55.************9....5667..****9
+Q86TM6|PF13639|290-330           v--CIICREEMVTGAK....--..RLPCNHIFHTSCLRSW..FQRQQT..CPTCR
+#=GR Q86TM6|PF13639|290-330   PP 7..********98888........66**************..******..****9
+Q86XS8|PF13639|263-305           .-HCAVCIESYKQNDV....VR..ILPCKHVFHKSCVDPW..LSEHCT..CPMCK
+#=GR Q86XS8|PF13639|263-305   PP ..5*************....**..****************..******..****7
+Q86Y13|PF13639|1148-1188         .--CVICHENL-SPEN....LS..VLPCAHKFHAQCIRPW..LMQQGT..CPTCR
+#=GR Q86Y13|PF13639|1148-1188 PP ...****9888.8999....**..****************..******..****9
+Q8NC42|PF13639|268-310           .-NCAVCIENFKVKDI....IR..ILPCKHIFHRICIDPW..LLDHRT..CPMCK
+#=GR Q8NC42|PF13639|268-310   PP ..6*************....**..****************..******..****7
+Q8ND25|PF13639|183-222           .-ECVICLEELLQGDT....IA..RLPCLCIYHKSCIDSW..FEVNRS..CP---
+#=GR Q8ND25|PF13639|183-222   PP ..7*************....**..****777*********..******..*9...
+Q8NG27|PF13639|594-636           c--CPICCSEYVKGEV....AT..ELPCHHYFHKPCVSIW..LQKSGT..CPVCR
+#=GR Q8NG27|PF13639|594-636   PP 6..*************....**..****666*********..******..****9
+Q8NHG8|PF13639|198-237           .-ECAICLEELQQGDT....IA..RLPCLCIYHKGCIDEW..FEVNRS..CP---
+#=GR Q8NHG8|PF13639|198-237   PP ..7*************....**..****777*********..******..*9...
+Q8TEB7|PF13639|275-318           .DSCAVCIELYKPNDL....VR..ILTCNHIFHKTCVDPW..LLEHRT..CPMCK
+#=GR Q8TEB7|PF13639|275-318   PP .58********99999....99..****************..******..****7
+Q8TEC5|PF13639|11-53             .-ECPVCFEKLDVTAK....VL..--PCQHTFCKPCLQRV..FKAHKElrCPECR
+#=GR Q8TEC5|PF13639|11-53     PP ..7********98888....77....**************..************9
+Q8WU17|PF13639|546-585           v--CAICYHEFTTSAR....--..ITPCNHYFHALCLRKW..LYIQDT..CPMC-
+#=GR Q8WU17|PF13639|546-585   PP 7..*****9**66655........55**************..******..****.
+Q8WVD5|PF13639|154-192           .-ECCICM---DGRAD....LI..-LPCAHSFCQKCIDKW..SDRHRN..CPICR
+#=GR Q8WVD5|PF13639|154-192   PP ..7****9...66677....66...89*************..******..****9
+Q8WVZ7|PF13639|254-297           .DSCVICFERYKPNDI....VR..ILTCKHFFHKNCIDPW..ILPHGT..CPICK
+#=GR Q8WVZ7|PF13639|254-297   PP .58*************....**..****************..******..****7
+Q8WWF5|PF13639|308-352           l--CAICLDEYEEGDQ....LK..ILPCSHTYHCKCIDPW..FSQAPRrsCPVCK
+#=GR Q8WWF5|PF13639|308-352   PP 6..*************....**..****************..************7
+Q96BH1|PF13639|134-168           .-QCVICLYGFQEKEA....FT..KTPCYHYFHCHCLARY..IQH---..-----
+#=GR Q96BH1|PF13639|134-168   PP ..7*************....**..**************99..875..........
+Q96EX2|PF13639|383-422           i--CAICQAEF--REP....LI..LL-CQHVFCEECLCLW..LDRERT..CPLCR
+#=GR Q96EX2|PF13639|383-422   PP 7..*****999..456....66..66.*************..******..****9
+Q96PM5|PF13639|144-186           .-NCPICLEDIHTSRV....VA.hVLPCGHLLHRTCYEEM..LKEGYR..CPLC-
+#=GR Q96PM5|PF13639|144-186   PP ..6********99999....88.799**************..******..****.
+Q99590|PF13639|40-82             r--CPICLNCLLEKEV....GF..PESCNHVFCMTCILKW..AETLAS..CPIDR
+#=GR Q99590|PF13639|40-82     PP 5..****966655555....55..556*************..******..**977
+Q9BV68|PF13639|228-270           .-ECPVCKDDYALGER....VR..QLPCNHLFHDGCIVPW..LEQHDS..CPVCR
+#=GR Q9BV68|PF13639|228-270   PP ..7*************....**..****************..******..****9
+Q9BWF2|PF13639|6-50              l--CTICSDFFDHSRD....VA..AIHCGHTFHLQCLIQW..FETAPSrtCPQCR
+#=GR Q9BWF2|PF13639|6-50      PP 6..*************....**..999*************..***99999****9
+Q9H0A6|PF13639|127-169           .--CPICKEEFELRPQ....VL..LS-CSHVFHKACLQAFekFTNKKT..CPLCR
+#=GR Q9H0A6|PF13639|127-169   PP ...********99999....99..76.**********99877888888..****9
+Q9H0F5|PF13639|462-504           l--CVVCMCDFESRQL....LR..VLPCNHEFHAKCVDKW..LKANRT..CPICR
+#=GR Q9H0F5|PF13639|462-504   PP 6..*************....**..****************..******..****9
+Q9H6Y7|PF13639|229-272           v--CAICLDEYEDGDK....LR..VLPCAHAYHSRCVDPW..LTQTRK.tCPICK
+#=GR Q9H6Y7|PF13639|229-272   PP 7..*************....**..****************..888877.7****7
+Q9H9V4|PF13639|92-134            .-TCAVCLEDFKGKDE....LG..VLPCQHAFHRKCLVKW..LEVRCV..CPMCN
+#=GR Q9H9V4|PF13639|92-134    PP ..6*************....**..****************..******..****6
+Q9NVW2|PF13639|569-611           .-TCSVCITEYTEGNK....LR..KLPCSHEYHVHCIDRW..LSENST..CPICR
+#=GR Q9NVW2|PF13639|569-611   PP ..6*************....**..****************..******..****9
+Q9P0P0|PF13639|75-117            .-KCPVCLLEFEEEET....AI..EMPCHHLFHSSCILPW..LSKTNS..CPLCR
+#=GR Q9P0P0|PF13639|75-117    PP ..6*************....**..****888*********..******..****9
+Q9UKV5|PF13639|339-379           .DDCAICWDSM---QA....AR..KLPCGHLFHNSCLRSW..LEQDTS..CPTCR
+#=GR Q9UKV5|PF13639|339-379   PP .58*****777...77....88..899*************..******..****9
+Q9ULT6|PF13639|292-334           .-DCAICLEKYIDGEE....LR..VIPCTHRFHRKCVDPW..LLQHHT..CPHCR
+#=GR Q9ULT6|PF13639|292-334   PP ..6*************....**..****************..******..****9
+Q9Y252|PF13639|631-673           i--CSVCISDYVTGNK....LR..QLPCMHEFHIHCIDRW..LSENCT..CPICR
+#=GR Q9Y252|PF13639|631-673   PP 7..*************....**..****************..******..****9
+Q9Y3C5|PF13639|98-139            .-ECVICMMDFVYGDP....IR..FLPCMHIYHLDCIDDW..LMRSFT..CPSC-
+#=GR Q9Y3C5|PF13639|98-139    PP ..7*************....**..****************..******..****.
+Q9Y4L5|PF13639|227-269           .-ECPVCKEDYTVEEE....VR..QLPCNHFFHSSCIVPW..LELHDT..CPVCR
+#=GR Q9Y4L5|PF13639|227-269   PP ..7*************....**..****************..******..****9
+Q7L0R7|PF13639|379-421           l--CVVCFSDFEARQL....LR..VLPCNHEFHTKCVDKW..LKANRT..CPICR
+#=GR Q7L0R7|PF13639|379-421   PP 6..*************....**..****************..******..****9
+Q96MT1|PF13639|536-574           i--CAICYQDM---KS....AV..ITPCSHFFHAGCLKKW..LYVQET..CPLC-
+#=GR Q96MT1|PF13639|536-574   PP 7..*****888...67....88..899*************..******..****.
+Q9P1Y6|PF13639|107-149           .-SCPICLNAFRDQAV....GT..PENCAHYFCLDCIVEW..SKNANS..CPVDR
+#=GR Q9P1Y6|PF13639|107-149   PP ..6********77777....66..667*************..******..**977
+Q9ULK6|PF13639|276-319           .DNCAVCIEGYKPNDV....VR..ILPCRHLFHKSCVDPW..LLDHRT..CPMCK
+#=GR Q9ULK6|PF13639|276-319   PP .58*************....**..****************..******..****7
+Q8N7C7|PF13639|256-299           .DNCVVCFDTYKPQDV....VR..ILTCKHFFHKACIDPW..LLAHRT..CPMCK
+#=GR Q8N7C7|PF13639|256-299   PP .58*************....**..****************..******..****7
+Q8NEG5|PF13639|343-384           .-QCLLCLKAFHLGQH....TR..LLPCTHKFHRKCIDNW.lFHKCNS..CPI--
+#=GR Q8NEG5|PF13639|343-384   PP ..7*************....**..****************.5555555..**7..
+Q9Y225|PF13639|77-119            l--CAVCLEDFKPRDE....LG..ICPCKHAFHRKCLIKW..LEVRKV..CPLCN
+#=GR Q9Y225|PF13639|77-119    PP 6..*************....**..****************..******..****6
+Q9Y6U7|PF13639|324-366           .-TCAVCLDYFCNKQW....LR..VLPCKHEFHRDCVDPW..LMLQQT..CPLCK
+#=GR Q9Y6U7|PF13639|324-366   PP ..6*************....**..****************..******..****7
+#=GC PP_cons                     .57********99999....99..99**************..**9***..****8
+#=GC RF                          .xxxxxxxxxxxxxxx....xx..xxxxxxxxxxxxxxxx..xxxxxx..xxxxx
+//

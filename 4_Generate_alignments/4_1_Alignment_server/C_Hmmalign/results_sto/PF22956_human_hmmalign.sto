@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P30153|PF22956|153-271         vcyprvss---------------------------------------------------------------------------------------------------------------------------......-------.---...------------------AVKAELRQYFRNLCSDDTPMVRRAAASK.LG
+#=GR P30153|PF22956|153-271 PP *9888765.................................................................................................................................................................566778899999**************99.**
+P30154|PF22956|99-282          ......hc-------------------------------------------------------------------------------------LLPPLENLATVEETVVRDKAVESLRQISQEHTPVALEAyfvplvKRLASGDwF-T...SRTSACGLFSVCYPRASNAVKAEIRQQFRSLCSDDTPMVRRAAASK.LG
+#=GR P30154|PF22956|99-282  PP ......98.....................................................................................68888888888888888888888888877654433333121111444444332.2...4444445788899999******************************.**
+Q99570|PF22956|378-732         ........LVSVITSCLQTLKYCDSKLAALELILHLAPRLSVEILLDRITPYLLHFSNDSVPRVRAEALRTLTKVLALVKEVPRNDINIYPEYILPGIAHLAQDDATIVRLAYAENIALLAETALRFLELV......QLKNLNM.ENDpnnEEIDEVTHPNGNYDTELQALHEMVQQKVVTLLSDPENIVKQTLMENgIT
+#=GR Q99570|PF22956|378-732 PP ........589************************************************************************************************************************......8666555.444323455555599************************************9***
+#=GC PP_cons                   ........589**********************************************************************************89999999999999999999999999998877776666......6555544.343...444455588999******8999999*********************.**
+#=GC RF                        ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxx.xxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+P30153|PF22956|153-271         EFAKVLELDNVKSEIIPMFSNLASDE-QDSVRLLAVEACVNIAQLLPQEDLEALVMPTLRQAAEDKSWRVRYMVADKFTEL-------------------------------------------------------------------------------------------q......
+#=GR P30153|PF22956|153-271 PP ********999999999999988888.9999*******************************9999988877777777665...........................................................................................8......
+P30154|PF22956|99-282          EFAKVLELDSVKSEIVPLFTSLASDE-QDSVRLLAVEACVSIAQLLSQDDLETLVMPTLRQAAEDKSWRVRYMV--------------------------------------------------------------------------------------------------adrfsel
+#=GR P30154|PF22956|99-282  PP ************99999888888887.99************************************987776655..................................................................................................5566677
+Q99570|PF22956|378-732         RLCVFFGRQKANDVLLSHMITFLNDKNDWHLRGAFFDSIVGVAAYVGWQS-SSILKPLLQQGLSDAEEFVIVKALYALTCMCQLGLLQKPHVYEFASDIAPFLCHPNLWIRYGAVGFITVVARQISTADVYCKLMPYLDPYITQPIIQIERKLVLLSVLKEPVSRSIFDYA-.......
+#=GR Q99570|PF22956|378-732 PP **************************************************.9********************************************************************************************************************985........
+#=GC PP_cons                   *****************999999999*99************************************9988888878888888***************************************************************************************985........
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......
+//

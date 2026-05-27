@@ -1,0 +1,31 @@
+# STOCKHOLM 1.0
+
+O00124|PF00789|187-265         .t--AEEVVTVALRCPSGNV.LRRRFLKSYSSQVLFDWMTRIGYHIS....L-.YSLSTS.FPRRPL.....AVEG-GQSLEDIGITVDTVLILEE..
+#=GR O00124|PF00789|187-265 PP .6..789*************.**************************....*..******.******.....***9.*****************96..
+O94888|PF00789|409-487         .n---GPKAQLMLRYPDGKR.EQITLPEQAKLLALVKHVQSKGYPNE....R-.FELLTN.FPRRKL.....SHLDYDITLQEAGLCPQETVFVQE..
+#=GR O94888|PF00789|409-487 PP .7...5799***********.**************************....*..******.******.....*********************985..
+P68543|PF00789|171-246         ep-----ITNIQIWLANGKR.IVQKFNITHRVSHIKDFIEKYQGSQR....SPpFSLATA.LPVLRL.....LDET--LTLEEA-DLQNAVIIQ--r.
+#=GR P68543|PF00789|171-246 PP 65.....689**********.******************87666666....555******.**9888.....8888..******.******998..5.
+Q04323|PF00789|209-292         .r--EYDQCRIQVRLPDGTS.LTQTFRAREQLAAVRLYVELHRGEELgggqDP.VQLLSG.FPRRAF.....SEADMERPLQELGLVPSAVLIV--a.
+#=GR Q04323|PF00789|209-292 PP .7..679*************.***********************999444455.******.******.....********************98..6.
+Q14CS0|PF00789|255-329         ..----PTTKIQIRLADGSR.LIQRFNSTHRILDVRNFIVQSRPEFA....ALdFILVTS.FPNKEL.....TDES--LTLLEA-DILNTVLLQQ-..
+#=GR Q14CS0|PF00789|255-329 PP ......589***********.**********************9988....555******.******.....***8..******.999***9986...
+Q5T124|PF00789|397-470         sm--------LRIKSENGEQaFLLMMQPDNTIGDVRALLAQARVMDA....SA.FEIFST.FPPTLY.....QDDT--LTLQAAGLVPKAALLLR-..
+#=GR Q5T124|PF00789|397-470 PP 86........78999999762667889********************....**.******.******.....***9..**************985...
+Q92575|PF00789|315-394         .e--RSTVARIQFRLPDGSS.FTNQFPSDAPLEEARQFAAQTVGNTY....GN.FSLATM.FPRREF.....TKEDYKKKLLDLELAPSASVVL--l.
+#=GR Q92575|PF00789|315-394 PP .6..6789************.*****************666666666....67.******.******.....********************98..7.
+Q96CS3|PF00789|359-440         pe-----SVKIIFKLPNDSR.VERRFHFSQSLTVIHDFLFSLKESPE....K-.FQIEAN.FPRRVLpcipsEEWPNPPTLQEAGLSHTEVLFVQ-..
+#=GR Q96CS3|PF00789|359-440 PP 85.....68999********.*****************887776666....6..******.****983332111122469999999999999986...
+Q96LJ8|PF00789|195-268         .q---EPRLLLAVRSPTGQR.FVRHFRPTDDLQTIVAVAEQKNKTSY....RH.CSIETMeVPRRRF.....SDLT--KSLQEC-RIPHKS-----v.
+#=GR Q96LJ8|PF00789|195-268 PP .7...567789*********.*****************999999999....99.*****99******.....***9..*****9.666554.....6.
+Q9BZE9|PF00789|387-459         ry----PKVALRVLFPDRYV.LQGFFRPSETVGDLRDFVRSHLGNPE....LS.FYLFIT.PPKTVL.....DDHT--QTLFQANLFPA-------al
+#=GR Q9BZE9|PF00789|387-459 PP 75....78999*********.**************************....**.******.******.....***9..***99999986.......69
+Q9BZV1|PF00789|333-407         .k---YNYTLLRVRLPDGCL.LQGTFYARERLGAVYGFVREALQSDW....LP.FELLAS.GGQKLS.....EDEN--LALNECGLVPSALL----t.
+#=GR Q9BZV1|PF00789|333-407 PP .6...68999**********.**************************....**.******.999988.....8888..******99999765....8.
+Q9UNN5|PF00789|569-647         .n--AEPVSKLRIRTPSGEF.LERRFLASNKLQIVFDFVASKGFPWD....E-.YKLLST.FPRRDV.....TQLDPNKSLLEVKLFPQETLFLE-..
+#=GR Q9UNN5|PF00789|569-647 PP .6..799*************.**************************....*..******.******.....*********************97...
+Q9UNZ2|PF00789|291-368         .e--SEPTTNIQIRLADGGR.LVQKFNHSHRISDIRLFIVDARPAMA....ATsFILMTT.FPNKEL.....ADES--QTLKEA-NLLNAVIVQ--r.
+#=GR Q9UNZ2|PF00789|291-368 PP .6..689*************.************************99....777******.******.....***8..******.999999998..5.
+#=GC PP_cons                   ....678899**********.*****************999999999....87.******.******.....999989*******99999999875..
+#=GC RF                        ..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx....xx.xxxxxx.xxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxx..
+//

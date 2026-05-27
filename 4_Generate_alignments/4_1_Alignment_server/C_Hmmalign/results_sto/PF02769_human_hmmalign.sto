@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O15067|PF02769|444-602         ..................EPGMEVVKVGGpvyrIGVGGGAASSVQVQGDNTSDLDF......gAVQ.RGDPEMEQKMNRVIRACVEApkGNPICSLHDQGAGGNGNVLKELSDPA--GAIIYTS...RFQLGDPTL........NALEIWGA...........EYQESNALLLRSPNR.DFLTHVSA..RERC.P-ACFV
+#=GR O15067|PF02769|444-602 PP ..................69********************7777666666555555......9***.***********************************************7..*******...*********........********...........***************.********..****.8.****
+O15067|PF02769|861-985         hrlggtalaqcfsqlgeh-----------....-----------------------.......---.PPDLDLPENLVRAFSITQGLlkDRLLCSGHDVSDGGLVTCLLEMAFAGNCGLQVDVP...-VPRVDV--........--LSVLFA...........EEPGLVLEVQEPDLA.-QVLKRYR..DAGL.H-CLEL
+#=GR O15067|PF02769|861-985 PP 988766666665555444.................................................456666667777777777777779********************************9....777765............58****...........****66555555555..*******..****.6.9999
+P22102|PF02769|607-776         ..................-EGDVVVGIAS....SGLHSNGFSLVRKIVAKSSLQYSspapdgcGDQtLGDLLLTPTRIYSHSLLPVL.rSGHVKAFAHITGGGLLENIPRVLPEK-LGVDLDAQtwrIPRVFSWLQqe...ghlSEEEMART...........FNCGVGAVLVVSKEQtEQILRDIQ..QHKE.-EAWVI
+#=GR P22102|PF02769|607-776 PP ...................7*********....******************************6666********************.**************************6.**********************...***********...........************************..****..8****
+P49903|PF02769|193-366         ..................-PGDVLVLTKP....LGTQVAV-AVHQWLDIPEKWNKIklvvtqeDVE.LAYQEAMMNMARLNRTAAGLmhTFNAHAATDITGFGILGHAQNLAKQQRNEVSFVIH...NLPVLAKMAav...skaC------GnmfglmhgtcpETSGGLLICLPREQA.ARFCAEIKspKYGEgHQAWII
+#=GR P49903|PF02769|193-366 PP ...................8*********....*******.77778*******999**********.*********************************************************...77777776433...3220......134555666779***************.*******9777888999****
+Q99611|PF02769|244-416         ..................-VGDVLVLTKP....LGTQVAV-NAHQWLDNPERWNKVkmvvsreEVE.LAYQEAMFNMATLNRTAAGLmhTFNAHAATDITGFGILGHSQNLAKQQRNEVSFVIH...NLPIIAKMAavskasgrF------Gllq....gtsaETSGGLLICLPREQA.ARFCSEIKssKYGEgHQAWIV
+#=GR Q99611|PF02769|244-416 PP ...................6*********....*******.88899******9988******9999.99999999*************************************************...999999876765554442......1444....5667***************.*****998667888999****
+#=GC PP_cons                   ..................67*********....*******8888889999998888.......999.99999999999999999999..9************************9*********...999998887........5*89***6...........****99999999999.*******9..9999.89****
+#=GC RF                        ..................xxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx.......xxx.xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxx........xxxxxxxx...........xxxxxxxxxxxxxxx.xxxxxxxx..xxxx.xxxxxx
+
+O15067|PF02769|444-602         GTITGDRRIVLV--d..
+#=GR O15067|PF02769|444-602 PP ******998775..7..
+O15067|PF02769|861-985         GHTGE---------ag.
+#=GR O15067|PF02769|861-985 PP 99876.........67.
+P22102|PF02769|607-776         GSVVARAEGS----prv
+#=GR P22102|PF02769|607-776 PP *****98776....567
+P49903|PF02769|193-366         GIVEKGNRT-----ari
+#=GR P49903|PF02769|193-366 PP *****9986.....578
+Q99611|PF02769|244-416         GIVEKGNRT-----ari
+#=GR Q99611|PF02769|244-416 PP *****9986.....578
+#=GC PP_cons                   ***999987775.....
+#=GC RF                        xxxxxxxxxxxxxx...
+//

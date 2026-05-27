@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q8NF91|PF25034|515-702           ..LLVLAESKLKSWIIKYGRRESVEQLLQNYVSFIENSKFFEQYEVTYQILKQTAEMYVKADG......SVEEAENVMKFMNETTAQWRNLSVEVRSVRSMLEEVISNWDRYGNTVASLQAWLEDAEKMLNQSEN.........AKKDFFRNLPHWIQQHTAMNDAGNFLIETCDEMVSRDLKQQLLLLNGRWRELFMEV
+#=GR Q8NF91|PF25034|515-702   PP ..6899*********************************************************......******************************************************************.........********************************************************
+Q8WXH0|PF25034|495-666           vd---EVKSKLDIWNIKYGSRESVELLLEDWHKFIEEKEFLARLDTSFQKCG---EIYK---N......LAGECQNINKQYMMVKSDVCMYRKNIYNVKSTLQKVLACWATYVENLRLLRACFEETK-----KEE.........IKEVPFETLAQWNLEHATLNEAGNFLVEVSNDVVGSSISKELRRLNKRWRKLVSKT
+#=GR Q8WXH0|PF25034|495-666   PP 86...689**************************************999887...6674...3......57899**************************************************964.....688.........99999************************************************987
+Q8WXH0|PF25034|5845-6008         hn----------------------------------EKELIKELEQSLASWTQNLKELQTMKAdltrhvLVEDVMVLKEQIEHLHRQWEDLCLRVAIRKQEIEDRLNTWVVFNEKNKELCAWLVQMENKVLQTADisieemiekLQKDCMEEINLFSENKLQLKQMGDQLIKASNKSRAAEIDDKLNKINDRWQHLF---
+#=GR Q8WXH0|PF25034|5845-6008 PP 96..................................678999999999998888888865444111111457888999**********************************************9998876655422211111134567889999****************************************98...
+#=GC PP_cons                     ..689899****************************999******999999899988878776......778999*************************************************98899988788.........78889999********************************************9*99
+#=GC RF                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8NF91|PF25034|515-702           KQYAQ.
+#=GR Q8NF91|PF25034|515-702   PP ***85.
+Q8WXH0|PF25034|495-666           Q----.
+#=GR Q8WXH0|PF25034|495-666   PP 5.....
+Q8WXH0|PF25034|5845-6008         -----d
+#=GR Q8WXH0|PF25034|5845-6008 PP .....5
+#=GC PP_cons                     7**85.
+#=GC RF                          xxxxx.
+//

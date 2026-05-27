@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q13428|PF03546|250-334         pq-----VKGGALPPAKRAKKPEEESESSE-EGSESEEEAPAG-TRSQVKASEKILQVRAASAPAKGTPGKGATPAPPGKAGAVASQTKAGK--------------------------------------------------------------------------------------.-.----------..-------
+#=GR Q13428|PF03546|250-334 PP 76.....68899999999*********865.5*********86.789********************************************8............................................................................................................
+Q13428|PF03546|423-904         ..------------------------------------------APAQAKPSGKAPQVRAASAPAKESPRKGAAPAPPRKTGPAAAQVQVGKQEEDSRSSSEESDSDREALAA----MNAAQVKPLGKSPQVKPASTMGMGPLGKGAGPVPPGKVGPATPSAQVGKWEEDSESSSEESsDsSDGEVPTAVApaQEKSLGN
+#=GR Q13428|PF03546|423-904 PP ............................................689***************************************************************996....589*******************************************************77536468999999999999*****
+#=GC PP_cons                   .......68899999999*********865.5*********86.689********************************************9******************996....589*******************************************************775.6.6899999999..99*****
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxx..xxxxxxx
+
+Q13428|PF03546|250-334         -----------------------------------------------..----------------------------------------------------------------------------------------.--------------------------------------------------------------
+#=GR Q13428|PF03546|250-334 PP ........................................................................................................................................................................................................
+Q13428|PF03546|423-904         ILQAKPTSSPAKG----PPQKAGPVAVQVKAEKPMDNSESSEESSDSadSEEAPAAMTAAQAKPALKIPQTKACPKKT--NTTASAKVAPVRVGTQAPRKAGTATSPA-GSSPAVAGGTQRPAEDSSSSEESDSEEEkTGLAVTVGQAKSVGKGLQVKAASVPVKGSLGQGTAPVLPGKTGPTVTQVKAEKQEDSESSEE
+#=GR Q13428|PF03546|423-904 PP *************....*****************************94448*************************96..589***********************88.599**********************9983456889********************************************************
+#=GC PP_cons                   *************....*****************************9..48*************************96..589***********************88.599**********************998.456889********************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13428|PF03546|250-334         -----------------------------------------------------------------------------------------------------------------------..---------------------
+#=GR Q13428|PF03546|250-334 PP ..............................................................................................................................................
+Q13428|PF03546|423-904         ESDSEEAAASPAQVKTSVKKTQAKANPAAARAPSAKGTISAPGKVVTAAAQAKQRSPSKVKPPVRNPQNSTVLARGPASVPSVGKAVATAAQAQTGP-----EEDSGSSEEESDSEEEAetLAQVKPSGKTHQIRAALAPAK
+#=GR Q13428|PF03546|423-904 PP ************************************************************************************************9.....99*************98778*******************9
+#=GC PP_cons                   ************************************************************************************************9.....99*************98..8*******************9
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx
+//

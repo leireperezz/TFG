@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P31350|PF00268|79-346         RFVIFPIEYHDIWQMYKKAEASFWTAEEVDLSKDIQHWES-LKPEERYFISHVLAFFAASDGIVNENLVERFSQEVQITEARCFYGFQIAMENIHSEMYSLLIDTYIKDPKEREFLFNAIETMPCVKKKADWALRWIGDKE---ATYGERVVAFAAVEGIFFSGSFASIFWLKKRGLMPGLTFSNELISRDEGLHCDFAC
+#=GR P31350|PF00268|79-346 PP 79************************************96.*************************************************************************************************866...46******************************************************
+Q7LG56|PF00268|41-308         RFVIFPIQYPDIWKMYKQAQASFWTAEEVDLSKDLPHWN-KLKADEKYFISHILAFFAASDGIVNENLVERFSQEVQVPEARCFYGFQILIENVHSEMYSLLIDTYIRDPKKREFLFNAIETMPYVKKKADWALRWIADRKS---TFGERVVAFAAVEGVFFSGSFAAIFWLKKRGLMPGLTFSNELISRDEGLHCDFAC
+#=GR Q7LG56|PF00268|41-308 PP 79************************************9.6*************************************************************************************************8775...6******************************************************
+#=GC PP_cons                  79************************************966*************************************************************************************************8765..46******************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P31350|PF00268|79-346         LMFKHLVHK-------PSEERVREIIINAVRIEQEFLTEALPVKLIGMNCTLMKQYIEFVADRLMLELGFSKVFRV--ENP
+#=GR P31350|PF00268|79-346 PP ******666.......************************************************************..888
+Q7LG56|PF00268|41-308         LMFQYLVNK-------PSEERVREIIVDAVKIEQEFLTEALPVGLIGMNCILMKQYIEFVADRLLVELGFSKVFQA--ENP
+#=GR Q7LG56|PF00268|41-308 PP ******666.......***********************************************************9..888
+#=GC PP_cons                  ******666.......***********************************************************9..888
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

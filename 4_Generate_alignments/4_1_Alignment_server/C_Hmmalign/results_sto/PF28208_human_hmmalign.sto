@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+Q5JSL3|PF28208|853-1074         ..LKCLHAMEIQVMIQFLPVILMQLFRVLTNM.TH.-EDDVPINCTMVLLHIVSKCHEEG-L-DSYLRSFIKYSFRPEKPSapqA...QLIHETLATTMIAIL--KQSADFLSI--NKLLKYSWFFFEIIAKSMATYLLE.EnKIK---------LPRGQRFPETYHHVLHSLLLAIIPHVTIRYA-.-EIPDESRNVNY
+#=GR Q5JSL3|PF28208|853-1074 PP ..8***************************97.65..36667777777777777767776.4.47**********9765331114...69***********99..9******88..69*********************9.61554.........466789999*******************986...78999******
+Q8NF50|PF28208|954-1101         pa------------------------------.--.--------------------------------------------S...K...KHFHEELALQMVVS------TGMV---RETVFKYAWFFFELLVKSMAQHVHN.M.DK---R-----DSFRRTRFSDRFMDDITTIVNVVTSEIAALLVKpQKENEQAEKMNI
+#=GR Q8NF50|PF28208|954-1101 PP 75..............................................................................6...7...88999999888864......4433...4689*******************87.6.52...2.....2345689999*****************9865542667788******
+Q96BY6|PF28208|888-1103         .n--LLNVEKIHAIMSFLPIILNQLFKVLVQN.EEdEITTTVTRVLTDIVAKCHEEQLD-----HSVQSYIKFVFKTRACK...E...RTVHEELAKNVTGLL---KSNDSTTVK--HVLKHSWFFFAIILKSMAQHLID.T.N-KIQ-------LPRPQRFPESYQNELDNLVMVLSDHVIWKYK-.-DALEETRRANH
+#=GR Q96BY6|PF28208|888-1103 PP .5..6888999*******************98.65279999999999999999865544.....689**************...*...************988...99**99885..9**********************.8.5.443.......57899************************98...57899******
+Q96HP0|PF28208|906-1049         kl------------------------------.--.---------------------------------------------...-...--LHEELALQWVVS-----SSA---V-REAILQHAWFFFQLMVKSMALHLLL.G.Q-RL-------DTPRKLRFPGRFLDDITALVGSVGLEVITRV--.HKDVELAEHLNA
+#=GR Q96HP0|PF28208|906-1049 PP 86........................................................................................688888777753.....222...3.3579*******************98.8.5.44.......356778999********************96...589999******
+Q96N67|PF28208|981-1126         tk------------------------------.--.---------------------------------------------...-...KLFHEELALQWVVCS-----GS---V-RESALQQAWFFFELMVKSMVHHLYF.N.D-KL-------EAPRKSRFPERFMDDIAALVSTIASDIVSRFQ-.-KDTEMVERLNT
+#=GR Q96N67|PF28208|981-1126 PP 75......................................................................................566778877777532.....22...3.3578*******************87.6.5.44.......3578899***********************87...5677799****
+Q9BZ29|PF28208|853-1073         ..LKSLHAMEGHVMIAFLPTILNQLFRVLTRAtQE.EVAVNVTRVIIHVVAQCH---EEG-L-ESHLRSYVKYAYKAEPYV...AseyKTVHEELTKSMTTIL--KPSADFL--TSNKLLKYSWFFFDVLIKSMAQHLIEnS.KVKL---------LRNQRFPASYHHAVETVVNMLMPHITQKFRD.NP--EASKNANH
+#=GR Q9BZ29|PF28208|853-1073 PP ..8***************************96245.666666666666666665...554.3.3589*********99754...32237************99..9******..668**********************944.6555.........46789***********************997.65..55******
+#=GC PP_cons                    ..8*9999**********************97.55.667777788887777777666555.3.3689*********98766...6...788999999998867..9*866888554689*******************98.6.544432.....35677899********************99876.667888******
+#=GC RF                         ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...x...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx
+
+Q5JSL3|PF28208|853-1074         SLASFLKRCLTLMDRGFIFNLINDYISGFS--..-PKDPKVLAEYKFEFLQTIC
+#=GR Q5JSL3|PF28208|853-1074 PP *****************************7.....89999**************
+Q8NF50|PF28208|954-1101         SLAFFLYDLLSLMDRGFVFNLIRHYCSQLSAK..-LSNLPTLISMRLEFLRILC
+#=GR Q8NF50|PF28208|954-1101 PP ****************************9865...67889*************9
+Q96BY6|PF28208|888-1103         SVARFLKRCFTFMDRGYVFKMVNNYISMFSSG..---DLKTLCQYKFDFLQEVC
+#=GR Q96BY6|PF28208|888-1103 PP *****************************976.....678**************
+Q96HP0|PF28208|906-1049         SLAFFLSDLLSLVDRGFVFSLVRAHYKQVATRlqSSPNPAALLTLRMEFTRILC
+#=GR Q96HP0|PF28208|906-1049 PP ***************************99887995567999************9
+Q96N67|PF28208|981-1126         SLAFFLNDLLSVMDRGFVFSLIKSCYKQVSSKlySLPNPSVLVSLRLDFLRIIC
+#=GR Q96N67|PF28208|981-1126 PP *************************999998899777899**************
+Q9BZ29|PF28208|853-1073         SLAVFIKRCFTFMDRGFVFKQINNYISCFAP-..--GDPKTLFEYKFEFLRVVC
+#=GR Q9BZ29|PF28208|853-1073 PP *****************************85.....5677**************
+#=GC PP_cons                    *****************************877..677789**************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx
+//

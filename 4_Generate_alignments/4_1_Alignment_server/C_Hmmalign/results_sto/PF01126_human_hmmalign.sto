@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P09601|PF01126|12-216         -DLSEALKEATKEVHTQAENAEFMRNFQKGQVTRDGFKLVMASLYHIYVALEEEIERNKESPVFAPVYFPeELHRKAALEQDLAFWYGPRWQEVIPYTPAMQRYVKRLHEVGRTEPELLVAHAYTRYLGDLSGGQVLKKIAQKALDLPSSgEGLAFFTFPNIASATKFKQLYRSRMNSLEMTPAVRQRVIEEAKTAFLLN
+#=GR P09601|PF01126|12-216 PP .589****************************************************************************************************************************************************************************************************
+P30519|PF01126|32-236         -DLSELLKEGTKEAHDRAENTQFVKDFLKGNIKKELFKLATTALYFTYSALEEEMERNKDHPAFAPLYFPmELHRKEALTKDMEYFFGENWEEQVQCPKAAQKYVERIHYIGQNEPELLVAHAYTRYMGDLSGGQVLKKVAQRALKLPSTgEGTQFYLFENVDNAQQFKQLYRARMNALDLNMKTKERIVEEANKAFEYN
+#=GR P30519|PF01126|32-236 PP .589****************************************************************************************************************************************************************************************************
+#=GC PP_cons                  .589******************************************************************.*******************************************************************************.*************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P09601|PF01126|12-216         IQLFEE
+#=GR P09601|PF01126|12-216 PP ****96
+P30519|PF01126|32-236         MQIFNE
+#=GR P30519|PF01126|32-236 PP ****86
+#=GC PP_cons                  ****86
+#=GC RF                       xxxxxx
+//

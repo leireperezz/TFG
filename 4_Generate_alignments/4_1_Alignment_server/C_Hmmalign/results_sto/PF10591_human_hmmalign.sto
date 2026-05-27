@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+P09486|PF10591|153-289         ....p--PCLDSELTEFPLRMRDWLKNVLVTLYERDEDNnlltekqklrvk.kihenekrleagDHPVELLARDFEKNYNMYIFPVHWQFGQLDQHpIDGYLSHTELAPLRAPLIPM...EHCTTRFFETCDLDNDKYIALDEWAGC
+#=GR P09486|PF10591|153-289 PP ....7..6*******************************************.*****************************************************************...************************998
+Q08629|PF10591|196-304         ....s--ACTDKELRNLASRLKDWFGALHEDANRVIKPT.........................-SSNTAQGRFDTSILPICKDSLGWMFNKLDMN.YDLLLDPSEINAIYL--DKY...EPCIKPLFNSCDSFKDGKLSNNEWCYC
+#=GR Q08629|PF10591|196-304 PP ....6..7*************************999999..........................99999**************************.**************9..***...**************************9
+Q14515|PF10591|513-650         ....p--TCTDFEVIQFPLRMRDWLKNILMQLYEANSEHagylnekqrnkvkkiyldekrllagDHPIDLLLRDFKKNYHMYVYPVHWQFSELDQHpMDRVLTHSELAPLRASLVPM...EHCITRFFEECDPNKDKHITLKEWGHC
+#=GR Q14515|PF10591|513-650 PP ....6..7*************************************************************************************************************...**************************9
+Q92563|PF10591|197-305         ....e--TCTGQDLADLGDRLRDWFQLLHENSKQNGSAS.........................-SVAGPASGLDKSLGASCKDSIGWMFSKLDTS.ADLFLDQTELAAINL--DKY...EVCIRPFFNSCDTYKDGRVSTAEWCFC
+#=GR Q92563|PF10591|197-305 PP ....6..7**************************99999..........................89999999***********************.**************9..***...*************************99
+Q9BQ16|PF10591|199-308         ....r--ACSDLEFREVANRLRDWFKALHESGSQNKKTK.........................TLLRPERSRFDTSILPICKDSLGWMFNRLDTN.YDLLLDQSELRSIYL--DKN...EQCTKAFFNSCDTYKDSLISNNEWCYC
+#=GR Q9BQ16|PF10591|199-308 PP ....6..7*******************************.........................********************************.**************9..***...**************************9
+Q9H3U7|PF10591|344-412         shtle----------------------------------.........................------------------ERVVHWYFKLLDKN.SSGDIGKKEIKPFKRFLRKKskpKKCVKKFVEYCDVNNDKSISVQELMGC
+#=GR Q9H3U7|PF10591|344-412 PP 98776.............................................................................5689**********.**************99976522278*********************9988
+Q9H4F8|PF10591|359-424         ..lee----------------------------------.........................-------------------RVVHWYFSQLDSN.SSNDINKREMKPFKRYVKKKakpKKCARRFTDYCDLNKDKVISLPELKGC
+#=GR Q9H4F8|PF10591|359-424 PP ..986..............................................................................689**********.*************998865422279*******************998766
+#=GC PP_cons                   .......7*****************************99.........................*99***************999***********.**************999998...9***********************999
+#=GC RF                        .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

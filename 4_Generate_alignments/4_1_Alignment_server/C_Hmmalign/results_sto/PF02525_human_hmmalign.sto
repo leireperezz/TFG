@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P15559|PF02525|5-210         r--ALIVLAHSER-TSFNYAMKEAAAAALKKKG-WEVVESDLYAMnFNPIISRKDITgklkdpanfqypaeSvLAYKEGhLSPDIVAEQ-KKLEAADLVIFQFPLQWFGVPAILKGWFERVFIGEFAYTYAAMY.--DKGPFRSKKAVLSITTGGSGSMYSLQGIHG-DMNVILWPiQSGILHFCGFQVLEPQLTYSIGh
+#=GR P15559|PF02525|5-210 PP 6..69******99.6******************.**********************************98538999999*66*******.**************************************887665...6799************************98.********999***************999764
+P16083|PF02525|4-212         .KKVLIVYAHQEP-KSFNGSLKNVAVDELSRQG-CTVTVSDLYAMnLEPRATDKDITgtlsnpevfnygveThEAYKQRsLASDITDEQ-KKVREADLVIFQFPLYWFSVPAILKGWMDRVLCQGFAF--DIPGfY-DSGLLQGKLALLSVTTGGTAEMYTKTGVNG-DSRYFLWPlQHGTLHFCGFKVLAPQISFA--.
+#=GR P16083|PF02525|4-212 PP .79**********.7******************.9**********99*********************99636888888866*******.**************************************..666744.778888***********************9.8888888989**************99876...
+#=GC PP_cons                 .798********9.6******************.9**********.9**********..............3.899999.66*******.**************************************886666.4.678999**********************99.99999999.9***************998876.
+#=GC RF                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..............x.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.
+
+P15559|PF02525|5-210         TPA--DA-------------riqilegwkk
+#=GR P15559|PF02525|5-210 PP 333..33.............3446667788
+P16083|PF02525|4-212         PEIASEEERKGMVAAWSQRL..........
+#=GR P16083|PF02525|4-212 PP 44444888999999999976..........
+#=GC PP_cons                 44444558999999999976..........
+#=GC RF                      xxxxxxxxxxxxxxxxxxxx..........
+//

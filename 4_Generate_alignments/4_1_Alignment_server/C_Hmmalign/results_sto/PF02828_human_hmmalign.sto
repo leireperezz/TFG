@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+O14910|PF02828|29-82           ..VARAIELLEKLQESGEVPvHKLQSLKKVLQSEFCTAIREVYQYMHETITVNGCP..
+#=GR O14910|PF02828|29-82   PP ..78**********************************************999987..
+O14936|PF02828|347-395         ..VSQVLDSLEEIHALTDCSeKDLDFLHSVFQDQHLHTLLDLYDKINTKS------s.
+#=GR O14936|PF02828|347-395 PP ..689*****************************************9986......7.
+O14936|PF02828|406-455         ..VQRAKEVLEEISCYPENN.-DAKELKRILTQPHFMALLQTHDVVAHEVYSD---e.
+#=GR O14936|PF02828|406-455 PP ..89****************..*****************************75...7.
+Q13368|PF02828|12-63           .e--TLALLTSQLRPDSNHK.EEMGFLRDVFSEKSLSYLMKIHEKLRYYERQSPTP..
+#=GR Q13368|PF02828|12-63   PP .6..57789***********.*********************************98..
+Q13368|PF02828|69-120          ..VALAEDVMEELQAASVHS.-DERELLQLLSTPHLRAVLMVHDTVAQKNFDPVLP..
+#=GR Q13368|PF02828|69-120  PP ..789***************..********************************98..
+Q14168|PF02828|12-51           ..MQQVLDNLGSLPSATGAAeLDLIFLRGIMESPIVRSLAKV--------------..
+#=GR Q14168|PF02828|12-51   PP ..69***********************************997................
+Q14168|PF02828|93-144          ..-ELVQEILRDLAHVAEQS.STAAELAHILQEPHFQSLLETHDSVASKTYETPPP..
+#=GR Q14168|PF02828|93-144  PP ...79***************.*********************************98..
+Q5T2T1|PF02828|16-67           ..-ELLAALPAQLQPHVDSQ.EDLTFLWDMFGEKSLHSLVKIHEKLHYYEKQSPVP..
+#=GR Q5T2T1|PF02828|16-67   PP ...689999***********.*********************************98..
+Q5T2T1|PF02828|74-124          .a--LADDLAEELQNKPLNS.-EIRELLKLLSKPNVKALLSVHDTVAQKNYDPVLP..
+#=GR Q5T2T1|PF02828|74-124  PP .6..899*************..********************************98..
+Q8N3R9|PF02828|199-231         pv----------------HH.KEGQELTALLNTPHIQALLLAHDKVAEQ-------e.
+#=GR Q8N3R9|PF02828|199-231 PP 65................66.799***********************97.......5.
+Q96JB8|PF02828|90-138          ..--LSYEVVELLRETPTSP.-EIQELRQMLQAPHFKALLSAHDTIAQKDFEP---ll
+#=GR Q96JB8|PF02828|90-138  PP ....688*************..*****************************97...89
+Q9HAP6|PF02828|14-66           ..VSRAVELLERLQRSGELPpQKLQALQRVLQSRFCSAIREVYEQLYDTLDITGS-..
+#=GR Q9HAP6|PF02828|14-66   PP ..789********************************************998875...
+Q9NUP9|PF02828|15-67           ..-CRAIELLEKLQRSGEVPpQKLQALQRVLQSEFCNAVREVYEHVYETVDISSSP..
+#=GR Q9NUP9|PF02828|15-67   PP ...69************************************************998..
+Q9NZW5|PF02828|1-53            ..MQQVLENLTELPSSTGAEeIDLIFLKGIMENPIVKSLAKAHERLEDSKLEAVS-..
+#=GR Q9NZW5|PF02828|1-53    PP ..699******************************************99998875...
+Q9NZW5|PF02828|58-108          ..-ELVNEILEDITPLINVD.ENVAELVGILKEPHFQSLLEAHDIVASKCYDSPP-..
+#=GR Q9NZW5|PF02828|58-108  PP ...79***************.********************************96...
+#=GC PP_cons                   ..78999*************.****************************9*99988..
+#=GC RF                        ..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q05084|PF04629|261-444         ...PYEFTTLKSLQDPMKKLVEKEEKkkinQQESTDAAVQEPSQLISLEEENQRKESSSFKTED....GKSILSALDKGSTHTACsgpidelldmkseegACLGPVAGTPEPEGADKDDLLLLSEIFNASSLEEGEFSKEWAAVFGDGQVKEPVPTMALGEPDPKAQTGSGFLPSQLLDQNMKDLQASLQ----------
+#=GR Q05084|PF04629|261-444 PP ...8*******************99988888888888999999*********************....*9999****9999999999988888887777755566677*******************************************************************************985..........
+Q05084|PF04629|445-483         pak-----------------------....----------------------------------....-----------------...............----------------------------------------------------------------------------------------------------
+#=GR Q05084|PF04629|445-483 PP 753.....................................................................................................................................................................................................
+Q8NDH6|PF04629|254-482         ...PYDFVALKQLQDTPSKISEDNKD....EQIGGFLTEQLN-KLV-LSDEE-ASFESEQANKDhnekHSQMREFGAPQFSNSEN...............VAKDLPVDSLEGEDFEK-EFSFLNNLLSSGSSSTSEFTQECQTAFGSPSASLTSQEPSMGSEPLA--HSSRFLPSQLFDLGFHVAGAFN-NWVSQEES--
+#=GR Q8NDH6|PF04629|254-482 PP ...8**********************....************.***.88888.6666677777767888899999**********...............*****************.***********************************************..9*********************.***99877..
+#=GC PP_cons                   ...8********************99....9999999999999****99999*88888888888....999999***********...............88888888*******************************************************************************995***99877..
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q05084|PF04629|261-444         ----------------------------.-----------------------------------e
+#=GR Q05084|PF04629|261-444 PP ................................................................7
+Q05084|PF04629|445-483         ---------------------------A.ASDLTAWFSLFADLDPLSNPDAVGKTDKEHELLNA.
+#=GR Q05084|PF04629|445-483 PP ...........................3.89********************************8.
+Q8NDH6|PF04629|254-482         --ELCLSHTDNQPVPSQSPKKLTRSPNNgNQDMSAWFNLFADLDPLSNPDAIGHSDD--ELLNA.
+#=GR Q8NDH6|PF04629|254-482 PP ..89***********************99****************************..****8.
+#=GC PP_cons                   ..89***********************6.9*********************************8.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

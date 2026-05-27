@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+A6NFA1|PF01963|41-350         ..FLWTIRRDPPA-YLFGTIHVPYTRVWdFIPDNSKAAFQASTRVYFELDL---.....TDPYTISALASCQLLP.....HGENLQDVLPHELYWRLKRHLDYVKLMMpsW----MtpaqrgkglyadylfnaiagnwerkRPvWVMLMVNSLTERDVRFRGVP--VLDLYLAQQAEKMKKTTGAVEQVEEQCHPLNNgL
+#=GR A6NFA1|PF01963|41-350 PP ..69*****9998.**************88999******************........566*************.....***********************77555221....12333444445555566666666666**************988888884..3*****************************656*
+Q86V40|PF01963|43-351         ..FLWTIKRDPPS-YFFGTIHVPYTRVWdFIPDNSKEAFLQSSIVYFELDL---.....TDPYTISALTSCQMLP.....QGENLQDVLPRDIYCRLKRHLEYVKLMMplW----MtpdqrgkglyadylfnaiagnwerkRPvWVMLMVNSLTEVDIKSRGVPV--LDLFLAQEAERLRKQTGAVEKVEEQCHPLNG.L
+#=GR Q86V40|PF01963|43-351 PP ..69*****9996.**************8899*******************........566*************.....***********************66555223....12333444445555555566666666**********************53..*****************************88.*
+Q9H4I3|PF01963|68-307         va------EDGSRVYVVGTAHFSDDSKR.DVVKTIREV--QPDVVVVELCQYRVsmlkmDESTLLREAQELSLEKlqqavRQNGLMSGLMQMLLLKVSAHITE-QLGM..------.........................AP.--GGEFREAFKEASKVPFCKFHLGDRPIPVTFKRAIAALSFWQKVRLAWGLCF-.L
+#=GR Q9H4I3|PF01963|68-307 PP 65......67889***************.********5..***********6667888844455555555444444456688999999999999999999999.9999.................................9*...*****************9999*****************************6..*
+#=GC PP_cons                  ..69****89998***************.99******8*************666.....5558888888888888.....99*********************77666..2....1.........................**.************99999996696*****************************77.*
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxx.........................xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x
+
+A6NFA1|PF01963|41-350         NFSQVLFALNQTLLQQESVRAGslqasytTEDLIKHYNCGDLSAVifnHdtSQlpnfinttlppheqVTAQEIDSYFRQELIYKRNERMGKRVMA........LLRENedKI............CFFAFGAGHFLGNNTVIDILRQAGLEV--d.
+#=GR A6NFA1|PF01963|41-350 PP *************666655333555566699**************9872441245566788999999999*************************........**6665699............************************998..6.
+Q86V40|PF01963|43-351         NFSQVIFALNQTLLQQESLRAGslqipytTEDLIKHYNCGDLSSVilsHdsSQvpnfinatlppqerITAQEIDSYLRRELIYKRNERIGKRVKA........LLEEFpdKG............FFFAFGAGHFMGNNTVLDVLRREGYEVE-..
+#=GR Q86V40|PF01963|43-351 PP *************666655444667777799**************976244124566678899988989999***********************........**7755799............**************************97...
+Q9H4I3|PF01963|68-307         SDPISKDDVE---RC--KQKDL.......LEQMMA----------...-..--..............-EMIGEFPDLHRTIVSERDVYLTYMLRQaarrlelpR----..-AsdaeprkcvpsvVVGVVGMGHVPGIE---------------kn
+#=GR Q9H4I3|PF01963|68-307 PP *********7...33..569**.......******.................................9*****************999888887445444441.......1344556677777************87...............58
+#=GC PP_cons                  *********9***556655666.......99**************...2..12..............999*******************999999........7*665..97............************99***********997...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxx...x..xx..............xxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxx..xx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

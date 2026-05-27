@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+Q9UPS8|PF12001|1523-1630         .KSQMELRIKDLESELSKIKTSQEDFNKTELEKYKQLYLEELKVRKSLSSKLTKTNERLAEVNTKLLVEKQQSR..SLFTTLTTRPVMEPPCVGNLNNSLDLNRKLIPREN-.
+#=GR Q9UPS8|PF12001|1523-1630 PP .69***********************************************************************..*********************************97..
+A2RUR9|PF12001|1245-1353         .-TQMELTIKDLESEISRIKTSQADFNKTELERYKELYLEEVKVRESLSNELSRTNEMIAEVSTQLTVEKEQTRsrSLFTAYATRPVLESPCVGNLNDSEGLNRKHIPRK--k
+#=GR A2RUR9|PF12001|1245-1353 PP ..59*******************************************************************987669********************************8..5
+Q8IVF6|PF12001|864-968           k--KKELTLKDVECKFSKMKTAYEEV-TTELEEFKEAFAGAVKANNSMSKKLMKSDKKIAVISTKLFTEKQRMK..YFLSTLPTRPEPELPCVENLN-SIELNRKYIPKT--a
+#=GR Q8IVF6|PF12001|864-968   PP 5..89*********************.***********************************************..*********************.**********96..7
+A2A2Z9|PF12001|873-977           k--KKELTLKDVECKFSKMKTAYEDV-TTELEEYKEAFAVALKANSSMSEKITKSDKKIAVISTKLFMEKERME..YFLSTLPMRPDPELPCVENLN-SIELNRKYIPKM--a
+#=GR A2A2Z9|PF12001|873-977   PP 5..89*********************.***********************************************..*********************.**********96..7
+Q8IYA2|PF12001|1055-1163         .-TQMELTVIDLESEISRIKTSQADFNKTKLERYKELYLEEVKVRESLSNELSRTNEMIAEVSTQLTVEKEQTRsrSLFTAYATRPVLESPCVGNLNDSEGLNRKHIPRK--k
+#=GR Q8IYA2|PF12001|1055-1163 PP ..59*******************************************************************987669********************************8..5
+#=GC PP_cons                     .669********************************************************************99..********************************977..
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

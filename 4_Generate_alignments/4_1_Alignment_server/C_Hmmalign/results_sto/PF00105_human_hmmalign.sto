@@ -1,0 +1,97 @@
+# STOCKHOLM 1.0
+
+O00482|PF00105|85-152          .-LCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNNKR..Y.TCIE.NQ.N..CQIDKTQRKRCPYCRFQKCLSVGMK-.
+#=GR O00482|PF00105|85-152  PP ..5**********************************..*.****.**.*..************************6..
+O75469|PF00105|40-109          .-ICRVCGDKATGYHFNVMTCEGCKGFFRRAMKRNAR..L.RCPF.RKgA..CEITRKTRRQCQACRLRKCLESGMKK.
+#=GR O75469|PF00105|40-109  PP ..5**********************************..*.**97.6527..************************97.
+O95718|PF00105|102-170         .-LCLVCGDIASGYHYGVASCEACKAFFKRTIQGNIE..Y.SCPA.TN.E..CEITKRRRKSCQACRFMKCLKVGMLK.
+#=GR O95718|PF00105|102-170 PP ..5**********************************..*.****.**.*..************************75.
+P03372|PF00105|184-252         y--CAVCNDYASGYHYGVWSCEGCKAFFKRSIQGHND..Y.MCPA.TN.Q..CTIDKNRRKSCQACRLRKCYEVGMMK.
+#=GR P03372|PF00105|184-252 PP 5..**********************************..*.****.**.*..************************86.
+P04150|PF00105|420-487         .-LCLVCSDEASGCHYGVLTCGSCKVFFKRAVEGQHN..Y.LCAG.RN.D..CIIDKIRRKNCPACRYRKCLQAGMN-.
+#=GR P04150|PF00105|420-487 PP ..5**********************************..*.****.**.*..************************6..
+P06401|PF00105|566-633         .-ICLICGDEASGCHYGVLTCGSCKVFFKRAMEGQHN..Y.LCAG.RN.D..CIVDKIRRKNCPACRLRKCCQAGM--v
+#=GR P06401|PF00105|566-633 PP ..5**********************************..*.****.**.*..************************..6
+P08235|PF00105|602-669         .-ICLVCGDEASGCHYGVVTCGSCKVFFKRAVEGQHN..Y.LCAG.RN.D..CIIDKIRRKNCPACRLQKCLQAGMN-.
+#=GR P08235|PF00105|602-669 PP ..5**********************************..*.****.**.*..************************6..
+P10275|PF00105|558-626         .KTCLICGDEASGCHYGALTCGSCKVFFKRAAEGKQK..Y.LCAS.RN.D..CTIDKFRRKNCPSCRLRKCYEAGMT-.
+#=GR P10275|PF00105|558-626 PP .58**********************************..*.****.**.*..************************5..
+P10276|PF00105|87-155          p--CFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMV..Y.TCHR.DK.N..CIINKVTRNRCQYCRLQKCFEVGMSK.
+#=GR P10276|PF00105|87-155  PP 5..**********************************..*.****.**.*..************************97.
+P10588|PF00105|55-123          d--CVVCGDKSSGKHYGVFTCEGCKSFFKRSIRRNLS..Y.TCRS.NR.D..CQIDQHHRNQCQYCRLKKCFRVGMRK.
+#=GR P10588|PF00105|55-123  PP 6..**********************************..*.****.**.*..************************86.
+P10589|PF00105|85-153          e--CVVCGDKSSGKHYGQFTCEGCKSFFKRSVRRNLT..Y.TCRA.NR.N..CPIDQHHRNQCQYCRLKKCLKVGMRR.
+#=GR P10589|PF00105|85-153  PP 5..**********************************..*.****.**.*..************************86.
+P10826|PF00105|87-155          p--CFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMI..Y.TCHR.DK.N..CVINKVTRNRCQYCRLQKCFEVGMSK.
+#=GR P10826|PF00105|87-155  PP 5..**********************************..*.****.**.*..************************97.
+P10827|PF00105|52-121          .-QCVVCGDKATGYHYRCITCEGCKGFFRRTIQKNLHptY.SCKY.DS.C..CVIDKITRNQCQLCRFKKCIAVGM--a
+#=GR P10827|PF00105|52-121  PP ..5********************************9989*.****.**.*..************************..5
+P10828|PF00105|106-175         .-LCVVCGDKATGYHYRCITCEGCKGFFRRTIQKNLHpsY.SCKY.EG.K..CVIDKVTRNQCQECRFKKCIYVGM--a
+#=GR P10828|PF00105|106-175 PP ..5********************************9989*.****.**.*..************************..5
+P11473|PF00105|23-91           .-ICGVCGDRATGFHFNAMTCEGCKGFFRRSMKRKAL..F.TCPF.NG.D..CRITKDNRRHCQACRLKRCVDIGMMK.
+#=GR P11473|PF00105|23-91   PP ..5**********************************..*.****.**.*..************************86.
+P11474|PF00105|78-146          .-LCLVCGDVASGYHYGVASCEACKAFFKRTIQGSIE..Y.SCPA.SN.E..CEITKRRRKACQACRFTKCLRVGMLK.
+#=GR P11474|PF00105|78-146  PP ..5**********************************..*.****.**.*..************************75.
+P13056|PF00105|112-180         .-LCVVCGDKASGRHYGAVTCEGCKGFFKRSIRKNLV..Y.SCRG.SK.D..CIINKHHRNRCQYCRLQRCIAFGMKQ.
+#=GR P13056|PF00105|112-180 PP ..5**********************************..*.****.**.*..************************85.
+P13631|PF00105|89-157          p--CFVCNDKSSGYHYGVSSCEGCKGFFRRSIQKNMV..Y.TCHR.DK.N..CIINKVTRNRCQYCRLQKCFEVGMSK.
+#=GR P13631|PF00105|89-157  PP 5..**********************************..*.****.**.*..************************97.
+P19793|PF00105|134-202         .-ICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLT..Y.TCRD.NK.D..CLIDKRQRNRCQYCRYQKCLAMGMKR.
+#=GR P19793|PF00105|134-202 PP ..5**********************************..*.****.**.*..************************86.
+P20393|PF00105|131-200         .-LCKVCGDVASGFHYGVHACEGCKGFFRRSIQQNIQ.yK.RCLK.NE.N..CSIVRINRNRCQQCRFKKCLSVGMSR.
+#=GR P20393|PF00105|131-200 PP ..6**********************************.56.8***.**.*..************************86.
+P22736|PF00105|266-334         r--CAVCGDNASCQHYGVRTCEGCKGFFKRTVQKNAK..Y.ICLA.NK.D..CPVDKRRRNRCQFCRFQKCLAVGMVK.
+#=GR P22736|PF00105|266-334 PP 5..**********************************..*.****.**.*..************************86.
+P24468|PF00105|78-146          e--CVVCGDKSSGKHYGQFTCEGCKSFFKRSVRRNLS..Y.TCRA.NR.N..CPIDQHHRNQCQYCRLKKCLKVGMRR.
+#=GR P24468|PF00105|78-146  PP 5..**********************************..*.****.**.*..************************86.
+P28702|PF00105|204-272         .-LCAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLT..Y.SCRD.NK.D..CTVDKRQRNRCQYCRYQKCLATGMKR.
+#=GR P28702|PF00105|204-272 PP ..6**********************************..*.****.**.*..************************86.
+P35398|PF00105|72-140          p--CKICGDKSSGIHYGVITCEGCKGFFRRSQQSNAT..Y.SCPR.QK.N..CLIDRTSRNRCQHCRLQKCLAVGMSR.
+#=GR P35398|PF00105|72-140  PP 5..**********************************..*.****.**.*..************************86.
+P37231|PF00105|138-204         e--CRVCGDKASGFHYGVHACEGCKGFFRRTIRLKLI.yD.RCDL.N-.-..CRIHKKSRNKCQYCRFQKCLAVGMS-.
+#=GR P37231|PF00105|138-204 PP 5..******************************9998.35.7876.5.....************************6..
+P41235|PF00105|59-127          .-LCAICGDRATGKHYGASSCDGCKGFFRRSVRKNHM..Y.SCRF.SR.Q..CVVDKDKRNQCRYCRLKKCFRAGMKK.
+#=GR P41235|PF00105|59-127  PP ..6**********************************..*.****.**.*..************************97.
+P43354|PF00105|262-330         .-LCAVCGDNAACQHYGVRTCEGCKGFFKRTVQKNAK..Y.VCLA.NK.N..CPVDKRRRNRCQYCRFQKCLAVGMVK.
+#=GR P43354|PF00105|262-330 PP ..6**********************************..*.****.**.*..************************86.
+P48443|PF00105|138-206         .-ICAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLI..Y.TCRD.NK.D..CLIDKRQRNRCQYCRYQKCLVMGMKR.
+#=GR P48443|PF00105|138-206 PP ..5**********************************..*.****.**.*..************************86.
+P49116|PF00105|116-183         y--CVVCGDKASGRHYGAVSCEGCKGFFKRSVRKNLT..Y.SCRS.NQ.D..CIINKHHRNRCQFCRLKKCLEMGMK-.
+#=GR P49116|PF00105|116-183 PP 5..**********************************..*.****.**.*..************************6..
+P51449|PF00105|30-98           p--CKICGDKSSGIHYGVITCEGCKGFFRRSQRCNAA..Y.SCTR.QQ.N..CPIDRTSRNRCQHCRLQKCLALGMSR.
+#=GR P51449|PF00105|30-98   PP 5..**********************************..*.****.**.*..************************86.
+P55055|PF00105|86-155          .-LCRVCGDKASGFHYNVLSCEGCKGFFRRSVVRGGArrY.ACRG.GG.T..CQMDAFMRRKCQQCRLRKCKEAGMR-.
+#=GR P55055|PF00105|86-155  PP ..6****************************98754335*.****.**.*..************************6..
+P62508|PF00105|127-195         .-LCLVCGDIASGYHYGVASCEACKAFFKRTIQGNIE..Y.SCPA.TN.E..CEITKRRRKSCQACRFMKCLKVGMLK.
+#=GR P62508|PF00105|127-195 PP ..5**********************************..*.****.**.*..************************75.
+Q03181|PF00105|73-139          e--CRVCGDKASGFHYGVHACEGCKGFFRRTIRMKLE..YeKCE-.-R.S..CKIQKKNRNKCQYCRFQKCLALGMS-.
+#=GR Q03181|PF00105|73-139  PP 5..*********************************9..61576...5.6..************************6..
+Q07869|PF00105|101-167         e--CRICGDKASGYHYGVHACEGCKGFFRRTIRLKLV.yD.KCD-.-R.S..CKIQKKNRNKCQYCRFHKCLSVGMS-.
+#=GR Q07869|PF00105|101-167 PP 5..*******************************999.34.676...5.6..************************6..
+Q13133|PF00105|97-164          .-LCSVCGDKASGFHYNVLSCEGCKGFFRRSVIKGAH..Y.ICHS.GG.H..CPMDTYMRRKCQECRLRKCRQAGMR-.
+#=GR Q13133|PF00105|97-164  PP ..5**********************************..*.****.**.*..************************6..
+Q13285|PF00105|12-79           .-LCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNNKH..Y.TCTE.SQ.S..CKIDKTQRKRCPFCRFQKCLTVGMR-.
+#=GR Q13285|PF00105|12-79   PP ..5**********************************..*.****.**.*..************************6..
+Q14541|PF00105|11-79           .-LCAICGDRATGKHYGASSCDGCKGFFRRSIRKSHV..Y.SCRF.SR.Q..CVVDKDKRNQCRYCRLRKCFRAGMKK.
+#=GR Q14541|PF00105|11-79   PP ..6**********************************..*.****.**.*..************************97.
+Q14994|PF00105|10-78           n--CVVCGDQATGYHFNALTCEGCKGFFRRTVSKSIG..P.TCPF.AG.S..CEVSKTQRRHCPACRLQKCLDAGMRK.
+#=GR Q14994|PF00105|10-78   PP 5..**********************************..*.****.**.*..************************86.
+Q14995|PF00105|102-171         .-LCKVCGDVASGFHYGVHACEGCKGFFRRSIQQNIQ.yK.KCLK.NE.N..CSIMRMNRNRCQQCRFKKCLSVGMSR.
+#=GR Q14995|PF00105|102-171 PP ..6**********************************.66.8***.**.*..************************86.
+Q15406|PF00105|59-127          .-TCLICGDRATGLHYGIISCEGCKGFFKRSICNKRV..Y.RCSR.DK.N..CVMSRKQRNRCQYCRLLKCLQMGMNR.
+#=GR Q15406|PF00105|59-127  PP ..6**********************************..*.****.**.*..************************86.
+Q92570|PF00105|291-359         .-TCAVCGDNAACQHYGVRTCEGCKGFFKRTVQKNAK..Y.VCLA.NK.N..CPVDKRRRNRCQYCRFQKCLSVGMVK.
+#=GR Q92570|PF00105|291-359 PP ..6**********************************..*.****.**.*..************************86.
+Q92731|PF00105|148-216         f--CAVCSDYASGYHYGVWSCEGCKAFFKRSIQGHND..Y.ICPA.TN.Q..CTIDKNRRKSCQACRLRKCYEVGMVK.
+#=GR Q92731|PF00105|148-216 PP 5..**********************************..*.****.**.*..************************86.
+Q92753|PF00105|20-88           p--CKICGDKSSGIHYGVITCEGCKGFFRRSQQNNAS..Y.SCPR.QR.N..CLIDRTNRNRCQHCRLQKCLALGMSR.
+#=GR Q92753|PF00105|20-88   PP 5..**********************************..*.****.**.*..************************86.
+Q96RI1|PF00105|136-202         .-LCVVCGDRASGYHYNALTCEGCKGFFRRSITKNAV..Y.KCKN.GG.N..CVMDMYMRRKCQECRLRKCKEMGM--.
+#=GR Q96RI1|PF00105|136-202 PP ..6**********************************..*.****.**.*..***********************9...
+Q9Y466|PF00105|15-85           p--CKVCGDRSSGKHYGVYACDGCSGFFKRSIRRNRT..Y.VCKS.GN.QggCPVDKTHRNQCRACRLKKCLEVNMNK.
+#=GR Q9Y466|PF00105|15-85   PP 5..**********************************..*.***8.77.666************************86.
+Q9Y5X4|PF00105|46-114          .-QCRVCGDSSSGKHYGIYACNGCSGFFKRSVRRRLI..Y.RCQVgAG.M..CPVDKAHRNQCQACRLKKCLQAGMN-.
+#=GR Q9Y5X4|PF00105|46-114  PP ..5**********************************..*.**97257.8..************************6..
+#=GC PP_cons                   .56**********************************..9.****.**.*..************************86.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.xxxx.xx.x..xxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P58004|PF04636|44-479         -PSAFIPVEEVLREGAESL-EQHLGLEALMSSGRVDNLAVVMGLHPDYFTSFWRLHYLLLHTDGPLASSWRHYIAIMAAARHQCSYLVGSHMAEFLQTGGDPEWLLGLHRAPEKLRKLSEINKLLAHRPWLITKEHIQALLKTGEHTWSLAELIQALVLLTHCHSLSSFVFGCGILPEGDADGSPAPQAPTPP-----..
+#=GR P58004|PF04636|44-479 PP .689***********9554.77799*****************************************************************************************************************************************************************9999999.......
+P58005|PF04636|40-490         -PSAFIPEKEVVQANTVDERTN-FLVEEYSTSGRLDNITQVMSLHTQYLESFLRSQFYMLRMDGPLPLPYRHYIAIMAAARHQCSYLINMHVDEFLKTGGIAEWLNGLEYVPQRLKNLNEINKLLAHRPWLITKEHIQKLVKTGENNWSLPELVHAVVLLAHYHALASFVFGSGINPERDPEISNGFRLISVNNFCVC..
+#=GR P58005|PF04636|40-490 PP .689************887766.8899999*********************************************************************************************************************************************************************999..
+Q9Y6P5|PF04636|48-491         -PSRFIPEKEILQVGSEDAQMHALFADSFAALGRLDNITLVMVFHPQYLESFLKTQHYLLQMDGPLPLHYRHYIGIMAAARHQCSYLVNLHVNDFLHVGGDPKWLNGLENAPQKLQNLGELNKVLAHRPWLITKEHIEGLLKAEEHSWSLAELVHAVVLLTHYHSLASFTFGCGISPEIHCDGGHTFRPPSVSNYCICdi
+#=GR Q9Y6P5|PF04636|48-491 PP .689*********************************************************************************************************************************************************************************************9966652
+#=GC PP_cons                  .689***********98778889999*********************************************************************************************************************************************************************9999877..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+
+P58004|PF04636|44-479         .--SEQSSPPSRDPLNNSGGFESARDVEALMERMQQLQESLLRDEGTSQEEMESRFELEKSESLLVTPSA.........DILEPSPHPDMLCFVEDPTFGYEDFTRRGAQAPPTFRAQDYTWEDHGYSLIQRLYPEGGQLLDEKFQAAYSLTYNTIAMHSGVDTSVLRRAIWNYIHCVFGIRYDDYDYGEVNQLLERNLK
+#=GR P58004|PF04636|44-479 PP ...6789999************************************************************.........*************************************************************************************************************************
+P58005|PF04636|40-490         dLANDNNIENASLSGSNFGIVDSLSELEALMERMKRLQEEREDEE-ASQEEMSTRFEKEKKESLFVVSGDtfhsfphsdFEDDMIITSDVSRYIEDPGFGYEDFARRGEEHLPTFRAQDYTWENHGFSLVNRLYSDIGHLLDEKFRMVYNLTYNTMATHEDVDTTMLRRALFNYVHCMFGIRYDDYDYGEVNQLLERSLK
+#=GR P58005|PF04636|40-490 PP 88999999999*******************************966.9*****************99998767777776545566666*****************************************************************************************************************
+Q9Y6P5|PF04636|48-491         tNGNHSVDEMPVNSAENVSVSDSFFEVEALMEKMRQLQECRDEEE-ASQEEMASRFEIEKRESMFVFSS-.........DDEEVTPARAVSRHFEDTSYGYKDFSRHGMH-VPTFRVQDYCWEDHGYSLVNRLYPDVGQLIDEKFHIAYNLTYNTMAMHKDVDTSMLRRAIWNYIHCMFGIRYDDYDYGEINQLLDRSFK
+#=GR Q9Y6P5|PF04636|48-491 PP 233444445556677778899*********************966.9******************9998..........8899*************************99.*****************************************************************************************
+#=GC PP_cons                  .666777888889999999***********************977*9*******************9998.........78888999*****************************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P58004|PF04636|44-479         VYIKTVACYPEKTTRRMYNLFWRHFRHSEKVHVNLLLLEARMQAALLYALRAITRYM
+#=GR P58004|PF04636|44-479 PP ********************************************************9
+P58005|PF04636|40-490         VYIKTVTCYPERTTKRMYDSYWRQFKHSEKVHVNLLLMEARMQAELLYALRAITRH-
+#=GR P58005|PF04636|40-490 PP ******************************************************96.
+Q9Y6P5|PF04636|48-491         VYIKTVVCTPEKVTKRMYDSFWRQFKHSEKVHVNLLLIEARMQAELLYALRAITRYM
+#=GR Q9Y6P5|PF04636|48-491 PP ********************************************************9
+#=GC PP_cons                  *******************************************************99
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

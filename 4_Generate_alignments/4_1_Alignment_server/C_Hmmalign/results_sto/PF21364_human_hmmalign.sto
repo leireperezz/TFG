@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P35555|PF21364|89-110          CGDGFCSRPNMCTCPSGQIAPS
+#=GR P35555|PF21364|89-110  PP *********************9
+P35556|PF21364|119-138         CGDGFCSRPNMCTCSSGQIS--
+#=GR P35556|PF21364|119-138 PP *******************9..
+Q75N90|PF21364|90-111          CGEGFCSQPNLCTCADGTLAPS
+#=GR Q75N90|PF21364|90-111  PP *********************9
+#=GC PP_cons                   *********************9
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxx
+//

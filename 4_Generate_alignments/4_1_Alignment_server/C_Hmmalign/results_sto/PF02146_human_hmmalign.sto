@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+
+Q8IXJ6|PF02146|84-268          ..GAGISTSAGIPDFRSPSTGLYDNLEKYH..LPYPEAIFEISYFKKHPEPFFALAKELYPG.QFKPTICHYFMRLLK....DKGLLLRCYTQNIDTLERIAGLEqeDLVEAHGTFYTSHCVsaSCRHEYPLSWMKEKIFSEVTP...........................KCED..CQS.....LVKPDIVFFGES..
+#=GR Q8IXJ6|PF02146|84-268  PP ..9***************************..******************************.***************....**********************9889*************84469*******************...........................****..***.....************..
+Q8N6T7|PF02146|86-221          fe----------------------------..------------------------------.SARPTQTHMALVQLE....RVGLLRFLVSQNVDGLHVRSGFPrdKLAELHGNMFVEECA..KCKTQYVRDTVVGTMGLKATGrlct..................vakarGLRA..CRG.....ELRDTILDWEDS..
+#=GR Q8N6T7|PF02146|86-221  PP 86.............................................................5789***********....*********************9888***************..************9999887776666..................666655667..777.....************..
+Q96EB6|PF02146|261-447         ..GAGVSVSCGIPDFRS-RDGIYARLAVDFpdLPDPQAMFDIEYFRKDPRPFFKFAKEIYPG.QFQPSLCHKFIALSD....KEGKLLRNYTQNIDTLEQVAGIQ..RIIQCHGSFATASCL..ICKYKVDCEAVRGDIFNQVVP...........................RCPR..CPAdeplaIMKPEIVFFGEN..
+#=GR Q96EB6|PF02146|261-447 PP ..9*************9.*********99777******************************.***************....***********************..***************..*********************...........................****..*9999999************..
+Q9NRC8|PF02146|140-273         ls----------------------------..------------------------------.EAEPTLTHMSITRLH....EQKLVQHVVSQNCDGLHLRSGLPrtAISELHGNMYIEVCT..SCVPNREYVRVFDVTERTALHrhq.....................tgrTCHK..CGT.....QLRDTIVHFGERgt
+#=GR Q9NRC8|PF02146|140-273 PP 86.............................................................689************....*********************98889**************..**9887777766666554444555.....................6669***..***.....***********733
+Q9NTG7|PF02146|145-326         ..GAGISTPSGIPDFRSPGSGLYSNLQQYD..LPYPEAIFELPFFFHNPKPFFTLAKELYPG.NYKPNVTHYFLRLLH....DKGLLLRLYTQNIDGLERVSGIPasKLVEAHGTFASATCT..VCQRPFPGEDIRADVMADRVP...........................RCPV..CTG.....VVKPDIVFFGEP..
+#=GR Q9NTG7|PF02146|145-326 PP ..9***************************..******************************.***************....*********************9888***************..*********************...........................****..***.....************..
+Q9NXA8|PF02146|58-256          ..GAGVSAESGVPTFRG-AGGYWRKWQAQD..LATPLAFAHNPSRVWE---FYHYRREVMG-.SKEPNAGHRAIAECEtrlgKQGRRVVVITQNIDELHRKAGTK..NLLEIHGSLFKTRCT..SCGVVAENYKSPICPALS--Gkgapepgtq........dasipveklpRCEEagCGG.....LLRPHVVWFGEN..
+#=GR Q9NXA8|PF02146|58-256  PP ..9*************6.************..****************...******9998..69*********9876222267899******************..***************..***976654433333322..1346799***........**********77654499*.....************..
+Q9Y6E7|PF02146|62-267          ..GAGISTESGIPDYRSEKVGLYARTDRRP..IQHGDFVRSAPIRQRY---WARNFVGWPQFsSHQPNPAHWALSTWE....KLGKLYWLVTQNVDALHTKAGSR..RLTELHGCMDRVLCL..DCGEQTPRGVLQERFQVLNPTwsaeahglapdgdvflseeqvrsfqvpTCVQ..CGG.....HLKPDVVFFGDT..
+#=GR Q9Y6E7|PF02146|62-267  PP ..9***************************..****************...********99999**************....***********************..***************..********9***999988777999****************************..***.....************..
+#=GC PP_cons                   ..9*************9************9..****************************9*.89************9....9*********************9..***************..9***99999888888888887...........................9999..*99.....************..
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx...........................xxxx..xxx.....xxxxxxxxxxxx..
+
+Q8IXJ6|PF02146|84-268          LP..ARFFSCMQsDFLKVDLLLVMGTSLQVQP
+#=GR Q8IXJ6|PF02146|84-268  PP **..*******99*****************98
+Q8N6T7|PF02146|86-221          LP.dRDLALADE.ASRNADLSITLGTSLQIRP
+#=GR Q8N6T7|PF02146|86-221  PP **.777777777.9***************998
+Q96EB6|PF02146|261-447         LP..EQFHRAMKyDKDEVDLLIVIGSSLKVRP
+#=GR Q96EB6|PF02146|261-447 PP **..**************************98
+Q9NRC8|PF02146|140-273         LGqpLNWEAATE.AASRADTILCLGSSLKV--
+#=GR Q9NRC8|PF02146|140-273 PP 332257889999.***************98..
+Q9NTG7|PF02146|145-326         LP..QRFLLHVV.DFPMADLLLILGTSLEVEP
+#=GR Q9NTG7|PF02146|145-326 PP **..********.*****************98
+Q9NXA8|PF02146|58-256          LD.pAILEEVDR.ELAHCDLCLVVGTSSVVYP
+#=GR Q9NXA8|PF02146|58-256  PP **.555566666.*****************98
+Q9Y6E7|PF02146|62-267          VN.pDKVDFVHK.RVKEADSLLVVGSSLQVYS
+#=GR Q9Y6E7|PF02146|62-267  PP **.9********.*****************85
+#=GC PP_cons                   99..88999999.*****************98
+#=GC RF                        xx..xxxxxxxx.xxxxxxxxxxxxxxxxxxx
+//

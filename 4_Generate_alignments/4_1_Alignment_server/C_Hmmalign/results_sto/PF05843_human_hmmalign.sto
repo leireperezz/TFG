@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q12996|PF05843|17-541            k--VKKAEKKLEENPYDLDAWSILIREAQNQ-PIDKARKTYERLVAQFPSSGRFWKLYIEAEIKAKNYDKVEKLFQRCLMKVLHIDLWKCYLSYVRETK---GKLPSYKEKMAQAYDFALDKIGMEIMSYQIWVDYINFLKGVEAVGSYAENQRITAVRRVYQRGCVNPMINIEQLWRDYNKYEEGINIHLAKKMIEDRS
+#=GR Q12996|PF05843|17-541    PP 5..7899***********************9.9******************************************************************...9*************************************************************************************************
+Q14690|PF05843|1660-1866         v-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR Q14690|PF05843|1660-1866 PP 6.......................................................................................................................................................................................................
+#=GC PP_cons                     ...7899***********************9.9******************************************************************...9*************************************************************************************************
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12996|PF05843|17-541            RDYMNARRVAKEYETVMKGLDRNAPSVPPQNTPQEAQQVDMWKKYIQWEKSNPLRTEDQTLITKRVMFAYEQCLLVLGHHPDIWYEAAQYLEQSSKLlaekgdmnnaklfsDEAANIYERAIsTLLKKNMLLYFAYADYEESRMKYEKVHSIYNRLL--------------------AIEDIDPTLVYIQYMKFARRAEG
+#=GR Q12996|PF05843|17-541    PP **********************************************************************************************999*************************99*********************************....................8899*******************
+Q14690|PF05843|1660-1866         -----------------------------------------------------------------------------------WVALLNLENMYGSQ..............ESLTKVFERAV.QYNE-PLKVFLHLADIYAKSEKFQEAGELYNRML---------------------KRFRQEKAVWIKYGAFLLRRSQ
+#=GR Q14690|PF05843|1660-1866 PP ...................................................................................55555555555666..............77788888888.8765.45556678888888888888888888888.....................555666789*******999999
+#=GC PP_cons                     ***********************************************************************************88888877888788..............89999999999.8887*77788889999999999999999999999....................867788889*********99999
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12996|PF05843|17-541            IKSGRMIFKKARE..DTRTRHHVYVTAALMEYYCSKDKSVAFKIFELGLKKYGDIPEYVLAYIDYLSHLNEDNNTRVLFERVLTSGSLPPEKSGEIWARFLAFESNIGDLASILKVEKRRFTAFKEeyeGKETALLVDRYKFMDLYPCSASEL..
+#=GR Q12996|PF05843|17-541    PP *************..**************************************************************************************************************999899*****************99886..
+Q14690|PF05843|1660-1866         AAASHRVLQRALEclPSKEHVDVIAKFAQLEFQLG-DAERAKAIFENTLSTYPKRTDVWSVYIDMTIKHGSQKDVRDIFERVIHLSLAPK-RMKFFFKRYLDYEKQHGTEKDVQAVKAKALEYVEA...------------------------ks
+#=GR Q14690|PF05843|1660-1866 PP 999999*****9986666777999*********97.588********************************************9866666.6**************************99998775...........................68
+#=GC PP_cons                     999999*******..8888899***********98*899*********************************************988888*8****************************999987...99*****************99886..
+#=GC RF                          xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx..
+//

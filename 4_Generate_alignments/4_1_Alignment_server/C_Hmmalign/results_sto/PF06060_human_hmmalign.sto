@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+Q13421|PF06060|1-629          ...MALPTARPLLGSCGTPALGSLLFLLFSLGWVQPSRTLAGETGQEAAPLDGVLANPPNISSLSPRQLLGFPCAEVSGLSTERVRELAVALAQKNVKLSTEQLRCLAHRLSE--PPEDLDALPLDLLLFLNPDAFSGPQACTRFFSRITKANVDLLPRGAPERQRLLPAALACWGVRGSLLSEADVRALGGLACDLPGR
+#=GR Q13421|PF06060|1-629  PP ...9*************************************************************************************************************..*************************************************************************************
+Q96KJ4|PF06060|49-595         nlw----------------------------------------------------------ASANCSLLQGFWCQPASQLPRDQLSALIQRLALLQVPLQAWQLSCLANLASRCGLQDDFTLHPPNLLLFYNLSQVR-EADCRAFIRRAAQGDVELLSHLPDQRVALWRAAVACLVGAGLRLSASDQQLLGALVCDMDAS
+#=GR Q96KJ4|PF06060|49-595 PP 986..........................................................7888999****************************************************************99986.567***********************************************************
+#=GC PP_cons                  ...9*********************************************************89999*******************************************************************9998*788***********************************************************
+#=GC RF                       ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13421|PF06060|1-629          FVAESAEVLLPRLVSCPGPLDQDQQEAARAALQGGGPPYGPPSTWSVSTMDALRGLLPVLGQPIIRSIPQGIVAAWRQRSSRDPS....WRQPERTILRPRFRREVEKTACPS....GK.KAREIDES..LIFYKKWELEACVDAALLATQMDRVNAIPFTYEQLDVLKHKLDELYPQGYPESVIQHLGYLFLKMSPEDI
+#=GR Q13421|PF06060|1-629  PP *************************************************************************************....************************....**.********..**********************************************************************
+Q96KJ4|PF06060|49-595         SIGAADPHMLENLRRCP-RLTAAQRIALNSLLAGGKTSLGPPGSWTLEGLQALGPLATYISPHLWAQVQEAVGLGFFRSVVASCQvgrlGQREARCFVTSFLESKTKPVSSRPrlstGNiTAATLRDDlfLVHYDCAELESCLDGCILRTNLDTLLQHLLPTECQHVVKAKLAQIYPQGLPEDQLRLITSLVYLYSRTEI
+#=GR Q96KJ4|PF06060|49-595 PP ****************9.6999************************************999999999999998888777655443111144555666666666655544333311114424556666622578*********************998888888899*****************999999999999*****
+#=GC PP_cons                  ******************89************************************************99999999988887776....777888888888888887777766....77.78888888..789**********************9999999999***********************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxx....xx.xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13421|PF06060|1-629          RKWNVTSLETLKALLEVNKGHEMSPQAprrplpqvATLIDRFVKGRGQLDKDTLDTLTAFYPGYLCSLSPEELSSVPPSSIWAVRPQDLDTCDPRQLDVLYPKARLAFQNMNG.SEYFVKIQSFLGG...............APTEDLKALSQQNVSMDLATFMKLRTDAVLPLTVAEVQKLLGPHVEGLKAEERHRPVR
+#=GR Q13421|PF06060|1-629  PP *****************************************************************************************************************.*************...............**********************************************************
+Q96KJ4|PF06060|49-595         GQWSITSQDTVMALLASD--VALENQT........EAVLQKFLEHNGTVSGALLLAIG---GTRLCWMSPHQIQTIHPQELRLAGALDLSSCPQSRKDVLYTKAHETFGSSGTlAAYYRLMRPYLGGspggaqppspvppggAPVEELRHLAHANISMDIDTFTSLNPLELQSLDVGNVTALLGHNVGDLQKARSHPTVR
+#=GR Q96KJ4|PF06060|49-595 PP **************9765..5678888........899***********998877766...588********************************************987552789********7533333333332222278********************************************************
+#=GC PP_cons                  ***************987**8899999........99*************99998888***899********************************************99887.89*********97...............99********************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13421|PF06060|1-629          DWILRQRQDDLDTLGLGLQGGIPNGYLVLDLSMQEALSGTPCLLGPGPVL-TVLALLLASTL....
+#=GR Q13421|PF06060|1-629  PP **************************************************.9*******997....
+Q96KJ4|PF06060|49-595         AWLRSLNSSTLGQLGL----------------------------------------------dasp
+#=GR Q96KJ4|PF06060|49-595 PP ***9999999999998..............................................579*
+#=GC PP_cons                  **************99**********************************.9*******997....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

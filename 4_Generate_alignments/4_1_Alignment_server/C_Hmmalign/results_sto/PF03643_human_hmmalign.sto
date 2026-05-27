@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O14972|PF03643|10-282         k-----------------------------RANKVYHAGEVLSGVVVISSKD.--SVQHQGVSLTMegtvnlqlsaksVGVFEAFYNSVKPIQIINSTIEMVKPGKFPSGKTeIPFEFPLHLKGnkvlYETYHGVFVNIQYTLRCDMKRSLlaKDLTKTCEFIVHsapqkgkftpspvDFTITPETLQNVKERALLPKFL
+#=GR O14972|PF03643|10-282 PP 7.............................5789******************...9*******************************************************99*****9877777899**********************999*****************************************776666
+O75436|PF03643|8-283          .FGPICEIDIVLNDGETRKMAEMKTEDGKVEKHYLFYDGESVSGKVNLAFKQpGKRLEHQGIRIEF............VGQIELFNDKSNTHEFVNLVKELALPGELTQSRS.YDFEFMQVEKP....YESYIGANVRLRYFLKVTIVRRL..TDLVKEYDLIVH.............QLATYPDVNNSIKMEVGIEDCL
+#=GR O75436|PF03643|8-283  PP .899**************************************************************............**********************************.***********....***********************..************.............**********************
+Q4G0F5|PF03643|6-281          .FGQSVEVEILLNDAESRKRAEHKTEDGKKEKYFLFYDGETVSGKVSLALKNpNKRLEHQGIKIEF............IGQIELYYDRGNHHEFVSLVKDLARPGEITQSQA.FDFEFTHVEKP....YESYTGQNVKLRYFLRATISRRL..NDVVKEMDIVVH.............TLSTYPELNSSIKMEVGIEDCL
+#=GR Q4G0F5|PF03643|6-281  PP .89***************************************************************............**********************************.***********....***********************..************.............**********************
+#=GC PP_cons                  .899**************************899*******************.*************............**********************************.******99999....***********************..************.............****************999999
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxx
+
+O14972|PF03643|10-282         -LRGHLNSTNCVITQPLTGELVVESSEAAIRSVELQLVRVETCGCAEGYARDATEIQNIQIADGDVCRGLSVPIYMVFPRLFTCPTLETTN--FKVEFEVNIVVLLH--p
+#=GR O14972|PF03643|10-282 PP .566678888889999****5555555*************************************************************999..**********9976..8
+O75436|PF03643|8-283          HIEFEYNKSKYHLKDVIVGKIYFLLVRIKIQHMELQLIKKEITGIGPSTTTETETIAKYEIMDGAPVKGESIPIRLFLAGYDPTPTMRDVNKKFSVRYFLNLVLVDEED.
+#=GR O75436|PF03643|8-283  PP ***********************************************************************************************************98.
+Q4G0F5|PF03643|6-281          HIEFEYNKSKYHLKDVIVGKIYFLLVRIKIKHMEIDIIKRETTGTGPNVYHENDTIAKYEIMDGAPVRGESIPIRLFLAGYELTPTMRDINKKFSVRYYLNLVLIDEEE.
+#=GR Q4G0F5|PF03643|6-281  PP **********************************************************************************************************985.
+#=GC PP_cons                  *89999999999********8888888******************************************************************************9896.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q96DB5|PF21033|86-310          ILEQADYLYESGETEK--LYQLLTQYKESE--DAELLWRLARASRDVAQLSRTSEEEKKLLVYEALEYAKRALEKNESSFASHKWYAICLSDVGDYEGIKAKIANAYIIKEHFEKAIELNPKDATSIHLMGIWCYTFAEMPWYQRRIAKMLFATPPSSTYEKALGYFHRAEQVDPNFYSKNLLLLGKTYLKLHNKKLAAF
+#=GR Q96DB5|PF21033|86-310  PP 699*********9999..**********99..******************99****************************************************************************************************************************************************
+Q96LZ7|PF21033|182-408         LLQKVDHLRMSE-SGKSESFELLRDHKEKFRDEIEFMWRFARAYGDMYEL-STNTQEKKHYANIGKTLSERAINRAPMNGHCHLWYAVLCGYVSEFEGLQNKINYGHLFKEHLDIAIKLLPEEPFLYYLKGRYCYTVSKLSWIEKKMAATLFGKIPSSTVQEALHNFLKAEELCPGYSNPNYMYLAKCYTDLEENQNALK
+#=GR Q96LZ7|PF21033|182-408 PP 6899**999977.77779********************************.9****************************************************************************************************************************************************
+Q96TC7|PF21033|241-464         LLQQADELHRGDEQGKREGFQLLLNNKLVYGSRQDFLWRLARAYSDMCEL-TEEVSEKKSYALDGKEEAEAALEKGDESADCHLWYAVLCGQLAEHESIQRRIQSGFSFKEHVDKAIALQPENPMAHFLLGRWCYQVSHLSWLEKKTATALLESPLSATVEDALQSFLKAEELQPGFSKAGRVYISKCYRELGKNSEARW
+#=GR Q96TC7|PF21033|241-464 PP 699**********************************************9.9****************************************************************************************************************************************************
+#=GC PP_cons                   699*******99*9999*********************************99****************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96DB5|PF21033|86-310          WLMKAKDYPAHTEEDKQIQTEAAQLLT---sf
+#=GR Q96DB5|PF21033|86-310  PP ************************997...58
+Q96LZ7|PF21033|182-408         FCNLALLLPTVTKEDKEAQKEMQKIMTS--l.
+#=GR Q96LZ7|PF21033|182-408 PP ************************9875..6.
+Q96TC7|PF21033|241-464         WMKLALELPDVTKEDLAIQKDLEEL-----..
+#=GR Q96TC7|PF21033|241-464 PP ********************99986.......
+#=GC PP_cons                   **********************998975....
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

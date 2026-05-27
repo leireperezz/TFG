@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O94886|PF13967|53-210          .v-----LLIDVSCFLFLILVFSIIRRR............FWDYGRIALV--Se..............adSESRFQRLSSTSSsgqqdfenelgcCPWLTAIFRLHDDQILEWCGEDAIHYLSFQRHIIFLLVVVSFLSLCVILPVNLSGDLLDKDP---YSFGRTTIANLQTDNDLLWLHTIFAVIYLFLTV------g
+#=GR O94886|PF13967|53-210  PP .8.....6788999*************9............7775443333..33..............464555555554444666777777777******************************************************99998554...49*************************999876......7
+Q5T3F8|PF13967|120-224         qr--------------------------............-------------.................---------DNGF............CSWLTAIFRIKDDEIRDKCGGDAVHYLSFQRHIIGLLVVVGVLSVGIVLPVNFSGDLLENNA---YSFGRTTIANLKSGNNLLWLHTSFAFLYLLLTVYS----m
+#=GR Q5T3F8|PF13967|120-224 PP 75.............................................................................689*............********************************************************999554...49****************************99985....6
+Q9P1W3|PF13967|42-203          lc-------LNIALWVLVLVVYSFLRKAawdygrlallihN-----------DsltsliygeqsektspsETSLEMERRDKGF............CSWFFNSITMKDEDLINKCGDDARIYIVFQYHLIIFVLIICIPSLGIILPINYTGSVLDWS----SHFARTTIVNVSTESKLLWLHSLLSFFYFITNFMF----m
+#=GR Q9P1W3|PF13967|42-203  PP 76.......56777777777777777764333333333220...........1333334443232233555555666677888............********************************************************99944....58**********************99998876554....7
+#=GC PP_cons                   .......677788888888999999888............4775443333..2.................5555555666777............********************************************************999554...48************************999987775.....
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxx.................xxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+O94886|PF13967|53-210          f
+#=GR O94886|PF13967|53-210  PP 8
+Q5T3F8|PF13967|120-224         r
+#=GR Q5T3F8|PF13967|120-224 PP 9
+Q9P1W3|PF13967|42-203          .
+#=GR Q9P1W3|PF13967|42-203  PP .
+#=GC PP_cons                   .
+#=GC RF                        .
+//

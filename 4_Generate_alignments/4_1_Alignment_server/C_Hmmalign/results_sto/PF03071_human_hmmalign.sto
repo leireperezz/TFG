@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P26572|PF03071|12-444          .WGAILFVAWNALLLLFFWTRPAPGRPPSVSALDGDPASLTREVIRLA--QDAEVELERqrGLLQQIGDALSSQRGRVPTAAPPAQPRVPVTPAPAVIPILVIACDRST-VRRCLDKLLHYRPSAELFPIIVSQDCGHEETAQAIASYGSAVTHIRQPDLSSIAVPPDHRKFQGYYKIARHYRWALGQVFRQFR.FPAAV
+#=GR P26572|PF03071|12-444  PP .79*********************************************..9999999998899**********************************************.************************************************************************************.*****
+Q8WZA1|PF03071|301-560         n----------------------------------------------------------..------------------------------------VPVAVIAGNRPNYLYRMLRSLLSAQGVSPQM-ITVFIDGYYEEPMDVVALFG--LRGIQH---TPISIKNA--------RVSQHYKASLTATFNLFPeAKFAV
+#=GR Q8WZA1|PF03071|301-560 PP 7................................................................................................7999*******************99776554.66777999********9996..455555...68888755........599999999997776553023379
+#=GC PP_cons                   .79*********************************************..999999999..99**********************************89***********************988877*88889**************8**777887***89999887********79*******999888877.66789
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx
+
+P26572|PF03071|12-444          VVEDDLEVAPDFFEYFRATYPLLKADPSLWCVSAWNDNGKEQMVDASRPELLYRTDFFPGLGWLLLAELWA.ELEPKWPKA..F..WDDWMRRPEQRQGRACIRPEISRTMTFGRKGVS.HGQFFDQHLKFIKLNQQF.VHFTQLDLSYLQREAYDRDFLARVYGAPQLQVEKVRTNDRKELGEVRVQYTGRDSFKAFAK
+#=GR P26572|PF03071|12-444  PP ***********************************************************************.*********..*..*********************************.******************.*************************************************************
+Q8WZA1|PF03071|301-560         VLEEDLDIAVDFFSFLSQSIHLLEEDDSLYCISAWNDQGYEHTAED--PALLYRVETMPGLGWVLRRSLYKeELEPKWPTPekLwdWDMWMRMPEQRRGRECIIPDVSRSYHFGIVGLNmNGYFHEAYFKKHKFNTVPgVQL--RNVDSLKKEAYEVEVHRLLSEAEVLDH-----------------------------
+#=GR Q8WZA1|PF03071|301-560 PP 9******************************************999..*********************9637*****96433324889****************************8626899999********8742555..55678*******999999999987765.............................
+#=GC PP_cons                   *********************************************************************98.9******87..6..999****************************98.89999**********987.777**78889***********99999999988*****************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx..x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P26572|PF03071|12-444          ALGVMDDLKSGVPRAGYRGIVTFQFRGRRVHLAPPLTWEGYDPSW...
+#=GR P26572|PF03071|12-444  PP *******************************************99...
+Q8WZA1|PF03071|301-560         ---------------------------------------------skn
+#=GR Q8WZA1|PF03071|301-560 PP .............................................569
+#=GC PP_cons                   *******************************************99...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

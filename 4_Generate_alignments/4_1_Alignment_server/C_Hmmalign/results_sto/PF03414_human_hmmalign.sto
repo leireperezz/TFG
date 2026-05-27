@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P16442|PF03414|41-353         ....s--LMPGSLERGFCMAVREPDHLQRVSLPRMVYPQPKVLTPCRKDVLVVTPWLAPIVWEGTFNIDILNEQFRLQNTTIGLTVFAIKKYV.AFLKLFLETAEKHFMVGHRVHYYVFTDQPAAVPRVTLGTGRQLSVLEVRAYKRWQDVSMRRMEMISDFCERRFLSEVDYLVCVDVDMEFRDHVGVEILTPLFGTLH
+#=GR P16442|PF03414|41-353 PP ....6..799***********************************************************************************.**********************************************************************************************************
+Q8N5D6|PF03414|59-346         qpvvw-----------------------------SQYPQPKLLEHRPTQLLTLTPWLAPIVSEGTFNPELLQHIYQPLNLTIGVTVFAVGKYT.HFIQSFLESAEEFFMRGYRVHYYIFTDNPAAVPGVPLGPHRLLSSIPIQGHSHWEETSMRRMETISQHIAKRAHREVDYLFCLDVDMVFRNPWGPETLGDLVAAIH
+#=GR Q8N5D6|PF03414|59-346 PP 87654.............................58*********************************************************.**********************************************************************************************************
+Q7Z4J2|PF03414|24-276         ...rn-------------------HQVEELRLSDWFHPR------KRPDVITKTDWLAPVLWEGTFDRRVLEKHYRRRNITVGLAVFATGRFAeEYLRPFLHSANKHFMTGYRVIFYIMVDAFFKLPDIEPSPLRTFKAFKVGTERWWLDGPLVHVKSLGEHIASHIQDEVDFLFSMAANQVFQNEFGVETLGPLVAQLH
+#=GR Q7Z4J2|PF03414|24-276 PP ...85...................6789999********......9***********************************************99*********************************************************************************************************
+U3KPV4|PF03414|66-340         ....w----------------------------------------ARPEVLTCTPWGAPIIWDGSFDPDVAKQEARQQNLTIGLTIFAVGRYLeKYLERFLETAEQHFMAGQSVMYYVFTELPGAVPRVALGPGRRLPVERVARERRWQDVSMARMRTLHAALGGLPGREAHFMFCMDVDQHFSGTFGPEALAESVAQLH
+#=GR U3KPV4|PF03414|66-340 PP ....8........................................589*********************************************9**********************************************************************************************************
+#=GC PP_cons                  .......799**************8999******89*********9***********************************************.**********************************************************************************************************
+#=GC RF                       .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P16442|PF03414|41-353         PGFYGSSREAFTYERRPQSQAYIPKDEGDFYYLGGFFGGSVQEVQRLTRACHQAMMVDQANGIEAVWHDESHLNKYLLRHKPTKVLSPEYLWDQQLlGWPAVLRKLRFTAVPKNHQAVRN
+#=GR P16442|PF03414|41-353 PP ***********************************************************************************************99**********************7
+Q8N5D6|PF03414|59-346         PSYYAVPRQQFPYERRRVSTAFVADSEGDFYYGGAVFGGQVARVYEFTRGCHMAILADKANGIMAAWREESHLNRHFISNKPSKVLSPEYLWDDRK.PQPPSLKLIRFSTLDKDISCLR-
+#=GR Q8N5D6|PF03414|59-346 PP ************************************************************************************************.****************998877.
+Q7Z4J2|PF03414|24-276         AWWYFRNTKNFPYERRPTSAACIPFGQGDFYYGNLMVGGTPHNILDFIKEYLNGVIHDIKNGLNSTY--EKHLNKYFYLNKPT-------------.-----------------------
+#=GR Q7Z4J2|PF03414|24-276 PP ****************************************************************998..78***********8.....................................
+U3KPV4|PF03414|66-340         SWHYHWPSWLLPFERDAHSAAAMAWGQGDFYNHAAVFGGSVAALRGLTAHCAGGLDWDRARGLEARWHDESHLNKFFWLHKPAKVLSPEFCWSPDI.GPRAEIRRPRLLWAPKGYRLLRN
+#=GR U3KPV4|PF03414|66-340 PP ************************************************************************************************.********************997
+#=GC PP_cons                  ******************************************************************9**9************9*************.*****************999987
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx
+//

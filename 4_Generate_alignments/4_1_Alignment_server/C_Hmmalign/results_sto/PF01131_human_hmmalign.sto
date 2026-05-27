@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O95985|PF01131|170-582         p--DHNEALSVDARQELDLRIGCAFTRFQTKyf...qgK--YgdldSSLISFGPCQTPTLGFCVERHDKIQSFKPETYWVLQAKVNTDKDRSLLLDWDRVRVFDREIAQMFLNMTKLEKEAQVEATSRKEKAKQRPLALNTVEMLRVASSSLGMGPQHAMQTAERLYTQGYISYPRTETTHYPENFDLKGSLRQQANH--
+#=GR O95985|PF01131|170-582 PP 7..678999**********************88...543..345768999***********************************888888889*****************999966999*****************************************************************9999999999986..
+Q13472|PF01131|196-603         p--DQRVSDAVDVRQELDLRIGAAFTRFQTLrlqrifpEVLA....EQLISYGSCQFPTLGFVVERFKAIQAFVPEIFHRIKVTH-DHKDGIVEFNWKRHRLFNHTACLVLYQLCVEDPMATVVEVRSKPKSKWRPQALDTVELEKLASRKLRINAKETMRIAEKLYTQGYISYPRTETNIFPRDLNLTVLVEQQTPD--
+#=GR Q13472|PF01131|196-603 PP 7..67899***********************66654444445....999**********************************95.55656668*********************9999**************9999************************************************7689999988875..
+#=GC PP_cons                   ...678999**********************.......3444....8999**********************************7877777779*******************998899******************************************************************8799999988886..
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95985|PF01131|170-582         PYWADTVKRLLAEGINR-PRKGHDAGDHPPITPMKSAT-EAELGGDAWRLYEYITRHFIATVSHDCKYLQSTISFRIGPELFTCSGKTVLSPGFTEVMPWQSVPLE-ESLPTCQRGDAFPVGEVKMLEKQTNPPDYLTEAELITLMEKHGIGTDASIPVHINNICQRNYVTVESgRRLKPTNLGIVLVHGYYKIdAELVL
+#=GR O95985|PF01131|170-582 PP 779********988766.4556666*********8877.58*********************************************************99988877.59****************************************************************88****************9999*****
+Q13472|PF01131|196-603         PRWGAFAQSILERGGPTPRNGNKSDQAHPPIHPTKY-T--NNLQGDEQRLYEFIVRHFLACCSQDAQGQETTVEIDIAQERFVAHGLMILARNYLDVYPYDHWSDK--ILPVYEQGSHFQPSTVEMVDGETSPPKLLTEADLIALMEKHGIGTDATHAEHIETIKARMYVGLTPdKRFLPGHLGMGLVEGYDSMgYEMSK
+#=GR Q13472|PF01131|196-603 PP 89*********97665546667777*********55.4..579999999*******************************************************87..6****************************************************************88****************9999*****
+#=GC PP_cons                   88*********98765545666666*********7776.578999*****************************************************99999987.58****************************************************************8.****************999.*****
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxx
+
+O95985|PF01131|170-582         PTIRSAVEKQLNLIAQGKADYRQVL-.
+#=GR O95985|PF01131|170-582 PP *********************9996..
+Q13472|PF01131|196-603         PDLRAELEADLKLICDGKKDK-----f
+#=GR Q13472|PF01131|196-603 PP ******************985.....9
+#=GC PP_cons                   ******************9979996..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

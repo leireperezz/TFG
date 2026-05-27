@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+Q10570|PF10433|17-400         s-----MYCNFFNNSERNLVVAGTSQLYVYRLNRDaealtkndrstegkahrEKLELAASFSFFGNVMSMASVQLAGAKRDALLLSFKDAKLSVVEYDPGTH..DLKTLSLhyfEEPELRDGFVQNVHTPRVRVDPDGRCAAMLVYGTRLVVLPFRReslAEEHEG-----LvgegqRSSFLPsyiidVRAl.deKLLNI
+#=GR Q10570|PF10433|17-400 PP 6.....689****************************************99989************************************************..***998844344555666677888899**************************333333333.....344555555444444457779.98889**
+Q15393|PF10433|14-401         .-ISFAIHGNFSGTKQQEIVVSRGKILELLRPDPN................tGKVHTLLTVEVFGVIRSLMAFRLTGGTKDYIVVGSDSGRIVILEYQPSKN..MFEKIHQ...-ETFGKSGCRRIVPGQFLAVDPKGRAVMISAIEKQKLVYILNR...--DAAARLT---.....ISSPLE....aHKAntlvYHVVG
+#=GR Q15393|PF10433|14-401 PP ..678******************************................***************************************************..*******....******************************************.....*******........******....9998999******
+Q16531|PF10433|15-348         .-VNGCVTGHFTSAEDLNLLIAKNTRLEIYVVTAE.................G-LRPVKEVGMYGKIAVMELFRPKGESKDLLFILTAKYNACILEYKQSGEsiDIITRAH...-GNVQDRIGRPSETGIIGIIDPECRMIGLRLYDGLFKVIPLDR...--DNK-E-----.....LK-AFN.....IRL....EELHV
+#=GR Q16531|PF10433|15-348 PP ..57789****************************.................*.**********************************************99667777777....******************************************.....665.3..........54.999.....***....*****
+#=GC PP_cons                  ..678989***************************.................99************************************************..9999988...488889999999999****************************...3366666**..3.....667888.....888....99***
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxx.....xxxxxx.....xxx....xxxxx
+
+Q10570|PF10433|17-400         IDLQFLHGYY-EPTLLILFEPNQTwpgrv...avrqdTCSIVAISLNITQKvHPVI..WSLTSLPFDCTQALAVPKPI...GGVVVFAVNSLLYLNQS-VPPYGVALNSLTTgttafplrTQEGVRITLDCAQATFISYDKMVISLKGGEIYVLTLITDG....mRSVRAFHFDKAAASVLTTSMVTMEPGYLFLGSRLG
+#=GR Q10570|PF10433|17-400 PP ******9998.7*****************...*98654445555555555355555..6666777777778899999*...*************7777.445566666655566666663344444666666666667********************88....68899999888887778899999*************
+Q15393|PF10433|14-401         VDVGF-----ENPMFACLEMDYEEadndptgeaaantQQTLTFYELDLGLN.HVVR..KYSEPLEEHGNFLITVPGGSdgpSGVLICSENYITYKNFGDQPDIRCPIPRRRNd.....ldDPERGMIFVCSATHKTKSMFFFLAQTEQGDIFKITLETDE.....DMVTEIRLKYFDTVPVAAAMCVLKTGFLFVASEFG
+#=GR Q15393|PF10433|14-401 PP *****.....***************************666***********.****..*****************666***********************************.....**9***************************************.....***********************************
+Q16531|PF10433|15-348         IDVKFLYGCQ-APTICFVYQDPQG.............-RHVKTYEVSLREK.EFNKgpWKQENVEAEASMVIAVPEPF...GGAIIIGQESITYHNGDKYLAIAPPIIK---........----QSTIVCHNRVDPN-GSRYLLGDMEGRLFMLLLEKEEqmdgtVTLKDLRVELLGETSIAECLTYLDNGVVFVGSRLG
+#=GR Q16531|PF10433|15-348 PP **********.7************..............67*********99.6666779*******************...****************************...............99*********88.********************53233347788999999*************************
+#=GC PP_cons                  *******999*8************.............55688888888887.7777..89999999999999***889...*************9999*8888999999777........677788889999999888********************87.....89999999999999999******************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxx.xxxx..xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q10570|PF10433|17-400         NSLLLKYTE--.........................------------kl....
+#=GR Q10570|PF10433|17-400 PP ****99876.......................................58....
+Q15393|PF10433|14-401         NHYLYQIAHLGdddeepefssampleegdtfffqprPLKNLVLVDE--l.....
+#=GR Q15393|PF10433|14-401 PP ***********99888888888888888888888888888888876..6.....
+Q16531|PF10433|15-348         DSQLVKLNVDS.........................NE----------qgsyvv
+#=GR Q16531|PF10433|15-348 PP ******99887.........................44..........466778
+#=GC PP_cons                  ******99899.........................6688888876........
+#=GC RF                       xxxxxxxxxxx.........................xxxxxxxxxxxx......
+//

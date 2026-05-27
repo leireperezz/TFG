@@ -1,0 +1,45 @@
+# STOCKHOLM 1.0
+
+O14672|PF00200|466-545         EQGEECDCGYSDQC..K..-DECCFdanqpeGRKCKLKPGKQCspSQ.GPCCTAQ.CAFKSKSEKCRD-DSD.CAREGICNGFTALCP--a
+#=GR O14672|PF00200|466-545 PP 89************..9...9999889999889**********9888.*******.***********9.578.**************9..5
+O43184|PF00200|433-505         EEGEECDCGEPEEC..M..-NRCCN......ATTCTLKPDAVC..AH.GLCCE-D.CQLKPAGTACRDSSNS.CDLPEFCTGASPHCPAN.
+#=GR O43184|PF00200|433-505 PP 89************..8...99***......************..**.*****.8.****************.***************75.
+O43506|PF00200|416-488         EEGEECDCGTIRQC..A..KDPCCL......-LNCTLHPGAAC..AF.GICCK-D.CKFLPSGTLCRQQVGE.CDLPEWCNGTSHQCPDD.
+#=GR O43506|PF00200|416-488 PP 89************..*..******.......8**********..**.*****.8.****************.***************97.
+O75077|PF00200|511-583         EAGEECDCGFHVEC..Y..-GLCCK......--KCSLSNGAHC..SD.GPCCNNTsCLFQPRGYECRDAVNE.CDITEYCTGDSGQCPPN.
+#=GR O75077|PF00200|511-583 PP 78************..8...89***........8*********..**.*****889****************.***************85.
+O75078|PF00200|453-526         EAGEECDCGSVQECsrA..GGNCCK......--KCTLTHDAMC..SD.GLCCR-R.CKYEPRGVSCREAVNE.CDIAETCTGDSSQCPPN.
+#=GR O75078|PF00200|453-526 PP 78************543..679**9........8*********..**.*****.7.****************.***************85.
+P78325|PF00200|417-489         ERGEQCDCGPPEDC..R..-NRCCN......STTCQLAEGAQC..AH.GTCCQ-E.CKVKPAGELCRPKKDM.CDLEEFCDGRHPECPED.
+#=GR P78325|PF00200|417-489 PP 78************..9...99***......************..**.*****.7.****************.***************98.
+P78536|PF00200|484-557         DEGEECDPG-IMYL..N..NDTCCN......-SDCTLKEGVQCsdRN.SPCCK-N.CQFETAQKKCQEAINAtCKGVSYCTGNSSECPP-.
+#=GR P78536|PF00200|484-557 PP 689******.5667..8..8*****.......8**********7555.9****.8.***************9***************95..
+Q13443|PF00200|423-496         DAGEECDCGTPKEC..E..LDPCCE......GSTCKLKSFAEC..AY.GDCCK-D.CRFLPGGTLCRGKTSE.CDVPEYCNGSSQFCQPD.
+#=GR Q13443|PF00200|423-496 PP 579***********..*..******......************..**.*****.8.****************.**************987.
+Q13444|PF00200|430-503         EPGEQCDCGFLDDC..V..-DPCCD......SLTCQLRPGAQC..ASdGPCCQ-N.CQLRPSGWQCRPTRGD.CDLPEFCPGDSSQCPPD.
+#=GR Q13444|PF00200|430-503 PP 789***********..8...9****......************..555*****.8.****************.***************97.
+Q8TC27|PF00200|400-474         EGNEICDCGTEAQC..G..PASCCD......FRTCVLKDGAKC..YK.GLCCK-D.CQILQSGVECRPKAHPeCDIAENCNGTSPECGPD.
+#=GR Q8TC27|PF00200|400-474 PP 6799**********..*..9*****......************..**.*****.8.**************999**************876.
+Q99965|PF00200|393-468         EAGEECDCGTEQDC..AliGETCCD......IATCRFKAGSNC..AE.GPCCE-N.CLFMSKERMCRPSFEE.CDLPEYCNGSSASCPEN.
+#=GR Q99965|PF00200|393-468 PP 78***********9..54579****......************..**.*****.8.****************.***************86.
+Q9BZ11|PF00200|426-498         EAGEECDCGPGQEC..R..-DLCCF......AHNCSLRPGAQC..AH.GDCCV-R.CLLKPAGALCRQAMGD.CDLPEFCTGTSSHCPPD.
+#=GR Q9BZ11|PF00200|426-498 PP 78************..9...9****......************..**.*****.7.****************.***************97.
+Q9H013|PF00200|425-497         EDGEECDCGEEEEC..N..-NPCCN......ASNCTLRPGAEC..AH.GSCCH-Q.CKLLAPGTLCREQARQ.CDLPEFCTGKSPHCPTN.
+#=GR Q9H013|PF00200|425-497 PP 89************..8...9****......************..**.*****.8.****************.***************85.
+Q9H2U9|PF00200|411-483         DEGEECDCGPAQEC..T..-NPCCD......AHTCVLKPGFTC..AE.GECCE-S.CQIKKAGSICRPAKDE.CDFPEMCTGHSPACPKD.
+#=GR Q9H2U9|PF00200|411-483 PP 689***********..8...9****......************..**.*****.7.****************.***************98.
+Q9P0K1|PF00200|453-525         ETGEECDCGTPAECvlE..GAECCK......--KCTLTQDSQC..SD.GLCCK-K.CKFQPMGTVCREAVND.CDIRETCSGNSSQCA--p
+#=GR Q9P0K1|PF00200|453-525 PP 78***********9877..89****........8*********..**.*****.8.****************.**************7..6
+Q9UKF2|PF00200|408-480         EDNEECDCGSTEEC..Q..KDRCCQ......-SNCKLQPGANC..SI.GLCCH-D.CRFRPSGYVCRQEGNE.CDLAEYCDGNSSSCPND.
+#=GR Q9UKF2|PF00200|408-480 PP 799***********..*..******.......8**********..**.*****.8.****************.***************98.
+Q9UKF5|PF00200|406-478         EEGEECDCGPLKHC..A..KDPCCL......-SNCTLTDGSTC..AF.GLCCK-D.CKFLPSGKVCRKEVNE.CDLPEWCNGTSHKCPDD.
+#=GR Q9UKF5|PF00200|406-478 PP 89************..*..******.......8**********..**.*****.8.****************.***************97.
+Q9UKJ8|PF00200|415-487         EREEQCDCGSVQQC..E..QDACCL......-LNCTLRPGAAC..AF.GLCCK-D.CKFMPSGELCRQEVNE.CDLPEWCNGTSHQCPED.
+#=GR Q9UKJ8|PF00200|415-487 PP 789***********..*..******.......8**********..**.*****.8.****************.***************98.
+Q9UKQ2|PF00200|416-488         EMGEDCDCGTSEEC..T..-NICCD......AKTCKIKATFQC..AL.GECCE-K.CQFKKAGMVCRPAKDE.CDLPEMCNGKSGNCPDD.
+#=GR Q9UKQ2|PF00200|416-488 PP 789***********..9...99***......************..**.*****.8.****************.***************97.
+Q9Y3Q7|PF00200|399-474         ESNEECDCGNKNEC..Q..FKKCCD......YNTCKLKGSVKC..GS.GPCCTSK.CELSIAGTPCRKSIDPeCDFTEYCNGTSSNCVPD.
+#=GR Q9Y3Q7|PF00200|399-474 PP 789***********..*..******......************..**.*******.***************99**************987.
+#=GC PP_cons                   789***********..8..99****......*9**********..99.*****98.****************.**************987.
+#=GC RF                        xxxxxxxxxxxxxx..x..xxxxxx......xxxxxxxxxxxx..xx.xxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx.
+//

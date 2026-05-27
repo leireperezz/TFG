@@ -1,0 +1,38 @@
+# STOCKHOLM 1.0
+
+P23109|PF19326|113-744         PDFQRVQITGDYASGVTVEDFEIVCKGLYRALCIREKYMQKSFqrFPKTPSKYLRNI...........DGEAWVANESFYPVFTPPVKKGEDPF...RTDNLPENLGYHLKMKDGVVYVYPNEAAVSKDEPKPLPYPNLDTFLDDMNFLLALIAQGPVKTYTHRRLKFLSSKFQVHQMLNEMDELKELKNNPHRDFYNCR
+#=GR P23109|PF19326|113-744 PP 79*******************************************************...........**************************...*******************************************************************************************************
+Q01432|PF19326|128-759         PEFQRVTISGDYCAGITLEDYEQAAKSLAKALMIREKYARLAYhrFPRITSQYLGHP...........RADT-APPEEGLPDFHPPPLPQEDPY...CLDDAPPNLDYLVHMQGGILFVYDNKKMLEHQEPHSLPYPDLETYTVDMSHILALITDGPTKTYCHRRLNFLESKFSLHEMLNEMSEFKELKSNPHRDFYNVR
+#=GR Q01432|PF19326|128-759 PP 79******************************************************8...........8877.9999*****************...*******************************************************************************************************
+Q01433|PF19326|163-806         REFQRVTISGEEKCGVPFTDLLDAAKSVVRALFIREKYMALSLqsFCPTTRRYLQQLaekpletrtyeQGPD-TPVSADAPV-HPPALEQH-PYehcEPSTMPGDLGLGLRMVRGVVHVYTRREPDEHCSEVELPYPDLQEFVADVNVLMALIINGPIKSFCYRRLQYLSSKFQMHVLLNEMKELAAQKKVPHRDFYNIR
+#=GR Q01433|PF19326|163-806 PP 589**************************************************************9966666.********9.9**99998.55556899****************************************************************************************************
+#=GC PP_cons                   79*****************************************..***********9...........8888*9****************9*88...9******************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P23109|PF19326|113-744         KVDTHIHAAACMNQKHLLRFIKKSYQIDADRVVYSTKEKNLTLKELFAKLKMHPYDLTVDSLDVHAGRQTFQRFDKFNDKYNPVGASELRDLYLKTDNYINGEYFATIIKEVGADLVEAKYQHAEPRLSIYGRSPDEWSKLSSWFVCNRIHCPNMTWMIQVPRIYDVFRSKNFLPHFGKMLENIFMPVFEATINPQADPE
+#=GR P23109|PF19326|113-744 PP ********************************************************************************************************************************************************************************************************
+Q01432|PF19326|128-759         KVDTHIHAAACMNQKHLLRFIKHTYQTEPDRTVAEKRGRKITLRQVFDGLHMDPYDLTVDSLDVHAGRQTFHRFDKFNSKYNPVGASELRDLYLKTENYLGGEYFARMVKEVARELEESKYQYSEPRLSIYGRSPEEWPNLAYWFIQHKVYSPNMRWIIQVPRIYDIFRSKKLLPNFGKMLENIFLPLFKATINPQDHRE
+#=GR Q01432|PF19326|128-759 PP ********************************************************************************************************************************************************************************************************
+Q01433|PF19326|163-806         KVDTHIHASSCMNQKHLLRFIKRAMKRHLEEIVHVEQGREQTLREVFESMNLTAYDLSVDTLDVHADRNTFHRFDKFNAKYNPIGESVLREIFIKTDNRVSGKYFAHIIKEVMSDLEESKYQNAELRLSIYGRSRDEWDKLARWAVMHRVHSPNVRWLVQVPRLFDVYRTKGQLANFQEMLENIFLPLFEATVHPASHPE
+#=GR Q01433|PF19326|163-806 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                   ********************************************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P23109|PF19326|113-744         LSVFLKHITGFDSVDDESKHSGHMFSsKSPKPQEWTLEKNPSYTYYAYYMYANIMVLNSLRKERGMNTFLFRPHCGEAGALTHLMTAFMIADDISHGLNLKKSPVLQYLFFLAQIPIAMSPLSNNSLFLEYAKNPFLDFLQKGLMISLSTDDPMQFHFTKEPLMEEYAIAAQVFKLSTCDMCEVARNSVLQCGISHEEKV
+#=GR P23109|PF19326|113-744 PP *************************99*****************************************************************************************************************************************************************************
+Q01432|PF19326|128-759         LHLFLKYVTGFDSVDDESKHSDHMFSdKSPNPDVWTSEQNPPYSYYLYYMYANIMVLNNLRRERGLSTFLFRPHCGEAGSITHLVSAFLTADNISHGLLLKKSPVLQYLYYLAQIPIAMSPLSNNSLFLEYSKNPLREFLHKGLHVSLSTDDPMQFHYTKEALMEEYAIAAQVWKLSTCDLCEIARNSVLQSGLSHQEKQ
+#=GR Q01432|PF19326|128-759 PP **************************9*****************************************************************************************************************************************************************************
+Q01433|PF19326|163-806         LHLFLEHVDGFDSVDDESKPENHVFNlESPLPEAWVEEDNPPYAYYLYYTFANMAMLNHLRRQRGFHTFVLRPHCGEAGPIHHLVSAFMLAENISHGLLLRKAPVLQYLYYLAQIGIAMSPLSNNSLFLSYHRNPLPEYLSRGLMVSLSTDDPLQFHFTKEPLMEEYSIATQVWKLSSCDMCELARNSVLMSGFSHKVKS
+#=GR Q01433|PF19326|163-806 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                   **************************.*****************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P23109|PF19326|113-744         KFLGDNYLEEGPAGNDIRRTNVAQIRMAYRYETWCYELNLIAEGL--k
+#=GR P23109|PF19326|113-744 PP *****************************************9876..6
+Q01432|PF19326|128-759         KFLGQNYYKEGPEGNDIRKTNVAQIRMAFRYETLCNELSFLSDAMKS.
+#=GR Q01432|PF19326|128-759 PP *******************************************9985.
+Q01433|PF19326|163-806         HWLGPNYTKEGPEGNDIRRTNVPDIRVGYRYETLCQELALITQAVQS.
+#=GR Q01433|PF19326|163-806 PP ********************************************986.
+#=GC PP_cons                   ******************************************99885.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

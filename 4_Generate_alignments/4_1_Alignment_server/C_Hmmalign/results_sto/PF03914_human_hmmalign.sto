@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q03701|PF03914|523-731         SVQALMLLFQVMNSQ.-..Q-TISDrYYTALYRKMLDPGLMTCSK.QAMFLNLVY--...--KSLkadiVLRRVKAFVKRLLQVTCQQ-MPPFICGALYLVSEILK-AKPGLRSQLDDHPESDDEENfidanddedmekftdadketeivkkleteetV--------PetdvetkkpevaswvhfdnlkggkQLNKYDPF
+#=GR Q03701|PF03914|523-731 PP 79************8....4.45567*******************.*********.......888888899****************8.*****************.888**********9999999**999999999888877777766666554440........0444556666788899999999998789****9
+Q8WTT2|PF03914|555-708         SLHCVQTAFHILSGQgDvlNIDPLK.FYTHLYKTLFKLHAGATNEgVEIVLQCLDVMltkRRKQV....SQQRALAFIKRLCTLALH-VLPNSSIGILATTRILMH-TFPKTDLLLDSE--------...............................--------SQ........................GSGVFLP-
+#=GR Q8WTT2|PF03914|555-708 PP 799***********96335558888.*********9988877777467*******99*9999999....******************.6*****************.777997777666...............................................56........................789****.
+Q9BVI4|PF03914|305-453         SLLALNGLFILIHKH.-..NLEYPD.FYRKLYGLL-DPSVFHVKY.RARFFHLADLF..lSSSHL....PAYLVAAFAKRLARLALT-APPEALLMVLPFICNLLRRHP-ACRVLVHRPHG------...............................-------PEL........................DADPYDPG
+#=GR Q9BVI4|PF03914|305-453 PP 79************9....******.*********.*********.***********..******....******************.7*****************999.9********63............................................455........................679****8
+#=GC PP_cons                   79************9.3..687888.***********99999999.99*******99...99999....******************87*****************98889*999999886999999...............................0......454........................789****8
+#=GC RF                        xxxxxxxxxxxxxxx.x..xxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx...xxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...............................xxxxxxxxxx........................xxxxxxxx
+
+Q03701|PF03914|523-731         S-.-RNPLFCGAENTSLWELKKLSVHFHPSVALFA
+#=GR Q03701|PF03914|523-731 PP 9...9****************************98
+Q8WTT2|PF03914|555-708         -ElD-EPEYCNAQNTALWELHALRRHYHPIVQRFA
+#=GR Q8WTT2|PF03914|555-708 PP .767.***************************998
+Q9BVI4|PF03914|305-453         E-.-EDPAQSRALESSLWELQALQRHYHPEVSKAA
+#=GR Q9BVI4|PF03914|305-453 PP 7...6***************************987
+#=GC PP_cons                   87.78***************************997
+#=GC RF                        xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

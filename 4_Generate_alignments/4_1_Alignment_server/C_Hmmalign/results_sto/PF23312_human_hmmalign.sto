@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P57059|PF23312|307-344         qa---LGIMQTL-GVDRQRTVESLQNSSYNHFAAIYYLLLER
+#=GR P57059|PF23312|307-344 PP 76...668****.***************************97
+Q9H0K1|PF23312|298-336         ..EQVLRLMHSL-GIDQQKTIESLQNKSYNHFAAIYFLLVER
+#=GR Q9H0K1|PF23312|298-336 PP ..79********.***************************97
+Q9Y2K2|PF23312|348-385         .d--VLLAMEDM-GLDKEQTLQSLRSDAYDHYSAIYSLLCDR
+#=GR Q9Y2K2|PF23312|348-385 PP .7..8999****.****************************8
+#=GC PP_cons                   ..799889****.***************************97
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

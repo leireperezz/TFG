@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P05089|PF00491|7-301          t--IGIIGAPFSK-GQPRGGVEEGPTVLRKAG-LLEK-----LK---.-EQECDVKDYGDLPFAdipn..dspfqIVKNPRSvgkaSEQLAGKVAEVKKNGRISLVLGGDHSLAIGSISGHARVH-PDLGVIWVDAHTDINTPLTTTSGNLHGQPVSFllkelkgkipdvpgfsWV-TPCISAKDIVYIGLRDVDPG..E
+#=GR P05089|PF00491|7-301  PP 6..79********.*****************3.3332.....22.....2469999999999999999..9999844555533666*************************************96.58*********************************************988.89******************..*
+P78540|PF00491|25-321         s--VAVIGAPFSQ-GQKRKGVEHGPAAIREAGLMKR--LS---SLG-.----CHLKDFGDLSFTpvpkddlynnlIVNPRSVg.laNQELAEVVSRAVSDGYSCVTLGGDHSLAIGTISGHARHCP-DLCVVWVDAHADINTPLTTSSGNLHGQPVSFllrelqdkvpqlpgfsWI-KPCISSASIVYIGLRDVDPP..E
+#=GR P78540|PF00491|25-321 PP 6..89********.*****************44333..23...358......99********999999998888633333347.77**************************************97.7*********************************************988.89******************..*
+Q9BSE5|PF00491|72-344         .-DAAFIGVPLDTGTSNRPGARFGPRRIREESVMLGT---VNPSTGAlPFQSLMVADLGDVNVN...........LYNLQDS....CRRIQEAYEKIVAAGCIPLTLGGDHTITYPILQAMAKKHG-PVGLLHVDAHTDTTDKA-LGEKLYHGAPFRR................CVDEGLLDCKRVVQIGIRGSSTTldP
+#=GR Q9BSE5|PF00491|72-344 PP ..689*******************************9...89999999****************...........*99999*....**************************************76.8**************99.8************................***********************998
+#=GC PP_cons                  ..689**************************675556.238965799.*6789*********99...........5566666....**************************************7758*****************9************................99*9*******************..9
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx...........xxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxx..x
+
+P05089|PF00491|7-301          HYILKTLGIKYFSMTEVDRLGIGKVMEETLSYLlGRKKRPIHLSFDVDGLDPSFTPATGTPVVGGLTYREGLYITEEIYKtGLLSGLDIMEVNPSLGKTPeevTRTVNTAV---------aitl
+#=GR P05089|PF00491|7-301  PP *999*****************************988999***************************************999***************986553344444444.........4578
+P78540|PF00491|25-321         HFILKNYDIQYFSMRDIDRLGIQKVMERTFDLLiGKRQRPIHLSFDIDAFDPTLAPATGTPVVGGLTYREGMYIAEEIHNtGLLSALDLVEVNPQLATSEeeaKTTANLAVDVIA-----s...
+#=GR P78540|PF00491|25-321 PP *999***************************9999899******************************************9****************966666677777777765.....6...
+Q9BSE5|PF00491|72-344         YRYNRSQGFRVVLAEDCWMKSLVPLMGEVRQQM.G--GKPIYISFDIDALDPAYAPGTGTPEIAGLTPSQALEIIRGCQG.LNVMGCDLVEVSPPYDLSG...-NTALLAANLLFE-MLC....
+#=GR Q9BSE5|PF00491|72-344 PP 999999***************************.8..46*****************************************.*****************65....************.665....
+#=GC PP_cons                  999999***************************.88978***************************************99.****************965...577777778887*.665....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxx....
+//

@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O43915|PF00341|111-191         CSPRETCVEVASELGKSTNTFFK..PPCVNVFRCG...G...CCN.E..ESLICMNTSTSYISKQLFEI.....-SVPLTSVPELVPVKVANHTGCKC
+#=GR O43915|PF00341|111-191 PP ***********************..**********...*...***.*..********************......99*********************
+P01127|PF00341|97-180          CKTRTEVFEISRRLIDRTNANFLvwPPCVEVQRCS...G...CCN.N..RNVQCRPTQVQLRPVQVRKI.....EIVRKKPIFKKATVTLEDHLACKC
+#=GR P01127|PF00341|97-180  PP **********************99***********...*...***.*..********************.....************************
+P04085|PF00341|96-179          CKTRTVIYEIPRSQVDPTSANFLiwPPCVEVKRCT...G...CCN.T..SSVKCQPSRVHHRSVKVAKV.....EYVRKKPKLKEVQVRLEEHLECAC
+#=GR P04085|PF00341|96-179  PP **********************99***********...*...***.*..********************.....************************
+P15692|PF00341|232-310         CHPIETLVDIFQEYPDEIEYIFK..PSCVPLMRCG...G...CCN.D..EGLECVPTEESNITMQIMRI.....---KPHQGQHIGEMSFLQHNKCEC
+#=GR P15692|PF00341|232-310 PP ***********************..**********...*...***.*..********************........99*******************
+P49763|PF00341|52-130          CRALERLVDVVSEYPSEVEHMFS..PSCVSLLRCT...G...CCG.D..ENLHCVPVETANVTMQLLKI.....---RSGDRPSYVELTFSQHVRCEC
+#=GR P49763|PF00341|52-130  PP 99*********************..**********...*...***.*..********************........9999*****************
+P49765|PF00341|47-124          CQPREVVVPLTVELMGTVAKQLV..PSCVTVQRCG...G...CCP.D..DGLECVPTGQHQVRMQILMI.....----RYPSSQLGEMSLEEHSQCEC
+#=GR P49765|PF00341|47-124  PP ***********************..**********...*...***.*..********************.........99******************
+P49767|PF00341|131-211         CMPREVCIDVGKEFGVATNTFFK..PPCVSVYRCG...G...CCN.S..EGLQCMNTSTSYLSKTLFEI.....-TVPLSQGPKPVTISFANHTSCRC
+#=GR P49767|PF00341|131-211 PP ***********************..**********...*...***.*..********************......9**********************
+Q9GZP0|PF00341|272-362         CTPRNYSVNIREELKLANVVFF-..PRCLLVQRCGgncG...CGTvN.wRSCTCNSGKTVKKYHEVLQFepghiKRRGRAKTMALVDIQLDHHERCDC
+#=GR Q9GZP0|PF00341|272-362 PP *************999877777...**********4444...54432.599*****************9999889999********************
+Q9NRA1|PF00341|250-337         CTPRNFSVSIREELK-RTDTIFW..PGCLLVKRCG...GncaCCL.HncNECQCVPSKVTKKYHEVLQLr...pKTGVRGLHKSLTDVALEHHEECDC
+#=GR Q9NRA1|PF00341|250-337 PP **********99986.5778888..**********...8666885.43489******************6...66777788899**************
+#=GC PP_cons                   **************9*999999*..**********...9...999.8..********************.....999999******************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxx...x...xxx.x..xxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxx
+//

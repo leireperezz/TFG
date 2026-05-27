@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+O00469|PF13704|382-518         dek------------------------------------------------------------------------------------------------------------CDYYFSVDADVVLTNPRTLKILIEQNRKIIAPLVTRHGkLWSNFWGALSPDGYYARSEDYVDIVQGNRVGVWNVPYMANVYLIKgktLR
+#=GR O00469|PF13704|382-518 PP 876............................................................................................................7********************************9987648******************************************9722244
+O60568|PF13704|384-518         ece--------------------------------------------------------------------------------------------------------------FYFSLDADAVLTNLQTLRILIEENRKVIAPMLSRHGkLWSNFWGALSPDEYYARSEDYVELVQRKRVGVWNVPYISQAYVIR...GD
+#=GR O60568|PF13704|384-518 PP 975..............................................................................................................67889***************************988648****************************************9985...32
+Q02809|PF13704|375-507         .ct--------------------------------------------------------------------------------------------------------------YYFSVDADVALTEPNSLRLLIQQNKNVIAPLMTRHGrLWSNFWGALSADGYYARSEDYVDIVQGRRVGVWNVPYISNIYLIK...GS
+#=GR Q02809|PF13704|375-507 PP .85..............................................................................................................8999**************************99877649***************************************99996...43
+Q5T4B2|PF13704|31-290          ...-PAVVLAILARNAEHSLPHYLGALERLDYPRARMALWCATDHNVDNTTEMLQEWLAAVGDDYAAVVWRPEGEPRFYPDEEGPKHWTKERHQFLMELKQEALTFARNWGADYILFADTDNILTNNQTLRLLMGQGLPVVAPMLDSQT.YYSNFWCGITPQGYYRRTAEYFPTKNRQRRGCFRVPMVHSTFLAS...LR
+#=GR Q5T4B2|PF13704|31-290  PP ....89***********************************************************************************************************************************************.*********************************************...**
+Q8IYK4|PF13704|52-313          ...SPTVLVAVLARNAAHTLPHFLGCLERLDYPKSRMAIWAATDHNVDNTTEIFREWLKNVQRLYHYVEWRPMDEPESYPDEIGPKHWPTSRFAHVMKLRQAALRTAREKWSDYILFIDVDNFLTNPQTLNLLIAENKTIVAPMLESRG.LYSNFWCGITPKGFYKRTPDYVQIREWKRTGCFPVPMVHSTFLID...LR
+#=GR Q8IYK4|PF13704|52-313  PP ...69************************************************************************************************************************************************.*********************************************...**
+Q8NBJ5|PF13704|51-312          ...APRVLIALLARNAAHALPTTLGALERLRHPRERTALWVATDHNMDNTSTVLREWLVAVKSLYHSVEWRPAEEPRSYPDEEGPKHWSDSRYEHVMKLRQAALKSARDMWADYILFVDADNLILNPDTLSLLIAENKTVVAPMLDSRA.AYSNFWCGMTSQGYYKRTPAYIPIRKRDRRGCFAVPMVHSTFLID...LR
+#=GR Q8NBJ5|PF13704|51-312  PP ...69************************************************************************************************************************************************.*********************************************...**
+#=GC PP_cons                   ...699*********************************************************************************************************9*99******************************9998.9******************************************98...77
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xx
+
+O00469|PF13704|382-518         SEMNERNYF.V------RDK.LDPDMALCRNAREMGVFMYISNRHEFGRLL--------------------st
+#=GR O00469|PF13704|382-518 PP 444444444.4......345.6666778899*****************875....................79
+O60568|PF13704|384-518         -----TLRMeLPQRDVFSGSdTDPDMAFCKSFRDKGIFLHLSNQHEFGRLL--------------------at
+#=GR O60568|PF13704|384-518 PP .....2332246667777762566789*********************875....................79
+Q02809|PF13704|375-507         ALR-GEL--.QSSDLFHHSK.LDPDMAFCANIRQQDVFMFLTNRHTLGHLL--------------------s.
+#=GR Q02809|PF13704|375-507 PP 222.222...2233344566.888899999******************986....................8.
+Q5T4B2|PF13704|31-290          AEGADQLAF.YPPHPNYTWP.FDDIIVFAYACQAAGVSVHVCNEHRYGYMNVPVKSHQGLEDERVNFIH--l.
+#=GR Q5T4B2|PF13704|31-290  PP *********.**********.******************************************999998..5.
+Q8IYK4|PF13704|52-313          KEASDKLTF.YPPHQDYTWT.FDDIIVFAFSSRQAGIQMYLCNREHYGYLPIPLKPHQTLQEDIENLIHVQ..
+#=GR Q8IYK4|PF13704|52-313  PP *********.**********.************************************************97..
+Q8NBJ5|PF13704|51-312          KAASRNLAF.YPPHPDYTWS.FDDIIVFAFSCKQAEVQMYVCNKEEYGFLPVPLRAHSTLQDEAESFMHVQ..
+#=GR Q8NBJ5|PF13704|51-312  PP *********.**********.************************************************97..
+#=GC PP_cons                   777876677.7888888888.8889999********************998*****************997..
+#=GC RF                        xxxxxxxxx.xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

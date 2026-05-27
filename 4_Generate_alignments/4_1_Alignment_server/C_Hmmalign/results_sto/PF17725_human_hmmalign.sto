@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P28347|PF17725|215-423         -KLRLVEFSAFLEqqrdPDSYNKHLFVHIGHanhsYSDPLLESVDIRQIYDKFPEKkggLKELFGKGPQNAFFLVKFWADLNCNIQDDAG--......-AFYGVTSQYESSENMTVTCSTKVCSFGKQVVEKVETEYARFENGRFVYRINRSPMCEYMINFIHKLKHLPEKYMMNSVLENFTILLVVTNRDTQETLLCMA
+#=GR P28347|PF17725|215-423 PP .68999******9887657889999****8788899******************976669****************************99.........8****************************************************************************************************
+Q15561|PF17725|222-431         SKLWMLEFSAFLEqqqdPDTYNKHLFVHIGQsspsYSDPYLEAVDIRQIYDKFPEKkggLKDLFERGPSNAFFLVKFWADLNTNIEDEGS--......-SFYGVSSQYESPENMIITCSTKVCSFGKQVVEKVETEYARYENGHYSYRIHRSPLCEYMINFIHKLKHLPEKYMMNSVLENFTILQVVTNRDTQETLLCIA
+#=GR Q15561|PF17725|222-431 PP 6888999*****988776899********999999*******************976669*************************99988.........8****************************************************************************************************
+Q15562|PF17725|227-444         -RLQLVEFSAFVEppdaVDSYQRHLFVHISQhcpsPGAPPLESVDVRQIYDKFPEKkggLRELYDRGPPHAFFLVKFWADLNWGPSGEEAGAggsissGGFYGVSSQYESLEHMTLTCSSKVCSFGKQVVEKVETERAQLEDGRFVYRLLRSPMCEYLVNFLHKLRQLPERYMMNSVLENFTILQVVTNRDTQELLLCTA
+#=GR Q15562|PF17725|227-444 PP .6999********9987678899********77666789***************976669***********************98777776678888789****************************************************************************************************
+Q99594|PF17725|223-432         SRLRLLEYSAFMEvqrdPDTYSKHLFVHIGQtnpaFSDPPLEAVDVRQIYDKFPEKkggLKELYEKGPPNAFFLVKFWADLNSTIQEGP---......GAFYGVSSQYSSADSMTISVSTKVCSFGKQVVEKVETEYARLENGRFVYRIHRSPMCEYMINFIHKLKHLPEKYMMNSVLENFTILQVVTSRDSQETLLVIA
+#=GR Q99594|PF17725|223-432 PP 689999*****998888789*********999999*******************976669**********************5555544.........59****************************************************************************************************
+#=GC PP_cons                   679999******9....67899*******99....999****************97...9**********************9988887866......68****************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxx....xxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P28347|PF17725|215-423         CVFEVSNSEHGAqHHIYRL
+#=GR P28347|PF17725|215-423 PP **********999*****8
+Q15561|PF17725|222-431         YVFEVSASEHGAqHHIYRL
+#=GR Q15561|PF17725|222-431 PP ********99999*****8
+Q15562|PF17725|227-444         YVFEVSTSERGAqHHIYRL
+#=GR Q15562|PF17725|227-444 PP *********9999*****8
+Q99594|PF17725|223-432         FVFEVSTSEHGAqHHVYKL
+#=GR Q99594|PF17725|223-432 PP *********9999*****8
+#=GC PP_cons                   *********999.*****8
+#=GC RF                        xxxxxxxxxxxx.xxxxxx
+//

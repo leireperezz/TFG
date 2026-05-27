@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+P13807|PF05693|31-662         EVAWEVANKVGGIYTVLQTKAKVTGDEWGDNYFLVGPYTEQGVRTQVELLEAPTPALKRTLDSMNSKGCKVYFGRWLIEGGPLVVLLDVGASAWALERWKGELWDTCNIGVPWYDREANDAVLFGFLTTWFLGEFLAQSEEKPHVVAHFHEWLAGVGLCLCRARRLPVATIFTTHATLLGRYLCAGAVDFYNNLENFNVD
+#=GR P13807|PF05693|31-662 PP 8*******************************************************************************************************************************************************************************************************
+P54840|PF05693|32-662         EVAWEVTNKVGGIYTVIQTKAKTTADEWGENYFLIGPYFEHNMKTQVEQCEPVNDAVRRAVDAMNKHGCQVHFGRWLIEGSPYVVLFDIGYSAWNLDRWKGDLWEACSVGIPYHDREANDMLIFGSLTAWFLKEVTDHAD-GKYVVAQFHEWQAGIGLILSRARKLPIATIFTTHATLLGRYLCAANIDFYNHLDKFNID
+#=GR P54840|PF05693|32-662 PP 8******************************************************************************************************************************************9.9**********************************************************
+#=GC PP_cons                  8*******************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P13807|PF05693|31-662         KEAGERQIYHRYCMERAAAHCAHVFTTVSQITAIEAQHLLKRKPDIVTPNGLNVKKFSAMHEFQNLHAQSKARIQEFVRGHFYGHLDFNLDKTLYFFIAGRYEFSNKGADVFLEALARLNYLLRVNGSEQTVVAFFIMPARTNNFNVETLKGQAVRKQLWDTANTVKEKFGRKLYESLLVGSLPDMNKMLDKEDFTMMKR
+#=GR P13807|PF05693|31-662 PP ********************************************************************************************************************************************************************************************************
+P54840|PF05693|32-662         KEAGERQIYHRYCMERASVHCAHVFTTVSEITAIEAEHMLKRKPDVVTPNGLNVKKFSAVHEFQNLHAMYKARIQDFVRGHFYGHLDFDLEKTLFLFIAGRYEFSNKGADIFLESLSRLNFLLRMHKSDITVMVFFIMPAKTNNFNVETLKGQAVRKQLWDVAHSVKEKFGKKLYDALLRGEIPDLNDILDRDDLTIMKR
+#=GR P54840|PF05693|32-662 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                  ********************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P13807|PF05693|31-662         AIFATQRQSFPPVCTHNMLDDSSDPILTTIRRIGLFNSSADRVKVIFHPEFLSSTSPLLPVDYEEFVRGCHLGVFPSYYEPWGYTPAECTVMGIPSISTNLSGFGCFMEEHIADPSAYGIYILDRRFRSLDDSCSQLTSFLYSFCQQSRRQRIIQRNRTERLSDLLDWKYLGRYYMSARHMALSKAFPEHFTYEPNEADA
+#=GR P13807|PF05693|31-662 PP ********************************************************************************************************************************************************************************************************
+P54840|PF05693|32-662         AIFSTQRQSLPPVTTHNMIDDSTDPILSTIRRIGLFNNRTDRVKVILHPEFLSSTSPLLPMDYEEFVRGCHLGVFPSYYEPWGYTPAECTVMGIPSVTTNLSGFGCFMQEHVADPTAYGIYIVDRRFRSPDDSCNQLTKFLYGFCKQSRRQRIIQRNRTERLSDLLDWRYLGRYYQHARHLTLSRAFPDKFHVELTSPPT
+#=GR P54840|PF05693|32-662 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                  ********************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P13807|PF05693|31-662         AQGYRYPRPASVPPSPS------LSRHSSPHQSEDEED-.
+#=GR P13807|PF05693|31-662 PP ****************5......889999999999986..
+P54840|PF05693|32-662         TEGFKYPRPSSVPPSPS------GSQASSPQSSDVED--e
+#=GR P54840|PF05693|32-662 PP ****************5......78888888888776..5
+#=GC PP_cons                  ****************5......788999999998876..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

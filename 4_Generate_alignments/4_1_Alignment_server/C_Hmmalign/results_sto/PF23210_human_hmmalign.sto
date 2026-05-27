@@ -1,0 +1,62 @@
+# STOCKHOLM 1.0
+
+Q68CQ1|PF23210|454-551         ...e-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.----------------
+#=GR Q68CQ1|PF23210|454-551 PP ...5....................................................................................................................................................................................................
+Q8NDA8|PF23210|254-910         ....LPSERLEEQLPKLLPGILALYKKHAETFYLSKSLGQILEAAVSVGSRTLETQLDALLAALHSQICVPVESSSPLVMSNQKEVLRCFTVLACSSPDRLLAFLLPRLDTSNERTRVGTLQVVRHVINSAAAQMEDKKPFI-LSSMRLPLLDTNSKVKRAVVQVISAMAHHGYLEQPGGEAMiEYIVQQCALPPEQ-EP
+#=GR Q8NDA8|PF23210|254-910 PP ....89**************************************************************************************************************************************99.9*************************************999***********75.56
+Q7Z745|PF23210|221-879         ....LHREDFRGYALGQVPWLLNQYKDKEIDFHVTQSLKQILTAAVLYDIGLPRSLRRSIFINLLQQICR---APEPPVKENEMKASSCFLILAHSNPGELMEFFDEQVRSNNEAIRVGILTLLRLAVNADEPRLRDHIISI-ERTVKIVMGDLSTKVRNSVLLLIQTMCEKSYIEAREGWPLiDYVFSQFATLNRNLEK
+#=GR Q7Z745|PF23210|221-879 PP ....89****************************************************************...46689**************************************************************99.8*************************************999*************999
+A6NES4|PF23210|291-940         ....LPNDDLREQVYDYIPLLLAEYQGSLEVLFVTQVLRQILELSVTTNTPVPQMQLHTIFTELHVQVCNKAPAQHQYSSQNLMEMVHCFVALARSYPKELMKFFFSQMETNKEAVRVGTLNLIRAIVSADEPRMSIRAIYLAIRVVKNTISDTRSKVRMAILHIIGQLALCGYQERIKGWGL.KYLSVQLTLSTYKLTN
+#=GR A6NES4|PF23210|291-940 PP ....89*********************************************************************************************************************************************************************************.****************
+Q6ZUA9|PF23210|240-575         ..dk-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.----------------
+#=GR Q6ZUA9|PF23210|240-575 PP ..75....................................................................................................................................................................................................
+Q9H579|PF23210|76-230          eaiv-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.----------------
+#=GR Q9H579|PF23210|76-230  PP 9765....................................................................................................................................................................................................
+#=GC PP_cons                   ....89*******************************************************************8999***************************************************************99*9**************************************9.***********98*88
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+Q68CQ1|PF23210|454-551         -----.----------------------------------------------------..--------.-----------------------------------------------------------------------------------------------------------------------------------
+#=GR Q68CQ1|PF23210|454-551 PP ........................................................................................................................................................................................................
+Q8NDA8|PF23210|254-910         EKPGP.GSKDPKADSVRAISVRTLYLVSTTVDRMSHVLWPYLLQFLTPVRFTGALTPL..CRSLVHLA.QKRQE-AGADAFLIQYDAHASLPSPYAVTGRLLVVSSSPYLGDGRGAAALRLLSVLHPNIHPLLGQHWETTVPLLLGYLDEHTEETLPQEEWEEKLLMFLRDTLAIISDNAWICQLSLELCRQLPCYDEAP
+#=GR Q8NDA8|PF23210|254-910 PP 77899.****************************************************..********.*9986.99***************************************************************************************************************************
+Q7Z745|PF23210|221-879         PVKTNfHENEKEEESVRETSLEVLKTLDPLVIGMPQVLWPRILTFVVPAEYTEALEPLfsIIRILIMAeEKKQHSAKESTALVVSTGAVKLPSPQQLLARLLVISMPASLGELRGAGAIGLLKILPEIIHPKLVDLWKTRLPELLQPLEGKN---ISTVLWETMLLQLLKESLWKISDVAWTIQLTQDFKQQMGSYSNNS
+#=GR Q7Z745|PF23210|221-879 PP 86654399999**********************************************977677788872567777888899**********************************************************************7...6899*****************************************
+A6NES4|PF23210|291-940         RREKF.YQRDLEERMVHKVTMDTVKIITSSVSGMTTEFWVRLLCYIMETDYVEALTPI..CISLTNLA.EHQLHGQDVDVSVAGKSRQVDLPAPQKLLARLLVLMSSPYKGEGRGIAMLNLLRTLSQSIAPSMADMWELEIALLVRYLEEHTEFTWDQKAWEDKLIQFLRNSLKKTRGSSWSLRLSKELNNQIASFDSPS
+#=GR A6NES4|PF23210|291-940 PP *****.****************************************************..********.***********************************************************************************************************************************
+Q6ZUA9|PF23210|240-575         -----.----------------------------------------------------..--------.-----------------------------------------------------------------------------------------ACWEEQLIQMAIKSVPFLSTDVWSKELLWTLTTPSWTQQEQS
+#=GR Q6ZUA9|PF23210|240-575 PP ..............................................................................................................................................................67*******************************99999****
+Q9H579|PF23210|76-230          -----.----------------------------------------------------..--------.-----------------------------------------------------------------------------------------------------------------------------------
+#=GR Q9H579|PF23210|76-230  PP ........................................................................................................................................................................................................
+#=GC PP_cons                   88888.99**************************************************..99999999.88988999999***********************************************************************9***99*99****************************************
+#=GC RF                        xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q68CQ1|PF23210|454-551         ----------------------------------------------------------------------------------------.---------------------------------------------.......--.........--------------------------------KKTMIKKIMRQIQEEP
+#=GR Q68CQ1|PF23210|454-551 PP ........................................................................................................................................................................................899*************
+Q8NDA8|PF23210|254-910         QEKNFLYKCIGTTLGAASSKEVVRKHLQELLETARYQEEAEREGLACCFGICAISHLEDTLAQLEDFVR-SEVFRKSIGILNIFKDRSeNEVEKVKSALILCYGHVAARAPRELVLAKVESDILRNICQHFSTKvlgikveTK.........DPALKLCLVQSVCMVSRAICSSTQAGSFHFTRKAELVAQMMEFIRAEP
+#=GR Q8NDA8|PF23210|254-910 PP *******************************************************************96.69**************966********************************************9888777789.........************************************************
+Q7Z745|PF23210|221-879         TEKKFLWKALGTTLACCQDSDFVNSQIKEFLTAPNQLGD-QRQGITSILGYCAENHLDIVLKVLKTFQNQ-----EKFFMNRCKSLFS.GKKSLTKTDVMVIYGAVALHAPKKQLLSRLNQDIISQVLSLHGQC.......SQvlgmsvmnkDMDLQMSFTRSITEIGIAVQDAED-QGFQFSYKEMLIGYMLDFIRDEP
+#=GR Q7Z745|PF23210|221-879 PP ***************************************.***************************975.....6889999******.********************************************9.......65555555555***********************9.9**********************
+A6NES4|PF23210|291-940         LEKGFLYRALGFTLATGLEASKVEVLLLELLYKTDYSNDFDSEGVIMCFGLCARGQVKTVLNVLHDFEERIQESEQSWQISAWRKDHP.WRRETVKSALMVMYSCVASYCHPQLLLNLVDSPITAKIIHHYVSS.......CQ.........DICLKMAFMKSVVQVTKAINNIKDLEDFHFAQKTTLTSIIVAVIKAEP
+#=GR A6NES4|PF23210|291-940 PP ****************************************************************************************.*********************************************.......**.........************************************************
+Q6ZUA9|PF23210|240-575         PEKAFLFTYYGLILQAEKNGATVRRHLQALLETSHQWPK-QREGMALTLGLAATRHLDDVWAVLDQFGRS-RPIRWSLPSSSPKNSED.LRWKWASSTILLAYGQVAAKARA-HILPWVDN-IVSRMVFYFHYS.......SW.........DETLKQSFLTATLMLMGAVSRSEGAHSYEFFQTSELLQCLMVLMEKEP
+#=GR Q6ZUA9|PF23210|240-575 PP *******************************98766666.***************************865.56665666577777777.9999999**************76.57999995.8899999*****.......**.........************************************************
+Q9H579|PF23210|76-230          ----------------------------------------------------------------------------------------.-------------------------------EKLIQSIQKVFNGE.......LK.........GELEKLKFLGDLSSLSQALPYDETAKSFIHSHIADIVHTLNVLVQEER
+#=GR Q9H579|PF23210|76-230  PP ........................................................................................................................56789999******.......**.........9999********************************************
+#=GC PP_cons                   ********************************9999999****************************977888888889999999998.*********************99*99*****89999*********.......99.........************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q68CQ1|PF23210|454-551         LDSLSSSVRKQAMEILTQLS..HTQPTLGMRERSELVNVCVHSVFSL..........PSvqa..mqekDEA....KAETI....................................QALYHQTLEALQTLLKAL---f
+#=GR Q68CQ1|PF23210|454-551 PP ********************..*************************..........77665..5321223....55778....................................9**************987...6
+Q8NDA8|PF23210|254-910         PDSLRTPIRKKAMLTCTYLV..SVEPALDEQARADVIHGCLHSIMAL..........LPe.......pKEE....DGGCQ....................................KSLYLETLHALEDLLTSLLQR.
+#=GR Q8NDA8|PF23210|254-910 PP ********************..*************************..........773.......3567....9999*....................................*******************97.
+Q7Z745|PF23210|221-879         LDSLASPIRWKALIAIRYLS..KLKPQLSLQDHLNILEENIRRLLPL..........PPlenlksegqTDK....DKEHI....................................QFLYERSMDALGKLLKTMMWD.
+#=GR Q7Z745|PF23210|221-879 PP ********************..*************************..........99887776554456....9****....................................*******************95.
+A6NES4|PF23210|291-940         TDNLVSPVRALAMEALSHLS..KLKPFYSTEENSELMDISIHSVISL..........QL.........PGE....DNESI....................................KTLYANALSSLEQLMESLLQR.
+#=GR A6NES4|PF23210|291-940 PP ********************..*************************..........**.........***....*****....................................*******************97.
+Q6ZUA9|PF23210|240-575         QDTLCTRSRQQAMHIASSLC..KLRPPIDLERKSQLLSTCFRSVFALplldalekhtC-.........---....----LfleppniqlwpvareragwthqgwgpravlhcsehlQSLYSRTMEALDFMLQSLI--m
+#=GR Q6ZUA9|PF23210|240-575 PP ********************..*************************44444444440.....................14444444555555555555555666666666666669************999987..6
+Q9H579|PF23210|76-230          PHSLSSSMRQEVFVTIADLSyqDVHLLLGSEDRAELFSLTIKSIITL..........PSvrt..ltqiQ-EimpnGTCNT....................................ECLYRQTFQAFSEMLQSLV--v
+#=GR Q9H579|PF23210|76-230  PP *******************93346667899*****************..........88554..43321.1222134446....................................9***************996..7
+#=GC PP_cons                   ********************..99999********************..........78.........465....77887....................................****************99896.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx..........xx.........xxx....xxxxx....................................xxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,48 @@
+# STOCKHOLM 1.0
+
+P31941|PF18782|12-194          l--MDPHIFTSNFNNG---IGRHKTYLCYEVERLDNGTSvKMDQHRGFLHNQ.....Aknl...lcgFYGRHAELRFLDLV.PSLQLDPAQIYRVTWFISWSPCFSwgCAGEVRAFLQENTHVRLRIFAARIY-DYDPLYKEALQMLRDAG....AQVSIMTYDEFKHCWDTFVDHQGCPFQPWDGLDEHSQALSGRLRA
+#=GR P31941|PF18782|12-194  PP 6..99*********97...69**************887769***********.....6455...5556677**********.***********************999*************************.*****************....********************************************9
+Q8IUX4|PF18782|10-188          .ERMYRDTFSYNFYNRPILSRRNTVWLCYEVKTKGPSRP.--RLDAKIFRGQ.....Vy.......sQPEHHAEMCFLSWF.CGNQLPAYKCFQITWFVSWTPCPD..CVAKLAEFLAEHPNVTLTISAARLYYYWERDYRRALCRLSQAG....ARVKIMDDEEFAYCWENFVYSEGQPFMPWYKFDDNYAFLHRTLKE
+#=GR Q8IUX4|PF18782|10-188  PP .58*******************************97777...4455555555.....44.......459************.************************..*******************************************....*********************************************
+Q8IUX4|PF18782|194-372         a--MYPHIFYFHFKNLRKAYGRNESWLCFTMEVVKHHSP.-VSWKRGVFRNQ.....Vd.......pETHCHAERCFLSWF.CDDILSPNTNYEVTWYTSWSPCPE..CAGEVAEFLARHSNVNLTIFTARLYYFWDTDYQEGLRSLSQEG....ASVEIMGYKDFKYCWENFVYNDDEPFKPWKGLKYNFLFLDSKLQE
+#=GR Q8IUX4|PF18782|194-372 PP 5..9******************************99999..9**********.....87.......899************.************************..*******************************************....*********************************************
+Q96AK3|PF18782|10-201          .ERMYRDTFYDNFENEPILYGRSYTWLCYEVKIKRGRSN.-LLWDTGVFRGPvlpkrQsnhrqevyfRFENHAEMCFLSWF.CGNRLPANRRFQITWFVSWNPCLP..CVVKVTKFLAEHPNVTLTISAARLYYYRDRDWRWVLLRLHKAG....ARVKIMDYEDFAYCWENFVCNEGQPFMPWYKFDDNYASLHRTLKE
+#=GR Q96AK3|PF18782|10-201  PP .58*****************************9987777..789999998774444414444455556677**********.************************..*******************************************....*********************************************
+Q96AK3|PF18782|207-385         a--MYPHIFYFHFKNLLKACGRNESWLCFTMEVTKHHSA.-VFRKRGVFRNQ.....Vd.......pETHCHAERCFLSWF.CDDILSPNTNYEVTWYTSWSPCPE..CAGEVAEFLARHSNVNLTIFTARLCYFWDTDYQEGLCSLSQEG....ASVKIMGYKDFVSCWKNFVYSDDEPFKPWKGLQTNFRLLKRRLRE
+#=GR Q96AK3|PF18782|207-385 PP 5..9*****************************999988..9**********.....87.......899************.************************..*******************************************....*********************************************
+Q9HC16|PF18782|10-193          .ERMYRDTFSYNFYNRPILSRRNTVWLCYEVKTKGPSRP.--PLDAKIFRGQ.....Vy.......sELKYHPEMRFFHWFsKWRKLHRDQEYEVTWYISWSPCTK..CTRDMATFLAEDPKVTLTIFVARLYYFWDPDYQEALRSLCQKRdgprATMKIMNYDEFQHCWSKFVYSQRELFEPWNNLPKYYILLHIMLGE
+#=GR Q9HC16|PF18782|10-193  PP .58*******************************97777...5566666666.....44.......469************999**********************..*****************************************988888*******************************************99
+Q9HC16|PF18782|196-379         s--MDPPTFTFNFNNEPWVRGRHETYLCYEVERMHNDTWvLLNQRRGFLCNQ.....Aphk...hgfLEGRHAELCFLDVI.PFWKLDLDQDYRVTCFTSWSPCFS..CAQEMAKFISKNKHVSLCIFTARIY-DDQGRCQEGLRTLAEAG....AKISIMTYSEFKHCWDTFVDHQGCPFQPWDGLDEHSQDLSGRLRA
+#=GR Q9HC16|PF18782|196-379 PP 5..999*********************************999**********.....5445...5667788**********.************************..*************************.66777************....********************************************9
+Q9NRW3|PF18782|10-187          .KAMYPGTFYFQFKNLWEANDRNETWLCFTVEGIKRRSV.-VSWKTGVFRNQ.....Vd.......sETHCHAERCFLSWF.CDDILSPNTKYQVTWYTSWSPCPD..CAGEVAEFLARHSNVNLTIFTARLYYFQYPCYQEGLRSLSQEG....VAVEIMDYEDFKYCWENFVYNDNEPFKPWKGLKTNFRLLKRRLRE
+#=GR Q9NRW3|PF18782|10-187  PP .57*******************************99999..9**********.....76.......7999***********.************************..*******************************************....*******************************************86
+Q9UH17|PF18782|10-189          .ERMYRDTFYDNFENEPILYGRSYTWLCYEVKIKRGRSN.-LLWDTGVFRGQ.....Vy.......fKPQYHAEMCFLSWF.CGNQLPAYKCFQITWFVSWTPCPD..CVAKLAEFLSEHPNVTLTISAARLYYYWERDYRRALCRLSQAG....ARVTIMDYEEFAYCWENFVYNEGQQFMPWYKFDENYAFLHRTLKE
+#=GR Q9UH17|PF18782|10-189  PP .58******************************988877..89*********.....88.......89*************.************************..*******************************************....*********************************************
+Q9UH17|PF18782|192-377         l--MDPDTFTFNFNNDPLVLRRRQTYLCYEVERLDNGTWvLMDQHMGFLCNE.....Aknl...lcgFYGRHAELRFLDLV.PSLQLDPAQIYRVTWFISWSPCFSwgCAGEVRAFLQENTHVRLRIFAARIY-DYDPLYKEALQMLRDAG....AQVSIMTYDEFEYCWDTFVYRQGCPFQPWDGLEEHSQALSGRLRA
+#=GR Q9UH17|PF18782|192-377 PP 6..99**********************************999**********.....6455...5556677**********.***********************999*************************.*****************....********************************************9
+#=GC PP_cons                   .589******************************98888.998999999999.....6.........7899**********.************************..*******************************************....********************************************9
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.....x.........xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P31941|PF18782|12-194          IL
+#=GR P31941|PF18782|12-194  PP 97
+Q8IUX4|PF18782|10-188          IL
+#=GR Q8IUX4|PF18782|10-188  PP 97
+Q8IUX4|PF18782|194-372         IL
+#=GR Q8IUX4|PF18782|194-372 PP 97
+Q96AK3|PF18782|10-201          IL
+#=GR Q96AK3|PF18782|10-201  PP 97
+Q96AK3|PF18782|207-385         IL
+#=GR Q96AK3|PF18782|207-385 PP 97
+Q9HC16|PF18782|10-193          IL
+#=GR Q9HC16|PF18782|10-193  PP 97
+Q9HC16|PF18782|196-379         IL
+#=GR Q9HC16|PF18782|196-379 PP 97
+Q9NRW3|PF18782|10-187          --
+#=GR Q9NRW3|PF18782|10-187  PP ..
+Q9UH17|PF18782|10-189          IL
+#=GR Q9UH17|PF18782|10-189  PP 97
+Q9UH17|PF18782|192-377         IL
+#=GR Q9UH17|PF18782|192-377 PP 97
+#=GC PP_cons                   97
+#=GC RF                        xx
+//

@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+Q2MV58|PF07773|204-368         ...a--AKYEYGVPLQT---.........---SDSFLRFPSSL.TSSLCTDN....NPAAFLVNQAVKCTRKINleqceeiealsmafysspeilrvpdsRKKVPITVQSIVIQSL..N.......KTLTRREdtdvlqpTLVNAGHF-.........................------SLCVNVVLEVKYSLTYTDAG
+#=GR Q2MV58|PF07773|204-368 PP ...5..69*********...............7**********.********....************************************************************..*.......*******9*9999999****99................................9*******************
+Q2MV58|PF07773|378-560         .gnp---GYVVGLPLAAGFQphkgsgiiqTTNRYGQLTILHST.TEQDCLALegvrTPVLFGYTMQSGCKLRLT..........................GALPCQLVAQKVKSLL..-.......WGQGFPD.......YVAPFGNSQaqdmldw...........vpihfitQSFNRKDSCQ-LPGALVIEVKWTKYG
+#=GR Q2MV58|PF07773|378-560 PP .876...8***********************************.*******999*9******************..........................****************..........*******.......****************...........*****************.***************
+Q6NUS6|PF07773|205-366         ...p--SFYRAGDPILTYFP.........KWSVISLLRQPAGVgAGGLCAES....NPAGFLESKSTTCTRFFK.........................nLASSCT-LDSALNAASyyNftvlkvpRSMTDPQnme.fqvPVILTSQAN.........................APLLAGNTCQNVVSQVTYEIETNGTF
+#=GR Q6NUS6|PF07773|205-366 PP ...6..68************.........**************5668*****....*****************9.........................7788888.*********8835577789******9***.*99*********.........................*************************9
+Q6NUS6|PF07773|380-549         sgnp---GYIVGKPLLAL--.........TDDISYSMTLLQSQ.GNGSCSVK...rHEVQFGVNAISGCKLRLK..........................-KADCSHLQQEIYQTL..-.......HGRPRPE.......YVAIFGNADpaqkggwt........rilnrhcsiSAINCTSCCL-IPVSLEIQVLWAYVG
+#=GR Q6NUS6|PF07773|380-549 PP 7554...9*********9...........**************.********...*******************...........................***************..........*******.......*****************........*******************.***************
+Q96GX1|PF07773|276-424         ...d--FGYKQGDPIMTV--.........---KKAYFTIPQVS.LAGQCMQN....APVAFLHNFDVKCVTNLElyqer................dgiinAKIKNVALGGIVTPKV.iY.......EEATDLD.......--KFITNTE.........................TPLNNGSTPRIVNVEEHYIFKWNNN-
+#=GR Q96GX1|PF07773|276-424 PP ...5..79*********9..............***********.********....***********************................*********************.63.......4455555.........3334556.........................9************************.
+Q96GX1|PF07773|435-622         .gnp---GYQLGKPVRALNI........nRMNNVTTLHLWQSA.GRGLCTSAt..fKPILFGENVLSGCLLEVG..........................INENCTQLRENAVERL..-.......DSLIQAT.......HVAMRGNSDyadlsdgwleiirvdapdpgadplaSSVN--GMCLDIPAHLSIRILISDAG
+#=GR Q96GX1|PF07773|435-622 PP .876...8**********98........899************.*********..*******************..........................****************..........*******.......********************************988888..********************
+#=GC PP_cons                   ......69***********9.........***9**********.99******....******************..........................99**************..5.......9999999.......**9999999.........................9*************************
+#=GC RF                        ....xxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxx.xxxxxxxx....xxxxxxxxxxxxxxxxxx..........................xxxxxxxxxxxxxxxx..x.......xxxxxxx.......xxxxxxxxx.........................xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q2MV58|PF07773|204-368         --........-----EVTKADLSFVLGTVSSVVV-P...LQQKFEIHFLQ-.
+#=GR Q2MV58|PF07773|204-368 PP ...............****************999.*...*********96..
+Q2MV58|PF07773|378-560         SL........LNPQAKIVNVTANLISSSFPEANSGNertILISTAVTFVDV.
+#=GR Q2MV58|PF07773|378-560 PP **........************************99999**********96.
+Q6NUS6|PF07773|205-366         --........-----GIQKVSVSLGQTNLTVEPGAS...LQQHFILRFR--a
+#=GR Q6NUS6|PF07773|205-366 PP ...............*********************...********97..6
+Q6NUS6|PF07773|380-549         LL........SNPQAHVSGVRFLYQCQSIQDSQQVT..eVSLTTLVNFVDI.
+#=GR Q6NUS6|PF07773|380-549 PP **........************************99..9**********96.
+Q96GX1|PF07773|276-424         --........-----TISEINVKIFRAEINAHQKGI...MTQRFVVKFLS-.
+#=GR Q96GX1|PF07773|276-424 PP ...............8********************...*********85..
+Q96GX1|PF07773|435-622         AVegitqqeiLGVETRFSSVNWQYQCGLTCEHKADL...LPISASVQFIKI.
+#=GR Q96GX1|PF07773|435-622 PP ************************************...**********86.
+#=GC PP_cons                   **........**************************...*********976.
+#=GC RF                        xx........xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxx.
+//

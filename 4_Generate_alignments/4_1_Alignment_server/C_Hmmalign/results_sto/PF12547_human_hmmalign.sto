@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+P0C7T5|PF12547|1-239           .MKPVHERSQECLPPKKRDLPVTSE--DMGRTTSCSTNHTPSSDASEWSRGVVvAGQSQAGARvslggdgaeaiTGLTVDQYGMLYKVAVPPATF----SPTGLPSVVNMSPLPPTFnvaSSLIQHPGIhYPPLHYAQLPSTsLQFIGSPYSLPYAvppNFLPSPLLSPSANLATS----HLPHFVPYASLLAEGATPPP
+#=GR P0C7T5|PF12547|1-239   PP .9999******************65..33334677777788888888887654133333333356777776656666666666667766655554....445555556666666544221555566677899********744************955558999999998887765....55555555555555555444
+P54253|PF12547|197-558         q----------------------------------------------------.---------...........-------------------------------------------...---------.------------.-------------...--------------------QQQQQQQQQQQHQHQQQQQQQ
+#=GR P54253|PF12547|197-558 PP 6..................................................................................................................................................................................355555555566666666666
+#=GC PP_cons                   .9999******************65..33334677777788888888887654.333333333...........666666666667766655554....445555556666666544...555566677.99********74.************9...58999999998887765...355555555555555555555
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P0C7T5|PF12547|1-239           QAPSPAHSFNKAPSATSPSGQLPHHSST-------------------------------------------------------........----------......----------------------------------------------...--------------------------------------------
+#=GR P0C7T5|PF12547|1-239   PP 3333333455666666666655555532............................................................................................................................................................................
+P54253|PF12547|197-558         QQQQQQQHLSRAPGLITPGS-PPPAQ--QNQYVHISSSPQNTGRTASPPA--IPVHLHPHQTMIPHTLTLGPPSQVVMQYADSgshfvpreATKKAESSRLqqaiqaKEVLNGEMEKSRRYGAPSSADLGLGKAGGKSVPH---PYESRHVVVhpsPSDYSSRDPSGVRASVMVLPNSNTPAADLEVQQATHREASPST-
+#=GR P54253|PF12547|197-558 PP 68888899************.88999..8*********************..**************************************999999*9998999*************************************...**********************************9988888999**********9.
+#=GC PP_cons                   55556666888888888888577777328*********************..*******************************........99999*9998......**********************************...*********...**********************9988888999**********9.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P0C7T5|PF12547|1-239           --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------qpldlapgrmpiyyqmsr
+#=GR P0C7T5|PF12547|1-239   PP ......................................................................................................................................................................................345666777788888888
+P54253|PF12547|197-558         LNDKSGLHLGKPGHRS-----------------------YALSPHTVIQTTHSASEPLPVGLPATAFYAGTQPPVIGY----LSGQQQAITYAGSLPQHLVIPGTQPLLIPVGSTDMEAS--GAAPAIVTSSPQFAAV-PHTFVTTALPKSENFNPE-ALVTQA-AYPA-MVQAQIHLPVVQ..................
+#=GR P54253|PF12547|197-558 PP ****************.......................36*************************************....8899**********************************..99**************.****************99.999977.5555.**********97..................
+#=GC PP_cons                   ****************.......................36*************************************....8899**********************************..99**************.****************99.999977.5555.**********97..................
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................
+
+P0C7T5|PF12547|1-239           lpag
+#=GR P0C7T5|PF12547|1-239   PP 999*
+P54253|PF12547|197-558         ....
+#=GR P54253|PF12547|197-558 PP ....
+#=GC PP_cons                   ....
+#=GC RF                        ....
+//

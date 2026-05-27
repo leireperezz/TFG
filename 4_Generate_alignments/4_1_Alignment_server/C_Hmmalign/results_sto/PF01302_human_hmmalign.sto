@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+P30622|PF01302|60-124            ...VGERV....W.VNGNKPGFIQFLGETQ...FAPGQWAGIVLDEP...IGKNDGSVAGVRYFQCE.PLKGIFTRPSKL.
+#=GR P30622|PF01302|60-124    PP ...89***....*.99**************...**************...*****************.*********996.
+P30622|PF01302|214-278           ...IGDRV....L.VGGTKAGVVRFLGETD...FAKGEWCGVELDEP...LGKNDGAVAGTRYFQCQ.PKYGLFAPVHKV.
+#=GR P30622|PF01302|214-278   PP ...79***....9.99**************...**************...*****************.*********997.
+Q14203|PF01302|29-93             ...VGSRV....EvIGKGHRGTVAYVGATL...FATGKWVGVILDEA...KGKNDGTVQGRKYFTCD.EGHGIFVRQS--q
+#=GR Q14203|PF01302|29-93     PP ...89***....87889999**********...**************...*****************.********87..5
+Q15813|PF01302|10-75             ...IGRRV....E.V-NGEHATVRFAGVVP...PVAGPWLGVEWDNP..eRGKHDGSHEGTVYFKCRhPTGGSFIRPNKV.
+#=GR Q15813|PF01302|10-75     PP ...799**....9.7.6677**********...**************..99***************9899********97.
+Q5VT06|PF01302|2499-2563         ...IGDRV....L.IGNVQPGILRFKGETS...FAKGFWAGVELDKP...EGNNNGTYDGIAYFECK.EKHGIFAPPQKI.
+#=GR Q5VT06|PF01302|2499-2563 PP ...79***....9.8899************...**************...*****************.*********986.
+Q8N3C7|PF01302|285-349           ...LGDRV....V.IAGQKVGTLRFCGTTE...FASGQWAGIELDEP...EGKNNGSVGKVQYFKCA.PKYGIFAPLSKI.
+#=GR Q8N3C7|PF01302|285-349   PP ...59**9....9.99**************...**************...*****************.********9985.
+Q8N3C7|PF01302|487-551           ...LGERV....L.VVGQRLGTIRFFGTTN...FAPGYWYGIELEKP...HGKNDGSVGGVQYFSCS.PRYGIFAPPSRV.
+#=GR Q8N3C7|PF01302|487-551   PP ...599**....9.89**************...**************...*****************.*********997.
+Q8N3C7|PF01302|626-690           ...-GSQV....LlTSSNEMGTVRYVGPTD...FASGIWLGLELRSA...KGKNDGSVGDKRYFTCK.PNHGVLVRPSRV.
+#=GR Q8N3C7|PF01302|626-690   PP ....6677....44778899**********...**************...*****************.**********97.
+Q96DZ5|PF01302|296-360           ...LGDRV....L.LDGQKTGTLRFCGTTE...FASGQWVGVELDEP...EGKNDGSVGGVRYFICP.PKQGLFASVSKI.
+#=GR Q96DZ5|PF01302|296-360   PP ...59***....9.99**************...**************...*****************.*******99985.
+Q96DZ5|PF01302|418-481           ...VGDQV....L.VAGQKQGIVRFYGKTD...FAPGYWYGIELDQP...TGKHDGSVFGVRYFTCP.PRHGVFAPASR-.
+#=GR Q96DZ5|PF01302|418-481   PP ...89***....9.99**************...**************...*****************.*******9875..
+Q99426|PF01302|161-227           ...VGSRCevraA.GQSPRRGTVMYVGLTD...FKPGYWIGVRYDEP...LGKNDGSVNGKRYFECQ.AKYGAFVKP---a
+#=GR Q99426|PF01302|161-227   PP ...7888655644.778999**********...**************...*****************.********9...6
+Q9NQC7|PF01302|138-201           gee-----....-.---KFPGVVRFRGPLLaerTVSGIFFGVELLEEgrgQGFTDGVYQGKQLFQCD.EDCGVFVALDK-.
+#=GR Q9NQC7|PF01302|138-201   PP 865..............567*******9876667788*******8877556779*************.*******9875..
+Q9NQC7|PF01302|478-538           vke-----....-.-NPPFYGVIRWIGQPP...GLNEVLAGLELEDE..cAGCTDGTFRGTRYFTCA.LKKALFVKLK--s
+#=GR Q9NQC7|PF01302|478-538   PP 655............56779**********...*9*********888..79****************.*******986..7
+Q9NQT8|PF01302|1706-1767         fvt-----....-.VGAHKTGVVRYVGPAD...FQEGTWVGVELDLP...SGKNDGSIGGKQYFRCN.PGYGLLVRPSRV.
+#=GR Q9NQT8|PF01302|1706-1767 PP 965...........567899**********...**************...*****************.**********97.
+Q9UDT6|PF01302|81-145            ...VGERV....W.VNGVKPGVVQYLGETQ...FAPGQWAGVVLDDP...VGKNDGAVGGVRYFECP.ALQGIFTRPSKL.
+#=GR Q9UDT6|PF01302|81-145    PP ...89***....*.99**************...**************...*****************.*********996.
+Q9UDT6|PF01302|221-285           ...LGDRV....L.VGGTKTGVVRYVGETD...FAKGEWCGVELDEP...LGKNDGAVAGTRYFQCP.PKFGLFAPIHKV.
+#=GR Q9UDT6|PF01302|221-285   PP ...59***....9.99**************...**************...*****************.*********997.
+#=GC PP_cons                     ...79999....8.889999**********...**************...*****************.********9986.
+#=GC RF                          ...xxxxx....x.xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxx.xxxxxxxxxxxx.
+//

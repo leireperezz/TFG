@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O76090|PF01062|1-324         MTITYTSQVANARLGSFSRLLLCWRGSIYKLLYGEFLIFLLCYYIIRFIYRLALTEEQQLMFEKLTLYCDSYIQLIPISFVLGFYVTLVVTRWWNQYENLPWPDRLMSLVSGFVEGKDEQGRLLRRTLIRYANLGNVLILRSVSTAVYKRFPSAQHLVQAGFMTPAEHKQLEKLSLPHNMFWVPWVWFANLSMKAWLGGR
+#=GR O76090|PF01062|1-324 PP 9*******************************************************************************************************************************************************************************************************
+Q8N1M1|PF01062|1-324         MTVTYSSKVANATFFGFHRLLLKWRGSIYKLLYREFIVFAVLYTAISLVYRLLLTGVQKRYFEKLSIYCDRYAEQIPVTFVLGFYVTLVVNRWWNQFVNLPWPDRLMFLISSSVHGSDEHGRLLRRTLMRYVNLTSLLIFRSVSTAVYKRFPTMDHVVEAGFMTTDERKLFNHLKSPHLKYWVPFIWFGNLATKARNEGR
+#=GR Q8N1M1|PF01062|1-324 PP 9*******************************************************************************************************************************************************************************************************
+Q8NFU0|PF01062|1-339         MTVSYTLKVAEARFGGFSGLLLRWRGSIYKLLYKEFLLFGALYAVLSITYRLLLTQEQRYVYAQVARYCNRSADLIPLSFVLGFYVTLVVNRWWSQYTSIPLPDQLMCVISASVHGVDQRGRLLRRTLIRYANLASVLVLRSVSTRVLKRFPTMEHVVDAGFMSQEERKKFESLKSDFNKYWVPCVWFTNLAAQARRDGR
+#=GR Q8NFU0|PF01062|1-339 PP 9*******************************************************************************************************************************************************************************************************
+Q8NFU1|PF01062|1-324         MTVTYTARVANARFGGFSQLLLLWRGSIYKLLWRELLCFLGFYMALSAAYRFVLTEGQKRYFEKLVIYCDQYASLIPVSFVLGFYVTLVVNRWWSQYLCMPLPDALMCVVAGTVHGRDDRGRLYRRTLMRYAGLSAVLILRSVSTAVFKRFPTIDHVVEAGFMTREERKKFENLNSSYNKYWVPCVWFSNLAAQARREGR
+#=GR Q8NFU1|PF01062|1-324 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9*******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O76090|PF01062|1-324         IRDPILLQSLLNEMNTLRTQCGHLYAYDWISIPLVYTQVVTVAVYSFFLTCLVGRQFLNPAKAYPGHE...............LDLVVPVFTFLQFFFYVGWLKVAEQLINPFGEDDDDFETNWIVDRNLQVSLLAVDE
+#=GR O76090|PF01062|1-324 PP ********************************************************************...............******************************************************96
+Q8N1M1|PF01062|1-324         IRDSVDLQSLMTEMNRYRSWCSLLFGYDWVGIPLVYTQVVTLAVYTFFFACLIGRQFLDPTKGYAGHD...............LDLYIPIFTLLQFFFYAGWLKVAEQLINPFGEDDDDFETNWCIDRNLQVSLLAVDE
+#=GR Q8N1M1|PF01062|1-324 PP ********************************************************************...............******************************************************96
+Q8NFU0|PF01062|1-339         IRDDIALCLLLEELNKYRAKCSMLFHYDWISIPLVYTQVVTIAVYSFFALSLVGRQFVEPEAGAAKPQkllkpgqepapalgdPDMYVPLTTLLQFFFYAGWLKVAEQIINPFGEDDDDFETNQLIDRNLQVSLLSVDE
+#=GR Q8NFU0|PF01062|1-339 PP *************************************************************988777767777777888777778****************************************************96
+Q8NFU1|PF01062|1-324         IRDNSALKLLLEELNVFRGKCGMLFHYDWISVPLVYTQVVTIALYSYFLACLIGRQFLDPAQGYKDHD...............LDLCVPIFTLLQFFFYAGWLKVAEQLINPFGEDDDDFETNFLIDRNFQVSMLAVDE
+#=GR Q8NFU1|PF01062|1-324 PP ********************************************************************...............******************************************************96
+#=GC PP_cons                 **************************************************************999999...............99****************************************************96
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

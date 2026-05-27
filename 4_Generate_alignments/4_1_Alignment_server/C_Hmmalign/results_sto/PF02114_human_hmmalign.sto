@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P20941|PF02114|1-244          ....MEEAKSQS---LEEDFEGQATHTGPKGVINDWRKFK-LESQDSDSIPPSKKEILRQMSS---------PQSRNGKDSKERVSRKMSIQEYELIHK..EKE..DENCLRKYRRQCMQDMHQKLSFGPRYGFVYELETGKQFLETIEKELKITTIVVHIYEDGIKGCDALNSSLTCLAAEYPIVKFCKIKASNTGAGD
+#=GR P20941|PF02114|1-244  PP ....789*****...*************************.**********************.........***************************..***..**********************************************************************************************
+Q13371|PF02114|36-299         ....-APASSSVPAEAELAGEGISVNTGPKGVINDWRRFKQLETEQREEQCREMERLIKKLSMTCRSHLDEEEEQQKQKDLQEKISGKMTLKEFAIMNE..DQD..DEEFLQQYRKQRMEEMRQQLHKGPQFKQVFEISSGEGFLDMIDKEQKSIVIMVHIYEDGIPGTEAMNGCMICLAAEYPAVKFCKVKSSVIGASS
+#=GR Q13371|PF02114|36-299 PP .....589*******************************************************************************************..***..**********************************************************************************************
+Q9H2J4|PF02114|32-180         ..ea-------------------------------------------------------------------EEEQRILQQSVVKTYEDMTLEELEDHEDefNEE..DERAIEMYRRRRLAEWKAT-KLKNKFGEVLEI-SGKDYVQEVTKAGEGLWVILHLYKQGIPLCALINQHLSGLARKFPDVKFI--KAISTTCIP
+#=GR Q9H2J4|PF02114|32-180 PP ..75...................................................................67778888888899999*****99876523789..9**************9865.45579******9.8************************************************6..566667778
+Q8N4E4|PF02114|34-202         vlrl-------------------------------------------------------------------------QKEAMVKPFEKMTLAQLKEAED..EFDeeDMQAVETYRKKRLQEWK-ALKKKQKFGELREI-SGNQYVNEVTNAEEDVWVIIHLYRSSIPMCLLVNQHLSLLARKFPETKF--VKAIVNSCIQ
+#=GR Q8N4E4|PF02114|34-202 PP *976.........................................................................6666667778999988887776..65500556799*********86.69999********9.89****99999999999********************************..5688888999
+#=GC PP_cons                  ....779****************************************************************8999998899999999*****9999988..888..9999***********9998*8999*********9************************************************9*8888999999
+#=GC RF                       ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P20941|PF02114|1-244          RFSLDVLPTLLIYKGGELISNFISVAEQFAEEFFAGDVESFLNEYGLLPEREVHVLEHTKI------------eeed
+#=GR P20941|PF02114|1-244  PP *********************************************************9986............5678
+Q13371|PF02114|36-299         QFTRNALPALLIYKGGELIGNFVRVTDQLGDDFFAVDLEAFLQEFGLLPEKEVLVLTSVRNSATCHSEDSDLE....
+#=GR Q13371|PF02114|36-299 PP ***********************************************************************98....
+Q9H2J4|PF02114|32-180         NYPDRNLPTIFVYLEGDIKAQFI--------------------------------------------------g...
+#=GR Q9H2J4|PF02114|32-180 PP 899999************99998..................................................7...
+Q8N4E4|PF02114|34-202         HYHDNCLPTIFVYKNGQIEAKFIGIIECGGINLKLEELEWKLAEVG---------------------------ai..
+#=GR Q8N4E4|PF02114|34-202 PP *************************998888887777777777766...........................78..
+#=GC PP_cons                  9*********************9****9999999999999999999************998**********98....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

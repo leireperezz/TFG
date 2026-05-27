@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O14645|PF10211|66-251          .EEILNAILPPREWVEDTQLWIQQVSSTPSTRMDVVHLQEQLDLKLQQRQARE...TGICPVRR.........ELYSQCFDELIREVTINCAERGLLLLRVRDEIRMTIAAYQTLYESSVAFGMRKALQAE......QGKSDMERKIAELETEKRDLERQVNEQKAKCEATEKRESERRQVEEKKHNEEIQFLKRTNQQL
+#=GR O14645|PF10211|66-251  PP .69**************************************************...********.........**********************************************************......***************************************************************
+Q5T1B0|PF10211|211-368         p------------------------SMKPNKRVEVAQLNDVMDTMLERAGVENqeyTGPTKMHKllhilkkeqTIYNMIFHELIRQVSVDCADRGELLSKVRERYVQMLDQ---IARQMIDFYKDLVTQRVmdqrilEELYNFKHVIEELTRELCLVRAHDVKLTKETEKAHKDLA------------------------
+#=GR Q5T1B0|PF10211|211-368 PP 8........................67899999**********9999554443111554444448888888889*****************************98877764...33344444322222222000122223333344555555555555555555555555554444........................
+#=GC PP_cons                   .69**********************8999******************877777...77777777.........******************************99999887***77777777666666666......666777777777777777777777777777777777777************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O14645|PF10211|66-251          KAQLE-.........
+#=GR O14645|PF10211|66-251  PP ***97..........
+Q5T1B0|PF10211|211-368         ------qallnaekn
+#=GR Q5T1B0|PF10211|211-368 PP ......455556678
+#=GC PP_cons                   ***97..........
+#=GC RF                        xxxxxx.........
+//

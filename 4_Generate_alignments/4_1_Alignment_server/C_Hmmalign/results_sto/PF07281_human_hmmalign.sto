@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O15503|PF07281|87-267         -RSLVLFSVGVVLALVLNLLQIQRNVTLFPEEviaTIFSSAWWVPPCCGTAAAVVGLLYPCIDS---------------HLGEPHKFKREWASVMRCIAVFVGINHASAKLDFANNVQLSLTLAALSLGLWWTFDRSRSGLGLGITIAFLATLItqFLVYNGVYQ-------------------YTSPDFLYIRSWLPCI
+#=GR O15503|PF07281|87-267 PP .689**********************9888888899****************************...............7899***********************************************************************87777776555...................2467789*********
+Q9Y5U4|PF07281|31-211         -RGVVLFFIGVFLALVLNLLQIQRNVTLFPPDviaSIFSSAWWVPPCCGTASAVIGLLYPCIDR---------------HLGEPHKFKREWSSVMRCVAVFVGINHASAKVDFDNNIQLSLTLAALSIGLWWTFDRSRSGFGLGVGIAFLATVVtqLLVYNGVYQ-------------------YTSPDFLYVRSWLPCI
+#=GR Q9Y5U4|PF07281|31-211 PP .679**********************66666666789***************************...............7899***********************************************************************87777676555...................2467789*********
+#=GC PP_cons                  .689**********************877777...9****************************...............7899***********************************************************************..777676555...................2467789*********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15503|PF07281|87-267         FFSGGVTVGNIGRQLA
+#=GR O15503|PF07281|87-267 PP ***************7
+Q9Y5U4|PF07281|31-211         FFAGGITMGNIGRQLA
+#=GR Q9Y5U4|PF07281|31-211 PP ***************7
+#=GC PP_cons                  ***************7
+#=GC RF                       xxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+O75182|PF02671|60-104            .ATYNGFLEIMKEFKSQ..SIDTPG.............VIRRVSQLFHEHPDLIVGFNAFL
+#=GR O75182|PF02671|60-104    PP .59**************..99****.............**********************9
+O75182|PF02671|181-235           .EIYRSFLEILHTYQKE..QLNTRGrpfrg...mseeeVFTEVANLFRGQEDLLSEFGQFL
+#=GR O75182|PF02671|181-235   PP .79**************..76755567777...77777**********************8
+O75182|PF02671|322-366           .EVYENFLRCIALFNQE..LVSGSE.............LLQLVSPFLGKFPELFAQFKSFL
+#=GR O75182|PF02671|322-366   PP .79**************..77****.............**********************8
+Q3T8J9|PF02671|1648-1693         .-KYEDFLQVIYEFESStqRRTAVD.............LYKSLQILLQDWPQLLKDFAAFL
+#=GR Q3T8J9|PF02671|1648-1693 PP ..8**************9988****.............**********************8
+Q3T8J9|PF02671|1732-1774         q----KIIKVLQGCADClpQ-EITE.............LKTQMWQLLKGHDHLQDEFSIFF
+#=GR Q3T8J9|PF02671|1732-1774 PP 6....678999999999955.9***.............*********************97
+Q96ST3|PF02671|142-186           .QVYNDFLDIMKEFKSQ..SIDTPG.............VISRVSQLFKGHPDLIMGFNTFL
+#=GR Q96ST3|PF02671|142-186   PP .79**************..99****.............**********************9
+Q96ST3|PF02671|323-380           .DIYKAFLEILHTYQKE..QRNAKEaggnytpalteqeVYAQVARLFKNQEDLLSEFGQFL
+#=GR Q96ST3|PF02671|323-380   PP .69**************..9999999999999999999**********************8
+Q96ST3|PF02671|478-522           .EAYENFLRCLVIFNQE..VISRAE.............LVQLVSPFLGKFPELFNWFKNFL
+#=GR Q96ST3|PF02671|478-522   PP .57**************..99****.............**********************9
+#=GC PP_cons                     .68**9***********..889999.............**********************8
+#=GC RF                          .xxxxxxxxxxxxxxxx..xxxxxx.............xxxxxxxxxxxxxxxxxxxxxxx
+//

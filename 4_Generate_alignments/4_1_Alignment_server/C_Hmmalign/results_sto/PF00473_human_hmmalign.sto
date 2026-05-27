@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P06850|PF00473|157-194         .PPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII
+#=GR P06850|PF00473|157-194 PP .9**********************************965
+P55089|PF00473|85-122          .PSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV
+#=GR P55089|PF00473|85-122  PP .9***********************************87
+Q969E3|PF00473|120-157         .FTLSLDVPTNIMNLLFNIAKAKNLRAQAAANAHLMAQI
+#=GR Q969E3|PF00473|120-157 PP .69**********************************98
+Q96RP3|PF00473|73-109          v--LSLDVPIGLLQILLEQARARAAREQATTNARILARV
+#=GR Q96RP3|PF00473|73-109  PP 6..9*********************************98
+#=GC PP_cons                   .89*********************************987
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

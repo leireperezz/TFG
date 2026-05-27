@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P22670|PF02257|437-512         a---TVQWLLDNYETAEGVSLPRSTLYCHYLLHCQEQKL.EPVNAASFGKLIRSVFMGLRTRRLG...TRGNSKYHYYGLRIK-.
+#=GR P22670|PF02257|437-512 PP 6...89*********************************.*************************...************986..
+P48378|PF02257|199-273         h----LQWLLDNYETAEGVSLPRSSLYNHYLRHCQEHKL.DPVNAASFGKLIRSVFMGLRTRRLG...TRGNSKYHYYGIRLK-.
+#=GR P48378|PF02257|199-273 PP 6....79********************************.*************************...************986..
+P48380|PF02257|183-257         h----LQWLLDNYETAEGVSLPRSTLYNHYLRHCQEHKL.DPVNAASFGKLIRSIFMGLRTRRLG...TRGNSKYHYYGIRVK-.
+#=GR P48380|PF02257|183-257 PP 6....79********************************.*************************...************986..
+P48382|PF02257|91-167          y---AYRWIRNHLEEHTDTCLPKQSVYDAYRKYCESLACcRPLSTANFGKIIREIFPDIKARRLG...GRGQSKYCYSGIRRK-.
+#=GR P48382|PF02257|91-167  PP 7...678*******************************99*************************...************986..
+Q2KHR2|PF02257|106-182         m--HAFSWIRNTLEEHPETSLPKQEVYDEYKSYCDNLGY.HPLSAADFGKIMKNVFPNMKARRLG...TRGKSKYCYSGLRKK-.
+#=GR Q2KHR2|PF02257|106-182 PP 7..5789********************************.*************************...************986..
+Q33E94|PF02257|60-135          a---TLQWLEENYEIAEGVCIPRSALYMHYLDFCEKNDT.QPVNAASFGKIIRQQFPQLTTRRLG...TRGQSKYHYYGIAVK-.
+#=GR Q33E94|PF02257|60-135  PP 6...79*********************************.*************************...************875..
+Q68CP9|PF02257|522-602         .-KFACQWLNAHFEVNPDCSVSRAEMYSEYLSTCSKLARgGILTSTGFYKCLRTVFPNHTVKRVEdssSNGQAHIHVVGVKR--r
+#=GR Q68CP9|PF02257|522-602 PP ..599**********************************99************************9999**********987..5
+Q8HWS3|PF02257|122-198         q--LTLQWLEENYIVCEGVCLPRCILYAHYLDFCRKEKL.EPACAATFGKTIRQKFPLLTTRRLG...TRGHSKYHYYGIGI--k
+#=GR Q8HWS3|PF02257|122-198 PP 6..689*********************************.*************************...************87..5
+Q6ZV50|PF02257|22-96           v----IQWLVDNFCICEECSVPRCLMYEIYVETCGQNTE.NQVNPATFGKLVRLVFPDLGTRRLG...TRGSARYHYDGICI--k
+#=GR Q6ZV50|PF02257|22-96   PP 6....79********************************.*************************...************87..5
+#=GC PP_cons                   ..56889********************************.*************************...************976..
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx.
+//

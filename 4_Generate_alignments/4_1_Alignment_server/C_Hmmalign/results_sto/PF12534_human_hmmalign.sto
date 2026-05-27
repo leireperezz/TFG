@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+Q6NSJ5|PF12534|1-331         MIPVAEFKQFTEQQPAFKVLKPWWDVLAEYLTVAMLMIGVFGCTLQVTQDKII.CLPNHEL......................................QENLSEAPCQQLLPRGIPEQ---------IG.ALQEVKGLKNNLDLQQYSFINQLCYETALHWYAKYFPYLVVIHTLIFMVCTSFWFKFPGTSSKIEHFIS
+#=GR Q6NSJ5|PF12534|1-331 PP 9****************************************************.****887......................................77777777777666665555.........34.6789*****************************************************************
+Q6P9F7|PF12534|1-334         MITLTELKCLADAQSSYHILKPWWDVFWYYITLIMLLVAVLAGALQLTQSRVLcCLPC---......................................---KVEFDNHCAVPWDILKASMNTSSNPGT-.PLPLPLRIQNDLHRQQYSYIDAVCYEKQLHWFAKFFPYLVLLHTLIFAACSNFWLHYPSTSSRLEHFVA
+#=GR Q6P9F7|PF12534|1-334 PP 9**************************************************9978***............................................78999999999*999998887777665..889999***************************************************************
+Q7L1W4|PF12534|1-384         MFTLAEVASLNDIQPTYRILKPWWDVFMDYLAVVMLMVAIFAGTMQLTKDQVV.CLPVLPSpvnskahtppgnaevttnipkmeaatnqdqdgrttndiSFGTSAVTPDIPLRATYPRTDFALPNQEAKK.EKKDPTGRKTNLDFQQYVFINQMCYHLALPWYSKYFPYLALIHTIILMVSSNFWFKYPKTCSKVEHFVS
+#=GR Q7L1W4|PF12534|1-384 PP 9****************************************************.****9889******************************99988775556666777777777788888888999999.9********************************************************************
+Q8IWT6|PF12534|1-340         MIPVTELRYFADTQPAYRILKPWWDVFTDYISIVMLMIAVFGGTLQVTQDKMI.CLPC---......................................KWVTKDSCNDSFRGWAAPGPEPTYPNSTILPtPDTGPTGIKYDLDRHQYNYVDAVCYENRLHWFAKYFPYLVLLHTLIFLACSNFWFKFPRTSSKLEHFVS
+#=GR Q8IWT6|PF12534|1-340 PP 9****************************************************.****.........................................789999999999999999999999999988878999*****************************************************************
+Q8TDW0|PF12534|1-338         MIPVTEFRQFSEQQPAFRVLKPWWDVFTDYLSVAMLMIGVFGCTLQVMQDKII.CLPKRVQ......................................PAQNHSSLSNVSQAVASTTPLPPPKPSPANP.ITVEMKGLKTDLDLQQYSFINQMCYERALHWYAKYFPYLVLIHTLVFMLCSNFWFKFPGSSSKIEHFIS
+#=GR Q8TDW0|PF12534|1-338 PP 9****************************************************.****998......................................8888888888888888888877777777777.99*******************************************************************
+#=GC PP_cons                 9****************************************************.****988......................................7777888888888888888888888887767.8999*****************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx......................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6NSJ5|PF12534|1-331         ILGKCFDSPWTTRALSEVSGENQKGPAATERAAATI---.--VAMAGTGPGKAGEGEKEKVLAEPEKVVTE-PPVVTLLDKKEGEQAKALFEKVKKFRMHVEEGDILYTMYIRQTVLKVCKFLAILVYNLVYVEKISFLVACRVETSEVTGYASFCCNHTKAHLFSKLAFCYISFVCIYGLTCIYTL
+#=GR Q6NSJ5|PF12534|1-331 PP **********************99998766666666......444556666666778889999****9999.899**************************************************************************************************************97
+Q6P9F7|PF12534|1-334         ILHKCFDSPWTTRALSETVAEQSVRPLKLSKSKILL---.--SSSGCSADIDSGKQSLPYPQPGLESAGIE-SPTSSVLDKKEGEQAKAIFEKVKRFRMHVEQKDIIYRVYLKQIIVKVILFVLIITYVPYFLTHITLEIDCSVDVQAFTGYKRYQCVYSLAEIFKVLASFYVILVILYGLTSSYSL
+#=GR Q6P9F7|PF12534|1-334 PP *************************99877776666......556667777777888899999********.788**************************************************************************************************************97
+Q7L1W4|PF12534|1-384         ILGKCFESPWTTKALSETACEDSEENKQRITGAQTLPKHvSTSSDEGSPSASTPMINKTGFKFSAEKPVIEVPS-MTILDKKDGEQAKALFEKVRKFRAHVEDSDLIYKLYVVQTVIKTAKFIFILCYTANFVNAISFEHVCKPKVEHLIGYEVFECTHNMAYMLKKLLISYISIICVYGFICLYTL
+#=GR Q7L1W4|PF12534|1-384 PP *******************************9999955558999999************************666.**************************************************************************************************************97
+Q8IWT6|PF12534|1-340         ILLKCFDSPWTTRALSETVVEESDPKPAFSKMNGSM---.DKKSSTVSEDVEATVPMLQRTKSRIEQGIVD-RSETGVLDKKEGEQAKALFEKVKKFRTHVEEGDIVYRLYMRQTIIKVIKFILIICYTVYYVHNIKFDVDCTVDIESLTGYRTYRCAHPLATLFKILASFYISLVIFYGLICMYTL
+#=GR Q8IWT6|PF12534|1-340 PP **************************9988888877....8899999999999999***************.888**************************************************************************************************************97
+Q8TDW0|PF12534|1-338         ILGKCFDSPWTTRALSEVSGEDSEEKDN--RKNNMN---.--RSNTIQSGPEDSLVNSQSLKSIPEKFVVD-KSTAGALDKKEGEQAKALFEKVKKFRLHVEEGDILYAMYVRQTVLKVIKFLIIIAYNSALVSKVQFTVDCNVDIQDMTGYKNFSCNHTMAHLFSKLSFCYLCFVSIYGLTCLYTL
+#=GR Q8TDW0|PF12534|1-338 PP ************************9965..334443......445556666677888999***********.899**************************************************************************************************************97
+#=GC PP_cons                 *************************98888777666555.88667777788888889999***********6888**************************************************************************************************************97
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

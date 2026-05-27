@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+O95259|PF13426|41-135          ....------.-----PIV.YSNDGFCKL.SGYHRAEVMQKSSTCSFmygelTDKDTIEKVRQTFENYE-......-MNSFEILMYKKNRTPVWFFVKIAPIRNEQDKVVLFLCTFSDITA..
+#=GR O95259|PF13426|41-135  PP ................599.*********.************999999999999999999999999999........******************************************95..
+O95263|PF13426|281-375         .aie-----I.TSDDH-VIqYVNPAFERM.MGYHKGELLGKELADLPks.dkNRADLLDTINTCIKKGK-......-EWQGVYYARRKSGDSIQQHVKITPVIGQGGKIRHFV--------..
+#=GR O95263|PF13426|281-375 PP .754.....6.76777.777*********.*****************99.9999999999999999999........*******************************99965..........
+Q12809|PF13426|37-129          ....------.--ENCAVI.YCNDGFCEL.CGYSRAEVMQRPCTCDFlhgprTQRRAAAQIAQALLGAE-......-ERKVEIAFYRKDGSCFLCLVDVVPVKNEDGAVIMFIL-------nf
+#=GR Q12809|PF13426|37-129  PP .............58899*.*********.*****************9766666666666666666666........**********************************776.......57
+Q8NCM2|PF13426|39-132          ...p------.------VV.YSNDGFCKL.SGYHRADVMQKSSTCSFmygelTDKKTIEKVRQTFDNYE-......-SNCFEVLLYKKNRTPVWFYMQIAPIRNEHEKVVLFLCTFKDIT-..
+#=GR Q8NCM2|PF13426|39-132  PP ...5.............89.*********.************999999988888888888888888888........******************************************9...
+Q96L42|PF13426|39-135          ...g------.----FPIV.YCSDGFCEL.AGFARTEVMQKSCSCKFlfgveTNEQLMLQIEKSLEEKT-......-EFKGEIMFYKKNGSPFWCLLDIVPIKNEKGDVVLFLASFKDITD..
+#=GR Q96L42|PF13426|39-135  PP ...8...........589*.*********.************999999977777777777777777777........*******************************************7..
+Q96RG2|PF13426|133-223         ...a---IFTvDAKTTEIL.VANDKACGL.LGYSSQDLIGQKLTQFF.....-LRSDSDVVEALSEEHMEadghaaVVFGTVVDIISRSGEKIPVSVWMKRMR------------------qe
+#=GR Q96RG2|PF13426|133-223 PP ...6...555377777999.*********.*****************......4444444444444444446667879999999**********998776665..................67
+Q96RG2|PF13426|349-386         itll------.--PDGTIH.GINHSFALTlFGYGKTELLGKNITFLI.....------------------......---------------------------------------------p.
+#=GR Q96RG2|PF13426|349-386 PP 6543.........899888.9****86544**************997..........................................................................7.
+Q9H252|PF13426|36-132          ...m------.--ENCAII.YCNDGFCEL.FGYSRVEVMQQPCTCDFltgpnTPSSAVSRLAQALLGAE-......-ECKVDILYYRKDASSFRCLVDVVPVKNEDGAVIMFILNFEDL--..
+#=GR Q9H252|PF13426|36-132  PP ...7.........7899**.*********.*********************9999*************9........***************************************995....
+Q9NS40|PF13426|37-134          ...q------.---NCAII.YCNDGFCEM.TGFSRPDVMQKPCTCDFlhgpeTKRHDIAQIAQALL---G.....sEERKVEVTYYHKNGSTFICNTHIIPVKNQEGVAMMFIINFEYVTD..
+#=GR Q9NS40|PF13426|37-134  PP ...6..........789**.*********.*****************7744444444444444444...3.....66***************************************99996..
+Q9ULD8|PF13426|40-135          ...f------.-----PVV.YCSDGFCDL.TGFSRAEVMQRGCACSFlygpdTSELVRQQIRKALDEHK-......-EFKAELILYRKSGLPFWCLLDVIPIKNEKGEVALFLVSHKDISE..
+#=GR Q9ULD8|PF13426|40-135  PP ...6............799.*********.******************9********************........******************************************98..
+Q9UQ05|PF13426|40-135          ...f------.-----PIV.YCSDGFCEL.TGYGRTEVMQKTCSCRFlygpeTSEPALQRLHKALEGHQ-......-EHRAEICFYRKDGSAFWCLLDMMPIKNEMGEVVLFLFSFKDITQ..
+#=GR Q9UQ05|PF13426|40-135  PP ...6............79*.*********.************9998889********************........*******************************************6..
+#=GC PP_cons                   .......555.77788899.********9.**************999.....888888888888888883......7*************************9********999****996..
+#=GC RF                        ....xxxxxx.xxxxxxxx.xxxxxxxxx.xxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

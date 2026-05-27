@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q676U5|PF08614|16-206         HISEQLRRRDRLQRQAFEEIILQYNKLLEKSDLHSVLAQKLQAEKHDVPNRHEISPG------------HDgtwNDNQLQEMAQLRIKHQEELTELHKKRGELAQLVIDLNNQMQRKDREMQMNEAKIAECLQTISDLETECLDLRTKLCDLERANQTLKDEYDALQITFTALEGKLRKTTEENQELVTRWMAEKAQEAN
+#=GR Q676U5|PF08614|16-206 PP 799**************************************9887777763222222............223446789**************************************************************************************************************************
+Q8NAA4|PF08614|17-207         HIVRQLRLRDRTQKALFLELVPAYNHLLEKAELLDKFSKKLQPEPNSVTPTTHQGPWEE--------SEL-...DSDQVPSLVALRVKWQEEEEGLRLVCGEMAYQVVEKGAALGTLESELQQRQSRLAALEARVAQLREARAQQAQQVEEWRAQNAVQRAAYEALRAHVGLREAALRRLQEEARDLLERLVQRKARAAA
+#=GR Q8NAA4|PF08614|17-207 PP 79*******************************************************88........223....4789**************************************************************************************************************************
+#=GC PP_cons                  79***************************************999988888666666688........2222...5789**************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q676U5|PF08614|16-206         RLN
+#=GR Q676U5|PF08614|16-206 PP *99
+Q8NAA4|PF08614|17-207         ERN
+#=GR Q8NAA4|PF08614|17-207 PP 998
+#=GC PP_cons                  *99
+#=GC RF                       xxx
+//

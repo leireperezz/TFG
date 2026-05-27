@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+O14950|PF08976|102-160           .....v---------------------IRNAFACFDEEATGTIQEDYLRELLTTMGDRFTDEEVDELYREAPIDKKGNFNYIEF---------------------------t
+#=GR O14950|PF08976|102-160   PP .....7.....................5678999***********************************************988...........................7
+P19105|PF08976|101-159           .....v---------------------IRNAFACFDEEATGTIQEDYLRELLTTMGDRFTDEEVDELYREAPIDKKGNFNYIEF---------------------------t
+#=GR P19105|PF08976|101-159   PP .....7.....................5678999***********************************************988...........................7
+Q5THR3|PF08976|71-136            rgdelq-----------------------KAFQLLDTGQNLTVSKSELRRIITDFLMPLTREQFQDVLAQIPLSTSGTVPYLAFLSRF-----------------------g
+#=GR Q5THR3|PF08976|71-136    PP *99865.......................679999****************************************************8.......................6
+Q5THR3|PF08976|1160-1260         ......ATADRDILARLHKAVTSHYHAITQEFENFDTMKTNTISREEFRAICNRRVQILTDEQFDRLWNEMPVNAKGRLKYPDFLSRFSSE-TAATPMATGD---SAVAQR.
+#=GR Q5THR3|PF08976|1160-1260 PP ......69***********************************************************************************.**********...999998.
+#=GC PP_cons                     ......69*******************7778999***********************************************999***9***.**********...999998.
+#=GC RF                          ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

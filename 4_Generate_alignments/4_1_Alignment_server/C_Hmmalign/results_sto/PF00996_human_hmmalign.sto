@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+P24386|PF00996|7-66          s---EFDVIVIGTGLPESIIAAACSRSGRRVLHVDSRSYYGGNWASFS.FSGLLSWLKE---------------------------------------------------------------------------------------------------------------------------------------------
+#=GR P24386|PF00996|7-66  PP 6...89*****************************************9.9888766554.............................................................................................................................................
+P26374|PF00996|7-70          t---EFDVVIIGTGLPESILAAACSRSGQRVLHIDSRSYYGGNWASFS.FSGLLSWLKEYQQN-----------------------------------------------------------------------------------------------------------------------------------------
+#=GR P26374|PF00996|7-70  PP 6...89*****************************************9.88887666655333.........................................................................................................................................
+P31150|PF00996|1-435         .MDEEYDVIVLGTGLTECILSGIMSVNGKKVLHMDRNPYYGGESSSITpLEELYKRFQLLEGPPESMGRGRDWNVDLIPKFLMANGQLVKMLLYTEVTRYLDFKVVEGSFVYKGGKIYKVPSTETEALASNLMGMFEKRRFRKFLVFVANFDENDPKTFEGVDPQTTSMRDVYRKFDLGQDVIDFTGHALALYRTDDYLD
+#=GR P31150|PF00996|1-435 PP .9******************************************************************************************************************************************************************************************************
+P50395|PF00996|1-435         .MNEEYDVIVLGTGLTECILSGIMSVNGKKVLHMDRNPYYGGESASITpLEDLYKRFKIPGSPPESMGRGRDWNVDLIPKFLMANGQLVKMLLYTEVTRYLDFKVTEGSFVYKGGKIYKVPSTEAEALASSLMGLFEKRRFRKFLVYVANFDEKDPRTFEGIDPKKTTMRDVYKKFDLGQDVIDFTGHALALYRTDDYLD
+#=GR P50395|PF00996|1-435 PP .9******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 .9**9*******************************************.99998888878888*****************************************************************************************************************************************
+#=GC RF                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P24386|PF00996|7-66          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR P24386|PF00996|7-66  PP ........................................................................................................................................................................................................
+P26374|PF00996|7-70          --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR P26374|PF00996|7-70  PP ........................................................................................................................................................................................................
+P31150|PF00996|1-435         QPCLETVNRIKLYSESLARYGKSPYLYPLYGLGELPQGFARLSAIYGGTYMLNKPVDDIIM-ENGKVVGVKSEGEVARCKQLICDPSYIPDRVRKAGQVIRIICILSHPIKNTNDANSCQIIIPQNQVNRKSDIYVCMISYAHNVAAQGKYIAIASTTVETTDPEKEVEPALELLEPIDQKFVAISDLYEPIDDGCESQV
+#=GR P31150|PF00996|1-435 PP *************************************************************.9*****************************************************************************************************************************************
+P50395|PF00996|1-435         QPCYETINRIKLYSESLARYGKSPYLYPLYGLGELPQGFARLSAIYGGTYMLNKPIEEIIV-QNGKVIGVKSEGEIARCKQLICDPSYVKDRVEKVGQVIRVICILSHPIKNTNDANSCQIIIPQNQVNRKSDIYVCMISFAHNVAAQGKYIAIVSTTVETKEPEKEIRPALELLEPIEQKFVSISDLLVPKDLGTESQI
+#=GR P50395|PF00996|1-435 PP ************************************************************9.99****************************************************************************************************************************************
+#=GC PP_cons                 *************************************************************.9*****************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P24386|PF00996|7-66          --------------------------------------yqens
+#=GR P24386|PF00996|7-66  PP ......................................45578
+P26374|PF00996|7-70          --------------------------------------ndige
+#=GR P26374|PF00996|7-70  PP ......................................34668
+P31150|PF00996|1-435         FCSCSYDATTHFETTCNDIKDIYKRMAGTAFDFENM--k....
+#=GR P31150|PF00996|1-435 PP *********************************987..6....
+P50395|PF00996|1-435         FISRTYDATTHFETTCDDIKNIYKRMTGSEFDFEEM--k....
+#=GR P50395|PF00996|1-435 PP *********************************986..6....
+#=GC PP_cons                 *********************************986.......
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....
+//

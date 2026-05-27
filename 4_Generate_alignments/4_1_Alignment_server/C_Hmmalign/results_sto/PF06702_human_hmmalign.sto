@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O75063|PF06702|191-398         vg------NNTCFYGKC-YYCRETEPACADGDIMEGSVTLWLPDVWPLQ--KHRHPWGRTYREGKLARWEYDESYCDAVKKTSPYDSGPRLLDIIDTAVFDYLIGNADRHHYESFQDDEGASMLILLDNAKSFGNPSLDERSILAPLYQCCIIRVSTWNRLNYLKNG--VLKSALKSAMAHDPISPVLSDPHLDAVDQRL
+#=GR O75063|PF06702|191-398 PP 85......8********.****************************844..6*******************************************************************************************************************..*******************************
+Q8IXL6|PF06702|353-569         ..FFISPANNICFYGECSYYCSTEHALCGKPDQIEGSLAAFLPDLSLAKRKTWRNPWRRSYHKRKKAEWEVDPDYCEEVKQTPPYDSSHRILDVMDMTIFDFLMGNMDRHHYETFEKFGNETFIIHLDNGRGFGKYSHDELSILVPLQQCCRIRKSTYLRLQLLAKEEYKLSLLMAESLRGDQVAPVLYQPHLEALDRRL
+#=GR Q8IXL6|PF06702|353-569 PP ..9*****************************************************************************************************************************************************************************************************
+Q96MK3|PF06702|305-522         ..FFVSPASNVCFFAKCPYMCKTEYAVCGNPHLLEGSLSAFLPSLNLAPRLSVPNPWIRSYTLAGKEEWEVNPLYCDTVKQIYPYNNSQRLLNVIDMAIFDFLIGNMDRHHYEMFTKFGDDGFLIHLDNARGFGRHSHDEISILSPLSQCCMIKKKTLLHLQLLAQADYRLSDVMRESLLEDQLSPVLTEPHLLALDRRL
+#=GR Q96MK3|PF06702|305-522 PP ..9*****************************************************************************************************************************************************************************************************
+#=GC PP_cons                   ..9*****9*************************************988**9****************************************************************************************************************************************************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O75063|PF06702|191-398         LSVLATVKQCTDQFGMDT--v
+#=GR O75063|PF06702|191-398 PP **********99987765..6
+Q8IXL6|PF06702|353-569         RVVLKAVRDCVERNGLHS--v
+#=GR Q8IXL6|PF06702|353-569 PP ************998776..6
+Q96MK3|PF06702|305-522         QTILRTVEGCIVAHGQQSVI.
+#=GR Q96MK3|PF06702|305-522 PP **************999885.
+#=GC PP_cons                   ***********999887685.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxx.
+//

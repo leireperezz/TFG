@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O00337|PF07662|367-588         -LIAASVMAAPCALALSKLVYPEVEE---SKFRREEGVKLTYGDAQNLIEAASTGAAISVKVVANIAANLIAFLAVLDFINAALSWLGDMVDIQGLSFQLICSYILRPVAFLMGVAWEDCPVVAELLGIKLFLNEFVAYQDLSKYKQrrlagaeewvgdrKQWISVRAEVLTTFALCGFANFSSIGIMLGGLTSMVPQRK
+#=GR O00337|PF07662|367-588 PP .89***********************...33333333556677889**********************************************************************************************************************************************************
+O43868|PF07662|362-583         -LISASVMAAPCALASSKLAYPEVEES---KFKSEEGVKLPRGKERNVLEAASNGAVDAIGLATNVAANLIAFLAVLAFINAALSWLGELVDIQGLTFQVICSYLLRPMVFMMGVEWTDCPMVAEMVGIKFFINEFVAYQQLSQYKNkrlsgmeewiegeKQWISVRAEIITTFSLCGFANLSSIGITLGGLTSIVPHRK
+#=GR O43868|PF07662|362-583 PP .89***********************3...3333333344555667****************************************************************************************************9*****************************************************
+Q9HAS3|PF07662|388-610         HLLTASVMSAPASLAAAKLFWPETEKPKITLK---NAMKMESGDSGNLLEAATQGASSSISLVANIAVNLIAFLALLSFMNSALSWFGNMFDYPQLSFELICSYIFMPFSFMMGVEWQDSFMVARLIGYKTFFNEFVAYEHLSKWIHlrkeggpkfvngvQQYISIRSEIIATYALCGFANIGSLGIVIGGLTSMAPSRK
+#=GR Q9HAS3|PF07662|388-610 PP 8*************************553333...33456677888***************************************************************************************************99*****************************************************
+#=GC PP_cons                   889***********************45333333333455666778****************************************************************************************************9.............****************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00337|PF07662|367-588         SDFSQIVLRALFTGACVSLVNACMAG
+#=GR O00337|PF07662|367-588 PP *************************9
+O43868|PF07662|362-583         SDLSKVVVRALFTGACVSLISACMAG
+#=GR O43868|PF07662|362-583 PP *************************9
+Q9HAS3|PF07662|388-610         RDIASGAVRALIAGTVACFMTACIAG
+#=GR Q9HAS3|PF07662|388-610 PP *************************9
+#=GC PP_cons                   *************************9
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxx
+//

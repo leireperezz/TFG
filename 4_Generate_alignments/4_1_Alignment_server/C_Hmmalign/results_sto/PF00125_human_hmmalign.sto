@@ -1,0 +1,99 @@
+# STOCKHOLM 1.0
+
+O60814|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR O60814|PF00125|20-101    PP .......6899****************************......************************************************97
+O75367|PF00125|5-85              ...gg------KKKSTKTSRSAKAGVIFPVGRMLRYIKK..-GHPKYRIGVGAPVYMAAVLEYLTAEILELAGNAARDNKKGRVTPRHILLAV--
+#=GR O75367|PF00125|5-85      PP ...96......7899999********************8...999*********************************************996..
+P04908|PF00125|7-89              qggka--------RAKAKTRSSRAGLQFPVGRVHRLLRK..-GNYSERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR P04908|PF00125|7-89      PP 98755........556778889999*************8...9999**********************************************98.
+P06899|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR P06899|PF00125|20-101    PP .......6899****************************......************************************************97
+P0C0S5|PF00125|9-93              ..dsg------KAKTKAVSRSQRAGLQFPVGRIHRHLKS..RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRG
+#=GR P0C0S5|PF00125|9-93      PP ..976......778999**********************..****************************************************95
+P0C0S8|PF00125|7-89              qggka--------RAKAKTRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR P0C0S8|PF00125|7-89      PP 98755........556778889999*************8...89999*********************************************98.
+P0DPK2|PF00125|44-131            .....PGTLALREIRKYQKSTQLLLRKLPFQRLVREIAQ..AISPDLRFQSAAIGALQEASEAYLVQLFEDTNLCAIHARRVTIMPRDMQLARRL
+#=GR P0DPK2|PF00125|44-131    PP .....6899******************************..****************************************************97
+P0DPK5|PF00125|44-131            .....PGTLALREIRKYQKSTQLLLRKLPFQRLVREIAQ..AISPDLRFQSAAIGALQEASEAYLVQLFEDTNLCAIHARRVTIMPRDMQLARRL
+#=GR P0DPK5|PF00125|44-131    PP .....6899******************************..****************************************************97
+P16104|PF00125|9-89              ..gka--------RAKAKSRSSRAGLQFPVGRVHRLLRK..-GHYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR P16104|PF00125|9-89      PP ..965........55678899999**************8...99999*********************************************98.
+P20671|PF00125|7-89              qggka--------RAKAKTRSSRAGLQFPVGRVHRLLRK..-GNYSERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR P20671|PF00125|7-89      PP 98755........556778889999*************8...9999**********************************************98.
+P23527|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR P23527|PF00125|20-101    PP .......6899****************************......************************************************97
+P33778|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR P33778|PF00125|20-101    PP .......6899****************************......************************************************97
+P49450|PF00125|47-132            ....w-----LKEIRKLQKSTHLLIRKLPFSRLAREICVkfTRGVDFNWQAQALLALQEAAEAFLVHLFEDAYLLTLHAGRVTLFPKDVQLARRI
+#=GR P49450|PF00125|47-132    PP ....5.....79***************************9999***************************************************7
+P57053|PF00125|20-101            .....--TKAQKKDGRKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLPHYNKRSTITSREIQTAVRL
+#=GR P57053|PF00125|20-101    PP .......6899****************************......************************************************97
+P58876|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR P58876|PF00125|20-101    PP .......6899****************************......************************************************97
+P62807|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR P62807|PF00125|20-101    PP .......6899****************************......************************************************97
+P68431|PF00125|44-131            .....PGTVALREIRRYQKSTELLIRKLPFQRLVREIAQ..DFKTDLRFQSSAVMALQEACEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRI
+#=GR P68431|PF00125|44-131    PP .....689*******************************..*****************************************************7
+P84243|PF00125|44-131            .....PGTVALREIRRYQKSTELLIRKLPFQRLVREIAQ..DFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRI
+#=GR P84243|PF00125|44-131    PP .....689*******************************..*****************************************************7
+Q13952|PF00125|28-105            ....e--------EIRNLTVKDFRVQELPLAR-IKKIMK..LDEDVKMISAEAPVLFAKAAQIFITELTLRAWIHTEDNKRRTLQRNDIAMAI--
+#=GR Q13952|PF00125|28-105    PP ....6........5667778899*********.******..**************************************************97..
+Q16695|PF00125|44-131            .....PGTVALREIRRYQKSTELLIRKLPFQRLMREIAQ..DFKTDLRFQSSAVMALQEACESYLVGLFEDTNLCVIHAKRVTIMPKDIQLARRI
+#=GR Q16695|PF00125|44-131    PP .....689*******************************..*****************************************************7
+Q16777|PF00125|7-89              .qggk-------ARAKAKSRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYMAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q16777|PF00125|7-89      PP .9875.......556778899999**************8...89999*********************************************98.
+Q16778|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q16778|PF00125|20-101    PP .......6899****************************......************************************************97
+Q5QNW6|PF00125|20-101            ....t---KVQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q5QNW6|PF00125|20-101    PP ....5...6789999************************......************************************************97
+Q6DN03|PF00125|20-93             .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKRVHP..----DTGIWCKAMGIMNSFLNDIFERIAGEASRLAHYNKRSTITSR--------
+#=GR Q6DN03|PF00125|20-93     PP .......6899****************************......****************************************86........
+Q6DRA6|PF00125|20-93             .....--TKAQKKDGKKRKRSRKESYSIYVYKVLKRVHP..----DTGIWCKAMGIMNSFLNDIFERIAGEASRLAHYNKRSTITSR--------
+#=GR Q6DRA6|PF00125|20-93     PP .......6899****************************......****************************************86........
+Q6FI13|PF00125|7-89              .qggk-------ARAKAKSRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYMAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q6FI13|PF00125|7-89      PP .9875.......556778899999**************8...89999*********************************************98.
+Q6NXT2|PF00125|43-130            .....PGTVALREIRRYQKSTELLIRKLPFQRLVREIAQ..DFNTDLRFQSAAVGALQEASEAYLVGLLEDTNLCAIHAKRVTIMPKDIQLARRI
+#=GR Q6NXT2|PF00125|43-130    PP .....689*******************************..*****************************************************7
+Q71DI3|PF00125|44-131            .....PGTVALREIRRYQKSTELLIRKLPFQRLVREIAQ..DFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRI
+#=GR Q71DI3|PF00125|44-131    PP .....689*******************************..*****************************************************7
+Q71UI9|PF00125|10-93             ...sg------KAKAKAVSRSQRAGLQFPVGRIHRHLKT..RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRG
+#=GR Q71UI9|PF00125|10-93     PP ...87......6678999*********************..****************************************************95
+Q7L7L0|PF00125|7-89              .qggk-------ARAKAKSRSSRAGLQFPVGRVHRLLRK..-GNYSERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q7L7L0|PF00125|7-89      PP .9875.......556778899999**************8...9999**********************************************98.
+Q7Z2G1|PF00125|40-122            ...rk---RGRHGPRRCHSNCRGDSFATYFRRVLKQVHQ..----GLSLSREAVSVMDSLVHDILDRIATEAGHLARSTKRQTITAWETRMAVRL
+#=GR Q7Z2G1|PF00125|40-122    PP ...75...568899*************************......************************************************97
+Q8IUE6|PF00125|7-89              .qggk-------ARAKAKSRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAVR-
+#=GR Q8IUE6|PF00125|7-89      PP .9875.......556778899999**************8...89999*********************************************98.
+Q8N257|PF00125|20-101            .....--TKAQKKDGKKRKRGRKESYSIYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIASEASRLAHYNKRSTITSREVQTAVRL
+#=GR Q8N257|PF00125|20-101    PP .......6899****************************......************************************************97
+Q93077|PF00125|7-89              .qggk-------ARAKAKSRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q93077|PF00125|7-89      PP .9875.......556778899999**************8...89999*********************************************98.
+Q93079|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q93079|PF00125|20-101    PP .......6899****************************......************************************************97
+Q96A08|PF00125|22-102            ....k----TQKKEGKKRKRTRKESYSIYIYKVLKQVHP..----DTGISSKAMSIMNSFVTDIFERIASEASRLAHYSKRSTISSREIQTAVRL
+#=GR Q96A08|PF00125|22-102    PP ....6....689999************************......************************************************97
+Q96KK5|PF00125|7-89              qggka--------RAKAKTRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q96KK5|PF00125|7-89      PP 98755........556778889999*************8...89999*********************************************98.
+Q96QV6|PF00125|6-89              .kqgg------KARAKSKSRSSRAGLQFPVGRIHRLLRK..-GNYAERIGAGAPVYLAAVLEYLTAEILELAGNASRDNKKTRIIPRHLQLAIR-
+#=GR Q96QV6|PF00125|6-89      PP .8776......66778999999****************8...89999*********************************************98.
+Q99877|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q99877|PF00125|20-101    PP .......6899****************************......************************************************97
+Q99878|PF00125|7-89              qggka--------RAKAKTRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q99878|PF00125|7-89      PP 98755........556778889999*************8...89999*********************************************98.
+Q99879|PF00125|21-101            .....---KAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q99879|PF00125|21-101    PP ........58999**************************......************************************************97
+Q99880|PF00125|20-101            .....--TKAQKKDGKKRKRSRKESYSVYVYKVLKQVHP..----DTGISSKAMGIMNSFVNDIFERIASEASRLAHYNKRSTITSREIQTAVRL
+#=GR Q99880|PF00125|20-101    PP .......6899****************************......************************************************97
+Q9P0M6|PF00125|6-85              ....g------KKKMSKLSRSARAGVIFPVGRLMRYLKK..-GTFKYRISVGAPVYMAAVIEYLAAEILELAGNAARDNKKARIAPRHILLAV--
+#=GR Q9P0M6|PF00125|6-85      PP ....8......6777788999999**************9...8899********************************************996..
+P0C1H6|PF00125|57-123            ...gd-------------------SFTPYFPRVLKQVHQ..----GLSLSQEAVSVMDSMIHDILDRIATEAGQLAHYTKRVTITSRDIQMAVRL
+#=GR P0C1H6|PF00125|57-123    PP ...86...................56679**********......************************************************97
+Q5TEC6|PF00125|44-131            .....PGTVALREIRRYQKSTELLIRKLPFQRLVREIAQ..EFKTDLRFQSSAVMALQEAREAYLVGLFEDTNLCAIHAKRVTIMPKDIQLVSRI
+#=GR Q5TEC6|PF00125|44-131    PP .....689*******************************..**************************************************9987
+Q9BTM1|PF00125|10-89             .kvra----------KAKSRSSRAGLQFPVGRVHRLLRK..-GNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIR-
+#=GR Q9BTM1|PF00125|10-89     PP .8865..........667889999**************8...89999*********************************************98.
+A0A2R8Y619|PF00125|22-97         ..kks-----------KKRCRRKESYSMYIYKVLKQVHP..----DIGISAKAMSIMNSFVNDVFEQLACEAARLAQYSGRTTLTSREVQTAVRL
+#=GR A0A2R8Y619|PF00125|22-97 PP ..644...........445567889**************......************************************************97
+#=GC PP_cons                     .....6878999988999999*****************9..*999***********************************************997
+#=GC RF                          .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

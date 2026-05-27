@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q8N9B5|PF15871|321-582         ..ESLSELRQKGYEEVLQRARKRIQELLDKHKNTESMVELLDLYQMEDEAYSSLAEATTELYQYLLQPFRDMRELAMLRRQQIKISMENDYLGPRRIESLQKEDADWQRKAHMAVLSIQDLTVKYFEITAKAQKAVYDRMRADQKKFGKASWAAAAERMEKLQYAVSKETLQMMRAKEICLEQRKHALKEEMQSLRGGTE
+#=GR Q8N9B5|PF15871|321-582 PP ..89****************************************************************************************************************************************************************************************************
+Q8TF30|PF15871|181-442         sp---REFRERALRARWVEADARLRQVIQGHGKANTMVALMNVYQEEDEAYQELVTVATMFFQYLLQPFRAMREVATLCKLDILKSLDEDDLGPRRVVALEKEAEEWTRRAEEAVVSIQDITVNYFKETVKALAGMQKEMEQDAKRFGQAAWATAIPRLEKLQLMLARETLQLMRAKELCLNHKRAEIQGKMEDLPEQEK
+#=GR Q8TF30|PF15871|181-442 PP 88...69*************************************************************************************************************************************************************************************************
+Q1A5X7|PF15871|37-152          ql------------------------------------------------------------------------------------------------------------------------------------GMQKEMEQDVKRFGQAAWATAIPRLEKLKLMLAQETLQLMRAKELCLNHKRAEIQGKMEDLPEQEK
+#=GR Q1A5X7|PF15871|37-152  PP 75....................................................................................................................................8*****************************************************************
+#=GC PP_cons                   ..89*8********************************************************************************************************************************9*****************************************************************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8N9B5|PF15871|321-582         AIARLDQLEADYYDLQLQLYEVQFEILKCEELLLTAQLESIKRLISEKRDEVVYYDTYESMEAM-.
+#=GR Q8N9B5|PF15871|321-582 PP *************************************************************987..
+Q8TF30|PF15871|181-442         NTNVVDELEIQFYEIQLELYEVKFEILKNEEILLTTQLDSLKRLIKEKQDEVVYYDPCENPEELK.
+#=GR Q8TF30|PF15871|181-442 PP ***************************************************************97.
+Q1A5X7|PF15871|37-152          NINVVDELAIQFYEIQLELYEVKFEILKNKEILLTTQLDSLERLIKD------------------e
+#=GR Q1A5X7|PF15871|37-152  PP *********************************************98..................5
+#=GC PP_cons                   **********************************************9***************987.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

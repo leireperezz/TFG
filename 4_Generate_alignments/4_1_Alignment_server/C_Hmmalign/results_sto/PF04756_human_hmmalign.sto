@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q13454|PF04756|54-342         .........EQLMEWSSRR-SIFRMNGDKFRKFIKaPPRNYSMIVMFTALQPQRQCSVCRQANEEYQILANSWRYS-SAFCNKLFFSMVDYDEGTDVFQQLNMNSAPTFMHFPPKGRPK----RADTFDLQRIGFAAEQLAKWIADRTDVHIRVFRPPNYSGTIALALLVSLVGGLLYLRRNNL-EFIYNKTGWAMVSLC
+#=GR Q13454|PF04756|54-342 PP .........6899****99.9*************99****************************************.99*************************************999....*************************************************************.9**************
+Q9H0U3|PF04756|43-330         .........-QLMEWTNKR-PVIRMNGDKFRRLVKaPPRNYSVIVMFTALQLHRQCVVCKQADEEFQILANSWRYS-SAFTNRIFFAMVDFDEGSDVFQMLNMNSAPTFINFPAKGKPK----RGDTYELQVRGFSAEQIARWIADRTDVNIRVIRPPNYAGPLMLGLLLAVIGGLVYLRRSNM-EFLFNKTGWAFAALC
+#=GR Q9H0U3|PF04756|43-330 PP ..........689999999.9*************99****************************************.99***************************************9....*************************************************************.9**************
+Q9NRP0|PF04756|18-146         klkkppwlh--------------------------.-------------------------------------------------------------------------------------------------------------------------------------------------------MPSAMTVYALVVV
+#=GR Q9NRP0|PF04756|18-146 PP 876655554..................................................................................................................................................................................46788999*****
+#=GC PP_cons                  .........6799999999.9*************9.****************************************.99*************************************999....*************************************************************.9*89999********
+#=GC RF                       .........xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13454|PF04756|54-342         IVFAMTSGQMWNHIRGPPYAHK..NPHNG..qVSYIHGSSQAQFVAESHIILVLNAAITMGMVLLNEAATSKGDVGKRRIICLVGLGLVVFFFSFLLSIF.RSKYHGYPY
+#=GR Q13454|PF04756|54-342 PP **********************..*9999..8********************************************************************.********9
+Q9H0U3|PF04756|43-330         FVLAMTSGQMWNHIRGPPYAHK..NPHTG..hVNYIHGSSQAQFVAETHIVLLFNGGVTLGMVLLCEAATSDMDIGKRKIMCVAGIGLVVLFFSWMLSIF.RSKYHGYPY
+#=GR Q9H0U3|PF04756|43-330 PP **********************..*****..9********************************************************************.********9
+Q9NRP0|PF04756|18-146         SYFLITGGIIYDVIVEPPSVGSmtDEHGHqrpVAFLAYRVNGQYIMEGLASSFLFTMGGLGFIILD-RSNAPNIPKLNRFLLLFIGFVCVLLSFFMARVFmRMKLPGY--
+#=GR Q9NRP0|PF04756|18-146 PP ******************986422444434469********************************9.44455558888888777776666666666666648999998..
+#=GC PP_cons                  *******************998..88877...9**********************************888888899999999999999999999999999.9*****9*9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxx..xxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx
+//

@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+O14787|PF03810|32-98          ..-QDKLKQLNQ..FPDFNNYLIFVLTRLKSEdEPTRSLSGLILKNNVKAHYQ..-----........SFPPPVADFIKQECLNNIG-..
+#=GR O14787|PF03810|32-98  PP ...579******..**************655547*******************...............****************985...
+O14980|PF03810|46-111         ..AQEVLTHLKE..HPDAWTRVDTILEFSQNM.-NTKYYGLQILENVIKTRWK..-----........ILPRNQCEGIKKYVVGLI--i.
+#=GR O14980|PF03810|46-111 PP ..899*******..******************..*******************...............**************9987..5.
+O15397|PF03810|22-101         ..AENELNQSYK..IINFAPSLLRIIVSDHVE.FPVRQAAAIYLKNMVTQYWP..DREPPpgeaifpfNIHENDRQQIRDNIVEGI--i.
+#=GR O15397|PF03810|22-101 PP ..9*********..******************.********************..99999***********************987..5.
+O43592|PF03810|26-86          ..-----EQLKI..SPDAWQVCAEALAQRTYSdDHVKFFCFQVLEHQVKYKYS..-----........ELTTVQQQLIRETLI-----sw
+#=GR O43592|PF03810|26-86  PP .......68899..*************9665537*******************...............*************98.....69
+O94829|PF03810|45-107         ..AQKWLMQAQV..SPQAWHFSWQLLQPDKVP.-EIQYFGASALHIKISRYWS..-----........DIPTDQYESLKAQLF-----t.
+#=GR O94829|PF03810|45-107 PP ..89********..******************..*******************...............***********9986.....6.
+O95373|PF03810|22-101         ..AERQLNEAHK..SLNFVSTLLQITMSEQLD.LPVRQAGVIYLKNMITQYWP..DRETApgd.ispyTIPEEDRHCIRENIVEAIIH..
+#=GR O95373|PF03810|22-101 PP ..9*********..******************.********************..99999***.********************9985..
+P55060|PF03810|29-102         ..AEKFLESVEG..NQNYPLLLLTLLEKSQDN.-VIKVCASVTFKNYIKRNWRivE--DEp......nKICEADRVAIKANIVHLMLS..
+#=GR P55060|PF03810|29-102 PP ..9*********..******************..*******************444..446......6****************9985..
+Q14974|PF03810|21-101         ..AQKFLERAAVenLPTFLVELSRVLANPGNS.QVARVAAGLQIKNSLTSK--..DPDIKaqyqqrwlAIDANARREVKNYVLQTLGT..
+#=GR Q14974|PF03810|21-101 PP ..789999877777**************9999.9*****************....8888889***********************986..
+Q8TEX9|PF03810|24-88          ..ATEQLQIVLR..APAALPALCDLLASAADP.-QIRQFAAVLTRRRLNTRWR..-----........RLAAEQRESLKSLILTAL--..
+#=GR Q8TEX9|PF03810|24-88  PP ..7889999999..9*****************..*******************...............***************986....
+Q92973|PF03810|42-108         ..-QQKLEQLNQ..YPDFNNYLIFVLTKLKSEdEPTRSLSGLILKNNVKAHFQ..-----........NFPNGVTDFIKSECLNNIG-..
+#=GR Q92973|PF03810|42-108 PP ...699******..**************665547*******************...............****************985...
+Q96P70|PF03810|43-117         ..AEEQIKVLEV..TEEFGVHLAELTVDPQGA.LAIRQLASVILKQYVETHWC..AQSEKfr....ppETTERAKIVIRELLPNG---l.
+#=GR Q96P70|PF03810|43-117 PP ..9*********..******************.********************..99999**....*************999876...6.
+Q96QU8|PF03810|32-96          ..-EELLNNFAQ..QIGAWRFCLYFLSSTRND.-YVMMYSLTVFENLINKMWL..-----........GVPSQDKMEIRSCLPKLL--l.
+#=GR Q96QU8|PF03810|32-96  PP ...789******..******************..*******************...............***********9988876..6.
+Q9HAV4|PF03810|35-98          kf----CEEFKE.kCPICVPCGLRLAEKTQVA.-IVRHFGLQILEHVVKFRWN..-----........GMSRLEKVYLKNSVMELI--..
+#=GR Q9HAV4|PF03810|35-98  PP 75....678888.8999***************..*******************...............*************98875....
+Q9UI26|PF03810|28-98          ..AEEQLKQWET..QPGFYSVLLNIFTNHTLD.INVRWLAVLYFKHGIDRYWR..RVAPH........ALSEEEKTTLRAGLIT----nf
+#=GR Q9UI26|PF03810|28-98  PP ..9*********..******************.********************..99999........************9997....57
+Q9UIA9|PF03810|30-95          ..AEKALVEFTN..SPDCLSKCQLLLERGSSS.-YSQLLAATCLTKLVSRTNN..-----........PLPLEQRIDIRNYVLNYL--a.
+#=GR Q9UIA9|PF03810|30-95  PP ..9*********..******************..*******************...............****************98..5.
+Q9H2T7|PF03810|30-94          ..AEKALLELID..SPECLSKCQLLLEQGTTS.-YAQLLAATCLSKLVSRV-S..-----........PLPVEQRMDIRNYILNYV--a.
+#=GR Q9H2T7|PF03810|30-94  PP ..9*********..******************..***************99.9...............****************97..6.
+#=GC PP_cons                  ..8999*99**9..**************9999.9*******************..89988........**************998875..
+#=GC RF                       ..xxxxxxxxxx..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx..xxxxx........xxxxxxxxxxxxxxxxxxxx..
+//

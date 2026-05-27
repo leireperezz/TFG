@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P14679|PF00264|172-402         i---YDLFVWMH......-YYVSMD---AllggseiwrdidFAHEAPAFLPWHRLFLLRWEQEIQKLTG-DENFTIPYWDWRDA--EKCDICTDEYMGGQHPTNPNLLSpasffsSWQIVCSRLEEYNSHqsl.cngtPEGP.....--LRRNPGNHDKSRTPRLPSSA.DVEFCLSLTQYesGSMDKAA-Nf......s
+#=GR P14679|PF00264|172-402 PP 7...8999****.......222222...1234577888999**************************99.9*************..99999999999998888888887566666455555555555555777.63333333.......44445555555666666666.66666666666223333332.23......5
+P17643|PF00264|184-416         i---YNYFVWTHyysvkkT---------FlgvgqesfgevdFSHEGPAFLTWHRYHLLRLEKDMQEMLQ-EPSFSLPYWNFATG-KNVCDICTDDLMGSRSNFDSTLIS......----PNSVFSQWRVVcdsledydTLGTlcnstEDGPIRRNPAGNV---------.ARPMVQRLPEP..QDVAQCLEVglfdtppf
+#=GR P17643|PF00264|184-416 PP 7...899*****5444330.........1334455677777**************************88.7*************.9*******************9999..........99999999996664443332222322223333444444444..........44444555555..55554444444444555
+P40126|PF00264|180-408         s--VYDFFVWLH......YYSVRDT---Llgpgr.pyraidFSHQGPAFVTWHRYHLLCLERDLQRLIG-NESFALPYWNFATG-RNECDVCTDQLFGAARPDDPTLIS......----RNSRFSSWET-........VCDS.....LDDYNHLVTLCNGTYEGLLRRNqMGRNSMKLPTL..KDIRDCLSLqkfdnppf
+#=GR P40126|PF00264|180-408 PP 6..79*******......4444444...133478.999999**************************99.7*************.99**********999999999999..........99******99.........5555.....3333333333333333333333355555566666..55664444344444666
+#=GC PP_cons                   ...7999*****......2333333...1............**************************99.8*************.999****99999999999999998......455588888888885........3333.....3334444444444455555555.55555555555..444433343........
+#=GC RF                        .xxxxxxxxxxx......xxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxx........xxxx.....xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxxxxx........
+
+P14679|PF00264|172-402         fRNTLEGFASPLTGIADASQSS......MHNALHIYMNGTMSQVQGSANDPIFLLHHAFVDSIFEQWL--r
+#=GR P14679|PF00264|172-402 PP 5788888888888888888888......***************************************6..6
+P17643|PF00264|184-416         ySNSTNSFRNTVEGYSDPTGKYdpavrsLHNLAHLFLNGTGGQTHLSPNDPIFVLLHTFTDAVFDEWL--r
+#=GR P17643|PF00264|184-416 PP 5**************9999999*********************************************6..6
+P40126|PF00264|180-408         fQNSTFSFRNALEGFDKADGTLdsqvmsLHNLVHSFLNGTNALPHSAANDPIFVVLHSFTDAIFDEWM--k
+#=GR P40126|PF00264|180-408 PP 6*************9888877799******************9999*********************7..6
+#=GC PP_cons                   .999999999999998888888......***************************************6...
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

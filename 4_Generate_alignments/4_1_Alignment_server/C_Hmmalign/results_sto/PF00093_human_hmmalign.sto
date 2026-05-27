@@ -1,0 +1,85 @@
+# STOCKHOLM 1.0
+
+O00622|PF00093|100-163           ...CEYNSRIYQNGESFQP.N-.........CKhQCTCID..........GAVGCIPL-..CPQelslpnLGCPNP.RLVKVTGQCCEewVC
+#=GR O00622|PF00093|100-163   PP ...99**************.*..........*99******..........********...***9***999*****.**********96666
+O76076|PF00093|100-163           ...CEVNGRLYREGETFQP.H-.........CSiRCRCED..........GGFTCVPL-..CSEdvrlpsWDCPHP.RRVEVLGKCCPewVC
+#=GR O76076|PF00093|100-163   PP ...99**************.*..........9879*****..........********...9999999999*****.**********97667
+O94769|PF00093|103-157           ...CLVKGITMYNKAVWSP.EP.........CT.TCLCSD..........GRVLCDETM..CHP......QRCPQT.--VIPEGECCP..VC
+#=GR O94769|PF00093|103-157   PP ...9999************.**.........**.******..........*********..***......******...*********..**
+O95388|PF00093|123-185           ...CVLDGVRYNNGQSFQP.N-.........CKyNCTCID..........GAVGCTPL-..CLRvr.pprLWCPHP.RRVSIPGHCCEqwVC
+#=GR O95388|PF00093|123-185   PP ...****************.*..........**9******..........******99...97777.77899****.**********96666
+P02452|PF00093|40-95             ...CVQNGLRYHDRDVWKP.EP.........CR.ICVCDN..........GKVLCDDVI..CDE.....tKNCPGA.--EVPEGECCP..VC
+#=GR P02452|PF00093|40-95     PP ...****************.**.........**.******..........*********..*99.....89*****...9********..**
+P02458|PF00093|34-89             ...CVQDGQRYNDKDVWKP.EP.........CR.ICVCDT..........GTVLCDDII..CED.....vKDCLSP.--EIPFGECCP..IC
+#=GR P02458|PF00093|34-89     PP ...****************.**.........**.******..........*********..***.....99*****...9********..**
+P02461|PF00093|32-88             ...CSHLGQSYADRDVWKP.EP.........CQ.ICVCDS..........GSVLCDDII..CDDq....eLDCPNP.--EIPFGECCA..VC
+#=GR P02461|PF00093|32-88     PP ...9***************.**.........**.******..........*********..*999....99*****...9********..**
+P04275|PF00093|2431-2494         ...CVHRSTIYPVGQFWEE.G-.........CD.VCTCTDmeda..vmglRVAQCSQKP..CE-......DSCRSGfTYVLHEGECCG..RC
+#=GR P04275|PF00093|2431-2494 PP ...****************.*..........**.**********..***9999******..*7.......99****99**********..**
+P04275|PF00093|2582-2644         ...CMLNGTVIGPGKTVMI.DV.........CT.TCRCMVqvg...visgFKLECRKTT..C--......NPCPLGyKEENNTGECCG..RC
+#=GR P04275|PF00093|2582-2644 PP ...****************.**.........**.*********...*************..*........59***9999*********..**
+P05997|PF00093|41-96             ...CTQNGQMYLNRDIWKP.AP.........CQ.ICVCDN..........GAILCDKIE..CQD.....vLDCADP.--VTPPGECCP..VC
+#=GR P05997|PF00093|41-96     PP ...****************.**.........**.******..........*********..**9.....9******...*********..**
+P07996|PF00093|318-372           ...CYHNGVQYRNNEEWTV.DS.........CT.ECHCQN..........SVTICKKVS..CPI......MPCSNA.--TVPDGECCP..RC
+#=GR P07996|PF00093|318-372   PP ...****************.**.........**.******..........*********..***......******...9********..**
+P29279|PF00093|103-166           ...CIFGGTVYRSGESFQS.S-.........CKyQCTCLD..........GAVGCMPL-..CSMdvrlpsPDCPFP.RRVKLPGKCCEewVC
+#=GR P29279|PF00093|103-166   PP ...****************.9..........**9******..........********...*9999**99******.**********96666
+P35442|PF00093|320-374           ...CWQDGRFFAENETWVV.DS.........CT.TCTCKK..........FKTICHQIT..CPP......ATCASP.--SFVEGECCP..SC
+#=GR P35442|PF00093|320-374   PP ...****************.**.........**.******..........*********..***......******...9********..**
+P48745|PF00093|110-173           ...CVFDGVIYRSGEKFQP.S-.........CKfQCTCRD..........GQIGCVPR-..CQLdvllpePNCPAP.RKVEVPGECCEkwIC
+#=GR P48745|PF00093|110-173   PP ...****************.*..........*********..........******99...*98999999******.**********96666
+Q6WN34|PF00093|111-174           ...CQHNGTMYQHGEIFSA.HElfpsrlpnqCV.LCSCTE..........GQIYCGLTT..CPE......PGCPAP.--LPLPDSCCQ..AC
+#=GR Q6WN34|PF00093|111-174   PP ...***************9.999**********.******..........*********..***......******...9********..*9
+Q6WN34|PF00093|252-314           ...CVHGGKTYSHGEVWHP.AFraf..gplpCI.LCTCED..........GRQDCQRVT..CPT.....eYPCRHP.--EKVAGKCCK..IC
+#=GR Q6WN34|PF00093|252-314   PP ...****************.*99**..******.******..........*********..**9.....89*****...9********..**
+Q86XX4|PF00093|95-152            ...CHHEKKIHEHGTEWAS.SP.........CS.VCSCNH..........GEVRCTPQP..CPP......LSCGHQeLAFIPEGSCCP..VC
+#=GR Q86XX4|PF00093|95-152    PP ...9***************.**.........**.******..........*********..***......***999667899******..**
+Q86XX4|PF00093|159-216           ...CSYEGHVFQDGEDWRL.SR.........CA.KCLCRN..........GVAQCFTAQ..CQP......LFCNQDeTVVRVPGKCCP..QC
+#=GR Q86XX4|PF00093|159-216   PP ...99**************.**.........**.******..........*********..***......****9988999*******..**
+Q86XX4|PF00093|221-278           ...CSAAGQVYEHGEQWSE.NA.........CT.TCICDR..........GEVRCHKQA..CLP......LRCGKGqSRARRHGQCCE..EC
+#=GR Q86XX4|PF00093|221-278   PP ...999*************.**.........**.******..........*********..***......***999777899******..**
+Q86XX4|PF00093|285-342           ...CSYDGVVRYQDEMWKG.SA.........CE.FCMCDH..........GQVTCQTGE..CAK......VECARDeELIHLDGKCCP..EC
+#=GR Q86XX4|PF00093|285-342   PP ...99**************.**.........**.******..........*********..***......****99789999******..**
+Q8N8U9|PF00093|166-224           ...CVFEGVQYQEGEEFQP.EGs.......kCT.KCSCTG..........GRTQCVREV..CPI......LSCPQH.LSHIPPGQCCP..KC
+#=GR Q8N8U9|PF00093|166-224   PP ...****************.988.......8**.******..........*********..***......******.99*********..**
+Q8N8U9|PF00093|301-357           ...CKFGNKIFQDGEMWSS.IN.........CT.ICACVK..........GRTECRNKQ..CIP.....iSSCPQG.-KILNRKGCCP..IC
+#=GR Q8N8U9|PF00093|301-357   PP ...99**************.**.........**.******..........*********..*88.....8******..6889999***..**
+Q92832|PF00093|273-331           ...CQVSGLLYRDQDSWVDgDH.........CR.NCTCKS..........GAVECRRMS..CPP......LNCSPDsLPVHIAGQCCK..VC
+#=GR Q92832|PF00093|273-331   PP ...99************87256.........**.******..........*********..***......***988666899******..**
+Q92832|PF00093|699-749           .gh-----KLYRSGDNWTH.S-.........CQ.QCRCLE..........GEVDCWPLT..CPN......LSCEYT.--AILEGECCP..RC
+#=GR Q92832|PF00093|699-749   PP .75.....79*********.9..........**.******..........*********..***......******...9********..**
+Q96DN2|PF00093|386-440           ...CWHLGAMHESRSRWTE.PG.........CS.QCWCED..........GKVTCEKVR..CE-......AACSHP.-IPSRDGGCCP..SC
+#=GR Q96DN2|PF00093|386-440   PP ...****************.**.........**.******..........*********..*7.......99****..7899******..**
+Q96DN2|PF00093|501-559           ...CYFHGRWYADGAVFSG.GGd.......eCT.TCVCQN..........GEVECSFMP..CPE......LACPRE.EWRLGPGQCCF..TC
+#=GR Q96DN2|PF00093|501-559   PP ...9*************97.555.......5**.******..........*********..***......******.**********9..99
+Q96DN2|PF00093|629-684           ...CTYTGRIFYNNETFPS.VLd.......pCL.SCICLL..........GSVACSPVD..CP-......ITCTYP.--FHPDGECCP..VC
+#=GR Q96DN2|PF00093|629-684   PP ...99************87.666.......6**.******..........*********..*8.......9*****...9********..**
+Q99435|PF00093|274-330           ...CTMKGTTYREFESWID.G-.........CK.NCTCLN..........GTIQCETLI..CPN......PDCPLKsALAYVDGKCCK..EC
+#=GR Q99435|PF00093|274-330   PP ...9*************99.9..........**.******..........*********..***......****998999********..**
+Q99435|PF00093|705-755           ..g----ETLYNSGDTWVQ.N-.........CQ.QCRCLQ..........GEVDCWPLP..CPD......VECEFS.--ILPENECCP..RC
+#=GR Q99435|PF00093|705-755   PP ..7....689*********.9..........**.******..........*********..***......******...9********..**
+Q9BU40|PF00093|260-322           ...CVSNGKTYSHGESWHP.NLraf..giveCV.LCTCNV..........TKQECKKIH..CPN.....rYPCKYP.--QKIDGKCCK..VC
+#=GR Q9BU40|PF00093|260-322   PP ...****************.*****..******.******..........*********..**9.....89*****...89*******..**
+Q9H2X0|PF00093|51-125            ...CTFGGKVYALDETWHP.DLgepf.gvmrCV.LCACEApqwgrrtrgpGRVSCKNIKpeCPT......PACGQP.--RQLPGHCCQ..TC
+#=GR Q9H2X0|PF00093|51-125    PP ...9***************.******.******.************************989***......******...9********..**
+Q9H2X0|PF00093|705-762           ...CFFEGQQRPHGARWAP.NYd......plCS.LCTCQR..........RTVICDPVV..CPP......PSCPHP.--VQAPDQCCP..VC
+#=GR Q9H2X0|PF00093|705-762   PP ...9***************.*99......99**.******..........*********..***......******...*********..**
+Q9H2X0|PF00093|793-850           raa----------GTRWHP.VVppf..glikCA.VCTCKGg........tGEVHCEKVQ..CPR......LACAQP.-VRVNPTDCCK..QC
+#=GR Q9H2X0|PF00093|793-850   PP 875..........667888.88888..8888**.*****98........89********..***......******..799999****..**
+Q9NZV1|PF00093|336-390           ...CVFNNVEYYDGDMFRM.DN.........CR.FCRCQG..........GVAICFTAQ..CGE......INCERY.--YVPEGECCP..VC
+#=GR Q9NZV1|PF00093|336-390   PP ...****************.**.........**.******..........*********..***......****98...99*******..**
+Q9NZV1|PF00093|684-734           ..g-----EYFVEGETWNI.DS.........CT.QCTCHS..........GRVLCETEV..CPP......LLCQNP.--SRTQDSCCP..QC
+#=GR Q9NZV1|PF00093|684-734   PP ..6.....56789******.**.........**.******..........*********..***......******...899******..**
+Q9NZV1|PF00093|757-808           ..e----GDIFLAAESWKP.DV.........CT.SCICID..........SVISCFSES..CPS......VSCERP.--VLRKGQCCP..YC
+#=GR Q9NZV1|PF00093|757-808   PP ..6....6788899*****.**.........**.******..........*********..***......******...9********..*9
+Q6ZWJ8|PF00093|138-192           ...CSQNGQTYGNGETFSP.DA.........CT.TCRCLT..........GAVQCQGPS..CSE......LNCLES.--CTPPGECCP..IC
+#=GR Q6ZWJ8|PF00093|138-192   PP ...9***************.**.........**.******..........*********..***......******...9********..**
+Q6ZWJ8|PF00093|255-311           ...CTEGGSHWEHGQEWTT.PGd.......pCR.ICRCLE..........GHIQCRQRE..CA-......SLCPYP.-ARPLPGTCCP..VC
+#=GR Q6ZWJ8|PF00093|255-311   PP ...999***********97.544.......5**.******..........*********..*5.......99****..79********..**
+Q6ZWJ8|PF00093|428-484           ...CELDGEEFAEGVQWEP.DGr.......pCT.ACVCQD..........GVPKCGAVL..CPP......APCQHP.--TQPPGACCP..SC
+#=GR Q6ZWJ8|PF00093|428-484   PP ...999*************.988.......8**.******..........*********..***......******...9********..**
+Q6ZWJ8|PF00093|1151-1208         ...CVHQGREVASGERWTV.DT.........CT.SCSCMA..........GTVRCQSQR..CSP......LSCGPDkAPALSPGSCCP..RC
+#=GR Q6ZWJ8|PF00093|1151-1208 PP ...****************.**.........**.******..........*********..***......***765478999******..**
+#=GC PP_cons                     ...9***************.99.........**.******..........*********..*9*......******.989********..99
+#=GC RF                          ...xxxxxxxxxxxxxxxx.xx.........xx.xxxxxx..........xxxxxxxxx..xxx......xxxxxx.xxxxxxxxxxx..xx
+//

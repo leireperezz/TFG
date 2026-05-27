@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q8IVB5|PF14954|80-328         AVEAVVRSFAKHTQGYGRVNVVEALQEFWQMKQSRGADLKNGALVVYEMVPSNSPPYVCYVTLPGGSCFGSFQFCPTKAEARRSAAKIALMNSVFNEHPSRRITDEFIEKSVSEALASFNGNREEADNPNTGIGAFRFMLESNKGKSMLEFQELMTVFQLLHWNGSLKAMRERQCSRQEVLAHYSHRALDDDIRHQMALD
+#=GR Q8IVB5|PF14954|80-328 PP 689*****************************************************************************************************************************************************************************************************
+Q8N485|PF14954|11-258         -IIAQVLPHRDPALVFKDLNVVSMLQEFWESKQQQKAAFPSEGVVVYESLPAPGPPFVSYVTLPGGSCFGNFQCCLSRAEARRDAAKVALINSLFNELPSRRITKEFIMESVQEAVASTSGTLDDADDPSTSVGAYHYMLESNMGKTMLEFQELMTIFQLLHWNGSLKALRETKCSRQEVISYYSQYSLDEKMRSHMALD
+#=GR Q8N485|PF14954|11-258 PP .5799***************************************************************************************************************************************************************************************************
+#=GC PP_cons                  67899***************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8IVB5|PF14954|80-328         WVSREQSVPGALSRELASTERELDEARLAGKELRFHKEKKDILVLAAGQ
+#=GR Q8IVB5|PF14954|80-328 PP **********************************************987
+Q8N485|PF14954|11-258         WIMKERDSPGIVSQELRMALRQLEEARKAGQELRFYKEKKEILSLALTQ
+#=GR Q8N485|PF14954|11-258 PP **********************************************998
+#=GC PP_cons                  **********************************************987
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

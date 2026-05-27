@@ -1,0 +1,67 @@
+# STOCKHOLM 1.0
+
+O60938|PF01462|42-70           .-CP.MECFCPp...sfPTALYCENRGLK..EIPA-IP..
+#=GR O60938|PF01462|42-70   PP ..**.*******...**************..***9.98..
+O75093|PF01462|33-60           .ACP.ALCTCT......GTTVDCHGTGLQ..AIPKNIP..
+#=GR O75093|PF01462|33-60   PP .7**.******......************..****999..
+O75093|PF01462|282-308         .-CP.AMCTCS......NGIVDCRGKGLT..AIPANLP..
+#=GR O75093|PF01462|282-308 PP ..**.******......************..***9998..
+O75093|PF01462|733-760         .QCP.QECACL......DTVVRCSNKHLR..ALPKGIP..
+#=GR O75093|PF01462|733-760 PP .7**.******......************..******9..
+O75094|PF01462|33-60           .ACP.TKCTCS......AASVDCHGLGLR..AVPRGIP..
+#=GR O75094|PF01462|33-60   PP .7**.******......************..******9..
+O75094|PF01462|280-306         .-CP.SPCTCS......NNIVDCRGKGLM..EIPANLP..
+#=GR O75094|PF01462|280-306 PP ..**.******......************..***9998..
+O75094|PF01462|725-751         .-CP.EQCTCM......ETVVRCSNKGLR..ALPRGMP..
+#=GR O75094|PF01462|725-751 PP ..**.******......************..****877..
+O75473|PF01462|33-64           .GCP.THCHCEpd.grmLLRVDCSDLGLS..ELPSN--l.
+#=GR O75473|PF01462|33-64   PP .5**.********.***************..***95..6.
+O94813|PF01462|27-54           .ACP.AQCSCS......GSTVDCHGLALR..SVPRNIP..
+#=GR O94813|PF01462|27-54   PP .7**.******......************..****999..
+O94813|PF01462|273-299         .-CP.AACTCS......NNIVDCRGKGLT..EIPTNLP..
+#=GR O94813|PF01462|273-299 PP ..**.******......************..***9888..
+O94813|PF01462|727-753         .-CP.TECTCL......DTVVRCSNKGLK..VLPKGIP..
+#=GR O94813|PF01462|727-753 PP ..**.******......************..******9..
+P07359|PF01462|19-46           .ICE.VSKVAS......HLEVNCDKRNLT..ALPPDLP..
+#=GR P07359|PF01462|19-46   PP .6**.******......************..******9..
+P07585|PF01462|54-80           .-CP.FRCQCH......LRVVQCSDLGLD..KVPKDLP..
+#=GR P07585|PF01462|54-80   PP ..**.******......************..******9..
+P14770|PF01462|19-50           .DCP.SPCTCRal.etmGLWVDCRGHGLT..ALPA-LP..
+#=GR P14770|PF01462|19-50   PP .6**.********.***************..***9.98..
+P21810|PF01462|62-88           .MCP.FGCHCH......LRVVQCSDLGLK..SVPKEI-..
+#=GR P21810|PF01462|62-88   PP .7**.******......************..***976...
+P23515|PF01462|25-53           .ICP.LQCICTe....rHRHVDCSGRNLS..TLPSGL-..
+#=GR P23515|PF01462|25-53   PP .6**.*******....*************..****87...
+P23945|PF01462|18-45           .-CHhRICHCS......NRVFLCQESKVT..EIPSDLP..
+#=GR P23945|PF01462|18-45   PP ..7779*****......************..******9..
+P35858|PF01462|40-73           .ACP.AACVCSydddadELSVFCSSRNLT..RLPDGVP..
+#=GR P35858|PF01462|40-73   PP .7**.************************..****999..
+Q06828|PF01462|75-104          .DCP.QECDCPp...nfPTAMYCDNRNLK..YLPF-VP..
+#=GR Q06828|PF01462|75-104  PP .6**.*******...**************..***9.76..
+Q13641|PF01462|61-90           .QCP.ALCECSe....aARTVKCVNRNLT..EVPTDLP..
+#=GR Q13641|PF01462|61-90   PP .7**.*******....*************..******9..
+Q14392|PF01462|21-48           .QDK.VPCKMV......DKKVSCQVLGLL..QVPSVLP..
+#=GR Q14392|PF01462|21-48   PP .579.******......************..******9..
+Q16288|PF01462|31-56           .ACP.ANCVCS......KTEINCRRPDDG.nLFP----l.
+#=GR Q16288|PF01462|31-56   PP .7**.******......**********99.7777....5.
+Q16620|PF01462|31-60           .ACP.TSCKCS......ASRIWCSDPSPGivAFPRLEP..
+#=GR Q16620|PF01462|31-60   PP .7**.******......******************665..
+Q9BXB1|PF01462|29-55           .-CA.APCSCD.....gDRRVDCSGKGLT..AVPE---gl
+#=GR Q9BXB1|PF01462|29-55   PP ..**.******.....*************..***5...56
+Q9BXN1|PF01462|74-101          .MCP.FGCQCY......SRVVHCSDLGLT..SVPTNIP..
+#=GR Q9BXN1|PF01462|74-101  PP .7**.******......************..***9888..
+Q9NZU1|PF01462|54-80           .-CP.SVCRCD......NGFIYCNDRGLT..SIPADIP..
+#=GR Q9NZU1|PF01462|54-80   PP ..**.******......************..******9..
+O15335|PF01462|22-48           .ACP.QNCHCHs....dLQHVICDKVGLQ..KIPK---..
+#=GR O15335|PF01462|22-48   PP .7**.*******....*************..***7.....
+Q96PB8|PF01462|33-63           .MCP.KGCLCSs...sgGLNVTCSNANLK..EIPRDLP..
+#=GR Q96PB8|PF01462|33-63   PP .7**.*******...**************..******9..
+Q99645|PF01462|120-142         l---.--CTCI......STTVYCDDHELD..AIPP-LP..
+#=GR Q99645|PF01462|120-142 PP 7......****......************..****.98..
+Q8N967|PF01462|39-67           .-CP.FSCKCDs....rSLEVDCSGLGLT..TVPPDVP..
+#=GR Q8N967|PF01462|39-67   PP ..**.*******....*************..******9..
+Q9BY71|PF01462|32-63           .ACP.QPCRCPdh..agAVAVFCSLRGLQ..EVPEDIP..
+#=GR Q9BY71|PF01462|32-63   PP .7**.********..**************..******9..
+#=GC PP_cons                   .7**.******......************..***9998..
+#=GC RF                        .xxx.xxxxxx......xxxxxxxxxxxx..xxxxxxx..
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P47989|PF02738|705-947         nnsfygpel-----------KIEKGDLKKGFSEADNVVSGEIYIGGQEHFYLETHCTIAVPKGEAGEMELFVSTQNTMKTQSFVAKMLGVPANRIVVRVKRMGGGFGGKeTRSTVVSTAVALAAYKTGRPVRCMLDRDEDMLITGGRHPFLARYKVGFMKTGTVVALEVDHFSNVGNTQDLSQSIMERALFHMDNCYKIP
+#=GR P47989|PF02738|705-947 PP 877766544...........789*********************************************************************************************************************************************************************************
+Q06278|PF02738|718-955         .....kper-----------KLEYGNVDEAFKVVDQILEGEIHMGGQEHFYMETQSMLVVPKGEDQEMDVYVSTQFPKYIQDIVASTLKLPANKVMCHVRRVGGAFGGKvLKTGIIAAVTAFAANKHGRAVRCVLERGEDMLITGGRHPYLGKYKAGFMNDGRILALDMEHYSNAGASLDESLFVIEMGLLKMDNAYKFP
+#=GR Q06278|PF02738|718-955 PP .....8765...........4679********************************************************************************************************************************************************************************
+#=GC PP_cons                   ....................5789*************************************************************************************.******************************************************************************************
+#=GC RF                        .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P47989|PF02738|705-947         NIRGTGRLCKTNLPSNTAFRGFGGPQGMLIAECWMSEVAVTCGMPAEEVRRKNL
+#=GR P47989|PF02738|705-947 PP *****************************************************7
+Q06278|PF02738|718-955         NLRCRGWACRTNLPSNTAFRGFGFPQAALITESCITEVAAKCGLSPEKVRIINM
+#=GR Q06278|PF02738|718-955 PP *****************************************************7
+#=GC PP_cons                   *****************************************************7
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

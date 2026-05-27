@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q5T197|PF07782|405-595         FDNIYISTYFCQIDDRRKKLGKRTLLPLRKAEEKTVIFPCKPTIQASEMSNVVRELLETLPILLLLVVLCGLDWALYSIFDTIRHHSFLQYSFRSSHKLEVKVGGDSMLARLLRKTIGALNT........SSETV.MESNNMPCLPQP.VGLDARAYWRAAVPIGLLVCLCLLQAFGYRLRRVIAAFYFPKREKKRILFL
+#=GR Q5T197|PF07782|405-595 PP 9*************************************************************************************************************************........99999.************.***************************************************
+Q9H295|PF07782|242-421         YENIYITRQFVQFDERERHQQRPCVLPLNKEERRKYVIIPTFWPTPKERKNLGLFFLPILIHLCIWVLFAAVDYLLYRLIFSVSKQFQSLPGFEVHLKLHGEKQGTQDIIHDSSFNISVFEP........-----.------NCIPKP.KFLLSETWVPLSVILLILVMLGLLSSILMQLKILVSASFYPSVERKRIQYL
+#=GR Q9H295|PF07782|242-421 PP 89***********************************************************************************************9999999999999988888888888....................9*****.***************************************************
+Q5T1A1|PF07782|354-544         YDNIYITSRFLRMEAVRSTAGLPTVLPLSAHEARRYIPPGSIFLSQWEKFFYILETFNLIRHLLLVLFLVFLDYAVFWVLDLARHQLQGEIVARSPVLVSLTVEGTGYAGNIYRDLVSAFDV........LQQGN.ISILSRRCLLRP.SEPDSTGYIVIGVMYGLCFFITLFGSYVSRLRRVICASYYPSREQERISYL
+#=GR Q5T1A1|PF07782|354-544 PP 9*************************************************************************************************************************........*****.************.***************************************************
+Q9BR26|PF07782|254-446         FDNIYATQQLTQRLAQA------QATHLLAPPPTWLLQAAQLRLSQEELLSCLLRLGLLALLLVATAVAVATDHVAFLLAQATVDWAQKLPTVPITL--TVKYDVAYTVLGFIPFLFNQLAPespflsvhSSYQWeLRLTSARCPLLPaRRPRAAAPLAAGALQLLAGSTVLLEAYARRLRHAIAASFFTAQEARRVRHL
+#=GR Q9BR26|PF07782|254-446 PP 9***************9......*************************************************************************9..888888**************9999*******777778************99**************************************************
+#=GC PP_cons                   9**************************************************************************************************999999*************9999........99999.************.***************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxx.xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5T197|PF07782|405-595         Y
+#=GR Q5T197|PF07782|405-595 PP 9
+Q9H295|PF07782|242-421         H
+#=GR Q9H295|PF07782|242-421 PP 9
+Q5T1A1|PF07782|354-544         Y
+#=GR Q5T1A1|PF07782|354-544 PP 9
+Q9BR26|PF07782|254-446         H
+#=GR Q9BR26|PF07782|254-446 PP 9
+#=GC PP_cons                   9
+#=GC RF                        x
+//

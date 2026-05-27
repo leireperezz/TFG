@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P51674|PF01275|16-247         -ECCIKCLGGIPYASLIATILLYAGVALFCGCGHEALSGTVNILQTYFEmaRTAGDTLDVFTMIDIFKYVIYGIAAAFFVYGILLMVEGFFTTGAIKDLYGDFKITTCGR.............................CVSAWF......IMLTYLFMLAWLGVTAFTSLPVYMYFNLWTICRNTTLVE-G.....ANL
+#=GR P51674|PF01275|16-247 PP .7**********************************************99999*********************************************************.............................******......************************************999.7.....79*
+P60201|PF01275|5-273          -ECCARCLVGAPFASLVATGLCFFGVALFCGCGHEALTGTEKLIETYFS..KNYQDYEYLINVIHAFQYVIYGTASFFFLYGALLLAEGFYTTGAVRQIFGDYKTTICGKglsatvtggqkgrgsrgqhqahslervchCLGKWLghpdkfVGITYALTVVWLLVFACSAVPVYIYFNTWTTCQSIAFPSKTsa.siGSL
+#=GR P60201|PF01275|5-273  PP .7***********************************************..************************************************************************************9999777776777777***************************************9977.7778*
+Q13491|PF01275|24-258         -ECCIKCLGGVPYASLVATILCFSGVALFCGCGHVALAGTVAILEQHFS..TNASDHALLSEVIQLMQYVIYGIASFFFLYGIILLAEGFYTTSAVKELHGEFKTTACGR.............................CISGMF......VFLTYVLGVAWLGVFGFSAVPVFMFYNIWSTCEVIKSPQTNgttgvEQI
+#=GR Q13491|PF01275|24-258 PP .7***********************************************..***********************************************************.............................******......**************************************9878999999*
+#=GC PP_cons                  .7***********************************************..***********************************************************.............................999999......**************************************988.....89*
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............................xxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxx
+
+P51674|PF01275|16-247         CLDLRQFGIVTIGE-EKKICTVSenFLRMCESTELNMTFHLFIVALAGAGAAVIAMVHYLMVLSANWAYVKDACR
+#=GR P51674|PF01275|16-247 PP ************99.9****99888**********************************************9876
+P60201|PF01275|5-273          CADARMYGVLPWNAFPGKVCGSN..LLSICKTAEFQMTFHLFIAAFVGAAATLVSLLTFMIAATYNFAVLKLMGR
+#=GR P60201|PF01275|5-273  PP ***********************..**********************************************9876
+Q13491|PF01275|24-258         CVDIRQYGIIPWNAFPGKICGSA..LENICNTNEFYMSYHLFIVACAGAGATVIALLIYMMATTYNYAVLKFKSR
+#=GR Q13491|PF01275|24-258 PP ***********************..**********************************************9876
+#=GC PP_cons                  **********************9..**********************************************9876
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

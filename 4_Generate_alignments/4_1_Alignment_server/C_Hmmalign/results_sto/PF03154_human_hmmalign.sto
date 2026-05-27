@@ -1,0 +1,56 @@
+# STOCKHOLM 1.0
+
+P54259|PF03154|1-149            .....----MKTRQNKDSMS-MRSGRKKEAPGP-------REELRSRGRASPGGVSTSSSDGKAEKSRQTAKKARVEEASTPKVNKQGRSEEISESESEETNAPKKTKTeQELPRPQSPSD--LDSLDGRSLNDDGSSDPRDIDQDNRSTSPSIYSPGSVENDSDSS---------------------------------
+#=GR P54259|PF03154|1-149    PP .........99********9.7******98776.......599********************************9999999**************************9789*******97..579****************************************9.................................
+P54259|PF03154|404-1188         alpsy--------------------------------------------------------------------------------------------------------.------------------------------------------------------------------------------------------
+#=GR P54259|PF03154|404-1188 PP 97654...................................................................................................................................................................................................
+Q9P2R6|PF03154|568-1565         .....GKHSMRTRRSRGSMSTLRSGRKKQPASPDGRTSPINEDIRSSGRNSPSAASTSSNDSKAETVKKSAKKVKEEASSPLKSNKRQREKVASDTEEADRTSSKKTKT.QEISRPNSPSEGEGESSDSRSVNDEGSSDPKDIDQDNRSTSPSIPSPQDNESDSDSSAQQQMLQAQPPALQAPTGVTPAPSSAPPGTPQL
+#=GR Q9P2R6|PF03154|568-1565 PP .....8*******************************************************************************************************.******************************************************************************************
+#=GC PP_cons                    .....8***9*********9*9*******9888*******79******************************************************************9.9*********8**78*****************************************9*********************************
+#=GC RF                         .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P54259|PF03154|1-149            ----------------------------.----..-----------------------------.--.....------------------------------------------------------------------------------------------------.........--------....-----------
+#=GR P54259|PF03154|1-149    PP ........................................................................................................................................................................................................
+P54259|PF03154|404-1188         ----------------------------.----..---------------PHSFPPPTSLSVSN.QP.....PKYTQPSLPSQAVWSQGPPPPPPYG--RLLANSNAHPGPFP-PSTGAQSTAHPPVSTHHHHHQQQQQQQQQQQQQQQQQQQHHGNSGPPPPGAFPHpleggsshhAHPYAMSPslgsLRPYPPGPAHL
+#=GR P54259|PF03154|404-1188 PP ..................................................34445666677666.67.....78899999**********9998875..55566668899995.56667777766667777777777777777777777777777777777777777632222221133433333111133444445566
+Q9P2R6|PF03154|568-1565         PTPGPTPSATAVPPQGSPTASQAPNQPQaPTAPvpHTHIQQAPALHPQRPPSPHPPPHPSPHPPlQPltgsaGQPSAPSHAQPPLHGQGPPGPHSLQAGP-LLQHPGPPQPFGLPPQASQGQAPLGTSPAAAYP-HTSLQLPASQSALQSQQPPREQPLPPAPLAMPH.........IKPPPTTP....IPQLPAPQAHK
+#=GR Q9P2R6|PF03154|568-1565 PP ****************************7344445****************999998888744312211111467788899*******************.****************************99999.9999*****************************.........********....***********
+#=GC PP_cons                    ****************************.3444..***************66777777777555.44.....578888999************9987**85788889999**8*888888888888888888887888888888888899999999999999999988.........77776666....77777777888
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxx....xxxxxxxxxxx
+
+P54259|PF03154|1-149            -----------------------.---------------------------------------------...----------------.--------------------------------.......------------------------...........................---------------------
+#=GR P54259|PF03154|1-149    PP ........................................................................................................................................................................................................
+P54259|PF03154|404-1188         PPPH-SQVSYSQAGPNGPPVSSSsNSSSSTSQGSYPCSHPSPSQ-GPQGAPYPFPPV-PTVTTSSATLStviATVASSPAGYKTASPPgPPPYGKRAPSPGAYKTATPPGYKPGSPPSFRTgtppgyrGTSPPAGPGTFK------PGSPTVgpgplppagpsglpslppppaapasgpPLSATQIKQEPAEEYETPESP
+#=GR P54259|PF03154|404-1188 PP 6666.334455667777776554144455666778*******99.6*****999886.8889998888722245677888665555551578999999899888888875444333322220011222555555544433......3333333444444555579999999999999999999*****************
+Q9P2R6|PF03154|568-1565         HPPHLSGPSPFSMNANLPPPPAL.KPLSSLSTHHPPSAHPPPLQLMPQSQPLPSSPAQPPGLTQSQNLP...PPPASHPPTGLHQVAP.QPPFAQHPFVPGGPPPITPPTCPSTSTPPAGPg.....tSAQPPCSG--AAASGGSIAGGSSC...........................PLPTVQIKEEALDDAEEPESP
+#=GR Q9P2R6|PF03154|568-1565 PP ***********************.*********************************************...****************.*******************************97.....779*****9..88999*********...........................*********************
+#=GC PP_cons                    8888*777777888898888877.77778888899********9*8*******9998*99999999999...7788999988888877.889****9999999999999877777666666.......677887774456999***777777...........................9********************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxx...........................xxxxxxxxxxxxxxxxxxxxx
+
+P54259|PF03154|1-149            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.-----------------------
+#=GR P54259|PF03154|1-149    PP ........................................................................................................................................................................................................
+P54259|PF03154|404-1188         VPPARSPSPPPKVVDVPSHASQSARFNKHLDRGFNSCARSDLYFVPLEGSKLAKKRADLVEKVRREAEQRAREEKEREREREREKEREREKERELERSVKLAQEGRAP-VECPSL-GPVPHRPPFEP-GSAVATVPPYLGPDTPALRTLSEYARPHVMSPGNRNHPFYVPLGAVDPgLLGYNVPALYSSDPAARER----
+#=GR P54259|PF03154|404-1188 PP ***************************************************************************************************986544433.455666.88888****96.6789*******************************************9899**************996....
+Q9P2R6|PF03154|568-1565         PPPPRSPSPEPTVVDTPSHASQSARFYKHLDRGYNSCARTDLYFMPLAGSKLAKKREEAIEKAKREAEQKAREEREREKEKEKEREREREREREAERAAKASSSAHEGRLSDPQLSGPGHMRPSFEPPPTTIAAVPPYIGPDTPALRTLSEYARPHVMSPTNRNHPFYMPLNPTDP.LLAYHMPGLYNVDPTIRERELRE
+#=GR Q9P2R6|PF03154|568-1565 PP ********************************************************************************************************************************************************************************.***********************
+#=GC PP_cons                    ****************************************************************************************************98877777*778888*99999*****8*899*********************************************.9*****************8****
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx
+
+P54259|PF03154|1-149            -------------------------------------.---------------.------------------------.-------------------------------------------------------------------------------------------------------------------------
+#=GR P54259|PF03154|1-149    PP ........................................................................................................................................................................................................
+P54259|PF03154|404-1188         ----EREARERDLRDRLKPGFEVKPSELEPLHGVPGPgLDPFPRHGGLALQPGpPGLHPF-PFHPSLGPLERERLALAaGPALRPDMSYAERLAAERQHAERVAALGNDPLARLQMLNVTPHHHQHSHIHSHLHLHQQDAIHA--ASASVHPLIDPLASGSHLTRIPYPAGTLPNPLLPHPLHENEVLRHQLFAAPY-RD
+#=GR P54259|PF03154|404-1188 PP ....689999**********************999886899*********7762689999.6**************9549**************************************************************9..7788************************************************.9*
+Q9P2R6|PF03154|568-1565         REIREREIRERELRERMKPGFEVKPPELDPLHPAANP.MEHFARHSALTIPPT.AGPHPFASFHPGLNPLERERLALA.GPQLRPEMSYPDRLAAERIHAERMASLTSDPLARLQMFNVTPHHHQHSHIHSHLHLHQQDPLHQ-GSAGPVHPLVDPLTAGPHLARFPYPPGTLPNPLLGQPPHEHEMLRHPVFGTPYPRD
+#=GR Q9P2R6|PF03154|568-1565 PP *************************************.***************.************************.****************************************************************.********************************************************
+#=GC PP_cons                    ****8999**************************999.9***********988.899999*8***************7.***************************************************************9.*8999***************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P54259|PF03154|1-149            --------------------------------.-------------------------------s
+#=GR P54259|PF03154|1-149    PP ................................................................5
+P54259|PF03154|404-1188         LPASLSAPMSAAHQLQAMHAQSAELQRLALEQqQWLHAHHPLHSVPLPAQEDYYSHLKKESDK-.
+#=GR P54259|PF03154|404-1188 PP ******************************9637****************************8..
+Q9P2R6|PF03154|568-1565         LPGAIPPPMSAAHQLQAMHAQSAELQRLAMEQ.QWLHGHPHMHGGHLPSQEDYYSRLKKEGDKQ.
+#=GR Q9P2R6|PF03154|568-1565 PP ********************************.******************************8.
+#=GC PP_cons                    *******************************8.8****************************98.
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

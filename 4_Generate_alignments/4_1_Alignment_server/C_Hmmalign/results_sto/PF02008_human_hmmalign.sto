@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+
+O43151|PF02008|51-89             .r---KKRKRCGTCEPCRRLENCGACTSCTNRRT-------HQ.ICKLRKC
+#=GR O43151|PF02008|51-89     PP .5...89**********************99866.......9*.*******
+P26358|PF02008|646-691           .n--AFKRRRCGVCEVCQQPE-CGKCKACKDMVKFGGSGRSKQ.ACQERRC
+#=GR P26358|PF02008|646-691   PP .6..689**************.*********************.*******
+Q03164|PF02008|1148-1194         .k--GRRSRRCGQCPGCQVPEDCGVCTNCLDKPKFGGRNIKKQ.CCKMRKC
+#=GR Q03164|PF02008|1148-1194 PP .6..689************************************.*******
+Q6PCT2|PF02008|33-77             .r---RRRTRCRRCRACVRTE-CGDCHFCRDMKKFGGPGRMKQ.SCLLRQC
+#=GR Q6PCT2|PF02008|33-77     PP .5...89**************.*********************.*******
+Q7LFL8|PF02008|257-296           .k---KKRKRCGMCAPCRRRINCEQCSSCRNRKT------GHQ.ICKFRKC
+#=GR Q7LFL8|PF02008|257-296   PP .5...89************************988......99*.*******
+Q8NFU7|PF02008|585-624           .k---KKRKRCGVCEPCQQKTNCGECTYCKNRKN------SHQ.ICKKRKC
+#=GR Q8NFU7|PF02008|585-624   PP .5...89**********************99977......9**.*******
+Q8NHM5|PF02008|607-651           .r---RRRTRCRKCEACLRTE-CGECHFCKDMKKFGGPGRMKQ.SCIMRQC
+#=GR Q8NHM5|PF02008|607-651   PP .5...89**************.*********************.*******
+Q9H2H0|PF02008|133-172           .k---KKRKRCGVCVPCKRLINCGVCSSCRNRKT------GHQ.ICKFRKC
+#=GR Q9H2H0|PF02008|133-172   PP .5...89************************988......99*.*******
+Q9P0U4|PF02008|163-208           kr----SARMCGECEACRRTEDCGHCDFCRDMKKFGGPNKIRQ.KCRLRQC
+#=GR Q9P0U4|PF02008|163-208   PP 64....4556*********************************.*******
+Q9UIS9|PF02008|169-215           .r--MFKRVGCGECAACQVTEDCGACSTCLLQLPHDVASGLFC.KCERRRC
+#=GR Q9UIS9|PF02008|169-215   PP .6..78*************************************.*******
+Q9UIS9|PF02008|219-262           .v---ERSRGCGVCRGCQTQEDCGHCPICLRPPR---PGLRRQwKCVQRRC
+#=GR Q9UIS9|PF02008|219-262   PP .6...799***********************999...6666666*******
+Q9UIS9|PF02008|331-377           .n--RRQNRKCGACAACLRRMDCGRCDFCCDKPKFGGSNQKRQ.KCRWRQC
+#=GR Q9UIS9|PF02008|331-377   PP .5..7899***********************************.*******
+Q9UMN6|PF02008|960-1005          .k---MRMARCGHCRGCLRVQDCGSCVNCLDKPKFGGPNTKKQ.CCVYRKC
+#=GR Q9UMN6|PF02008|960-1005  PP .7...5789**********************************.*******
+Q9Y2K7|PF02008|565-609           .r---RRRVRCRKCKACVQGE-CGVCHYCRDMKKFGGPGRMKQ.SCVLRQC
+#=GR Q9Y2K7|PF02008|565-609   PP .5...89**************.*********************.*******
+#=GC PP_cons                     ....68999***********************99******9**.*******
+#=GC RF                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx
+//

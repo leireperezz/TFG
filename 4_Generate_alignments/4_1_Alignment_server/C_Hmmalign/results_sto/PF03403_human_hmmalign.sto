@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q13093|PF03403|49-416         a--SFGQTKIPRGNGPYSVGCTDLMFDHTNKGTFLRLYYPS-Q-DNDRLDTLWIPNKEYFWGLSKFLGTHWLMGNIL-RLLFGSMTTPANWNSPLRPGEK.YPLVVFSHGLGAFRTLYSAIGIDLASHGFIVAAVEHRDRSASATYYFKDQSAAEIG.....DKSWLYLRTLKQ.EEETHIRNEQVRQRAKECSQALSLI
+#=GR Q13093|PF03403|49-416 PP 6..7899**********************************.5.7********************************.**********************.********************************************************.....************.*************************
+Q99487|PF03403|1-381          .MGVNQSVGFPPVTGPHLVGCGDVMEGQNLQGSFFRLFYPCQKAEETMEQPLWIPRYEYCTGLAEYLQFNKRCGGLLFNLAVGSCRLPVSWNGPFKTKDSgYPLIIFSHGLGAFRTLYSAFCMELASRGFVVAVPEHRDRSAATTYFCKQAPEENQPtneslQEEWIPFRRVEEgEKEFHVRNPQVHQRVSECLRVLKIL
+#=GR Q99487|PF03403|1-381  PP .57899********************************************************************************************888**************************************************9888889999999**********9*************************
+#=GC PP_cons                  .577899***********************************7*9*****************************************************99.***************************************************99999.....************.*************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13093|PF03403|49-416         LDIDHGKPVKNALDLKFDMEQLKDSIDREKIAVIGHSFGGATVIQTLSEDQRFRCGIALDAWMFPLGDEVYSRIPQPLFFINSEYFQYPANIIKMKKCYSPDKERKMITIRGSVHQNFADFTFATGKIIGHMLKL..KGDIDSNVAIDLSNKASLAFLQKHLGLHKDFDQWDCLIEGDDENL
+#=GR Q13093|PF03403|49-416 PP ***************************************************************************************************************************************..*******************************************97
+Q99487|PF03403|1-381          QEVTAGQTVFNILPGGLDLMTLKGNIDMSRVAVMGHSFGGATAILALAKETQFRCAVALDAWMFPLERDFYPKARGPVFFINTEKFQTMESVNLMKKICAQHEQSRIITVLGSVHRSQTDFAFVTGNLIGKFFSTetRGSLDPYEGQEVMVRAMLAFLQKHLDLKEDYNQWNNLIEGIGPSL
+#=GR Q99487|PF03403|1-381  PP *************************************************************************************************************************************98779***************************************99875
+#=GC PP_cons                  **************************************************************************************************************************************9..*****************************************9986
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+P09651|PF11627|307-344             GGGGSYNDFGNYNNQSSNFGPMKGGNFGG.RSSG.PYGGG
+#=GR P09651|PF11627|307-344     PP 89***************************.****.****9
+P22626|PF11627|296-334             -GSGNYNDFGNYNQQPSNYGPMKSGNFGGsRNMGgPYGGG
+#=GR P22626|PF11627|296-334     PP .678***********************************9
+Q32P51|PF11627|255-292             GGGGSYNDFGNYNNQSSNFGPMKGGNFGG.RSSG.PYGGG
+#=GR Q32P51|PF11627|255-292     PP 89***************************.****.****9
+A0A2R8Y4L2|PF11627|255-292         GGGGSYNDFGNYNNQSSNFGPMKGGNFEG.RSSG.PHGGG
+#=GR A0A2R8Y4L2|PF11627|255-292 PP 89***************************.****.****9
+#=GC PP_cons                       8899*************************.****.****9
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx.xxxxx
+//

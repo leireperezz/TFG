@@ -1,0 +1,38 @@
+# STOCKHOLM 1.0
+
+Q12879|PF10565|839-1464         HLFYWKLRFCFTGVCSDRPGLLFSISRGIYSCIHGVHIEE...KKK...SPDFNLTGSQSNMLKLLRSAKNISSMSNMNSSRMDSPKRAADFIQRGSLIMDMVSDKGNLMYSDNRS...FQGKESIFGDNMNELQTFVANRQKDNLNNYV.FQGQHPLTLNESNPNTVEVAVSTE-S......KANSRPRQLWKKSVDSI
+#=GR Q12879|PF10565|839-1464 PP 9***************************************...***...*******************************************************************...*******************************.************************.9......*****************
+Q13224|PF10565|840-1484         HLFYWQFRHCFMGVCSGKPGMVFSISRGIYSCIHGVAIEE...RQSvmnSPTATMNNTHSNILRLLRTAKNMANLSGVNG----SPQSALDFIRRESSVYDISEHRRSFTHSDCKSynnPPCEENLFSDYISEVERTFGNLQLKDSNVYQdHYHHH------HRPHSIGSASSIDGLydcdnpPFTTQSRSISKKPLDIG
+#=GR Q13224|PF10565|840-1484 PP 9***************************************...988999*******************************....********************************655568*******************************998......79***********66999999*****************
+Q14957|PF10565|837-912          HLVYWKLRHSVP--NSSQLDFLLAFSRGIYSCFSGVQSLAsppRQA...SPDLTASSAQASVLKMLQAARDMVTTAGVSSS-----------------------------------...-------------------------------.--------------------------......-----------------
+#=GR Q14957|PF10565|837-912  PP 9********987..59999*****************9654121455...*************************9999875.......................................................................................................................
+#=GC PP_cons                    9*********99**8**********************988...888...*****************************998***********************************...789****************************.**999******8************68......*****************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxx
+
+Q12879|PF10565|839-1464         RQDSLsqNPVSQRDEATAENRTHSLKSPRYLP.EEMAHSDISETSNRATCHREPDNS-...KNHKTKDNF-KRSVASKYPKDCSEVERTYLKTK.....-SSSPRDKIYTIDgEKEPGFHLDPPQFVENVTL-PENVDFPDPYQDPSENFRK-GDSTLPM..NRNPLHNEEGLSNNDQYKLYSKHFTLKDKG--SPHSET
+#=GR Q12879|PF10565|839-1464 PP **9887899***********************.***********************9....*********.9**********************......889****************************7.*******************.999****..******************************..8899**
+Q13224|PF10565|840-1484         LPS--..---SKHSQLSDLYGKFSFKSDRYSGhDDLIRSDVSDISTHTVTYGNIEGNAakrRKQQYKDSLKKRPASAKSRREFDEIELAYRRRPprspdHKRYFRDKEGLRD.-----FYLDQFRTKENSP-HWEHVDLTDIYKERSDDFKRDSVSGGGPctNRSHIKHG----TGDKHGVVSGVPAPWEKN--LTNVEW
+#=GR Q13224|PF10565|840-1484 PP 994.......78999*****************999**********************99888999*****************************555544444555555555......*************.8********************99999886688888665....6677799999999999*9..556677
+Q14957|PF10565|837-912          -----..-------------------------.-------------------------...---------------------------------.....-------------.-----------------------------------------------..--------------------------------------
+#=GR Q14957|PF10565|837-912  PP ........................................................................................................................................................................................................
+#=GC PP_cons                    *9688..99*899*******************.***********************99...999*******9**********************.....4667788888888.******************78********************9999999..99999888****88899999*9********..678888
+#=GC RF                         xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12879|PF10565|839-1464         SERYRQNSTHCRSCLS...NMPTY.SGHFTMRSPF-KCDACLRMGNLYDIDEDQMLQETGNPAT.-------GEQVYQQDWAQNNALQL-QKNKLRISRQHSYDNIVDKPRELDLSRPSRSISLKDRERLLEGNFYGSLFSVPS.SKLSGKKS........SLFPQGLEDSKRSKSLLPDHTSDNPFLHSHRDDQRLVIG
+#=GR Q12879|PF10565|839-1464 PP ****************...*****.**********.****************************........99***************.89****************************************************.********........***************************************
+Q13224|PF10565|840-1484         EDRSGG--NFCRSCPSklhNYSTTvTGQNSGRQACIRCEACKKAGNLYDISEDNSLQELDQPAApVAVTSNASTTKYPQSPTNSKA---QKKNRNKLRRQHSYDTFVDLQKEEAALAP-RSVSLKDKGRFMDGSPYAHMFEMSAgESTFANNKssvptaghHHHNNPGGGYMLSKSLYPDRVTQNPFIPTFGDDQCLLHG
+#=GR Q13224|PF10565|840-1484 PP 776554..78******5555666678999*********************************************************...*****************************.***********************9898888866558998887555555555667***************************
+Q14957|PF10565|837-912          ----------------...-----.---------------------------------------.-------------------------------------------------------------------------------.--------........---------------------------------------
+#=GR Q14957|PF10565|837-912  PP ........................................................................................................................................................................................................
+#=GC PP_cons                    888877**89******...88888.9**************************************.*************************99**************************************************99.99999888........777777788889***************************
+#=GC RF                         xxxxxxxxxxxxxxxx...xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12879|PF10565|839-1464         RCPSDPYKHSLP..SQAVNDSYLRSSLRSTASYCSRD....SRGHNDVYISEHVMPYAANKNNMYSTPRVLNSCSNRRVYKKMPSIESDV
+#=GR Q12879|PF10565|839-1464 PP ************..***********************....************************************************9
+Q13224|PF10565|840-1484         SKSYFFRQPTVAgaSKARPD--FRALVTNKPVVSALHgavpARFQKDICIGNQSNPCVPNNKN----PRAFNGSSNGHVYEKLSSIESDV
+#=GR Q13224|PF10565|840-1484 PP **********9666999999..***************99999********************7....**********************9
+Q14957|PF10565|837-912          ------------..-----------------------....-------------------------------------------------
+#=GR Q14957|PF10565|837-912  PP ..........................................................................................
+#=GC PP_cons                    ***********8..***********************....9********************9**************************9
+#=GC RF                         xxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

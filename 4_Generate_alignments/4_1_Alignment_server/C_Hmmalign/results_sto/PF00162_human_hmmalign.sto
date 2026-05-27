@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P00558|PF00162|9-406         LDKLDVKGKRVVMRVDFNVPMKN-NQITNNQRIKAAVPSIKFCLDNGAKsVVLMSHLGRPDGVpmPDKYSLEPVAVELKSLLGKDVLFLKDCVGPEVEKACANPAAGSVILLENLRFHVEEEgkgkdasgnkvK--AepakieAFRASLSKLGDVYVNDAFGTAHRAHSSMVGVN-LPQKAGGFLMKKELNYFAKALESP
+#=GR P00558|PF00162|9-406 PP 5889*****************87.**************************************9655*******************************************************8555555544432..03454445******************************9.5579********************
+P07205|PF00162|9-406         LDKLDVRGKRVIMRVDFNVPMKK-NQITNNQRIKASIPSIKYCLDNGAKaVVLMSHLGRPDGVpmPDKYSLAPVAVELKSLLGKDVLFLKDCVGAEVEKACANPAPGSVILLENLRFHVEEEgkgqdpsgkkiK--AepdkieAFRASLSKLGDVYVNDAFGTAHRAHSSMVGVN-LPHKASGFLMKKELDYFAKALENP
+#=GR P07205|PF00162|9-406 PP 5889*****************88.*************************9************9655*******************************************************8555555554442..03344546******************************9.5578********************
+#=GC PP_cons                 5889*****************88.*************************.************9..5*******************************************************8...........2..0......5******************************9.5578********************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P00558|PF00162|9-406         ERPFLAILGGAKVADKIQLINNMLDKVNEMIIGGGMAFTFLKVlNNMEIGTSLFDEEGAKIVKDLMSKAEKNGVKITLPVDFVTADKFDENAKtGQATVASGIPAGWMGLDCGPESSKKYAEAVTRAKQIVWNGPVGVFEWEAFARGTKALMDEVVKATSrGCITIIGGGDTATCCAKWNTEDKVSHVSTGGGASLELLE
+#=GR P00558|PF00162|9-406 PP *******************************************9*********************************************555558999999********************************************************9999***************************************
+P07205|PF00162|9-406         VRPFLAILGGAKVADKIQLIKNMLDKVNEMIIGGGMAYTFLKVlNNMEIGASLFDEEGAKIVKDIMAKAQKNGVRITFPVDFVTGDKFDENAQvGKATVASGISPGWMGLDCGPESNKNHAQVVAQARLIVWNGPLGVFEWDAFAKGTKALMDEIVKATSkGCITVIGGGDTATCCAKWNTEDKVSHVSTGGGASLELLE
+#=GR P07205|PF00162|9-406 PP *******************************************9*********************************************77777999999*********************************************************9998***************************************
+#=GC PP_cons                 *******************************************.*********************************************6666.999999*********************************************************999.***************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P00558|PF00162|9-406         GK
+#=GR P00558|PF00162|9-406 PP *8
+P07205|PF00162|9-406         GK
+#=GR P07205|PF00162|9-406 PP *8
+#=GC PP_cons                 *8
+#=GC RF                      xx
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5QJU3|PF05875|13-261         g---SSEVDWCEDNYTIVPAIAEFYNTISNVLFFILPPICMCL--FRQYATcfnsGIYLIWTLLVVVGIGSVYFHATLSFLGQMLDELAVLWVLMCALAMWFPRRYLPkifrNDRGRFKVVV...........SVLSAVTTCLAFV--KPAINNISLMTLGVPCTALLIAELKRC-----DNMRVFKLGLFSGLWWTLAL
+#=GR Q5QJU3|PF05875|13-261 PP 7...79*********************************9999..455555457799*********************************************66655588887889999999...........*************..***************************.....9*******************
+Q8TDN7|PF05875|7-255          y--QSSEVDWCESNFQYSELVAEFYNTFSNIPFFIFGPLMMLLM--HPYAQkrsrYIYVVWVLFMIIGLFSMYFHMTLSFLGQLLDEIAILWLLGSGYSIWM------....P-RCYFPSFLggnrsqfirlvFITTVVSTLLSFL--RPTVNAYALNSIALHILYIVCQEYRKT-----SNKELRHLIEVSVVLWAVAL
+#=GR Q8TDN7|PF05875|7-255  PP 5..89**********************************99884..44444345599********************************************9..........3.55555555555555555549999999999999..***************************.....********************
+Q9NUN7|PF05875|12-251         .GPTTSTLDWCEENYSVTWYIAEFWNTVSNLIMIIPPMFGAVQSVRDGLEK....RYIASYLALTVVGMGSWCFHMTLKYEMQLLDELPMIYSCCIFVYCMFECFKIK...nSVNYHLLFTL...........VLFSLIVTTVYLKVKEPIFHQVMYGMLVFTLVLRSIYIVTWV------YPWLRGLGYTSLGIFLLGF
+#=GR Q9NUN7|PF05875|12-251 PP .699***********************************************....***********************************************998876...47788888899...........9****************************************9......9******************
+#=GC PP_cons                  .6999***********************************9997*766666....9**********************************************777766....6777778888...........999999******9*****************************.....9*******************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5QJU3|PF05875|13-261         FCWISDRAFCE-LLSSF---------NFPYLHCMWHILICLAAYLGCVCFAYFDAASEIPEQGPVIKFWPNEKwAfigVPY--v....
+#=GR Q5QJU3|PF05875|13-261 PP ***********.55553.........9******************************************987644455665..6....
+Q8TDN7|PF05875|7-255          TSWISDRLLCSFWQRI----------HFFYLHSIWHVLISITFPYGMVTMALVDANYEMPGETLKVRYWPRDSwPv.gLPY--v....
+#=GR Q8TDN7|PF05875|7-255  PP ****************..........8**********************************9999*****998435.6666..6....
+Q9NUN7|PF05875|12-251         LFWNIDNIFCE-SLRNFRKKVPPIIGITTQFHAWWHILTGLGSYLHILFSLYTRTLYLRYR------------.-...-----pkvkf
+#=GR Q9NUN7|PF05875|12-251 PP ***********.99999************************************99887655......................56789
+#=GC PP_cons                  ************88886*********9****************************9999889999****9887.4...666.......
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x...xxxxx.....
+//

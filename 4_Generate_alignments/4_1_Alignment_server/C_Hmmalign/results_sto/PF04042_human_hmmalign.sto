@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P49005|PF04042|196-411         VLLVSGLGLGGGGGEsllgTQLLVDVVTGQLgdegeqcSAAHVSRVILAGNLLSHSTQSRDSINKAkyltKKTQAASVEAVKMLDEILLQLS.ASVPVDVMPGEFDPTNY-TLPQQPLHPCMFPLATAYST.LQLVTNPYQATIDGVRFLGTSGQNVSDIFRYSSMEDH------LEILEWTLRVRHISPTAP.DTLGCY
+#=GR P49005|PF04042|196-411 PP 6799999999544445668******************************************999999999**********************.*****************.********************.*************************************......******************.******
+P56282|PF04042|287-489         FVFLSDVWLD-QVEV....LEKLRIMFAGYS.......-PAPPTCFILCGNFSSAPYGKNQVQ---....--ALKDSLKTLADIICEYPDIH.QSSRFVFVPGPEDPGFGSILPRPPLAESITNEFRQRVPfSVFTTNPCRIQYCTQEITVFREDLVNKMCRNCVRFPSSNLAIPNHFVKTILSQGHLTPLPL.-YVCPV
+#=GR P56282|PF04042|287-489 PP 79********.9999....9***********........***************887766555.........77999999999999999***.***************999********************8899**********************************************************..*****
+Q14181|PF04042|342-549         VLVACGPYTTSDSIT....YDPLLDLIAVIN.......-HDRPDVCILFGPFLDAKHEQVENCLL-....--TSPFEDIFKQCLRTIIEGTRsSGSHLVFVPSLRDVHHEPVYPQPPFSYSDLSREDKK-Q.VQFVSEPCSLSINGVIFGLTSTDLLFHLGAEEISSSSGTSDRFSRILKHILTQRSYYPLYPpQEDMAI
+#=GR Q14181|PF04042|342-549 PP 689************....************........************************98.......*******************9999***********************99988888887.6.************************************************************98899***
+#=GC PP_cons                   689*******78888....************.......****************999999888999....**9999****************.****************************99999999*9.9************************************************************.9*****
+#=GC RF                        xxxxxxxxxxxxxxx....xxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx
+
+P49005|PF04042|196-411         PFYKTDPFIF.PECPHVYFCGN-TPSF--g
+#=GR P49005|PF04042|196-411 PP **********.***********.8888..6
+P56282|PF04042|287-489         YWAYDYALRV.YPVPDLLVIADKYDPFTT.
+#=GR P56282|PF04042|287-489 PP **********.***********9999975.
+Q14181|PF04042|342-549         DYESFYVYAQlPVTPDVLIIPSELRYFVK.
+#=GR Q14181|PF04042|342-549 PP *********9899**************86.
+#=GC PP_cons                   **********.************999986.
+#=GC RF                        xxxxxxxxxx.xxxxxxxxxxxxxxxxxx.
+//

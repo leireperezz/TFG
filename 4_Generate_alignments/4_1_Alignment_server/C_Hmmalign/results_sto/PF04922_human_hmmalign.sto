@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q5I7T1|PF04922|32-427         r--EPYMDEIFHLPQAQRYCEGHFSlsQWDPMITTLPGLYLVSVGVVKPAIwifAWSEHVVCSIGMLRFVNLLFSVgnfYLLYLLFHKVQPRNKAASSIQ-RVLSTLTLAVFPTLYFFNFLYYTEAGSMFFTLFAYLMCLYGNHKTSAFLGFCGFMFRQTNIIWAVFCAGNVIAQKLTEAWKTELQKKEDRLPPikgpfa
+#=GR Q5I7T1|PF04922|32-427 PP 6..89*******************7769********************9988888999*****************9999999999999988887777666.9********************************************************************************999877665544887766
+Q5BKT4|PF04922|32-427         r--EPYMDEIFHLPQAQRYCEGHFSlsQWDPMITTLPGLYLVSIGVIKPAIwifGWSEHVVCSIGMLRFVNLLFSVgnfYLLYLLFCKVQPRNKAASSIQ-RVLSTLTLAVFPTLYFFNFLYYTEAGSMFFTLFAYLMCLYGNHKTSAFLGFCGFMFRQTNIIWAVFCAGNVIAQKLTEAWKTELQKKEDRLPPikgpfa
+#=GR Q5BKT4|PF04922|32-427 PP 6..89*******************7769********************9988888899*****************99999999999**988888877666.9********************************************************************************999877665544887766
+#=GC PP_cons                  ...89*******************7..9********************998...8999*****************9...999999999988888777666.9********************************************************************************999877665544......
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+
+Q5I7T1|PF04922|32-427         EFRKILQFLLAYSMSF----KNLSMLFCLTWPYILLGFLFCAFVVVNGGIVIGDRSSHEACLHFPQLFYFFSFTLFFSFPHLLSPSKIKTFLSLVWKHGILFL--VVTLVSVFLVWKFTYAHKYLLADNRHYTFYVWKRVFQRYAILKYLLVPAYIFAGWSIADSL-KSKPIFWNLMFFICLFIVIVPQKLLEFRYFILP
+#=GR Q5I7T1|PF04922|32-427 PP 6677777777666666....55678899**********************************************************************99887..99***********************************************************.9999*****************************
+Q5BKT4|PF04922|32-427         EFRKILQFLLAYSMSF----KNLSMLLLLTWPYILLGFLFCAFVVVNGGIVIGDRSSHEACLHFPQLFYFFSFTLFFSFPHLLSPSKIKTFLSLVWKRRILFF--VVTLVSVFLVWKFTYAHKYLLADNRHYTFYVWKRVFQRYETVKYLLVPAYIFAGWSIADSL-KSKSIFWNLMFFICLFTVIVPQKLLEFRYFILP
+#=GR Q5BKT4|PF04922|32-427 PP 6677777777666666....5667889************************************************************************9887..99***********************************************************.999******************************
+#=GC PP_cons                  6677777777666666....56678899***********************************************************************9887..99***********************************************************.9999*****************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5I7T1|PF04922|32-427         YVIYRL
+#=GR Q5I7T1|PF04922|32-427 PP ****97
+Q5BKT4|PF04922|32-427         YVIYRL
+#=GR Q5BKT4|PF04922|32-427 PP ****97
+#=GC PP_cons                  ****97
+#=GC RF                       xxxxxx
+//

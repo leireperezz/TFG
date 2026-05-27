@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O43813|PF05147|56-399         p--RDGTGYTGWAGIAVLYLHLYD....VFGDPAYLQLAHGYVKQSLNCLTK...---RSITFLCGDAGPLAVAAVLYHKMNNEKQAEDCITRLIHLNKIDPH--AP....NEMLYGRIGYIYALLFVNKNFgveKIPQSHIQQICETILTSGenlARKRNFTAKSPLMYEWYQEYYVGAAHGLAGIYYYLMQPSLQVSQ
+#=GR O43813|PF05147|56-399 PP 6..57899****************....************************......*************************************99555555..55....9****************************************************************************************
+Q9NS86|PF05147|97-444         p--HDCSAYTGWTGIALLYLQLYR....VTCDQTYLLRSLDYVKRTLRNLNG...---RRVTFLCGDAGPLAVGAVIYHKLRSDCESQECVTKLLQLQRSVVCQESDl..pDELLYGRAGYLYALLYLNTEIgpgTVCESAIKEVVNAIIESGktlSREERKTERCPLLYQWHRKQYVGAAHGMAGIYYMLMQPAAKVDQ
+#=GR Q9NS86|PF05147|97-444 PP 5..789******************....************************......******************************************99988889..9************************99999**********999**9********************************************
+Q6ZV70|PF05147|64-415         g------LYGGVAGVAYMLYHVSQsplfATARERYLRSAKRLIDACARAEEWgepDADTRAAFLLGGAGVYAVATLVYHALGRSD-YVQPLGKFRALCAVCAPVSFLecgsDELFVGRAGYLCAALVLKQKLaqeVLTPAQIKSICQAILDSG..kQYAIKKRKPFPLMYSYYGTEYLGAAHGLSSILQMLLSYHEH-LK
+#=GR Q6ZV70|PF05147|64-415 PP 7......9***************955556899999***********9998889899999999999********************.5577********9999988778999*********************999999***************..8788899999****************************9977.99
+#=GC PP_cons                  ...68899****************....99*******************999...999****************************8899*******8888888877....*********************...99****************...99999**********************************99***
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43813|PF05147|56-399         GKLHSLVKPSVDYVCQLKFP-SGNYPPCIG...DNRDLLVHWCHGAPGVIYMLIQAYKVFREEKYLCDAYQCADVIWQYGLLKKGYGLCHGSAGNAYAFLTLYNLTQDMKYLYRACKFAEWCLEYGEH-----GCRTPDTPFSLFEGMAGTIYFLADLLVPTKARFPAFEL.
+#=GR O43813|PF05147|56-399 PP ********************.*********...***********************************************************************************************.....9*********************************9986.
+Q9NS86|PF05147|97-444         ETLTEMVKPSIDYVRHKKFR-SGNYPSSLS...NETDRLVHWCHGAPGVIHMLMQAYKVFKEEKYLKEAMECSDVIWQRGLLRKGYGICHGTAGNGYSFLSLYRLTQDKKYLYRACKFAEWCLDYGAH-----GCRIPDRPYSLFEGMAGAIHFLSDVLGPETSRFPAFEL.
+#=GR Q9NS86|PF05147|97-444 PP ******************99.*********...***********************************************************************************************.....9*********************************9986.
+Q6ZV70|PF05147|64-415         PSDRELVWQSVDFLMEQE--QNCNWPPELGetiERENELVHWCHGAPGIAYLFAKAYLVSKKPQYLDTCIRCGELTWQKGLLKKGPGICHGVAGSAYVFLLLYRLTGNSKYIYRAQRFAQFLFTEEFKAG----SRVLESIYSLYEGFSGTVCFLIDLLQPNQAEFP----l
+#=GR Q6ZV70|PF05147|64-415 PP 99****************..89********99999*********************************************************************************************85....5566789*********************99887....8
+#=GC PP_cons                  ******************998*********...***********************************************************************************************85...9888999***********************99999986.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

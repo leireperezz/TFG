@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+Q12905|PF07528|22-216          ...g---------FRPFVPHIPFDFYLCEmafPRVKPAPDETSFSEALLKRNQDLAPNSAEQASILSLVTKINNVI-.......................---.......-DNLIVAPGT.............FEVQIEEVRQVGSYKKGTMTTGHNVADLVVILKILPTLEAVAALGNKVVESLRAQDPSEV------L
+#=GR Q12905|PF07528|22-216  PP ...8.........567************999*********************************************...................................********9.............9999*****************************************************995......5
+Q12906|PF07528|11-221          ...d-------------------------...-------------RHVMAKHSSVYPTQEELEAVQNMVSHTERALKavsd...............wideQEKgsseqaeSDNMDVPPEDdskegageqktehMTRTLRGVMRVGLVAKGLLLKGDLDLELVLLCKEKPT----TALLDKVADNLAIQLAAVTEDKYEIL
+#=GR Q12906|PF07528|11-221  PP ...5.........................................89**********************************...............**9977777777879***********************************************************....**************************
+Q96SI9|PF07528|9-213           ..nd-------------------------...------------DRHVMVKHSTIYPSPEELEAVQNMVSTVECALKhvsdwldetnkgtktegetevkkDEA.......GENYSKDQG-.............-GRTLCGVMRIGLVAKGLLIKDDMDLELVLMCKDKPT----ETLLNTVKDNLPIQIQKLTEEKYQVE
+#=GR Q96SI9|PF07528|9-213   PP ..86........................................49*******************************99999998888777776666554444.......788888888...............99**********************************....99************************
+Q96KR1|PF07528|720-917         ..ds-------------------------...----------SDDRYVMTKHATIYPTEEELQAVQKIVSITERALKlvsd...............slseHEKn....knKEGDDKKEGG.............KDRALKGVLRVGVLAKGLLLRGDRNVNLVLLCSEKPS----KTLLSRIAENLPKQLAVISPEKYDIK
+#=GR Q96KR1|PF07528|720-917 PP ..65......................................44699******************************9999...............99763332....233333334444.............889**********************************....99************************
+Q9UPR6|PF07528|585-783         pass-------------------------...-------D----DRHVMCKHATIYPTEQELLAVQRAVSHAERALKlvsdtla........eedrgrreEEG.......DKRSSVAPQ-.............-TRVLKGVMRVGILAKGLLLRGDRNVRLALLCSEKPT----HSLLRRIAQQLPRQLQMVTEDEYEVS
+#=GR Q9UPR6|PF07528|585-783 PP 7543...................................4....59*******************************9999999........88887763333.......666789999...............************************************....9***********************99
+#=GC PP_cons                   .............567************9...*******7**7769*******************************.......................444.......6778888888.............99***************************************9*****************9******9
+#=GC RF                        ....xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......................xxx.......xxxxxxxxxx.............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12905|PF07528|22-216          TMlTNETGFEISSS.....DATVKILITTVPPNLRKL.........DPELHLDIKVLQSALAAIRHARWFEENAS
+#=GR Q12905|PF07528|22-216  PP 55467*********.....******************.........***************************96
+Q12906|PF07528|11-221          QS.VDDAAIVIKNTkepplSLTIHLTSPVVREEMEKVlagetlsvnDPPDVLDRQKCLAALASLRHAKWFQARAN
+#=GR Q12906|PF07528|11-221  PP **.***************9*****************************************************996
+Q96SI9|PF07528|9-213           QC.VNEASIIIRNTkeptlTLKVILTSPLIRDELEKKdgen.vsmkDPPDLLDRQKCLNALASLRHAKWFQARAN
+#=GR Q96SI9|PF07528|9-213   PP **.***********9999999****************9***.******************************996
+Q96KR1|PF07528|720-917         CA.VSEAAIILNSCvepkmQVTITLTSPIIREENMREgdvtsgmvkDPPDVLDRQKCLDALAALRHAKWFQARAN
+#=GR Q96KR1|PF07528|720-917 PP **.******999889998899999*******976665689********************************996
+Q9UPR6|PF07528|585-783         SD.-PEANIVISSCeeprmQVTISVTSPLMREDPSTDpgve.epqaDAGDVLSPKKCLESLAALRHARWFQARAS
+#=GR Q9UPR6|PF07528|585-783 PP 98..9*******99988888999999999999877656889.8888999***********************995
+#=GC PP_cons                   99.99********9.....99***********99888.........**************************996
+#=GC RF                        xx.xxxxxxxxxxx.....xxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

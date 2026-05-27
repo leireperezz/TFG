@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q49AJ0|PF05057|1137-1330         dg----IHLVVCVHGLDGNSADLRLVKTFIEL--GLPGGKLDFLMSEKNQMDTFADFDTMTDRLLDEIIQHIQLYNLSISRISFIGHSLGNIIIRSVLTRPRFRYY-LN------KLHTFLSLSGPHLGTLYNNSTlVSTGLWLMQKLKKSGSLLQLTFR-------DNADLRKCFLYQLSQKTG-------LQYFKNVV
+#=GR Q49AJ0|PF05057|1137-1330 PP 75....6*************************..********************************************************************9986.57......89*******************************************.......*************99998.......99******
+Q9P2D6|PF05057|1245-1439         .e--DGVHLIVCVHGLDGNSADLRLVKTYIEL--GLPGGRIDFLMSERNQNDTFADFDSMTDRLLDEIIQYIQIYSLTVSKISFIGHSLGNLIIRSVLTRPRFKYY-LN------KLHTFLSLSGPHLGTLYNSSAlVNTGLWFMQKWKKSGSLLQLTCR-------DHSDPRQTFLYKLSNKAG-------LHYFKNVV
+#=GR Q9P2D6|PF05057|1245-1439 PP .6..679*************************..********************************************************************9986.57......89*******************************************.......*************99998.......********
+#=GC PP_cons                     ....678*************************..********************************************************************9986.57......89*******************.***********************.......*************99998.......9*******
+#=GC RF                          ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q49AJ0|PF05057|1137-1330         LVASP-QDRYVPFHSariEMCK-
+#=GR Q49AJ0|PF05057|1137-1330 PP ***65.*********8887775.
+Q9P2D6|PF05057|1245-1439         LVGSL-QDRYVPYHSariEMCK-
+#=GR Q9P2D6|PF05057|1245-1439 PP ***88.*********8887775.
+#=GC PP_cons                     ***77.*********...7775.
+#=GC RF                          xxxxxxxxxxxxxxx...xxxxx
+//

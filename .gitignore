@@ -1,5 +1,24 @@
-4_1_aalignment_server/4_1_run_hmmpress/data/Pfam-A.hm*
-4_0_get_short_name/data/Pfam-A.hmm
+# Large HMM and alignment files
+4_Generate_alignments/4_1_Alignment_server/A_Run_hmmpress/data/
+4_Generate_alignments/4_0_Get_short_name/data/
+
+# gnomAD and ClinVar data
+clinvar_AD_missense_genes_min3/
+gnomad_r4_GRCh38_AD_missense_genes_freq-*_joined/
+gnomad_r4_GRCh38_AD_missense_genes_joined/
+
+# HomolVar large data files
+8_homolvar/3_Data_filtering/data/
+8_homolvar/3_Split_entries_by_align/data/
+8_homolvar/4_Align_pos/data/
+8_homolvar/4_Generate_alignments/4_1_Alignment_server/A_Run_hmmpress/data/
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
+
+4_Generate_alignments/4_1_Alignment_server/A_Run_hmmpress/data/Pfam-A.hmm*
 
 clinvar_AD_missense_genes_min3/
 gnomad_r4_GRCh38_AD_missense_genes_freq-2_joined/

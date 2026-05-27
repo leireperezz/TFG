@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+Q13362|PF01603|29-437          h---IRDVPPADQEKLFIQKLRQCCVLFDFvSDPLSDLKWKEVKRAALSEMVEYITH.nR--NVITEPIYPEVVHMFAVNMFRTLP-PSSNPT-GAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFVLQLLELFDSEDPRERDFLKTTLHRIYGKFLGLRAYIRKQINNIFYRFIYETEHHNG
+#=GR Q13362|PF01603|29-437  PP 7...679************************************************99.52..7***********************.755555.344479****************************************************************************************************
+Q14738|PF01603|103-513         .LPALKDSPTQEREELFIQKLRQCCVLFDFvSDPLSDLKFKEVKRAGLNEMVEYITH.sR--DVVTEAIYPEAVTMFSVNLFRTLP-PSSNPT-GAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFVLALLDLFDSEDPRERDFLKTILHRIYGKFLGLRAYIRRQINHIFYRFIYETEHHNG
+#=GR Q14738|PF01603|103-513 PP .699***************************************************98.53..7***********************.755555.344479****************************************************************************************************
+Q15172|PF01603|56-460          .LPQLKDATSNEQQELFCQKLQQCCILFDF.MDSVSDLKSKEIKRATLNELVEYVSTnrG---VIVESAYSDIVKMISANIFRTLP-PSDNPD----FDPEEDEPTLEASWPHIQLVYEFFLRFLESPDFQPSIAKRYIDQKFVQQLLELFDSEDPRERDFLKTVLHRIYGKFLGLRAFIRKQINNIFLRFIYETEHFNG
+#=GR Q15172|PF01603|56-460  PP .699**************************.*************************9655...***********************.744443....369****************************************************************************************************
+Q15173|PF01603|62-466          .LPLLKDVPASELHELLSRKLAQCGVMFDF.LDCVADLKGKEVKRAALNELVECVGStrG---VLIEPVYPDIIRMISVNIFRTLP-PSENPE----FDPEEDEPNLEPSWPHLQLVYEFFLRFLESPDFQPSVAKRYVDQKFVLMLLELFDSEDPREREYLKTILHRVYGKFLGLRAYIRKQCNHIFLRFIYEFEHFNG
+#=GR Q15173|PF01603|62-466  PP .689**************************.************************99766...***********************.755554....379****************************************************************************************************
+Q16537|PF01603|48-452          .LPLLKDVPSSEQPELFLKKLQQCCVIFDF.MDTLSDLKMKEYKRSTLNELVDYITIsrG---CLTEQTYPEVVRMVSCNIFRTLP-PSDSNE----FDPEEDEPTLEASWPHLQLVYEFFIRFLESQEFQPSIAKKYIDQKFVLQLLELFDSEDPRERDYLKTVLHRIYGKFLGLRAFIRKQINNIFLRFVYETEHFNG
+#=GR Q16537|PF01603|48-452  PP .689**************************.************************99755...9**********************.755554....379****************************************************************************************************
+#=GC PP_cons                   .69999************************.************************99..4..7***********************.755554.344379****************************************************************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13362|PF01603|29-437          IAELLEILGSIINGFALPLKEEHKIFLLKVLLPLHKVKSLSVYHPQLAYCVVQFLEKDSTLTEPVVMALLKYWPKTHSPKEVMFLNELEEILDVIEPSEFVKIMEPLFRQLAKCVSSPHFQVAERALYYWNNEYIMSLISDNAAKILPIMFPSLYRNSKTHWNKTIHGLIYNALKLFMEMNQKLFDDCTQQFKAEKLKEK
+#=GR Q13362|PF01603|29-437  PP ********************************************************************************************************************************************************************************************************
+Q14738|PF01603|103-513         IAELLEILGSIINGFALPLKEEHKMFLIRVLLPLHKVKSLSVYHPQLAYCVVQFLEKESSLTEPVIVGLLKFWPKTHSPKEVMFLNELEEILDVIEPSEFSKVMEPLFRQLAKCVSSPHFQVAERALYYWNNEYIMSLISDNAARVLPIMFPALYRNSKSHWNKTIHGLIYNALKLFMEMNQKLFDDCTQQYKAEKQKGR
+#=GR Q14738|PF01603|103-513 PP ********************************************************************************************************************************************************************************************************
+Q15172|PF01603|56-460          VAELLEILGSIINGFALPLKAEHKQFLMKVLIPMHTAKGLALFHAQLAYCVVQFLEKDTTLTEPVIRGLLKFWPKTCSQKEVMFLGEIEEILDVIEPTQFKKIEEPLFKQISKCVSSSHFQVAERALYFWNNEYILSLIEENIDKILPIMFASLYKISKEHWNPTIVALVYNVLKTLMEMNGKLFDDLTSSYKAERQREK
+#=GR Q15172|PF01603|56-460  PP ********************************************************************************************************************************************************************************************************
+Q15173|PF01603|62-466          VAELLEILGSIINGFALPLKTEHKQFLVRVLIPLHSVKSLSVFHAQLAYCVVQFLEKDATLTEHVIRGLLKYWPKTCTQKEVMFLGEMEEILDVIEPSQFVKIQEPLFKQVARCVSSPHFQVAERALYFWNNEYILSLIEDNCHTVLPAVFGTLYQVSKEHWNQTIVSLIYNVLKTFMEMNGKLFDELTASYKLEKQQEQ
+#=GR Q15173|PF01603|62-466  PP ********************************************************************************************************************************************************************************************************
+Q16537|PF01603|48-452          VAELLEILGSIINGFALPLKAEHKQFLVKVLIPLHTVRSLSLFHAQLAYCIVQFLEKDPSLTEPVIRGLMKFWPKTCSQKEVMFLGELEEILDVIEPSQFVKIQEPLFKQIAKCVSSPHFQVAERALYYWNNEYIMSLIEENSNVILPIMFSSLYRISKEHWNPAIVALVYNVLKAFMEMNSTMFDELTATYKSDRQREK
+#=GR Q16537|PF01603|48-452  PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                   ********************************************************************************************************************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13362|PF01603|29-437          LKMKEREEAWVKIENLA.
+#=GR Q13362|PF01603|29-437  PP **************976.
+Q14738|PF01603|103-513         FRMKEREEMWQKIEELA.
+#=GR Q14738|PF01603|103-513 PP **************986.
+Q15172|PF01603|56-460          KKELEREELWKKLEE--.
+#=GR Q15172|PF01603|56-460  PP ************986...
+Q15173|PF01603|62-466          QKAQERQELWQGLEE--.
+#=GR Q15173|PF01603|62-466  PP ***********9985...
+Q16537|PF01603|48-452          KKEKEREELWKKLE---d
+#=GR Q16537|PF01603|48-452  PP ************98...5
+#=GC PP_cons                   ************99776.
+#=GC RF                        xxxxxxxxxxxxxxxxx.
+//

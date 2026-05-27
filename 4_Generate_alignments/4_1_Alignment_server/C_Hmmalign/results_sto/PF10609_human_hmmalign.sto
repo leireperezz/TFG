@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P53384|PF10609|53-303         -VKHKILVLSGKGGVGKSTFSAHLAHGLA.eDENTQIALLDIDICGPSIPKIMGLEGEQVHQSGSGWSPVYV..eDNLGVMSVGFLLSSPDDAVIWRGPKKNGMIKQFLRDVDWGEVDYLIVDTPPGTSDEHLSVVRYLataHIDGAVIITTPQEVSLQDVRKEINFCRKVKLPIIGVVENMSGFICPKCKKESQIFppT
+#=GR P53384|PF10609|53-303 PP .79*************************9.56789****************************99******9..999*************************************************************9988999****************************************************988
+Q8TB37|PF10609|66-310         -VKQVIVVASGKGGVGKSTTAVNLALALAanDSSKAIGLLDVDVYGPSVPKMMNLKGNPELSQSNLMRPLLN...YGIACMSMGFLVE-ESEPVVWRGLMVMSAIEKLLRQVDWGQLDYLVVDMPPGTGDVQLSVSQNI...PITGAVIVSTPQDIALMDAHKGAEMFRRVHVPVLGLVQNMSVFQCPKCKHKTHIF..G
+#=GR Q8TB37|PF10609|66-310 PP .79*************************94345678*********************85555566688****...************9.**************************************************...*******************************************************..*
+Q9Y5Y2|PF10609|13-262         -VRHIILVLSGKGGVGKSTISTELALALR..HAGKKVGILDVDLCGPSIPRMLGAQGRAVHQCDRGWAPVFLdreQSISLMSVGFLLEKPDEAVVWRGPKKNALIKQFVSDVAWGELDYLVVDTPPGTSDEHMATIEALrpyQPLGALVVTTPQAVSVGDVRRELTFCRKTGLRVMGIVENMSGFTCPHCTECTSVF..S
+#=GR Q9Y5Y2|PF10609|13-262 PP .78**************************..***************************************8767789**************************************************************988778****************************************************..*
+#=GC PP_cons                  .79*************************9..77899*********************98888888999**99...99**************************************************************...999****************************************************..9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x
+
+P53384|PF10609|53-303         TGGAELMCQDLEVPLLGRVPLDPLIGKNCDKGQSFFIDAPDSPATLAYRSIIQRI-.
+#=GR P53384|PF10609|53-303 PP 9**************************************************9986..
+Q8TB37|PF10609|66-310         ADGARKLAQTLGLEVLGDIPLHLNIREASDTGQPIVFSQPESDEAKAYLRIAVE--v
+#=GR Q8TB37|PF10609|66-310 PP *************************************************99976..5
+Q9Y5Y2|PF10609|13-262         RGGGEELAQLAGVPFLGSVPLDPALMRTLEEGHDFIQEFPGSPAFAALTSIAQKI-.
+#=GR Q9Y5Y2|PF10609|13-262 PP ****************************************************997..
+#=GC PP_cons                  ***************************************************9876..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

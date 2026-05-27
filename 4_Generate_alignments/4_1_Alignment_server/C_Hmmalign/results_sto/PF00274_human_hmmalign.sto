@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P04075|PF00274|15-364         ELSDIAHRIVAPGKGILAADESTGSIAKRLQSIGTENTEENRRFYRQLLLTADDRVNPCIGGVILFHETLYQKADDGRPFPQVIKSKGGVVGIKVDKGVVPLAGTNGETTTQGLDGLSERCAQYKKDGADFAKWRCVLKIGEHTPSALAIMENANVLARYASICQQNGIVPIVEPEILPDGDHDLKRCQYVTEKVLAAVY
+#=GR P04075|PF00274|15-364 PP 89******************************************************************************************************************************************************************************************************
+P05062|PF00274|15-364         ELSEIAQSIVANGKGILAADESVGTMGNRLQRIKVENTEENRRQFREILFSVDSSINQSIGGVILFHETLYQKDSQGKLFRNILKEKGIVVGIKLDQGGAPLAGTNKETTIQGLDGLSERCAQYKKDGVDFGKWRAVLRIADQCPSSLAIQENANALARYASICQQNGLVPIVEPEVIPDGDHDLEHCQYVTEKVLAAVY
+#=GR P05062|PF00274|15-364 PP 89******************************************************************************************************************************************************************************************************
+P09972|PF00274|15-364         ELSDIALRIVAPGKGILAADESVGSMAKRLSQIGVENTEENRRLYRQVLFSADDRVKKCIGGVIFFHETLYQKDDNGVPFVRTIQDKGIVVGIKVDKGVVPLAGTDGETTTQGLDGLSERCAQYKKDGADFAKWRCVLKISERTPSALAILENANVLARYASICQQNGIVPIVEPEILPDGDHDLKRCQYVTEKVLAAVY
+#=GR P09972|PF00274|15-364 PP 89******************************************************************************************************************************************************************************************************
+#=GC PP_cons                  89******************************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P04075|PF00274|15-364         KALSDHHIYLEGTLLKPNMVTPGHACTQKFSHEEIAMATVTALRRTVPPAVTGITFLSGGQSEEEASINLNAINKCPLLKPWALTFSYGRALQASALKAWGGKKENLKAAQEEYVKRALANSLACQGKY.TPSgQAGAAASESLFVSNHAY
+#=GR P04075|PF00274|15-364 PP *********************************************************************************************************************************.8775889999*********99
+P05062|PF00274|15-364         KALNDHHVYLEGTLLKPNMVTAGHACTKKYTPEQVAMATVTALHRTVPAAVPGICFLSGGMSEEDATLNLNAINLCPLPKPWKLSFSYGRALQASALAAWGGKAANKEATQEAFMKRAMANCQAAKGQYvHTG.SSGAASTQSLFTACYTY
+#=GR P05062|PF00274|15-364 PP *********************************************************************************************************************************5455.8899999*****99988
+P09972|PF00274|15-364         KALSDHHVYLEGTLLKPNMVTPGHACPIKYTPEEIAMATVTALRRTVPPAVPGVTFLSGGQSEEEASFNLNAINRCPLPRPWALTFSYGRALQASALNAWRGQRDNAGAATEEFIKRAEVNGLAAQGKY.EGSgEDGGAAAQSLYIANHAY
+#=GR P09972|PF00274|15-364 PP *********************************************************************************************************************************.9996788999*********99
+#=GC PP_cons                  *********************************************************************************************************************************.777.888999********998
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxx
+//

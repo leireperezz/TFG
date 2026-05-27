@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P11387|PF01028|432-664         SSRIKGEKDWQKYETARRLKKCVDKIRNQYREDWKSKEMKVRQRAVALYFIDKLALRAGNEKeEGETADTVGCCSLRVEHINLHPeldgqEYVVEFDFLGKDSIRYYNKVPVEKRVFKNLQLFMENKQPEDDLFDRLNTGILNKHLQDLMEGLTAKVFRTYNASITLQQQLKELTAPDENIPAKILSYNRANRAVAILCN
+#=GR P11387|PF01028|432-664 PP 689***********************************************************8899*******************9*99779**********************************************************************************99************************
+Q969P6|PF01028|269-500         -SKLKGETAWQKFETARRLRGFVDEIRSQYRADWKSREMKTRQRAVALYFIDKLALRAGNEKeDGEAADTVGCCSLRVEHVQLHPeadgcQHVVEFDFLGKDCIRYYNRVPVEKPVYKNLQLFMENKDPRDDLFDRLTTTSLNKHLQELMDGLTAKVFRTYNASITLQEQLRALTRAEDSIAAKILSYNRANRVVAILCN
+#=GR Q969P6|PF01028|269-500 PP .79***********************************************************88899********************9999***********************************************************************************99************************
+#=GC PP_cons                   689***********************************************************.8999******************.....89**********************************************************************************99************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P11387|PF01028|432-664         HQRAPPKTFEKSMMNLQTKIDAKKEQLADARR--d
+#=GR P11387|PF01028|432-664 PP **************************998875..7
+Q969P6|PF01028|269-500         HQRATPSTFEKSMQNLQTKIQAKKEQVAEARA--e
+#=GR Q969P6|PF01028|269-500 PP ***************************99875..6
+#=GC PP_cons                   ***************************99875...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

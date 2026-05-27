@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O00472|PF10390|11-291         ..EEQRYGLSCGRLGQD-NITVLHVKLTETAIRALETYQSHKNLIPFRPSIQFQGLHGLVKIPKNDPLNEVHNFNFYLSNVGKDNPQGSFDCIQQTFSSSGASQLNCLGFIQDKITVCATNDSYQMTRERMTQAEEESRNRSTKVIKPGGPYVGKRVQIRKAPQAVSDTVPERKRSTPMNPANTIRK.....THSSSTIS
+#=GR O00472|PF10390|11-291 PP ..689***********9.*************************************************************************************************************************************************************************.....********
+P55199|PF10390|6-292          ..EDRSYGLSCGRVSDGSKVSVFHVKLTDSALRAFESYRARQDSVSLRPSIRFQGSQGHISIPQPDCPAEARTFSFYLSNIGRDNPQGSFDCIQQYVSSHGEVHLDCLGSIQDKITVCATDDSYQKARQSMAQAEEETRSRSAIVIKAGGRYLGKKVQFRKPAPGATDAVPSRKRATPINLASAIRKsgasaVSGGSGVS
+#=GR P55199|PF10390|6-292  PP ..689**************************************************************************************************************************************************************************************88877777899**
+Q9HB65|PF10390|19-118         aa----------------RTSLLLLRLNDAALRALQECQR----QQVRPVIAFQGHRGYLRLPGPGWS---CLFSFIVSQCCQEGAGGSLDLVCQRFLRSGPNSLHCLGSLRERLIIWAAMDS----------------------------------------------------------------.....--------
+#=GR Q9HB65|PF10390|19-118 PP 87................568999***************9....7789*****************998...89********************************************998876.............................................................................
+#=GC PP_cons                  ..689***********9*899***********************999********************9***9***********************************************9999****************************************************************.....88999***
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxx
+
+O00472|PF10390|11-291         QRPYRDRVIHLLALKAYKKPELLARLQKDGVNQKDKNSLGAILQQVANLNSKDLSYTLKDYVFKELQRDWPGYSEIDRRSLESVLSRKL
+#=GR O00472|PF10390|11-291 PP ***************************************************************************************97
+P55199|PF10390|6-292          QRPFRDRVLHLLALRPYRKAELLLRLQKDGLTQADKDALDGLLQQVANMSAKDGTCTLQDCMYKDVQKDWPGYSEGDQQLLKRVLVRKL
+#=GR P55199|PF10390|6-292  PP ***************************************************************************************97
+Q9HB65|PF10390|19-118         -----------------------------------------------------------------------------------------
+#=GR Q9HB65|PF10390|19-118 PP .........................................................................................
+#=GC PP_cons                  ***************************************************************************************97
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

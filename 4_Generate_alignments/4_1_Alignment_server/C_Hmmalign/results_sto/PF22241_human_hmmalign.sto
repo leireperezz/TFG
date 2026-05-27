@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O00232|PF22241|42-258         .EVIETLLSLEKQTRTASDMVSTSRILVAVVKMCYEAKEWDLLNENIMLLSKRRSQLKQAVAKMVQQCCTYVEEITDLPIKLRLIDTLRMVTEGKIYVEIERARLTKTLATIKEQNGDVKEAASILQELQVETY.GSMEKKERVEFILEQMRLCLAVKDYIRTQIISKKINTKFFQEENTEKLKLKYYNLMIQLDQHEGS
+#=GR O00232|PF22241|42-258 PP .799**********************************************************************************************************************************.*****************************************************************
+Q9BT78|PF22241|5-219          v--RQDLAQLMNSSGSHKDLAGKYRQILEKAIQLSGAEQLEALKAFVEAMVNENVSLVISR-QLLTDFCTHLPNLPDSTAKEIYHFTLEKIQPRVISFEEQVASIRQHLASIYEKEEDWRNAAQVLVGIPLETGqKQYNVDYKLETYLKIARLYLEDDDPVQAEAYINRASLLQNEST-NEQLQIHYKVCYARVLDYRRK
+#=GR Q9BT78|PF22241|5-219  PP 6..689*******************99999999****************************.*****************************************************************************************************************999.*********************
+#=GC PP_cons                  .79899**********************99999*****************************************************************************************************.*****************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00232|PF22241|42-258         YLSICKHYRAIYDTPCIQA-
+#=GR O00232|PF22241|42-258 PP *****************85.
+Q9BT78|PF22241|5-219          FIEAAQRYNELSYKTIVHE-
+#=GR Q9BT78|PF22241|5-219  PP **************99987.
+#=GC PP_cons                  ***************9986.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxx
+//

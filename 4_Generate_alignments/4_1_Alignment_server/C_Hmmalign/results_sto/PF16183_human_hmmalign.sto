@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+O43896|PF16183|352-522         ..AIINEDPNARLIRELQEEVARLRELLMAQGLSASAL-...........................EGLKTEEGSVRGALPAVSSppAPVSPSSPTTH-NGE..LEPSFSPNTESQIGPEEAMERLQETEKIIAELNETWEEKLRKTEALRMEREALLAEMGVAVREDGGTVGVFSPKKTPHLVNLNEDPLMSECLLYHI
+#=GR O43896|PF16183|352-522 PP ..89*****************************97655............................23444444444333333321122233333322.344..444444555555688*********************************************************************************
+O60333|PF16183|358-555         ..AVINEDPNAKLVRELKEEVTRLKDLLRAQGLGDIIDIdpliddysgsgskylkdfqnnkhryllASENQRPGHFS--TASMGS..LTSSPSSCSLSSQVGltSVTSIQERIMSTPGGEEAIERLKESEKIIAELNETWEEKLRKTEAIRMEREALLAEMGVAIREDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYI
+#=GR O60333|PF16183|358-555 PP ..8***********************************999*************************9********99..9*****..************99888************************************************************************************************
+Q12756|PF16183|358-515         ..AVINEDPNNKLIRELKDEVTRLRDLLYAQGLGDITD-...........................------------MTNALVG..MSPSSSLSALSSRAA..SVSSLHERILFAPGSEEAIERLKETEKIIAELNETWEEKLRRTEAIRMEREALLAEMGVAMREDGGTLGVFSPKKTPHLVNLNEDPLMSECLLYYI
+#=GR Q12756|PF16183|358-515 PP ..8*********************************99........................................79*****..***************..************************************************************************************************
+Q15058|PF16183|754-823         ..-------------------------------------...........................-------------------..---------------..--------------------KLHQQERDMAEMQRVWKEKFEQAEKRKLQETKELQKAGIMFQMD---------NHLPNLVNLNEDPQLSEMLLYMI
+#=GR Q15058|PF16183|754-823 PP ............................................................................................................................57889999**********************************99.........789********************
+Q9H1H9|PF16183|391-468         el-------------------------------------...........................-------------------..---------------..------------------KEKLEESEKLIKELTVTWEEKLRKTEEIAQERQRQLESMGISLEMSGIKVG----DDKCYLVNLNADPALNELLVYYL
+#=GR Q9H1H9|PF16183|391-468 PP 76........................................................................................................................599*******************************************87777....7889*******************
+Q9NQT8|PF16183|390-469         sp-------------------------------------...........................-------------------..---------------..----------------ELKDRLEESEKLIQEMTVTWEEKLRKTEEIAQERQKQLESLGISLQSSGIKVG----DDKCFLVNLNADPALNELLVYYL
+#=GR Q9NQT8|PF16183|390-469 PP 87......................................................................................................................5568********************************************88877....6889*******************
+#=GC PP_cons                   ..8*******************************99889...........................6677777777735777887..77788888877*777..888888888888999*998999******************************************99999****899********************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........................xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43896|PF16183|352-522         KDGV
+#=GR O43896|PF16183|352-522 PP ***8
+O60333|PF16183|358-555         KDGI
+#=GR O60333|PF16183|358-555 PP ***8
+Q12756|PF16183|358-515         KDGI
+#=GR Q12756|PF16183|358-515 PP ***8
+Q15058|PF16183|754-823         KEG-
+#=GR Q15058|PF16183|754-823 PP *98.
+Q9H1H9|PF16183|391-468         KD--
+#=GR Q9H1H9|PF16183|391-468 PP 98..
+Q9NQT8|PF16183|390-469         KE--
+#=GR Q9NQT8|PF16183|390-469 PP 97..
+#=GC PP_cons                   *998
+#=GC RF                        xxxx
+//

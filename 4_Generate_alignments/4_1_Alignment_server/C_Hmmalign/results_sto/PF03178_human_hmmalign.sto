@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q10570|PF03178|1073-1408         .AFSIQLISPVSWEAIpnARIELQEWEHVTCMKTVSLRSEETVSGLKGYVAAGTCLMQGEEVTCR-..GRILIMDVIEVvpepgqPLTKNKFKVLYEKEQKGPVTALCHCNGHLVSAIGQKIFLWSLRASE.LTGMAFIDTQL..YIHQMISVKNFILAADVMKSISLLRYQE.ESKTLSLVSRDAKPLEVYSVDFMvDN
+#=GR Q10570|PF03178|1073-1408 PP .589**********99867*********************999**********************...*****************9*********************************************.***********..****************************.**************************
+Q15393|PF03178|863-1183          .ASVIRVMNPIQGNTL..DLVQLEQNEAAFSVAVCRFSNTG----EDWYVLVGVAKDLILNPRS-VagGFVYTYKLVNN......GE---KLEFLHKTPVEEVPAAIAPFQGRVLIGVGKLLRVYDLGKKK.LLRKCEN-KHIanYISGIQTIGHRVIVSDVQESFIWVRYKRnENQ-LIIFADDTYPRWVTTASLL.DY
+#=GR Q15393|PF03178|863-1183  PP .589************..*******************8653....49***************55.55***********9......77...*****************************************.*******.8888*****************************8888.*******************.**
+Q16531|PF03178|790-1099          n---LLIIDQHTFEVL..HAHQFLQNEYALSLVSCKLGK-----DPNTYFIVGTAMVYPEEAEPKQ..GRIVVFQYSDG......-----KLQTVAEKEVKGAVYSMVEFNGKLLASINSTVRLYEWTTEKeLRTECNHYNNI..MALYLKTKGDFILVGDLMRSVLLLAYKPmEGN-FEEIARDFNPNWMSAVEIL.DD
+#=GR Q16531|PF03178|790-1099  PP 7...679*********..*******************74.....479*******************..**********6...........9****************************************************..****************************9999.*******************.**
+#=GC PP_cons                     .58999**********..9******************867699*779***************88*7..**********8......88********************************************.********999..****************************.999********************.**
+#=GC RF                          .xxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.xx
+
+Q10570|PF03178|1073-1408         aQlGFLVSDRDRNLMVYMYLPEAKESFGGM-.................RLLRRADFHVGAHVNTFWRTPC-R...GATEGLSkksvvwenKHITWFATLDGGIGLLLP-MQEKTYRRLLMLQNALTTMLPHHAGLNPRAFRMLHVDrR--TlqnaVRNVLDGELLNRYL-.
+#=GR Q10570|PF03178|1073-1408 PP 99****************************..................*****************88874.4...444444456789**99*****************.**********************************97642..24689************96..
+Q15393|PF03178|863-1183          .D.TVAGADKFGNICVVRLPPNTNDEVDEDPtgnkalwdrgllngasqKAEVIMNYHVGETVLSLQKTTLIP...GGSES--........---LVYTTLSGGIGILVPFTSHEDHDFFQHVEMHLRSEHPPLCGRDHLSFRSYYFP.----....VKNVIDGDLCEQF--n
+#=GR Q15393|PF03178|863-1183  PP .*.*********************************************************************...*****.............*****************************************************.........************9..6
+Q16531|PF03178|790-1099          .D.NFLGAENAFNLFVCQKD-SAATTDEERQ.................HLQEVGLFHLGEFVNVFCHGSLVMqnlGETSTPT........QGSVLFGTVNGMIGLVTS-LSESWYNLLLDMQNRLNKVIKSVGKIEHSFWRSFHTErKTEP....ATGFIDGDLIESFLD.
+#=GR Q16531|PF03178|790-1099  PP .*.*****************.7888888888.................************************9998899999........**************8888.***********************************9866666....*************96.
+#=GC PP_cons                     .*.******************9999999999.................*****************99998*8...7778766........**************9999************************************98.4664....************976.
+#=GC RF                          .x.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx....xxxxxxxxxxxxxxx.
+//

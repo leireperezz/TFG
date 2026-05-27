@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q9BWW4|PF04503|81-365          EHSSEAKAFHDYSA---AAAPSPVLGNIPPNDGMPGGPIPPGFFQGPPG---SQPSPHAQPPPHnPSSMMGPHSQPFMSPRYAGGPRPPIRMGNQ-----PPGgvPGTQPLLPNSMDPT.RQQGHPNMGGSMQRMNPPRG--MGPMGPgpQNYGSGMR-PPPNSL-GPA-MPGINMGPGAGRPWPNPNSANSIPYSSSSP
+#=GR Q9BWW4|PF04503|81-365  PP 8*************...********************************...************999***************************9.....88788**************.********************..****8877********.****99.***.******************************
+P81877|PF04503|124-338         ----------------------------------------------------------------.---------QPFMSPRYPGGPRPPLRIPNQ--ALGGV-..PGSQPLLPSGMDPT.RQQGHPNMGGPMQRMTPPRG--MVPLGP..QNYGGAMR-PPLNALGGPG-MPGMNMGPGGGRPWPNPTNANSIPYSSASP
+#=GR P81877|PF04503|124-338 PP ..........................................................................8*******************9..67766...**************.********************..******..********.99*******9.******************************
+Q9BWG4|PF04503|82-360          EHSGEAKAFQDYSA---AAAPSPVMGSMAPGDTMAAGSMAAGFFQGPPG---SQPSPHNPNA--.--PMMGPHGQPFMSPRFPGGPRPTLRMPSQ-----PPAglPGSQPLLPGAMEPSpRAQGHPSMGGPMQRVTPPRG--MASVGP..QSYGGGMR-PPPNSLAGPG-LPAMNMGPGVRGPWASP-SGNSIPYSSSSP
+#=GR Q9BWG4|PF04503|82-360  PP 8*************...********************************...9999976544.....59*************************9.....89889*************8799******************..******..********.**********.*****************.99**********
+#=GC PP_cons                   8*************...********************************...9*99998777**.997******9*******************9..677878..*************9.********************..****99..********.**********.******************9***********
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9BWW4|PF04503|81-365          GTYVGPPGGGGPPG-TPIMPSPADSTNSSDNIYTMINPVPPGGSRSNFPMGPGSDGPMGGMGgMEPHHMNGSLGSGDIDGLpKNSPNNisgiSNPPGTPRDDG
+#=GR Q9BWW4|PF04503|81-365  PP **************.*********************************************999***************************************7
+P81877|PF04503|124-338         GNYVGPPGGGGPPG-TPIMPSPADSTNSGDNMYTLMNAVPPGPNRPNFPMGPGSDGPMGGLGgMESHHMNGSLGSGDMDSIsKNSPNNm.slSNQPGTPRDDG
+#=GR P81877|PF04503|124-338 PP **************.*******************************************99988**************************.************7
+Q9BWG4|PF04503|82-360          GSYTGPPGGGGPPG-TPIMPSPGDSTNSSENMYTIMNPIGQGAGRANFPLGPGPEGPMAAMSaMEPHHVNGSLGSGDMDGLpKSSPGAvaglSNAPGTPRDDG
+#=GR Q9BWG4|PF04503|82-360  PP **************.*******************************************99999***************************************7
+#=GC PP_cons                   **************.*******************************************9999.******************.******....**********7
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxx....xxxxxxxxxxx
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O43323|PF01079|187-395         KADNSLAVRAGGCFPGNATVRLWSGERKGLRELHRGDWVLAADASGRVVPTPVLLFLDRDLQRRASFVAVETEWPpRKLLLTPWHLVFAARGPAPAPGDF...............-APVFARRLRAGDSVLA..--PGGDALRPARVARVAR.EEAVGVFAPLTAHGTLLVNDVLASCYAVLESHQWAHRAFAPLRLLHA
+#=GR O43323|PF01079|187-395 PP 79*************************************************************************9*********************988................****************....9999************.***********************************************
+Q14623|PF01079|191-396         KSEHSAAAKTGGCFPAGAQVRLESGARVALSAVRPGDRVLAMGEDGSPTFSDVLIFLDREPHRLRAFQVIETQDPpRRLALTPAHLLFTADNHTEPAARF...............-RATFASHVQPGQYVLV..--AGVPGLQPARVAAVST.HVALGAYAPLTKHGTLVVEDVVASCFAAVADHHLAQLAFWPLRLFHS
+#=GR Q14623|PF01079|191-396 PP 79************************************************************************99*****************9999876................****************....88889***********.***********************************************
+Q15465|PF01079|186-448         KAENSVAAKSGGCFPGSATVHLEQGGTKLVKDLSPGDRVLAADDQGRLLYSDFLTFLDRDDGAKKVFYVIETREPrERLLLTAAHLLFVAPHNDSATGEPeassgsgppsggalgPRALFASRVRPGQRVYVvaERDGDRRLLPAAVHSVTLsEEAAGAYAPLTAQGTILINRVLASCYAVIEEHSWAHRAFAPFRLAHA
+#=GR Q15465|PF01079|186-448 PP 79*******************************************************************************************9998877899*****************************9999999************98999********************************************
+#=GC PP_cons                   79*************************************************************************.*****************9999877...............*****************..9999999***********.***********************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43323|PF01079|187-395         LGALLPG...............................-GAVQPTGMHWYSRLLYRLAEEL--l
+#=GR O43323|PF01079|187-395 PP *****99................................9*****************9866..6
+Q14623|PF01079|191-396         LAWGSWT...............................----PGEGVHWYPQLLYRLGRLLL-.
+#=GR Q14623|PF01079|191-396 PP *999998...................................99**************9985..
+Q15465|PF01079|186-448         LLAALAPartdrggdsgggdrgggggrvaltapgaadaPGAGATAGIHWYSQLLYQIGTWLLD.
+#=GR Q15465|PF01079|186-448 PP ****9999****************************998999******************985.
+#=GC PP_cons                   ***9999...............................899****************998875.
+#=GC RF                        xxxxxxx...............................xxxxxxxxxxxxxxxxxxxxxxxxx.
+//

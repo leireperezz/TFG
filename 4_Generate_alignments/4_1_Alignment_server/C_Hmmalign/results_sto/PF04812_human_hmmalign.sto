@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P20823|PF04812|282-540         AMDTYSGPPPGPGPgPALPAHSSPGLPPPALSPSKVHGVRYGQPATSETAEVPS-SSGG--PLVTVSTPLHQVSPTGLEPSHSLLSTEAKLVSAAGGPLPPVSTLTALHSLeqTSPGLNQQPQNLIMASLPGVMTIGPGEPASLGPTFTNTGASTLVIGLASTQAQSVPVINSMGSSLTTLQPVQFSQPLHPSYQQPLMP
+#=GR P20823|PF04812|282-540 PP 8**********99989************************************99.7776..8*************************************************9999*************************************************************************************
+P35680|PF04812|314-550         AMDAYSSNQTHSLN.PLLSHGSPHH-QPSSSPPNKLSGVRYSQQGNNEITSSSTISHHGNSAMVTSQSVLQQVSPASLDPGHNLLSPDGKMISVSGGGLPPVSTLTNIHSL..-SHHNPQQSQNLIMTPLSGVMAI-----------------AQ---SLNTSQAQSVPVINSVAGSLAALQPVQFSQQLHSPHQQPLMQ
+#=GR P35680|PF04812|314-550 PP 8*************.********88.8899*********************************************************************************...**********************.................89...******************************************
+#=GC PP_cons                   8***********99.********99*999**************************8888**9*************************************************..9***************************************99*********************************************
+#=GC RF                        xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P20823|PF04812|282-540         PVQ.SHVTQSPFMATMAQLQSPHaLYSHKPEVAQYTHTGLLPQTMLITDTTNLSALASLTPTK
+#=GR P20823|PF04812|282-540 PP ***.********************************************************997
+P35680|PF04812|314-550         QSPgSHMAQQPFMAAVTQLQNSH.MYAHKQEPPQYSHTSRFPSAMVVTDTSSISTLTNMSSSK
+#=GR P35680|PF04812|314-550 PP **989******************.************************************987
+#=GC PP_cons                   ***.9******************.************************************987
+#=GC RF                        xxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

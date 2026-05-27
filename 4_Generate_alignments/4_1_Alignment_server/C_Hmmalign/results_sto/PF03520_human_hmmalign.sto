@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O43525|PF03520|447-649         .....p--LNVDAIEE.SPSKEPKPVGLNNKERFRTAFRMKAYAFWQSSE.DA-GTGDPMAEDRGYGNDFPIEDMIPTLKAAIRAVRILQFRLYKKKFKETLRPYDVKDVIEQYSAGHLDMLSRIKYLQTRIDMIFTPGPPSTPKHKKsQKGSAftfpsqqsprnepyvaRP.STSEIEDQSMMGKFVKVERQVQDMGKK
+#=GR O43525|PF03520|447-649 PP .....5..67899***.*********************************.98.9*********************************************************************************************999999**************9999.***************************
+O43526|PF03520|466-649         ......SPSADQSLED.SPSKVPKSWSFGDRSRARQAFRIKGAASRQNSE.EASLPGEDIVDDKSCPCEFVTEDLTPGLKVSIRAVCVMRFLVSKRKFKESLRPYDVMDVIEQYSAGHLDMLSRIKSLQSRVDQIVGRGPAITDKDR-.TKGPA................--.EAELPEDPSMMGRLGKVEKQVLSMEKK
+#=GR O43526|PF03520|466-649 PP ......79********.*********************************.*********************************************************************************************986..99999...................999************************
+P51787|PF03520|505-617         qlrehh----------.---------------------------------.----------------------------RATIKVIRRMQYFVAKKKFQQARKPYDVRDVIEQYSQGHLNLMVRIKELQRRLDQSIGKPSLFISVSEK.SKDRG................--.------SNTIGARLNRVEDKVTQLDQR
+#=GR P51787|PF03520|505-617 PP 988776.........................................................................6799********************************************************988877665.54443.........................3356679**************
+P56696|PF03520|464-646         ......SPSSEQVGEAtSPTKVQKSWSFNDRTRFRASLRLK---PRTSAE.DA--PSEEVAEEKSYQCELTVDDIMPAVKTVIRSIRILKFLVAKRKFKETLRPYDVKDVIEQYSAGHLDMLGRIKSLQTRVDQIVGRGP--GDRKAR.EKGDK................GPsDAEVVDEISMMGRVVKVEKQVQSIEHK
+#=GR P56696|PF03520|464-646 PP ......799******99************************...******.76..************************************************************************************9..99****.*****................988***************************
+Q9NR82|PF03520|447-634         ......SPSTDITAEG.SPTKVQKSWSFNDRTRFRPSLRLKSSQPKPVIDaDTALGTDDVYDEKGCQCDVSVEDLTPPLKTVIRAIRIMKFHVAKRKFKETLRPYDVKDVIEQYSAGHLDMLCRIKSLQTRVDQILGKGQITSDKKSR.EKITA................--.EHETTDDLSMLGRVVKVEKQVQSIESK
+#=GR Q9NR82|PF03520|447-634 PP ......799*******.*********************************9999**********************************************************************************************.***99...................***************************
+#=GC PP_cons                   ......79999*****.*********************************.98**************************99************************************************************9999989.88888................99.9*****999999***************
+#=GC RF                        ......xxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx................xx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43525|PF03520|447-649         LDFLVDMHMQHME--r
+#=GR O43525|PF03520|447-649 PP ***********98..5
+O43526|PF03520|466-649         LDFLVNIYMQRM---g
+#=GR O43526|PF03520|466-649 PP **********98...6
+P51787|PF03520|505-617         LALITDMLHQL----l
+#=GR P51787|PF03520|505-617 PP ******99886....6
+P56696|PF03520|464-646         LDLLLGFYSRCLR--s
+#=GR P56696|PF03520|464-646 PP ***********97..6
+Q9NR82|PF03520|447-634         LDCLLDIYQQVLRKG.
+#=GR Q9NR82|PF03520|447-634 PP ************985.
+#=GC PP_cons                   **********99885.
+#=GC RF                        xxxxxxxxxxxxxxx.
+//

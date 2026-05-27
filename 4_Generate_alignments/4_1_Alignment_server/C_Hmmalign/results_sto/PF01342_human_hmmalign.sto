@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+O43918|PF01342|204-244         ..-----------GAVEGILIQQVFES.GGSKKCIQVGG.EFYTPSKFEDSGSG--------------------------kn
+#=GR O43918|PF01342|204-244 PP .............6899**********.***********.*********99875..........................57
+O75398|PF01342|200-272         .d----SELPVRCRNISGTLYKNRLGS.GGRGRCIKQGE.NWYSPTEFEAMAGRASSKDWKRSIRYAGRPLQCLIQDGIL..
+#=GR O75398|PF01342|200-272 PP .7....589******************.***********.*************************************986..
+P23497|PF01342|599-675         ..NFKQSELPVTCGEVKGTLYKERFKQ.GTSKKCIQSEDkKWFTPREFEIEGDRGASKNWKLSIRCGGYTLKVLMENKFL..
+#=GR P23497|PF01342|599-675 PP ..58999********************.*************************************************986..
+Q13342|PF01342|584-660         ..DFKAPLLPVTCGGVKGILHKKKLQQ.GILVKCIQTEDgKWFTPTEFEIKGGHARSKNWRLSVRCGGWPLRWLMENGFL..
+#=GR Q13342|PF01342|584-660 PP ..6899*********************.*************************************************986..
+Q9HB58|PF01342|458-532         ..DFHCSKLPVTCGEAKGILYKKKMKH.GSSVKCIRNEDgTWLTPNEFEVEGKGRNAKNWKRNIRCEGMTLGELLKR---k.
+#=GR Q9HB58|PF01342|458-532 PP ..6899*********************.**********************************************986...5.
+Q9UKD1|PF01342|89-162          .e----IVYPITCGDSRANLIWRKFVCpGINVKCVQYDE.HVISPKEFVHLAGKSTLKDWKRAIRMNGIMLRKIMDSGEL..
+#=GR Q9UKD1|PF01342|89-162  PP .7....589******************************.************************************9975..
+Q9Y692|PF01342|91-164          me----IAYPITCGESKAILLWKKFVCpGINVKCVKFND.QLISPKHFVHLAGKSTLKDWKRAIRLGGIMLRKMMDSG--q.
+#=GR Q9Y692|PF01342|91-164  PP 86....579******************************.***********************************987..6.
+Q9H930|PF01342|297-373         ..DFQAPLLPVTCGGVKGILHKEKLEQ.GTLAKCIQTEDgKWFTPMEFEIKGGYARSKNWRLSVRCGGWPLRRLMEEGSL..
+#=GR Q9H930|PF01342|297-373 PP ..699**********************.*************************************************976..
+#=GC PP_cons                   ..689989*******************.***********.*************9**********************9986..
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

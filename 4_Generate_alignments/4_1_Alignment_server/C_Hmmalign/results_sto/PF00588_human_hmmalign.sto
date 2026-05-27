@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q13395|PF00588|1464-1605         .-LIVVASLIDKPTNLGGLCRTCEVFGASVLVV-GSLQC-ISDKQFQHLSVSAEQWLPLVEVkpPQLIDYLQQKKTEGYTIIGVEQ.....TAKSLDltQY.............CFP...............................EKSLLLLGNEREGIPANLIQQLD....VCVEI....PQQGIIRSLNVHVSGA
+#=GR Q13395|PF00588|1464-1605 PP ..68999*********************66665.55555.7999**************9999566899******************.....7777766699.............***...............................***********************....*****....**************99
+Q6IN84|PF00588|146-301           l--WLVLDGIQDPRNFGAVLRSAHFLGVDKVITSRRNSC-PLTPVVSKSSAGAMEVMDVFST..DDLTGFLQTKAQQGWLVAGTVGc...pSTEDPQssEIpims.....clefLWE...............................RPTLLVLGNEGSGLSQEVQASCQ....LLLTIlprrQLPPGLESLNVSVAAG
+#=GR Q6IN84|PF00588|146-301   PP 6..58****************************998887.**********************..*************9999988777...644444433333333.....3333566...............................***********************....999994333346678**********
+Q9HC36|PF00588|210-400           l--LLICDNLRDPGNLGTILRSAAGAGCSKVLLTK-GCVDAWEPKVLRAGMGAHFRMPIINN..LEWETVPNYLPPD-TRVYVADNcglyaQAEMSN..KAsdhgwvcdqrvmkF-HkyeeeedvetgasqdwlphvevqsydsdwteAPAAVVIGGETYGVSLESLQLAEstggKRLLI....PVVPGVDSLNSAMAAS
+#=GR Q9HC36|PF00588|210-400   PP 5..789***************************88.**************************..***********98.****999987753333333..3356666666666650.1555667777888888888888999999999********************9999655669***....****************
+#=GC PP_cons                     ..6799**********************88888876887*9********************9..99**********9*99*99999.....555555..55.............586...............................***********************....89***....889999**********
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxx.....xxxxxx..xx.............xxx...............................xxxxxxxxxxxxxxxxxxxxxxx....xxxxx....xxxxxxxxxxxxxxxx
+
+Q13395|PF00588|1464-1605         LL--i
+#=GR Q13395|PF00588|1464-1605 PP 87..5
+Q6IN84|PF00588|146-301           ILLH.
+#=GR Q6IN84|PF00588|146-301   PP *986.
+Q9HC36|PF00588|210-400           ILLF.
+#=GR Q9HC36|PF00588|210-400   PP *985.
+#=GC PP_cons                     9986.
+#=GC RF                          xxxx.
+//

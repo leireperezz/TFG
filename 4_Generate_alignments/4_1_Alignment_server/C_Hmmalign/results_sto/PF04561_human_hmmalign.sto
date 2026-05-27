@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P30876|PF04561|201-394         ................................ATNTVYVFAKKDSKYAytgecrsclenssrptSTIWVSMLARGGQGAKKSAIGQRIV-ATLPYIKQEVPIIIVFRALGFVSDRDILEHIIY...DFEDPEMMEMVKPSLDEAFVIQEQNVALNFIGS....rGAKPGVTKEKRIKYAKEVL---------QKEMLP-H
+#=GR P30876|PF04561|201-394 PP ................................58************99************************************99877.999******************************...*********************************....88888888888888888888.........69****.*
+Q9H9Y6|PF04561|187-374         rnfpiamirpkwktrgpgytqygvsmhcvree----------------................-------HSAVNMNLHYLENGTVMLNFIYRKELFFLPLGFALKALVSFSDYQIFQELIKgkeDDSFLRNSVSQMLRIVMEEGCSTQKQVLNYLGEc...fRVKLNVPDWYPNEQAAEFL---------FNQCICIH
+#=GR Q9H9Y6|PF04561|187-374 PP 87777766666666666666665555544444.......................................4444455788888888888888888888999********************854333333334455778999***************96...66666666666666666665.........68999999
+Q9NW08|PF04561|186-363         ................................-KNRIIVEADRKGAVG................-ASVTSSTHEKKS-RTNMAVKQGRFYLRHNTLSEDIPIVIIFKAMGVESDQEIVQMIG-...TEEHVMAAFGPSLEECQKAQIFTQMQALKYIGNkvrrqRMWGGGPKKTKIEEARELL----------ASTILTH
+#=GR Q9NW08|PF04561|186-363 PP .................................699******999976.................888888887776.7888888888888889*************************888....477777777788899999***************988777778899***********9..........689999*
+#=GC PP_cons                   ................................579*********9988................*9999997777777889999888888888999999********************9999...66667777778899999****************.....7777888888888888887.........6899999*
+#=GC RF                        ................................xxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P30876|PF04561|201-394         VGVSDFCETK--KAYFLGYMVHRLLLAALGRRELDDRDHYGNKRLD
+#=GR P30876|PF04561|201-394 PP **********..********************************96
+Q9H9Y6|PF04561|187-374         LKSNTE------KFYMLCLMTRKLFALAKGECMEDNPDSLVNQEV-
+#=GR Q9H9Y6|PF04561|187-374 PP 999999......*******************************97.
+Q9NW08|PF04561|186-363         VPVKEF--NFRAKCIYTAVMVRRVILAQ-GDNKVDDRDYYGNKRLE
+#=GR Q9NW08|PF04561|186-363 PP ******..5556*************998.***************95
+#=GC PP_cons                   ********7756***************9***************986
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q96AA8|PF16034|409-602         DREKLIRRRKHRRSSKPIKRP---VLDPFIGYDED-SMDSETSSMaSFRTDR---TPATPDDDLDESLAAEESELRFRQLTKEYQALQRAYALLQEQTGGIIDAEREAKAQEQLQAEVLRYKAKIEDLEATLAQKGQDSHWVEDKQLFIKRNQELLEKIEKQEAENHRLQQELQDARDQNELLEFRNLELEERERRSPPF
+#=GR Q96AA8|PF16034|409-602 PP 69*************999998...9**********.***************9...***********************************************************************************************************************************************99
+Q96N16|PF16034|415-605         ERERLLRSKRHRGKSLKPPKKH--VVETFFGFDEE-SVDSETLSEtSYNTDRTDRTPATPEEDLDDATAREEADLRFCQLTREYQALQRAYALLQEQVGGTLDAEREARTREQLQADLLRCQAKIEDLEKLLVEKGQDSKWVEEKQLLIRTNQDLLEKIYRLEMEENQLKNEMQDAKDQNELLEFRVLELEVR-------
+#=GR Q96N16|PF16034|415-605 PP 79*******************9..***********.******9999*************************************************************************************************************************************************88.......
+Q5VZ66|PF16034|429-625         ERDKLLRFRKQRKKMAKLPKPV--VVETFFGYDEEASLESDGSSV.SYQTDRTDQTPCTPDDDLEEGMAKEETELRFRQLTMEYQALQRAYALLQEQVGGTLDAEREVKTREQLQAEVQRAQARIEDLEKALAEQGQDMKWIEEKQALYRRNQELVEKIKQMETEEARLRHEVQDARDQNELLEFRILELEERERKSPAI
+#=GR Q5VZ66|PF16034|429-625 PP 8*****************9996..*********************.********************************************************************************************************************************************************97
+#=GC PP_cons                   79****************9997..9********************.*************************************************************************************************************************************************99*****98
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96AA8|PF16034|409-602         N.
+#=GR Q96AA8|PF16034|409-602 PP 7.
+Q96N16|PF16034|415-605         -d
+#=GR Q96N16|PF16034|415-605 PP .5
+Q5VZ66|PF16034|429-625         -.
+#=GR Q5VZ66|PF16034|429-625 PP ..
+#=GC PP_cons                   7.
+#=GC RF                        x.
+//

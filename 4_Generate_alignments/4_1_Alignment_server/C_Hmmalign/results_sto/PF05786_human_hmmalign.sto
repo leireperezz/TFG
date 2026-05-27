@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+Q15003|PF05786|49-739         tpvled-------------FPQNDDEKERLQRRRSRVFDLQFSTDSPRLLASPSSRSI--------DISATIP----------KFTNTQITEHYSTCIKLSTENKITTKNAFGLHLIDFMSEI--LKQKDTepTNFKVAAGTLDASTKIYAVRVDAVHADVYRVLGGLGKDAP----SLE----EVEGHVADG-SATEMG
+#=GR Q15003|PF05786|49-739 PP 877764.............89*******************************966433........2233444..........35566799********************************..*****889**************************************83....222....223333332.244567
+#=GC PP_cons                  ...................89*******************************966433........2233444..........35566799********************************..*****8..**************************************83....222....223333332.244567
+#=GC RF                       ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q15003|PF05786|49-739         TTKKAVKPKKKHLHR-TIEQNINNLNVSEADRKCEIDPMFQKTAASFDECSTAGVFLSTLHCqDYRSELLFPSD-----------VQTLSTGEPLELPELGCVEMTDLKAP----LQQcAEDRQICPSLAGFQFTQwdsETHNESVSALVDKFKKNDQVFDINAEVDESD---CGDFPDGSLGD----DFDA-NDEPDHT
+#=GR Q15003|PF05786|49-739 PP 777777888877755.*********************************************************3...........34667889999**************6....6665889*************9988889***********99999999999876543...33343333333....3322.1222322
+#=GC PP_cons                  777777888877755.**********************************************.**********3...........34667889999**************6....666.889*************9...889***********99999999999876543...33343333333....3322.1222322
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q15003|PF05786|49-739         -AVGDHEEFRSWKEPCQVQSCQ--EEMISLGDG-D--IRTMCP----------LLSmkpgeysYFSPRTMSMWAGPDHWRFRPRRKQDAPSqSENKKKSTKKDFEIDFEDDID---FDVYF--RKTKAATILTKSTLENQNWRatTLPTDFNYNVDTLVQLHLKPGTRLLKM--------------AQGHRV-----ETE
+#=GR Q15003|PF05786|49-739 PP .488888888999998877772..221122222.1..223333..........3333333334*********************8888888677888899*********9999...9****..9***************998889***************************..............222222.....122
+#=GC PP_cons                  .488888888999998877772..221122222.1..223333..........333.......*********************8888888.77888899*********9999...9****..9***************9988..***************************..............222222.....122
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q15003|PF05786|49-739         HYEeIEDYDYNNPNDTSNFcPGLQAADSDDEDLDDLFVGPVGNSDLSPYPC------HPPKTAQQNGDTPEAQGLDITTYGESNLVAEPQKVNKIEIHYAKTAKKMDMKKLKQSMWSLLTALSGKEADAEANHREAGKEAALAEVADEKMLSGLTKDLQRSLPPVMAQNLSIPLAFACLLHLANEKNLKLEGTEDLSDVL
+#=GR Q15003|PF05786|49-739 PP 2222569************99999999998888875433334666777222......222222234677788899**********************************************99998888888777777777799********************************************************
+#=GC PP_cons                  222.569************.9999999998888875433334666777222......222222234677788899**********************************************99998888888777777777799********************************************************
+#=GC RF                       xxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q15003|PF05786|49-739         VRQ
+#=GR Q15003|PF05786|49-739 PP 997
+#=GC PP_cons                  997
+#=GC RF                       xxx
+//

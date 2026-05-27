@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+O00478|PF22705|146-232         .......LGSDLHIEVKGYEDGGIHLECRSTGWYPQPQIKWSDT..KGENIPAV.E...APVVADGVGLYAVAASVIMRG.SSGGGVSCIIRNSLLGLEKT..
+#=GR O00478|PF22705|146-232 PP .......8************************************..********.*...*********************.*****************995..
+O00481|PF22705|146-232         .......LGSDLHVDVKGYKDGGIHLECRSTGWYPQPQIQWSNN..KGENIPTV.E...APVVADGVGLYAVAASVIMRG.SSGEGVSCTIRSSLLGLEKT..
+#=GR O00481|PF22705|146-232 PP .......8************************************..********.*...*********************.*****************995..
+O75144|PF22705|148-225         .....sp------------SQDELTFTCTSINGYPRPNVYWINK..TDNSLLDQ.AlqnDTVFLNMRGLYDVVSVLRIAR.TPSVNIGCCIENVLLQQ---n.
+#=GR O75144|PF22705|148-225 PP .....86............68999********************..99999765.411144556889*************.***************98...5.
+P78410|PF22705|146-232         .......LGSNLHVEVKGYEDGGIHLECRSTGWYPQPQIQWSNA..KGENIPAV.E...APVVADGVGLYEVAASVIMRG.GSGEGVSCIIRNSLLGLEKT..
+#=GR P78410|PF22705|146-232 PP .......8************************************..********.*...*********************.*****************995..
+Q13410|PF22705|144-230         .......LGSDPHISMQVQENGEICLECTSVGWYPEPQVQWRTS..KGEKFPST.S...ESRNPDEEGLFTVAASVIIRD.TSAKNVSCYIQNLLLGQEKK..
+#=GR Q13410|PF22705|144-230 PP .......8************************************..********.*...*********************.******************96..
+Q5ZPR3|PF22705|158-230         ......g--------------DTVTITCSSYQGYPEAEVFWQDG..QGVPLTGNvT...TSQMANEQGLFDVHSILRVVL.GANGTYSCLVRNPVLQQ---d.
+#=GR Q5ZPR3|PF22705|158-230 PP ......7..............6799*******************..****997515...66677899*************.***************99...5.
+Q5ZPR3|PF22705|376-448         ......g--------------DTVTITCSSYRGYPEAEVFWQDG..QGVPLTGNvT...TSQMANEQGLFDVHSVLRVVL.GANGTYSCLVRNPVLQQ---d.
+#=GR Q5ZPR3|PF22705|376-448 PP ......7..............6799*******************..****997515...66677899*************.***************99...5.
+Q6UX41|PF22705|134-216         .......LGSVPLISITGYVDRDIQLLCQSSGWFPRPTAKWKGP..QGQDLSTD.S...R-TNRDMHGLFDVEISLTVQE.-NAGSISCSMRHAHLSRE--..
+#=GR Q6UX41|PF22705|134-216 PP .......8************************************..*****999.9...9.78889************88..6789******9998765....
+Q6UXG8|PF22705|153-239         .......LGSDPHLSLEGFKEGGIQLRLRSSGWYPKPKVQWRDH..QGQCLPPE.F...EAIVWDAQDLFSLETSVVVRA.GALSNVSVSIQNLLLSQKKE..
+#=GR Q6UXG8|PF22705|153-239 PP .......8************************************..********.*...*********************.******************97..
+Q7KYR7|PF22705|145-231         .......LGSKPLISMRGHEDGGIRLECISRGWYPKPLTVWRDP..YGGVAPAL.K...EVSMPDADGLFMVTTAVIIRD.KSVRNMSCSINNTLLGQKKE..
+#=GR Q7KYR7|PF22705|145-231 PP .......8************************************..********.*...*********************.******************97..
+Q7Z7D3|PF22705|153-232         pevnvdy------------NASSETLRCEAPRWFPQPTVVWASQvdQGANFSEV.S...NTSFELNSENVTMKVVSVLYNvTINNTYSCMIEND-------ia
+#=GR Q7Z7D3|PF22705|153-232 PP 8776654............4455589***************986558999***9.9...9999988888888888888773567789******7.......58
+Q8WVV5|PF22705|149-235         .......LGSKPLIEIKAQEDGSIWLECISGGWYPEPLTVWRDP..YGEVVPAL.K...EVSIADADGLFMVTTAVIIRD.KYVRNVSCSVNNTLLGQEKE..
+#=GR Q8WVV5|PF22705|149-235 PP .......8************************************..********.*...*********************.*******************7..
+Q9BQ51|PF22705|132-200         ......k----------VPETDEVELTCQATG-YPLAEVSWPNV..SV---PA-.N...TSHSRTPEGLYQVTSVLRLKP.PPGRNFSCVFWNTHV-----r.
+#=GR Q9BQ51|PF22705|132-200 PP ......6..........57899********99.9*******987..65...55..4...55888999*************.************975.....7.
+Q9UIR0|PF22705|144-229         .......LGSAPSIHMEGPGESGVQLVCTARGWFPEPQVYWEDI..RGEKLLAV.S...EHRIQDKDGLFYAEATLVVRN.ASAESVSCLVHNPVLTEEK-..
+#=GR Q9UIR0|PF22705|144-229 PP .......8************************************..********.*...*********************.*****************98...
+Q9UIR0|PF22705|361-446         .......LGSSPLITVEGQEDGEMQPMCSSDGWFPQPHVPWRDM..EGKTIPSS.S...QALTQGSHGLFHVQTLLRVTN.ISAVDVTCSISIPFLGEEK-..
+#=GR Q9UIR0|PF22705|361-446 PP .......8************************************..********.*...*********************.*****************98...
+Q6UXE8|PF22705|134-209         .......LGSLPLISIVGYVDGGIQLLCLSSGWFPQPTAKWKGP..QGQDLSSD.S...R-ANADGYSLYDVEISIIVQE.-NAGSILCSIH---------..
+#=GR Q6UXE8|PF22705|134-209 PP .......8************************************..********.9...9.78899************88..5678899986...........
+A8MVZ5|PF22705|148-232         .......LGREPRIQVTDQQD-GVRAECTSAGCFPKSWVERRDF..RGQARPAV.T...NLSASATTRLWAVASSLTLWD.RAVEGLSCSISSPLLPE---rr
+#=GR A8MVZ5|PF22705|148-232 PP .......899******98776.69********************..********.*...*999999**************.*************9976...57
+Q96KV6|PF22705|143-229         .......LDSEPVIEMRDHEDGGIQLECISGGWYPKPLTVWRDP..YGEVVPAL.K...EVSTPDADSLFMVTTAVIIRD.KSVRNVSCSINDTLLGQKKE..
+#=GR Q96KV6|PF22705|143-229 PP .......679**********************************..********.*...*********************.******************97..
+#=GC PP_cons                   .......8***********9999*********************..*****999.9...9999999**************.*99***********999996..
+#=GC RF                        .......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxx.x...xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx..
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O60318|PF03399|640-928         .MCPEKERYMRETRSQLSVFEV...-VPGTDQVDHAAAVKEYSRSSADQEEPLPHELRPLPVLSRTMDYLVTQIMDQKEGSLRDWYDFVWNRTRGIRKDITQQHLCDPLTVSLIEKCTRFHIHCAHFMCEEPMS.SFDAKINNENMTKCLQSLKEMYQDLRNKGVFCASEAEFQGYNVLLSL...NKGDILREVQQFHPA
+#=GR O60318|PF03399|640-928 PP .9*******************8....999*********************************************************************************************************.***********************************************...***************
+Q96PV6|PF03399|566-780         c---------------------...-------------------------APDPSTVRPVAVLKKSLCMVKCHWK------EKQDYAFACEQMKSIRQDLTVQGIRTEFTVEVYETHARIAL------EK----.-----GDHEEFNQCQTQLKSLYAENL-----PGNVGEFTAYRILYYIftkNSGDITTELAYLTRE
+#=GR Q96PV6|PF03399|566-780 PP 9.................................................589**************97664444......35679*******************************99854......23..........3579999**********9987.....4599**********99887889************
+A6NKF1|PF03399|60-347          .MCPAAERAQREREHRLHRLEVvpgCRQDPPRADPQRAVKEYSRPAAGKPRPPPSQLRPPSVLLATVRYLAGEVAESADIARAEVASFVADRLRAVLLDLALQGAGDAEAAVVLEAALATLLTVVARLGPDAARgPADPVLLQAQVQEGFGSLRRCYARGA---GPHPRQPAFQGLFLLYNL...GSVEALHEVLQLPAA
+#=GR A6NKF1|PF03399|60-347  PP .9***********************9999**************************************************9*************************************************9999999*********************9999...8*****************...***************
+#=GC PP_cons                   .9*******************9...9999*********************89****************9998888******8899**********************************988******77**99.*****889**************9999***9*88**************...99*************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx
+
+O60318|PF03399|640-928         VRNSSEVKFAVQAFAALNSNNFVRFFKLVQ-SASYLNACLLHCYFSQIRKDALRALNFAYtvsTQRSTIFPLDGVVRMLLFRDCEEATDFLTCHGLTV--s
+#=GR O60318|PF03399|640-928 PP ******************************.*******************************9999******************************98..5
+Q96PV6|PF03399|566-780         LKADPCVAHALALRTAWALGNYHRFFRLYC-HAPCMSGYLVDKFADRERKVALKAMIKTF...---RPALPVSYLQAELAFEGEAACRAFLEPLGLA---y
+#=GR Q96PV6|PF03399|566-780 PP ******************************.*****************************......689***********************99985...7
+A6NKF1|PF03399|60-347          LRACPPLRKALAVDAAFREGNAARLFRLLQ-TLPYLPSCAVQCHVGHARREALARFARAF..sTPKGQTLPLGFMVNLLALDGLREARDLCQAHGLP---l
+#=GR A6NKF1|PF03399|60-347  PP ******************************.*****************************..999******************************95...7
+#=GC PP_cons                   ******************************.*****************************...99*899*************************9978...
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

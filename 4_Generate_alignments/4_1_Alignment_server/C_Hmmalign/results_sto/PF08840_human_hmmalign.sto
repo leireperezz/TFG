@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+P49753|PF08840|266-473         -HLEYFEEAMNYLLSHPEVKGPGVGLLGISKGGELCLSMASFLKGITAAVVINGSVANVGGTLHYKGETLPPVGVNRNRIKVTKDGYADIVDVLNSPLEGPDQKSFIPVERAESTFLFLVGQDDHNWKSEFYANEACKRLQAHGRRKPQIICYPETGHYIEPPYFPLCRASLHALVGSPIIWGGEPRAHAMAQVDAWKQL
+#=GR P49753|PF08840|266-473 PP .79*****************************************************************************************************************************************************************************************************
+Q14032|PF08840|207-411         -DLEYFEEAANFLLRHPKVFGSGVGVVSVCQGVQIGLSMAIYLKQVTATVLINGTNFPFGIPQVYHGQIHQPLPHSAQLISTNALGLLELYRTFETTQVG-ASQYLFPIEEAQGQFLFIVGEGDKTINSKAHAEQAIGQLKRHGKNNWTLLSYPGAGHLIEPPYSPLCCASTTHDLR--LHWGGEVIPHAAAQEHAWKEI
+#=GR Q14032|PF08840|207-411 PP .79**********************************************************************************************999.9999*********************************************************************776..*********************
+Q86TX2|PF08840|204-411         -HLEYFEEAVNYLLSHPEVKGPGVGLLGISKGGELCLSMASFLKGITAAVVINGSVANVGGTLRYKGETLPPVGVNRNRIKVTKDGYADIVDVLNSPLEGPDQKSFIPVERAESTFLFLVGQDDHNWKSEFYANEACKRLQAHGRRKPQIICYPETGHYIEPPYFPLCRASLHALVGSPIIWGGEPRAHAMAQVDAWKQL
+#=GR Q86TX2|PF08840|204-411 PP .79*****************************************************************************************************************************************************************************************************
+Q8N9L9|PF08840|203-411         ISLEYFEEAVCYMLQHPQVKGPGIGLLGISLGADICLSMASFLKNVSATVSINGSGISGNTAINYKHSSIPPLGYDLRRIKVAFSGLVDIVDIRNALVGGYKNPSMIPIEKAQGPILLIVGQDDHNWRSELYAQTVSERLQAHGKEKPQIICYPGTGHYIEPPYFPLCPASLHRLLNKHVIWGGEPRAHSKAQEDAWKQI
+#=GR Q8N9L9|PF08840|203-411 PP 68******************************************************************************************************************************************************************************************************
+Q3I5F7|PF08840|203-411         VHLEYFEEAVDFMLQHPKVKGPSIALLGFSKGGDLCLSMASFLKGITATVLINACVANTVAPLHYKDMIIPKLVDDLGKVKITKSGFLTFMDTWSNPLEEHNHQSLVPLEKAQVPFLFIVGMDDQSWKSEFYAQIASERLQAHGKERPQIICYPETGHCIDPPYFPPSRASVHAVLGEAIFYGGEPKAHSKAQVDAWQQI
+#=GR Q3I5F7|PF08840|203-411 PP 89******************************************************************************************************************************************************************************************************
+#=GC PP_cons                   78****************************************************************************************************************************************************************************999***********************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49753|PF08840|266-473         QTFFHKHLG-.
+#=GR P49753|PF08840|266-473 PP *******96..
+Q14032|PF08840|207-411         QRFLRKHL--i
+#=GR Q14032|PF08840|207-411 PP *******9..6
+Q86TX2|PF08840|204-411         QTFFHKHLG-.
+#=GR Q86TX2|PF08840|204-411 PP *******96..
+Q8N9L9|PF08840|203-411         LAFFCKHLG-.
+#=GR Q8N9L9|PF08840|203-411 PP *******96..
+Q3I5F7|PF08840|203-411         QTFFHKHLN-.
+#=GR Q3I5F7|PF08840|203-411 PP *******96..
+#=GC PP_cons                   *******96..
+#=GC RF                        xxxxxxxxxx.
+//

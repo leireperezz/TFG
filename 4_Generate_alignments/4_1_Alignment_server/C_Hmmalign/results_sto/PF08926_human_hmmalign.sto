@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O15021|PF08926|258-531         PQDSPRNFSPSASAHFSF--ARRT------DGRRWSLASLPSSGYGTNTPSSTVSSSCSSQEKLHQLPYQPTPDELHFLSKHFCTTESIATEN.RCRNTPMRPRSRSLSPGRSPACCDHEIIMMNHVYKERFPKATAQMEERLKEIITSYSPDNVLPLADGVLSFTHHQIIELARDCLDKSHQGLITSRYFLELQHKLDK
+#=GR O15021|PF08926|258-531 PP 89****************..7888......***************************************************************.**********************************************************************************************************
+O60307|PF08926|58-331          PLDSPRNFSAASALNFPF--ARRA------DGRRWSLASLPSSGYGTNTPSSTLSSSSSSRERLHQLPFQPTPDELHFLSKHFRSSENVLDEE.GGRSPRLRPRSRSLSPGRATGTFDNEIVMMNHVYRERFPKATAQMEGRLQEFLTAYAPGARLALADGVLGFIHHQIVELARDCLAKSGENLVTSRYFLEMQEKLER
+#=GR O60307|PF08926|58-331  PP 9*****************..7888......***************************************************************.**********************************************************************************************************
+Q6P0Q8|PF08926|201-475         PLDSPRNFSPNAPAHFSFVPARRT------DGRRWSLASLPSSGYGTNTPSSTVSSSCSSQEKLHQLPFQPTADELHFLTKHF-STESVPDEE.GRQSPAMRPRSRSLSPGRSPVSFDSEIIMMNHVYKERFPKATAQMEERLAEFISSNTPDSVLPLADGALSFIHHQVIEMARDCLDKSRSGLITSQYFYELQDNLEK
+#=GR Q6P0Q8|PF08926|201-475 PP 9***********************......*****************************************************.89*******.**********************************************************************************************************
+Q9Y2H9|PF08926|61-335          PLDSPRNFSPNTPAHFSFASSRRA------DGRRWSLASLPSSGYGTNTPSSTVSSSCSSQERLHQLPYQPTVDELHFLSKHFGSTESITDEDgGRRSPAVRPRSRSLSPGRSPSSYDNEIVMMNHVYKERFPKATAQMEEKLRDFTRAYEPDSVLPLADGVLSFIHHQIIELARDCLTKSRDGLITTVYFYELQENLEK
+#=GR Q9Y2H9|PF08926|61-335  PP 9**********************9......************************************************************9984699*******************************************************************************************************
+#=GC PP_cons                   99******************9999......******************************************************9*******9.9*********************************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15021|PF08926|258-531         LLQEAHDRSeSGELAFIKQLVRKILIVIARPARLLECLEFDPEEFYYLLEAAEGHAKEGQGIKTDIPRYIISQLGLNKDPLEE
+#=GR O15021|PF08926|258-531 PP *********999*********************************************************************96
+O60307|PF08926|58-331          LLQDAHERSdSEEVSFIVQLVRKLLIIISRPARLLECLEFDPEEFYHLLEAAEGHAREGQGIKTDLPQYIIGQLGLAKDPLEE
+#=GR O60307|PF08926|58-331  PP *********9***********************************************************************96
+Q6P0Q8|PF08926|201-475         LLQDAHERSeSSEVAFVMQLVKKLMIIIARPARLLECLEFDPEEFYHLLEAAEGHAKEGQGIKCDIPRYIVSQLGLTRDPLEE
+#=GR Q6P0Q8|PF08926|201-475 PP *********99**********************************************************************96
+Q9Y2H9|PF08926|61-335          LLQDAYERSeSLEVAFVTQLVKKLLIIISRPARLLECLEFNPEEFYHLLEAAEGHAKEGHLVKTDIPRYIIRQLGLTRDPF--
+#=GR Q9Y2H9|PF08926|61-335  PP *********999*******************************************************************95..
+#=GC PP_cons                   *********.99********************************************************************896
+#=GC RF                        xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

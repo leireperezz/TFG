@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+O43491|PF05902|892-998          .KEVPIVQTETKTITYESPQIDGG.AGGDSGTLLTAQTITSESVSTTTTTHITKTVKGGISETRIEKRIVITGDGDIDHDQALAQAIREAREQHPDMSVTRVVVHKETE
+#=GR O43491|PF05902|892-998  PP .689********************.**********************************************************************************96
+P11171|PF05902|753-860          .KDVPIVHTETKTITYEAAQTDDNsGDLDPGVLLTAQTITSETPSSTTTTQITKTVKGGISETRIEKRIVITGDADIDHDQVLVQAIKEAKEQHPDMSVTKVVVHQETE
+#=GR P11171|PF05902|753-860  PP .689*******************999*********************************************************************************96
+Q9H4G0|PF05902|789-867          k-----------------------.-----DVLTSTYGATAETLSTSTTTHVTKTVKGGFSETRIEKRIIITGDEDVDQDQALALAIKEAKLQHPDMLVTKAVVYRET-
+#=GR Q9H4G0|PF05902|789-867  PP 6.............................578889999*******************************************************************97.
+Q9Y2J2|PF05902|973-1079         .KEVPVVHTETKTITYESSQVDPG.TDLEPGVLMSAQTITSETTSTTTTTHITKTVKGGISETRIEKRIVITGDADIDHDQALAQAIKEAKEQHPDMSVTKVVVHKETE
+#=GR Q9Y2J2|PF05902|973-1079 PP .689********************.**********************************************************************************96
+#=GC PP_cons                    .689********************.*****99***************************************************************************86
+#=GC RF                         .xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

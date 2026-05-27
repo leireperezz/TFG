@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+Q5TAP6|PF04615|43-734         QKLLEAIISLDG-KNRRKLAERSEASLKVSEFSVSSeGSGEKLGLADLLEPVKTsssLATVKKQLNRV---KSKKVVELPLNKEKIEQIHREVAFSKTSQVLSKWDPIILKNQQAEQLVFPLGK-EQPAIAPIEHALSGWKARTPLEQEIFNLLHKNKqPVTDPLLTPMEKASLQAMSLEEAKMHRAELQRARALQSYYE
+#=GR Q5TAP6|PF04615|43-734 PP 699*********.58999****************9998899*************88888899999999...799**************************************************.8888999***9**********************899***************************************
+Q9BVJ6|PF04615|44-735         QKLLEAISSLDG-KNRRKLAERSEASLKVSEFNVSSeGSGEKLVLADLLEPVKTsssLATVKKQLSRV---KSKKTVELPLNKEEIERIHREVAFNKTAQVLSKWDPVVLKNRQAEQLVFPLEK-EEPAIAPIEHVLSGWKARTPLEQEIFNLLHKNKqPVTDPLLTPVEKASLRAMSLEEAKMRRAELQRARALQSYYE
+#=GR Q9BVJ6|PF04615|44-735 PP 69**********.58999****************9998899*************88888999999999...79***************************************************.88889****************************899***************************************
+#=GC PP_cons                  699*********.58999****************99.8899*************...88899999999...799**************************************************.888899***************************.99***************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5TAP6|PF04615|43-734         AKARKEKKIKSKKYHKVVKKGKAKKALKEFEQLQKVNPTVALE----EMEKIENARMMERMSLKHQNSGKWAKSKA--IMAKYDLEARQAMQEQLAKNKELTQKLQVA---SESEEE--EGGTEVEE-----L---L.VPHVAN----EV------QMNVDGPNPWMFRSCTSDTKEAATQEDPEQV-PELA-AHEVSAS
+#=GR Q5TAP6|PF04615|43-734 PP *******************************************....***************************99..***************************988...232222..22222222.....1...1.223333....22......2233455566666666666666666666666.3333.2344444
+Q9BVJ6|PF04615|44-735         AKARREKKIKSKKYHKVVKKGKAKKALKEFEQLRKVNPAAALE----ELEKIEKARMMERMSLKHQNSGKWAKSKA--IMAKYDLEARQAMQEQLSKNKELTQKLQVA---SESEEEEGGTEDVEEL---------LvPDVVNEVQM-------NADGPN-PWMLRSCTSDTKEAATQEDPEQLPEL----EAH-GVSES
+#=GR Q9BVJ6|PF04615|44-735 PP *******************************************....***************************99..***************************998...3333332222222222.........11233333222.......112233.33333333444343343444444444....322.22222
+#=GC PP_cons                  *******************************************....***************************99..***************************988...3333322222222222.....1...1.223333222.22....112233444445555555555555555555555.333322333333
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5TAP6|PF04615|43-734         EA--EERPVAEEEILLREFEERQSLRKRSELNQDAEPASSQETKDSSSQEVLSELRALSQKLKEKHQSRKQKASSEGtVPQVQREEPAPEEAEPLLLQRServqtlEELEELGKEDCFQNKELPRPVLEGQQSERTPNNRPD---APKEKKEKEQLINLQNFLTTQSPSV-RSLAVPTIIEELEDEE----------ERD
+#=GR Q5TAP6|PF04615|43-734 PP 44..222222234677889888876666666666555555555555555555555555555445555555555555555577778888899999999888788876588889999999999999999998666666666655...44457889999***98777555552.2234445555555555..........479
+Q9BVJ6|PF04615|44-735         EG--EERPVAEEEILLREFEERRSLRKRSELSQDAEPAGSQETKDSGSQEVLSELRVLSQKLKENHQSRKQKASSEGtIPQVQREEPAPEEEEPLLLQRPervqtlEELEELGKEECFQNKELPRPVLEGQQSERTPNNRPD---APKEKKKKEQMIDLQNLLT--TQSPSVKSLAVPTIEELEDEE----------ERN
+#=GR Q9BVJ6|PF04615|44-735 PP 22..111122233566777777765555555555555555555555555554554444444444555555555555556677777888888999988877799876689999999**9*99999999998766666666665...445578899*****96666..444434444444555555555..........478
+#=GC PP_cons                  33..1221222346677888877666666656655555555555555555555554444444455555555555555.5677777888889999998888......688999999999999999999998666666666655...4445788999****9766655455333334445555555555..........479
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5TAP6|PF04615|43-734         QRQMIKEAFAGDDVIRDFLKEKREAVEASKPKDVDLTLPGWGEWGGVGLKPSAKKRRQFLIKA---PEGpPRKDKNLPNVIISEKRNIHAAAHQVQVLPYPFTHHRQFERTIQTPIGSTWNTQRAFQKLTTPKVVTKPGHIIKPIKAE
+#=GR Q5TAP6|PF04615|43-734 PP *******************************************************99******...44445**************************************************************************985
+Q9BVJ6|PF04615|44-735         HRQMIKEAFAGDDVIRDFLKEKREAVEASKPKDVDLTLPGWGEWGGVGLKPSAKKRRRFLIKA---PEGpPRKDKNLPNVIINEKRNIHAAAHQVRVLPYPFTHHWQFERTIQTPIGSTWNTQRAFQKLTTPKVVTKPGHIINPIKAE
+#=GR Q9BVJ6|PF04615|44-735 PP 9******************************************************99******...44445**************************************************************************985
+#=GC PP_cons                  9******************************************************99******...444.5**************************************************************************985
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

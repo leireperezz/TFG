@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+O00330|PF00364|59-129            i---LMPSLSPTMEEGnIVKWLKKEGEAVSAGDALCEIETDKAVVTLDASDDGILAKIVVEEGSKnIRLGSLI---g
+#=GR O00330|PF00364|59-129    PP 5...69*********************************************************9989888877...8
+O00763|PF00364|896-961           v--LRSPSAGKLTQ--.---YTVEDGGHVEAGSSYAEMEVMKMIMTLNVQERGRVKYIKRP-GAV.LEAGCVVARL.
+#=GR O00763|PF00364|896-961   PP 7..799********......*****************************************.***.*******986.
+P05165|PF00364|661-727           v--LRSPMPGVVVA--.---VSVKPGDAVAEGQEICVIEAMKMQNSMTAGKTGTVKSVHCQAGDT.VGEGDLLVEL.
+#=GR P05165|PF00364|661-727   PP 7..79*********......*********************************************.*******986.
+P10515|PF00364|93-164            k--VPLPSLSPTMQAGtIARWEKKEGDKINEGDLIAEVETDKATVGFESLEECYMAKILVAEGTRdVPIGAII---c
+#=GR P10515|PF00364|93-164    PP 6..789*********************************************************9989999988...5
+P10515|PF00364|220-293           .-QVLLPALSPTMTMGtVQRWEKKVGEKLSEGDLLAEIETDKATIGFEVQEEGYLAKILVPEGTRdVPLGTPLCII.
+#=GR P10515|PF00364|220-293   PP ..5779**********************************************************99*******987.
+P11182|PF00364|66-138            .-QFKLSDIGEGIREVtVKEWYVKEGDTVSQFDSICEVQSDKASVTITSRYDGVIKKLYYNLDDI.AYVGKPLVDI.
+#=GR P11182|PF00364|66-138    PP ..799************************************************************.*******987.
+P11498|PF00364|1111-1177         .-QIGAPMPGKVID--.---IKVVAGAKVAKGQPLCVLSAMKMETVVTSPMEGTVRKVHVTKDMT.LEGDDLILEI.
+#=GR P11498|PF00364|1111-1177 PP ..799*********......*********************************************.*******987.
+P36957|PF00364|72-143            .-TVKTPAFAESVTEG.DVRWEKAVGDTVAEDEVVCEIETDKTSVQVPSPANGVIEALLVPDGGK.VEGGTPLFTL.
+#=GR P36957|PF00364|72-143    PP ..599***********.************************************************.*******986.
+Q13085|PF00364|753-818           v--MRSPSAGKLIQ--.---YIVEDGGHVFAGQCYAEIEVMKMVMTLTAVESGCIHYVKRP-GAA.LDPGCVLAKM.
+#=GR Q13085|PF00364|753-818   PP 6..89*********......*****************************************.***.*******996.
+Q96RQ3|PF00364|651-713           .----APMTGTIEK--.---VFVKAGDKVKAGDSLMVMIAMKMEHTIKSPKDGTVKKVFYREGAQ.ANRHTPLV--e
+#=GR Q96RQ3|PF00364|651-713   PP .....699999999......*********************************************.99999997..6
+#=GC PP_cons                     ..6889**********.************************************************.****999987.
+#=GC RF                          .xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx.
+//

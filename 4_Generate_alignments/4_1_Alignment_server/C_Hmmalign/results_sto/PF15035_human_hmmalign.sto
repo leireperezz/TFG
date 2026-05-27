@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q5TZA2|PF15035|156-332         ...............RRKLQAYQEGQQRQAQLVQRLQGKILQYKKRCSELEQQLLERSGEL-------EQQRL--RDTEHSQDLESALIRLEEEQQRSASLAQVNAMLREQLDQAGSANQALSEDIRKVTNDWTRCRKELEHREAAWRREEESFNAYFSNEHSRLLLLWRQVVGFRRLVSEVKMFTERDLLQLGGELART
+#=GR Q5TZA2|PF15035|156-332 PP ...............79***************************************54444.......22334..4567899*******************************************************************************************************************998
+Q9BV73|PF15035|39-213          ...............WRKLKNSQEAQQRQATLVRKLQAKVLQYRSWCQELEKRLEA-----------TGGPIPQRWENVEEPNLDELLVRLEEEQQRCESLAEVNTQLRLHMEKADVVNKALREDVEKLTVDWSRARDELMRKESQWQMEQEFFKGYLKGEHGRLLSLWREVVTFRRHFLEMKSATDRDLMELKAEHVRL
+#=GR Q9BV73|PF15035|39-213  PP ...............69***************************************...........67799*****************************************************************************************************************************997
+H7BZ55|PF15035|113-262         erdelasrcrvvseq----------------------------------------------LQARLETTEAQLRRSELEHSVDLEEALGRLEAAEERSTGLCQVNALLREQLEHMKKANDALGRELAGMTGSVQRLQGELELR--RWAQRQTRSGG--LGQPRDLLLLWRQAVVLGTDLAELRVATERGLADLQADTART
+#=GR H7BZ55|PF15035|113-262 PP *98877665544322..............................................2333567889*********************************************************************987..79998885444..457789********************************9885
+#=GC PP_cons                   ...............79***************************************54444233356656778**88999*************************************************************99**9***9998888**88999*********************************9987
+#=GC RF                        ...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q5TZA2|PF15035|156-332         S
+#=GR Q5TZA2|PF15035|156-332 PP 6
+Q9BV73|PF15035|39-213          S
+#=GR Q9BV73|PF15035|39-213  PP 5
+H7BZ55|PF15035|113-262         -
+#=GR H7BZ55|PF15035|113-262 PP .
+#=GC PP_cons                   6
+#=GC RF                        x
+//

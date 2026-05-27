@@ -1,0 +1,43 @@
+# STOCKHOLM 1.0
+
+O43439|PF01753|507-543         .....CWNCGR......KASE--TCSGCNIARYCGSFCQHKDW.ER......HHRLC
+#=GR O43439|PF01753|507-543 PP .....******......****..********************.**......****9
+O75081|PF01753|556-592         .....CWNCGR......KASE--TCSGCNAARYCGSFCQHRDW.EK......HHHVC
+#=GR O75081|PF01753|556-592 PP .....******......****..********************.**......*****
+O75398|PF01753|504-540         .....CVNCGR......EAMS--ECTGCHKVNYCSTFCQRKDW.KD......HQHIC
+#=GR O75398|PF01753|504-540 PP .....9*****......****..********************.**......*****
+O75800|PF01753|394-430         .....CAYCSA......EASK--RCSRCQNEWYCCRECQVKHW.EK......HGKTC
+#=GR O75800|PF01753|394-430 PP .....******......****..********************.**......****9
+O94966|PF01753|791-833         .....CAACQRkq..qsEDEKLKRCTRCYRVGYCNQLCQKTHW.PD......HKGLC
+#=GR O94966|PF01753|791-833 PP .....9*******..**888888********************.**......**999
+Q06455|PF01753|515-551         .....CWNCGR......KASE--TCSGCNTARYCGSFCQHKDW.EK......HHHIC
+#=GR Q06455|PF01753|515-551 PP .....******......****..********************.**......*****
+Q16342|PF01753|135-172         .....CRVCGC......LGPK--TCSRCHKAYYCSKEHQTLDWrLG......HKQAC
+#=GR Q16342|PF01753|135-172 PP .....9*****......8888..***********************......*****
+Q4VC12|PF01753|105-149         .....CAHCRAlpsglsDSKVLRHCKRCRNVYYCGPECQKSDW.PA......HRRVC
+#=GR Q4VC12|PF01753|105-149 PP .....***********9666667********************.**......*****
+Q8IYR2|PF01753|296-335         .....CHRCLK......HTLATVPCDGCSYAKYCSQECLQQAWeLY......HRTEC
+#=GR Q8IYR2|PF01753|296-335 PP .....******......*****************************......*****
+Q8NB12|PF01753|52-90           .....CHTCFK......RQEKLHRCGQCKFAHYCDRTCQKDAW.LN......HKNEC
+#=GR Q8NB12|PF01753|52-90   PP .....******......**************************.**......*****
+Q96E35|PF01753|179-212         kqlre------......----FNICGRCQVARYCGSQCQQKDW.PA......HKKHC
+#=GR Q96E35|PF01753|179-212 PP 98765................457*******************.**......*****
+Q9BXT4|PF01753|170-206         .....CHRCGL......FGSL--RCSQCKQTYYCSTACQRRDW.SA......HSIVC
+#=GR Q9BXT4|PF01753|170-206 PP .....******......9999..********************.**......***99
+Q9GZT9|PF01753|21-58           .....CELCGK.....mENLL--RCSRCRSSFYCCKEHQRQDW.KK......HKLVC
+#=GR Q9GZT9|PF01753|21-58   PP .....9*****.....66666..********************.**......*****
+Q9H0C1|PF01753|17-54           .....CEVCEA......PAER--VCAACTVTYYCGVVHQKADWdSI......HEKIC
+#=GR Q9H0C1|PF01753|17-54   PP .....******......****..***********************......*****
+Q9H7B4|PF01753|49-87           .....CDRCLL......GKEKLMRCSQCRVAKYCSAKCQKKAW.PD......HKREC
+#=GR Q9H7B4|PF01753|49-87   PP .....9*****......**************************.**......*****
+Q9NRG4|PF01753|52-90           .....CEYCFT......RKEGLSKCGRCKQAFYCNVECQKEDW.PM......HKLEC
+#=GR Q9NRG4|PF01753|52-90   PP .....******......999999********************.**......*****
+Q9H091|PF01753|313-359         .....CHVCHRh....sFEAKLTPCPQCSAVLYCGEACLRADW.QRcpddvsHRFWC
+#=GR Q9H091|PF01753|313-359 PP .....******9....9888889********************.8544444488888
+Q8IV38|PF01753|320-357         .....CTTCGE.....kGASK--RCSVCKMVIYCDQTCQKTHW.FT......HKKIC
+#=GR Q8IV38|PF01753|320-357 PP .....9*****.....78888..********************.**......*****
+Q9P2S6|PF01753|880-920         .....CYQCGR.....sIGVRLLPCPRCYGILTCSKYCKTKAWtEF......HKKDC
+#=GR Q9P2S6|PF01753|880-920 PP .....******.....9888899***********************......*****
+#=GC PP_cons                   .....******......999989********************.**......****9
+#=GC RF                        .....xxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxx.xx......xxxxx
+//

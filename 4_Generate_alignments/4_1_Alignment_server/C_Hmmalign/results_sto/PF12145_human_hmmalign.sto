@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+Q86YW9|PF12145|283-730         EFVQSAYLSRRLAYFCARRLSLLLSDSP--NLLAAHSPHMmiGPNNSSIGAPSPGPPGPGMSPVQLAFSDFLSCAQHGPLVYGLSCMLQTVTLCCPSALVWNySTNENKSANP--GSPLDLLQVAPSSLPMPGGNTAFNQQVRARIYEVEQQIKQRGRAVEVRWSFDKCQESTAGVTISRVLHTLEVLDRHCFDRTDSSN
+#=GR Q86YW9|PF12145|283-730 PP 7***********************9998..89999999998899**********************************************************99999999998..*************************************************************************************
+Q93074|PF12145|286-757         EFVQSAYLSRRLAYFCTRRLALQLDGVS------SHSSHV.iSAQSTSTLPTTPAPQPPTSSTPSTPFSDLLMCPQHRPLVFGLSCILQTILLCCPSALVWHySLTDSRIKT---GSPLDHLPIAPSNLPMPEGNSAFTQQVRAKLREIEQQIKERGQAVEVRWSFDKCQEATAGFTIGRVLHTLEVLDSHSFERSDFSN
+#=GR Q93074|PF12145|286-757 PP 7***********************8666......445554.499*******************************************************************8...*************************************************************************************
+#=GC PP_cons                   7***********************9877..8999677776..99**********************************************************.9*****9988..*************************************************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q86YW9|PF12145|283-730         SMETLYHKIFWANQNKDNQEV--APNDEAVVTLLCEWAVSCKRSGKHRAMAVAKLLEKRQAEIEAERCGESEVLDEKESISSSSL-AGSSLPVFQNVLLRFLDTQAPSLSD-PNSECEKVEFVNLVLLFCEFIRHDVFSHDAYMCTLISRGDLSVTAS--TRP--RSPVGENADEHYSKDHDVKMEIFSPMPGESCENAN
+#=GR Q86YW9|PF12145|283-730 PP *********************..************************************************************88.99***********************.*****************************************75555..577..99**************************9985544
+Q93074|PF12145|286-757         SLDSLCNRIFGLGPSKDGHEI--SSDDDAVVSLLCEWAVSCKRSGRHRAMVVAKLLEKRQAEIEAERCGESEAADEKGSIASGSLSAPSA-PIFQDVLLQFLDTQAPMLTD-PRSESERVEFFNLVLLFCELIRHDVFSHNMYTCTLISRGDLAFGAPG-PRP--PSPFDDPADDPEHKEAEGSSSSKLEDPGLSESMDI
+#=GR Q93074|PF12145|286-757 PP *********************..**************************************************************99999.********************.*****************************************987776.555..9**********************************
+#=GC PP_cons                   *********************..************************************************************9999999*********************.*****************************************866666.566..9*****************************98777
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q86YW9|PF12145|283-730         TslGRRMSVNCEKL................---VKREKPRELI-------------FPSNYDLLRHLQYATHFPIPLDESSSHECNQRTILL
+#=GR Q86YW9|PF12145|283-730 PP 45677888888887...................5678888876.............888999****************************97
+Q93074|PF12145|286-757         DpsSSVLFEDMEKPdfslfsptmpcegkgsPSPEKPDVEKEVKPPP---KEKIEGTLGVLYDQPRHVQYATHFPIPQEESCSHECNQRLVVL
+#=GR Q93074|PF12145|286-757 PP **9999**************99999999996666888888887333...4569*************************************97
+#=GC PP_cons                   7..88999999998................6666788888887333...4569***99999*****************************97
+#=GC RF                        x..xxxxxxxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

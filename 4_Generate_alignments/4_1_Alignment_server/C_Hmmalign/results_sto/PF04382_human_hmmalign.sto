@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+O43491|PF04382|630-670         .MLEELDKAQEDILKHQASISELKRNFMESTP-.EPRPNEWE..KR--------
+#=GR O43491|PF04382|630-670 PP .9******************************..********..*9........
+P11171|PF04382|667-715         .MLEDLDKSQEEIKKHHASISELKKNFMESVP-.EPRPSEWD..KRLSTHSPFR
+#=GR P11171|PF04382|667-715 PP .9******************************..********..********98
+Q9H4G0|PF04382|493-544         .KQEFLDKPEDVLLKHQASINELKRTLKEPNSKlIHRDRDWEreRRLPS-SPAS
+#=GR Q9H4G0|PF04382|493-544 PP .58**************************************9889****.**86
+Q9Y2J2|PF04382|719-765         q---ELEKTQDDLMKHQTNISELKRTFLETSTD.TAVTNEWE..KRLST-SPVR
+#=GR Q9Y2J2|PF04382|719-765 PP 6...89***************************.********..*****.***8
+#=GC PP_cons                   .79*9****************************.********..********97
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx..xxxxxxxxxx
+//

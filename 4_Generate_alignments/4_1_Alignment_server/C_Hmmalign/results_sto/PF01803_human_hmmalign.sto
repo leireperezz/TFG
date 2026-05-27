@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O43679|PF01803|31-181         -RIYEMNKRLQSR-TEDSDNLWWDAFATEFFEDDATLTLSFCL----EDGPKRYTIGRTLIPRYFSTVFEGGVTDLYYILKHSKESYH-NSSITVDCDQCTMVTQHGKPmfTKVCTEGRLILEFtfDDLMRIKTWHFTIRQYRELVPRSILAMHA---------------------------------------------
+#=GR O43679|PF01803|31-181 PP .89**********.99***************************....789********************************998876.99999***********9775337999999875554338899******************9998775.............................................
+Q86U70|PF01803|70-271         -RIFELNKRLQNW-TEECDNLWWDAFTTEFFEDDAMLTITFCL----EDGPKRYTIGRTLIPRYFRSIFEGGATELYYVLKHPKEAFHSNFVS-LDCDQGSMVTQHGKPmfTQVCVEGRLYLEFmfDDMMRIKTWHFSIRQHRELIPRSILAMH----------AQDP-------------------------QMLDQL-
+#=GR Q86U70|PF01803|70-271 PP .7899999**999.8889999**********************....789***********************************99988877.9**********97643379999999866554499********************999877..........3343.........................345566.
+#=GC PP_cons                  .8999********.9999999**********************....789*********************************99888888889***********9765..7999999976554..999*******************9998775.........3343.........................345566.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43679|PF01803|31-181         ----------------------------------------------qdp
+#=GR O43679|PF01803|31-181 PP ..............................................568
+Q86U70|PF01803|70-271         SKNITRCGLSNSTLNYLRLCVILEPMQELMSRH-KTYSLSPRDCLK...
+#=GR Q86U70|PF01803|70-271 PP 566889**************************7.888******996...
+#=GC PP_cons                  566889**************************7.888******996...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

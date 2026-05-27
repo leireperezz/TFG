@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+
+P42345|PF02259|1513-1908         .ARMAAAAAWGLGQWDS......MEEYTCMIP................RDTHDGAFYRAVLA.......LHQ..DLFSLAQQCIDKARDLLDAELTAMAGE..SYSRAYGAMVSCHMLSELEEVIQYKL---........VPERREIIRQIWWERLQGCQ.RIVEDWQKILMVRSLVVSPHED.................
+#=GR P42345|PF02259|1513-1908 PP .579*************......*********................**************.......***..***************************..**************************...........8*******************.**********************.................
+P78527|PF02259|3024-3470         p--PDLNKIWSEPFYQEtylpymIRSKLKLLLqgeadqslltfidkamHGELQKAILELHYSqelsllyLLQ..DDVDRAKYYIQNGIQSFMQNYSSIDVL..LHQSRLTKLQSVQALTEIQEFISFISKQGn.....lsSQVPLKRLLNTWTNRYPDAKmDPMNIWDDIITNRCFFLSKIEEkltplpednsmnvdqdg
+#=GR P78527|PF02259|3024-3470 PP 5..678888888855555445777888888878999999999997887888888888888889999977777..***************************..***************************999.....999999********************************************************
+Q13315|PF02259|2097-2489         e--LHYQAAWRNMQWDH......CTSVSKEVE................GTSYHESLYNALQS.......LRD..REFSTFYESLKYARVKEVEEMCKRSLE..SVYSLYPTLSRLQAIGELESIGELFSRSV........THRQLSEVYIKWQKHSQLLKdSDFSFQEPIMALRTVILEILMEkemd.............
+#=GR Q13315|PF02259|2097-2489 PP 5..899***********......*********................**************.......***..***************************..*****************************........********************99****************888777889.............
+Q13535|PF02259|1772-2092         t--YRVEAAWKLSQWDL......VENYLAADG...............kSTTWSVRLGQLLLS.......AKK..RDITAFYDSLKLVRAEQIVPLSAASFErgSYQRGYEYIVRLHMLCELEHSIKPLFQHSp......gDSSQEDSL--NWVARLEMTQ.NSYRAKEPILALRRALLSLNKR.................
+#=GR Q13535|PF02259|1772-2092 PP 7..579***********......*****7765...............68899999*******.......***..*****************************************************999999......888888888..**********.**********************.................
+Q9Y4A5|PF02259|2851-3204         .--LVLECAWRVSNWTA......MKEALVQVEvs...........cpkEMAWKVNMYRGYLA......iCHPeeQQLSFIERLVEMASSLAIREWRRLPHV..VSHVHTPLLQAAQQIIELQEAAQINAGLQptnlgrnnSLHDMKTVVKTWRNRLPIVS.DDLSHWSSIFMWRQHHYQGKPTwsgmhsssivtay....
+#=GR Q9Y4A5|PF02259|2851-3204 PP ...679***********......*********88...........8888888888*******......65559899*************************..*********************************************************.*****************88888889999*******....
+#=GC PP_cons                     .577899******9999......9***99998................9999999*******.......888..***************************..****************************9........9999****************.*****************99999.................
+#=GC RF                          .xxxxxxxxxxxxxxxx......xxxxxxxxx................xxxxxxxxxxxxxx.......xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx.................
+
+P42345|PF02259|1513-1908         ................-------MRTWLKYASLCGKSGRLALAHKTLVLLLGVDPsrqlDHPLPtvhPQVTYAYMKNMWKSAR...KIDAFQHM........QHFVQTMQQQ--......-AQHAIATE.........DQQHKQELHKLM.ARCFLKLGE............WQLNLQGIN--ESTIPKVLQYYSAATEH
+#=GR P42345|PF02259|1513-1908 PP .......................********************************87776666699*****************...********........*****88775.........69999999.........************.*********............*******76..555**************
+P78527|PF02259|3024-3470         dpsdrmevqeqeedisSLIRSCKFSMKMKMIDSARKQNNFSLAMKLLKELHKESKt..rDDWLV...-SWVQSYCRLSHCRSRsqgCSEQVLTVlktvslldENNVSSYLSKNIlafrdqNILLGTTYRiian.alssEPACLAEIEEDKaRRILELSGSssedsekviaglYQRAFQHLSEAVQAAEEEAQPPSWSCGP
+#=GR P78527|PF02259|3024-3470 PP ********************************************************..******....***************5554555555567777777777777777777999999999999999****.****************9999999999****************************************
+Q13315|PF02259|2097-2489         ............nsqrECIKDILTKHLVELSILARTFKNTQLPERAIFQIKQYNS....VSCGV...SEWQLEEAQVFWAKKE...QSLALSIL........KQMIKKLDASCAa....nNPSLKLTYTeclrvcgnwLAETCLENPAVI.MQTYLEKAV............EVAGNYDGESSDELRNGKMKAFLSLARF
+#=GR Q13315|PF02259|2097-2489 PP ............9999***************************************....55555...9***************...********........*****76555445....5333333333678888***************.*********............****************************
+Q13535|PF02259|1772-2092         ................PDYNEMVGECWLQSARVARKAGHHQTAYNALLNAGESRL....-----...AELYVERAKWLWSKGD...VHQALIVL........QKGVELCFPENE......TPPEGKNM-.........----------LIhGRAMLLVGR............FMEETANFE-----SNAIMKKYKDVTAC
+#=GR Q13535|PF02259|1772-2092 PP ................**********************************77777............89**************...********........************......*****887....................999*********............*******98.....**************
+Q9Y4A5|PF02259|2851-3204         ...enssqhdpssnnaMLGVHASASAIIQYGKIARKQGLVNVALDILSRI-----....-----...---------HTIPTVP...IVDCFQKI........RQQVKCYLQLAGvm.gknECMQGLEVI.........ESTNLKYFTKEMtAEFYALKGM............FLAQINK-------SEEANKAFSAAVQM
+#=GR Q9Y4A5|PF02259|2851-3204 PP ...***********************************************..........................*******...********........**********9999.999*********.........**********************............*******.......9*************
+#=GC PP_cons                     ................**********************************99999....77777...9***************...99999999........999998888777......888888888.........************.*********............*******99**888**************
+#=GC RF                          ................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxx...xxxxxxxxxxxxxxxx...xxxxxxxx........xxxxxxxxxxxx......xxxxxxxxx.........xxxxxxxxxxxx.xxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P42345|PF02259|1513-1908         DRSWYK.AWHAWAVMNFEAVLHYKHQNQARDekkklrhasganitnattaattaatatttastegsnseseaestensptpsplqkkvtedlSKTLLMYTVPAVQGFFRSISLSRG.NNLQDTLRVLT
+#=GR P42345|PF02259|1513-1908 PP ******.****************999555556789********************************************************988999*******************.**********8
+P78527|PF02259|3024-3470         AAGVID.AYMTLADFCDQQLRKEEENASVID.............................................................SAELQAYPALVVEKMLKALKLNSN.EARLKFPRLLQ
+#=GR P78527|PF02259|3024-3470 PP ******.************************.............................................................************************.*********96
+Q13315|PF02259|2097-2489         SDTQYQrIENYMKSSEFENKQALLKRAKEEVgllrehkiqtnrytv..............................kvqreleldelalralKEDRKRFLCKAVENYINCLLSGEE.HDM-WVFRLCS
+#=GR Q13315|PF02259|2097-2489 PP *************************9888778**************..............................****************************************.***.9****95
+Q13535|PF02259|1772-2092         LPEWED.GHFYLAKYYDKLMPMVTDNKMEK-.............................................................QGDLIRYIVLH---FGRSLQYGNQ.FIYQSMPRMLT
+#=GR Q13535|PF02259|1772-2092 PP ******.*********************99..............................................................99***9*9999...**********.**********8
+Q9Y4A5|PF02259|2851-3204         HDVLVK.AWAMWGDYLENIFVKE--------.............................................................-RQL-HLGVSAITCYLHACRHQNEsKSRKYLAKVLW
+#=GR Q9Y4A5|PF02259|2851-3204 PP ******.****************......................................................................444.599***************************9
+#=GC PP_cons                     ******.******************988887.............................................................988899******************.*********97
+#=GC RF                          xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.............................................................xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+//

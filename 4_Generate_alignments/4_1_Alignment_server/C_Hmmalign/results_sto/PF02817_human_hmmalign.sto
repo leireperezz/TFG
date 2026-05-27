@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+O00330|PF02817|183-216         r--LSPAARNILEKHSLDASQGTATGPRGIFTKED--a
+#=GR O00330|PF02817|183-216 PP 6..7*******************************..7
+P10515|PF02817|355-389         .VFVSPLAKKLAVEKGIDLTQVKGTGPDGRITKKDI-.
+#=GR P10515|PF02817|355-389 PP .799*******************************8..
+P11182|PF02817|172-206         .-LATPAVRRLAMENNIKLSEVVGSGKDGRILKEDIL.
+#=GR P11182|PF02817|172-206 PP ..69*******************************97.
+#=GC PP_cons                   .789*******************************87.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

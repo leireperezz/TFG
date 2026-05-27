@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P54274|PF08558|77-269         .-----WMLDFLCLSLCRAFRDGRSE-----------DFRRTRNSAEAIIHGLSSLTACQLRTIY----------ICQFLTRIAAGKTLDAQFENDErITPLESALMIWGSIEKEH--.DKL---HEEIQNLIKIQAIAVCMENGNFKEAEEVFERIFGDPNSH----------------------MPFKSKLLMIISQK
+#=GR P54274|PF08558|77-269 PP ......9*******************...........***************************9..........*****************************************...888...9999999********************************......................9*************
+Q15554|PF08558|96-291         r-----WVLKFYFHEALRAFRGSRYG-----------DFRQIRDIMQALLVRPLGKEHTVSRLLR----------VMQCLSRIEEGENLDCSFDMEAeLTPLESAINVLEMIKTEFTLtEAVVESSRKL---VKEAAVIICIKNKEFEKASKILKKHMSKDPTT----------------------QKLRNDLLNIIREK
+#=GR Q15554|PF08558|96-291 PP 8.....9*******************...........****************************..........*********************99******************999**********...*******************************9......................**************
+#=GC PP_cons                  ......9*******************...........***************************9..........**********************.******************99.999*******999*******************************9......................9*************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P54274|PF08558|77-269         DtfHSFFQHFSYNHMMEKIKSYVNYVLSeksstFLMKAAAKVVESKR--t.
+#=GR P54274|PF08558|77-269 PP ******************************************99987..6.
+Q15554|PF08558|96-291         NlaHPVIQNFSYETFQQKMLRFLESHLDdaepyLLTMAKKALKSE----sa
+#=GR Q15554|PF08558|96-291 PP ********************************8888888877766....57
+#=GC PP_cons                  *..*************************.....99999999888787....
+#=GC RF                       x..xxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxx..
+//

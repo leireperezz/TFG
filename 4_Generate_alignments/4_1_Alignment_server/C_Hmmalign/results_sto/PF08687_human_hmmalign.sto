@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q13796|PF08687|1318-1610         ......ELAREIVGKDKSLADILDPSVKIKTTMDLMEGIF.PKDEHLLEEAQQRRKLlpKipspRSTEERKEEPSVPAAVSLATNSTYYSTSAPKAELLIKMKDL.--QEQQEHEED.SGSDLDHDLSVKKQELIESISRKLQVLREARESLLEDVQANTVLGAEVEAIVKGVCKPSEFDKFRMFIGDLDKVVNLLLSLS
+#=GR Q13796|PF08687|1318-1610 PP ......79********************************.****999998888886543787777888888889999**************************9...666677778.999*******************************************************************************
+Q8TF72|PF08687|1671-1956         ......-LAKEIVHQDKSLADILDPDSRLKTTMDLMEGLF.PRDVNLLKENSVKRKA.iQrtvsSSGCEGKRNEDKEAVSMLVNCPAYYSVSAPKAELLNKIKEM.-------PAEV.NEEEEQADVNEKKAELIGSLTHKLETLQEAKGSLLTDIKLNNALGEEVEALISELCKPNEFDKYRMFIGDLDKVVNLLLSLS
+#=GR Q8TF72|PF08687|1671-1956 PP .......79*******************************.*************997.734565555566677889999***********************999........5566.7788889***************************************************************************
+Q9ULL8|PF08687|1247-1486         qeates----------------------------------.----------------..-....AKQEFQHFSPPSGAPGIPTSYSAYYNISVAKAELLNKLKDQpEMAEI----GL.GEEEVDHELAQKKIQLIESISRKLSVLREAQRGLLEDINANSALGEEVEANLKAVCKSNEFEKYHLFVGDLDKVVNLLLSLS
+#=GR Q9ULL8|PF08687|1247-1486 PP 866544..........................................................456666677778888999***********************555543....45.789999****************************************************************************
+Q2M3G4|PF08687|544-824           ......ELVQELARLDPSLCDPLASQPSPEPPLGLLDGLIpLAEVRAAMRPACGEA-..-....--------GEEAASTFEPGSYQFSFTQLLPAPREETRLENPaTHPVLDQPCGQgLPAPNN-SIQGKKVELAARLQKMLQDLHTEQERLQGEAQAWARRQAALEAAVRQACAPQELERFSRFMADLERVLGLLLLLG
+#=GR Q2M3G4|PF08687|544-824   PP ......79********************************99999999******99................577899***************************************6666666.***************************************************************************
+#=GC PP_cons                     ......799*******************************.9***999999999997..3....5666677778889999************************9.77776887777.7788889***************************************************************************
+#=GC RF                          ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx..x....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q13796|PF08687|1318-1610         GRLARVENALNNLDDGASPGDRQSLLEKQRVLIQQHEDAKELKENLDRRERIVFDILANYLSEESLADYEHFVKMKSALIIEQRELEDKIHLGEEQLKCLLDSL
+#=GR Q13796|PF08687|1318-1610 PP ******************************************************************************************************98
+Q8TF72|PF08687|1671-1956         GRLARVENVLSGLGEDASNEERSSLYEKRKILAGQHEDARELKENLDRRERVVLGILANYLSEEQLQDYQHFVKMKSTLLIEQRKLDDKIKLGQEQVKCLLESL
+#=GR Q8TF72|PF08687|1671-1956 PP ******************************************************************************************************98
+Q9ULL8|PF08687|1247-1486         GRLARVENALNSIDSEAN-QEKLVLIEKKQQLTGQLADAKELKEHVDRREKLVFGMVSRYLPQDQLQDYQHFVKMKSALIIEQRELEEKIKLGEEQLKCLRESL
+#=GR Q9ULL8|PF08687|1247-1486 PP *****************9.***********************************************************************************98
+Q2M3G4|PF08687|544-824           SRLARVRRALARAASDSDPDEQASLLQRLRLLQRQEEDAKELKEHVARRERAVREVLVRALPVEELRVYCALLAGKAAVLAQQRNLDERIRLLQDQLDAIRDDL
+#=GR Q2M3G4|PF08687|544-824   PP *****************************************************************************************************987
+#=GC PP_cons                     ******************************************************************************************************98
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

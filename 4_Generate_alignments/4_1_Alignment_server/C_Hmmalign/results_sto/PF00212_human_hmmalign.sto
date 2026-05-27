@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+P01160|PF00212|121-146         ap-------RSLRRSSCFGGRMDRIGAQSGLGC
+#=GR P01160|PF00212|121-146 PP 85.......67899*******************
+P16860|PF00212|98-128          ..LRAPRSPKMVQGSGCFGRKMDRISSSSGLGC
+#=GR P16860|PF00212|98-128  PP ..58899**************************
+P23582|PF00212|96-126          ..RKYKGANKKGLSKGCFGLKLDRIGSMSGLGC
+#=GR P23582|PF00212|96-126  PP ..688999*************************
+#=GC PP_cons                   ..68899**999*********************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

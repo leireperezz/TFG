@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P49788|PF06907|54-273         v---PRRLLQQAARAALHFFNFRSGSPSALRVLAEVQEGRAWINPKEGCKVHVVFSTERYNPESllqegegRLGKCSARVFFKNQKPRPTINVTCT-RLIEKKKRQQEDYLLYKQMKQLKNPLEIVSIPDNHGHIDPSLRLIWDLAFLGSSYVMWEMTTQVSHYYLAQLTSVRQWKTNDDTIDFDYTVLLHELSTQEIIP
+#=GR P49788|PF06907|54-273 PP 7...57899******************************************************99999****************************.*******************************************************************************************************
+Q9BS40|PF06907|3-218          .IPPTNYPASRAALVAQNYINYQQGTPHRVFEVQKVKQASMEDIPGRGHKYHLKFAVEEIIQKQ.......VKVNCTAEVLYPSTGQETAPEVNFTFEGETGKNPDEEDNTFYQRLKSMKEPLEAQNIPDNFGNVSPEMTLVLHLAWVACGYIIWQNSTEDTWYKMVKIQTVKQVQRNDDFIELDYTILLHNIASQEIIP
+#=GR Q9BS40|PF06907|3-218  PP .5799***********************************************************.......*********************************************************************************************************************************
+#=GC PP_cons                  .5797899********************************************************.......*********************************************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49788|PF06907|54-273         CRIHLVWYPGKPLKVKYHCQELQ--t
+#=GR P49788|PF06907|54-273 PP ********************987..6
+Q9BS40|PF06907|3-218          WQMQVLWHPQYGTKVKHNSRLPK--e
+#=GR Q9BS40|PF06907|3-218  PP ******************99876..6
+#=GC PP_cons                  *******************9877...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P53804|PF24525|1486-1735         ................EERQGEISRIEKEHQVLQDQLQEVYENYEQIKLKGLEETRDLEEKLKRHLEENKISKTELDWFLQDLEREIKKWQQEKKEIQERLKSLKKKIKKVSNASEMYTQKNDG...KEKEHELHLDQSLEISNT..LTNEKMKIEEYIKKGKEDYEESHQRAVAAEVSVLENWKESEVYKLQIMESQAE
+#=GR P53804|PF24525|1486-1735 PP ................789*********************************************************************************************************...******************..*****************************************************
+Q86Y13|PF24525|787-955           kkdkiiaslnqqvafg-----------------------------------------------------------------------------------------------INKVSKLQRQIHA...KDNEIKNLKEQLSMKRSQ..WEMEKHNLESTMKTYVSKLNAETSRALTAEVYFLQCRRDFGLLHLEQTEKECL
+#=GR Q86Y13|PF24525|787-955   PP *999988777666666...............................................................................................56677899*****...******9999999999**..*****************************************************
+Q8ND24|PF24525|228-442           .......kmmtertll------------------------------------------KERYQEVLDKQRQVENQLQVQLKQL---QQRREEEMKNHQEILKAIQDVTIKREETKKKIEKEKKEflqKEQDLKAEIEKLCEKGRRevWEMELDRLKNQDGEINRNIMEETERAWKAEILSLESRKELLVLKLEEAEKEAE
+#=GR Q8ND24|PF24525|228-442   PP .......998766655..........................................5555555444443333333333333...2344456667777777776655555555555555544422267777777777777664411334444444444556788999********************************
+#=GC PP_cons                     ................789***************************************7777777777777777777766666***66777788888888888888887777777788888888...999999999999998888..888888888888889999***********************************
+#=GC RF                          ................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P53804|PF24525|1486-1735         AFLKKLGLISRDPAAYPDMESDIRSWELFLSNVTKEIEKAKSQFEEQIKAIKNGSRLSELSKVQISELSFP..
+#=GR P53804|PF24525|1486-1735 PP *******************************************************************9987..
+Q86Y13|PF24525|787-955           NQLARVTHMAASNLESLQLKAAVDSWNAIVADVRNKIAFLRTQYNEQINKVKQGFALSTLPPVQLPP----pp
+#=GR Q86Y13|PF24525|787-955   PP *********999999*************************************************976....57
+Q8ND24|PF24525|228-442           LHLTYLKST----PPTLETVRSKQEWETRLNGVRIMKKNVRDQFNSHIQLVRNGAKLSSLPQIPTPTLPPP..
+#=GR Q8ND24|PF24525|228-442   PP ******985....45556667789******************************************99987..
+#=GC PP_cons                     *******98****8888999999*****************************************9989987..
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

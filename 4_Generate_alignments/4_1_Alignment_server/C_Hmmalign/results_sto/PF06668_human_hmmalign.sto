@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+P19823|PF06668|735-921           ......ESGIVVNGQLVGAKK--PNNGKLSTYFGKLGFYF.QSEDIKIEISTETITLSHGSSTFSLSWSDTAQVTNQRVQISVKKEKVVTITLDKEMSFSVLLHRVWKKHPVNVDFLGIYIPPTNKFSPKAHGLIGQFMQEPKIHIFNERPG...........KDPEKPEASMEVKGQKLIITRGLQKDYRTDLVFGTDV
+#=GR P19823|PF06668|735-921   PP ......58*************..9999*************.***************************************************************************************************************...........*************************************
+P19827|PF06668|705-892           ......NTGFSVNGQLIGNKA-RSPGQHDGTYFGRLGIAN.PATDFQLEVTPQNITLNPGFGGPVFSWRDQAVLRQDGVVVTINKKRNLVVSVDDGGTFEVVLHRVWKGSSVHQDFLGFYVLDSHRMSARTHGLLGQFFHPIGFEVSDIHPG...........SDPTKPDATMVVRNRRLTVTRGLQKDYSKDPWHGAEV
+#=GR P19827|PF06668|705-892   PP ......58*************.899999************.***************************************************************************************************************...........*************************************
+Q06033|PF06668|685-871           ......-TGLTVNGQITGDKRGSPDSKTRKTYFGKLGIAN.AQMDFQVEVTTEKITLWNRAVPSTFSWLDTVTVTQDGLSMMINR-KNMVVSFGDGVTFVVVLHQVWKKHPVHRDFLGFYVVDSHRMSAQTHGLLGQFFQPFDFKVSDIRPG...........SDPTKPDATLVVKNHQLIVTRGSQKDYRKDASIGTKV
+#=GR Q06033|PF06668|685-871   PP .......79*******************************.****************************************9986.5799**************************************************************...........*************************************
+Q14624|PF06668|774-928           erekag--------------------------FSWIEVTF.KNPLVWVHASPEHVVVTRNRRSSAYKWKETLFSVMPGLKMTMDKTGLLLLSDPDKVTIGLLFW---D---GRGEGLRLLLRDTDRFSSHVGGTLGQFYQE----VLWGSPA...........-ASDDGRRTLRVQGNDHSATRERRLDYQEG-PPGVEI
+#=GR Q14624|PF06668|774-928   PP 877665..........................88999***.*************************************************9999**99999976...3...355678999*********************....4444443............5678899********************99.99****
+Q86UX2|PF06668|716-909           ......-SGVTVNGELIGAPAPPNGHKKQRTYLRTITILInKPERSYLEITPSRVIL-DGGDRLVLPCNQSVVVGSWGLEVSVSANANVTVTIQGSIAFVILIHLYKKPAPFQRHHLGFYIANSEGLSSNCHGLLGQFLNQ-DARLTEDPAGpsqnlthplllQVGEGPEAVLTVKGHQVPVVWKQRKIYNGE----EQI
+#=GR Q86UX2|PF06668|716-909   PP .......79******************************99****************.***********************************************************************************.***************************************************....***
+Q6UXX5|PF06668|1117-1297         .....a--GLHVSGKLLGAPPRPGHKDQTRTYFQIITVTTdKPRAYTITISRSSISL-RGEGTLRLSWDQPALLKRPQLELYVAAAARLTLRLGPYLEFLVLRHRYRHPSTLQLPHLGFYVANGSGLSPSARGLIGQFQHA-DIRLVTGPMG...........------PCLRRHHGPDVPVILGKRLLKDSPRLLPRWA
+#=GR Q6UXX5|PF06668|1117-1297 PP .....5..99******************************99***************.***********************************************************************************.*****99999.................56667899***********************
+#=GC PP_cons                     ......589**************9****************.*******************************************9*99***************9***9***99999*****************************9999999...........*9999*9999***************************
+#=GC RF                          ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P19823|PF06668|735-921           TCWFVHN
+#=GR P19823|PF06668|735-921   PP ******9
+P19827|PF06668|705-892           SCWFIHN
+#=GR P19827|PF06668|705-892   PP ******9
+Q06033|PF06668|685-871           VCWFVHN
+#=GR Q06033|PF06668|685-871   PP ******9
+Q14624|PF06668|774-928           SCWSV--
+#=GR Q14624|PF06668|774-928   PP ***76..
+Q86UX2|PF06668|716-909           DCWFARN
+#=GR Q86UX2|PF06668|716-909   PP *****98
+Q6UXX5|PF06668|1117-1297         SCWLVKR
+#=GR Q6UXX5|PF06668|1117-1297 PP *****85
+#=GC PP_cons                     ***9998
+#=GC RF                          xxxxxxx
+//

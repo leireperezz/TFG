@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q96DC9|PF10275|3-229          et----SFNLISEKCDILSILRDHPE.NRIYRRKIEELSKRFTAIRKTKGDGNCFYRALGYSYLESLLGKSREIFKFKERVLQTPNDLLAAGFEEHKFRNFFNAFYSVVELVEKDGSVS----SLLKVFNDQSASDHIVQFLRLLTSAFIRNRADFFRHFIDEEMDIKDFCTHEVEPMATECDHIQITALSQALSIALQV
+#=GR Q96DC9|PF10275|3-229  PP 75....679*****************.********************************************************************************************....8****************************************************************************
+Q96FW1|PF10275|42-271         av----QNPLVSERLELSVLYKEYAEdDNIYQQKIKDLHKKYSYIRKTRPDGNCFYRAFGFSHLEALLDDSKELQRFKAVSAKSKEDLVSQGFTEFTIEDFHNTFMDLIEQVEKQTSVA----DLLASFNDQSTSDYLVVYLRLLTSGYLQRESKFFEHFIEGGRTVKEFCQQEVEPMCKESDHIHIIALAQALSVSIQV
+#=GR Q96FW1|PF10275|42-271 PP 86....89*********************************************************************************************************999999....8****************************************************************************
+#=GC PP_cons                  ......789*****************.***************************************************************************************99999....8****************************************************************************
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96DC9|PF10275|3-229          EYVD--EMDTALNHHVFP-------EAATPSVYLLYKTSHYNILY-
+#=GR Q96DC9|PF10275|3-229  PP ****..68*********9.......889****************9.
+Q96FW1|PF10275|42-271         EYMDRG-EGGTTNPHIFP-------EGSEPKVYLLYRPGHYDILYK
+#=GR Q96FW1|PF10275|42-271 PP ******.**********9.......899*****************7
+#=GC PP_cons                  ******69*********9.......889****************97
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

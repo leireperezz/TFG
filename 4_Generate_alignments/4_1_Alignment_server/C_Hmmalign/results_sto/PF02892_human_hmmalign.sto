@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+O75132|PF02892|118-166         ...SPAWKHFFISP......RDSTKAICMYCVKEFSRGknekdLSTSCLMRHVRRAHP
+#=GR O75132|PF02892|118-166 PP ...79*********......*************************************8
+O75132|PF02892|288-336         ...SAVWKHFYLSP......LDNSKAVCIHCMNEFSRGkngkdLGTSCLIRHMWRAHR
+#=GR O75132|PF02892|288-336 PP ...78*********......*************************************6
+O75132|PF02892|459-506         ...SEVWHHFSLAP......MDSLKAECRYCGCAISRGkk.gdVGTSCLMRHLYRRHP
+#=GR O75132|PF02892|459-506 PP ...79*********......********************.****************8
+O75132|PF02892|561-609         ...SKLWNHFSICS......ADSTKVVCLHCGRTISRGkkptnLGTSCLLRHLQRFHS
+#=GR O75132|PF02892|561-609 PP ...89*********......*************************************6
+O96006|PF02892|23-72           ...SKVWKYFGFDTnaegciLQWKKIYCRICMAQIAYS.....GNTSNLSYHLEKNHP
+#=GR O96006|PF02892|23-72   PP ...8**********************************.....**************8
+P86452|PF02892|135-181         ...--VWHFFHVDP......QYTWRAICNLCEKSVSRGkpgshLGTSTLQRHLQARHS
+#=GR P86452|PF02892|135-181 PP .....8********......9999*********************************6
+P86452|PF02892|267-315         ...SAVWNFFYTDP......QHISRAVCNICKRSVSRGrpgshLGTSTLQRHLQATHP
+#=GR P86452|PF02892|267-315 PP ...78*********......*************************************8
+Q96IU2|PF02892|46-98           ...SEAWGYFHLAPgr.pghPSGHWATCRLCGEQVGRGpg.fhAGTSALWRHLRSAHR
+#=GR Q96IU2|PF02892|46-98   PP ...799*********9.99989999***************.****************6
+Q9BTP6|PF02892|55-107          ...SEAWEYFHLAPar.aghHPNQYATCRLCGRQVSRGpg.vnVGTTALWKHLKSMHR
+#=GR Q9BTP6|PF02892|55-107  PP ...79*********99.99999******************.****************6
+Q49AG3|PF02892|127-157         aph-----------......-----AQCVLCKKILSNS....sLAPSKLRRHLETKH-
+#=GR Q49AG3|PF02892|127-157 PP 996......................89***********....9999***********.
+#=GC PP_cons                   ...79*********......******************.....**************7
+#=GC RF                        ...xxxxxxxxxxx......xxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxx
+//

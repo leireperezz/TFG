@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O00754|PF01074|63-382          .-LNVHLLPHTHDDVGWLKTVDQYfygikndiqHAGVQYILDSVISALLADPTRRFIYVEIAFFSRWWHQ-QTNATQEVVRDLVRQGRLEFANGGWVMNDEAATHYGAIVDQMTLGLRFLEDTFGNDgrPRVAWHIDPFGHSREQASLFAQMGFDGFFFGRLDYQDKWVRMQKLEMEQVWRASTSLKpptadLFTGVLPN
+#=GR O00754|PF01074|63-382  PP ..69******************************************************************.*******************************************************999***********************************************************************
+P49641|PF01074|166-498         .-LQVFVVPHSHNDPGWIKTFDKY........yTEQTQHILNSMVSKLQEDPRRRFLWAEVSFFAKWWDN-INVQKRAAVRRLVGNGQLEIATGGWVMPDEANSHYFALIDQLIEGHQWLERNLGAT..PRSGWAVDPFGYSSTMPYLLRRANLTSMLIQRVHYAIKKHFAATHSLEFMWRQTWDSDss.tdIFCHMMPF
+#=GR P49641|PF01074|166-498 PP ..589******************9........9*************************************.********************************************************..********************************************************9999.**********
+Q16706|PF01074|166-498         .-LQVFVVPHSHNDPGWLKTFNDY........fRDKTQYIFNNMVLKLKEDSRRKFIWSEISYLSKWWDI-IDIQKKDAVKSLIENGQLEIVTGGWVMPDEATPHYFALIDQLIEGHQWLENNIGVK..PRSGWAIDPFGHSPTMAYLLNRAGLSHMLIQRVHYAVKKHFALHKTLEFFWRQNWDLGsv.tdILCHMMPF
+#=GR Q16706|PF01074|166-498 PP ..589*******************........99************************************.********************************************************..*********************************************************999.**********
+Q9NTJ4|PF01074|251-513         h--TIHATGHCHIDTAWLWPFKET.........VRKCARSWVTALQLMERNPEFIFACSQAQQLE--WVKSRYPGLYSRIQEFACRGQFVPVGGTWVEMDGNLPSGEAMVRQFLQGQNFFLQEFGKM..CSEFWLPDTFGYSAQLPQIMHGCGIRRFLTQKLSWNLVNSFPH---HTFFWEGLDGSR.....VLVHF---
+#=GR Q9NTJ4|PF01074|251-513 PP 5..89*******************.........********************************..************************************************************..*******************************************...************.....*****...
+Q9Y2E5|PF01074|27-353          i--RAFVVPHSHMDVGWVYTVQES........mRAYAANVYTSVVEELARGQQRRFIAVEQEFFRLWWDGVASDQQKYQVRQLLEEGRLEFVIGGQVMHDEAVTHLDDQILQLTEGHGFLYETFGIR..PQFSWHVDPFGASATTPTLFALAGFNAHLGSRIDYDLKAAMQEARGLQFVWRGSPSLSer.qeIFTHIMDQ
+#=GR Q9Y2E5|PF01074|27-353  PP 6..579*****************9........999********************************************************************************************..******************************************************999889.99********
+#=GC PP_cons                   ..589*******************.........**********************************************************************************************..********************************************************99.....********
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxx
+
+O00754|PF01074|63-382          .GYNPPRnlcwdvlcv...............dqplvedprSPEYNAKELVDYFLNVATAQGRYYRTNHTVMTMGSDf...qyENANMWFKNLDKLIRLVNAQQakgSSVHVLYSTPACYLWELNKANltw........svkHDDFFPYAD-
+#=GR O00754|PF01074|63-382  PP .***************...............**********************************************...*********************999999***********************........**********86.
+P49641|PF01074|166-498         ySYDVPHtcgpdpkiccqfdfkr.lpggrincpwkvppraITEANVAERAALLLDQYRKKSQLFRSNVLLVPLGDDfrydkpQEWDAQFFNYQRLFDFFNSRP..nLHVQAQFGTLSDYFDALYKRTgvepgarppgfpvlSGDFFSYAD-
+#=GR P49641|PF01074|166-498 PP ***********************.*******************************************************************************..*****************************9999999999999986.
+Q16706|PF01074|166-498         ySYDIPHtcgpdpkiccqfdfkr.lpggrfgcpwgvppetIHPGNVQSRARMLLDQYRKKSKLFRTKVLLAPLGDDfryceyTEWDLQFKNYQQLFDYMNSQS..kFKVKIQFGTLSDFFDALDKADetqrdkgqsmfpvlSGDFFTYAD-
+#=GR Q16706|PF01074|166-498 PP ***********************.*****************************************************************************99..9*******************9999****99999999999999986.
+Q9NTJ4|PF01074|251-513         .---PPG.................................-DSYGMQGSVEEVLKTVANNRDKGRANHSAFLFGFG......DGGGGPTQTMLDRLKRLSNTD...GLPRVQLSSPRQLFSALESDS..............-EQLCTWVGE
+#=GR Q9NTJ4|PF01074|251-513 PP ....899..................................***********************************......*********************...********************8...............9*****986
+Q9Y2E5|PF01074|27-353          ySYCTPShipfsnrsgfywngvavfpkppqdgvypnmsepVTPANINLYAEALVANVKQRAAWFRTPHVLWPWGCDk...qfFNASVQFANMDPLLDHINSHAa.eLGVSVQYATLGDYFRALHALNvtw.......rvrdHHDFLPYSTE
+#=GR Q9Y2E5|PF01074|27-353  PP *****************************************************************************...999******************999.9*******************999**.......***********875
+#=GC PP_cons                   .******.................................************************************......*******************99...********************9..............99****9866
+#=GC RF                        .xxxxxx.................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx..............xxxxxxxxxx
+//

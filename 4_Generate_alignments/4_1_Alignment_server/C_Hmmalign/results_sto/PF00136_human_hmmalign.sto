@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O60673|PF00136|2550-3000         qfl----HVLTRGSQYRVESMMLRIAKPMNYIPVT......................-PSVQQRSQm......rApQCVPLIMEPESRFYSNSVLVLDFQSLYPSIVIAYNYCFSTCLGHVENLG.KYDEFKfgctslrvppdllyqvRHDITVSPNGVAFVKPSVRKGVLPRMLEEILKTRFMVKQSMKaYKQDRALSR
+#=GR O60673|PF00136|2550-3000 PP 866....69**********************9774.......................333233331......13244559*****************************************999.888877999***********9999****************************************66778889**
+P09884|PF00136|775-1227          ..i--MSRTLMGGRSERNEFLLLHAFYENNYIVPDkqifrkpqqklgdedeeidgdtN-------KykkgrkkaA.YAGGLVLDPKVGFYDKFILLLDFNSLYPSIIQEFNICFTTVQRVASEAQ.KVTEDG...............eQEQIPELPD------PSLEMGILPREIRKLVERRKQVKQLMKqQDLNPDLIL
+#=GR P09884|PF00136|775-1227  PP ..7..799***************************88888766555555555555542.......0555555545.*************************************************.988875...............3566666665......9**************************7778999***
+P28340|PF00136|541-973           ...VPLSYLLSRGQQVKVVSQLLRQAMHEGLLMPV......................VKSE-GGED........-.YTGATVIEPLKGYYDVPIATLDFSSLYPSIMMAHNLCYTTLLRPGTAQKlGLTED-................--QFIRTPTGDEFVKTSVRKGLLPQILENLLSARKRAKAELA.KETDPLRRQ
+#=GR P28340|PF00136|541-973   PP ...6899***************************6......................6666.7777..........***********************************************99888875...................6999************************************.*********
+#=GC PP_cons                     ...688989***********************997......................455525553........4.8888*******************************************99.888766................777888888*********************************.788999***
+#=GC RF                          ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......................xxxxxxxxx........x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx
+
+O60673|PF00136|2550-3000         MLDARQLGLKLIANVTFGYTSANfSGRMPCIEVGDSIVHKARETLERAIKLVNDT---------------KKWGARVVYGDTDSMFVLLKGATKEQSFKIGQEIAEAVTA-TNPKPVKLKFEKVYLPCVLQTKKRYVGYMYET.LDQKD...PvFDAKGIETVRRDSCPAVSKILERSLKLLFET----RDISLIKQYVQ
+#=GR O60673|PF00136|2550-3000 PP **********************999****************************76...............34799***********************************.9*******************************.99999...669******************************....99999999998
+P09884|PF00136|775-1227          QYDIRQKALKLTANSMYGCLGFS.YSRFYAKPLAALVTYKGREILMHTKEMVQKM------------------NLEVIYGDTDSIMINTNSTNLEEVFKLGNKVKSEVNK-LYKL-LEIDIDGVFKSLLLLKKKKYAALVVEP.TSDGNyvtK.QELKGLDIVRRDWCDLAKDTGNFVIGQILSD----QSRDTIVENIQ
+#=GR P09884|PF00136|775-1227  PP ***********************.*****************************98..................9************************************.9999.**************************9.999999998.9******************************....***********
+P28340|PF00136|541-973           VLDGRQLALKVSANSVYGFTGAQ.VGKLPCLEISQSVTGFGRQMIEKTKQLVESK---YTVENGYST------SAKVVYGDTDSVMCRFGVSSVAEAMALGREAADWVSG-HFPSPIRLEFEKVYFPYLLISKKRYAGLLFSSrPDAHD...R.MDCKGLEAVRRDNCPLVANLVTASLRRLLID----RDPEGAVAHAQ
+#=GR P28340|PF00136|541-973   PP ***********************.*****************************98...777888888......*************************************.***************************98875167778...9.*******************************....***********
+#=GC PP_cons                     ***********************.*****************************88...777888888...3479************************************.****************************9998.88999...8.*******************************....9*999999999
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxx...x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O60673|PF00136|2550-3000         RQC----MKLLEGKASIQDFIFAKEYRGSFSYK.PGACVPALELTRKMLTYDrRSEPQVGERVPYVIIYGTPGVPLIQLVRRPvEVLQDPTLRLNATYYITkQILPPLARIFS--l
+#=GR O60673|PF00136|2550-3000 PP 888....9******************9976555.78999*********9988799****************************88888889********************95..8
+P09884|PF00136|775-1227          KRLIEIGENVLNGSVPVSQFEINKALTKDPQDYpDKKSLPHVHVALWINSQG.GRKVKAGDTVSYVICQDGSNLTASQRAYAPeQLQKQDNLTIDTQYYLAqQIHPVVARICEPI.
+#=GR P09884|PF00136|775-1227  PP ****************************************************.******************************88999999*********************997.
+P28340|PF00136|541-973           DVI----SDLLCNRIDISQLVITKELTRAASDY.AGKQ-AHVELAERMRKRDpGSAPSLGDRVPYVIISAAKGVAAYMKSEDP.LFVLEHSLPIDTQYYLEqQLAKPLLRIFEPI.
+#=GR P28340|PF00136|541-973   PP ***....**************************.****.********************************************.****************************997.
+#=GC PP_cons                     999*************************99888.9999************99.******************************.9999999**********.*********9897.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.
+//

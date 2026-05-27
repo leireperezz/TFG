@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O14524|PF10225|155-398         vi------RRFDPKLFLVFLLGLMLFFCGDLLSRSQIFYYSTGMTVGIVASLLIIIFILSKFMPKKSPIYVILVGGWSFSLYLIQLVFKNLQEIWRCYWQYLLSYVLTVGFMSFAVCYKYGPLENERSINLLTWTLQLMGLCFMYSGIQIPHIALAIIIIALCTKNLehPIQWLYITCRKVCKGAE---KPVPPRLLTEE
+#=GR O14524|PF10225|155-398 PP 87......469************************************************************************************************************************************************************9999*****9999966644...569********
+A6NFY4|PF10225|143-390         ..-IHVNRNIMDFKLFLVFVAGVFLFFYARTLSQSPTFYYSSGTVLGVLMTLVFVLLLVKRFIPKYSTFWALMVGCWFASVYIVCQLMEDLKWLWYENRIYVLGYVLIVGFFSFVVCYKHGPLADDRSRSLLMWMLRLLSLVLVYAGVAVPQFAYAAIILLMSSWSLhyPLRACSYMRWKM--EQWFTSKELVVKYLTED
+#=GR A6NFY4|PF10225|143-390 PP ...689****************************************************************************************************************************************************************999************..567**************
+#=GC PP_cons                   ...689**78*************************************************************************************************************************************************************..99*********966656***78*********
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O14524|PF10225|155-398         EYRIQGEVETRKALEELREFCNSPDCSAWKTVSRIQSPKRFADFVEGSSHLTP
+#=GR O14524|PF10225|155-398 PP ***************************************************97
+A6NFY4|PF10225|143-390         EYREQADAETNSALEELRRACRKPDFPSWLVVSRLHTPSKFADFVLGGSHLSP
+#=GR A6NFY4|PF10225|143-390 PP **************************************************986
+#=GC PP_cons                   ***************************************************97
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

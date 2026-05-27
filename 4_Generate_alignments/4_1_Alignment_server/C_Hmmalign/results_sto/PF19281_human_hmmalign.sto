@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q92561|PF19281|111-330         CTGDYAKEHLAQLQEKAEQIAGRMLRFSVFYRNHHKEYFQHARTHCGNMLQPYLKDNSGSHGSPTSGMLHGVFFSCNTEFNTGQPPQDSPYGRWRFQIPAQRLFNPSTNLYFADFYCMYTAYHYAILVLAPKGSLGDRFCRDRLPLLDIACNKFLTCSV-EDGELVFRHAQDLILEIIYTEPVDLSLGTLGEISGHQLMS
+#=GR Q92561|PF19281|111-330 PP 9*************************************************************************************************************************************************************9.9***************************************
+Q96FC7|PF19281|157-376         CTADYSKVHLTQLLEKAEVIAGRMLKFSVFYRNQHKEYFDYVREHHGNAMQPSVKDNSGSHGSPISGKLEGIFFSCSTEFNTGKPPQDSPYGRYRFEIAAEKLFNPNTNLYFGDFYCMYTAYHYVILVIAPVGSPGDEFCKQRLPQLNSKDNKFLTCTE-EDGVLVYHHAQDVILEVIYTDPVDLSVGTVAEITGHQLMS
+#=GR Q96FC7|PF19281|157-376 PP **************************************************************************************************************************************************************9.9***************************************
+#=GC PP_cons                   9*************************************************************************************************************************************************************9.9***************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q92561|PF19281|111-330         LSTADAKKDPSCKTCNISVGR
+#=GR Q92561|PF19281|111-330 PP ********************8
+Q96FC7|PF19281|157-376         LSTANAKKDPSCKTCNISVGR
+#=GR Q96FC7|PF19281|157-376 PP ********************8
+#=GC PP_cons                   ********************8
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxx
+//

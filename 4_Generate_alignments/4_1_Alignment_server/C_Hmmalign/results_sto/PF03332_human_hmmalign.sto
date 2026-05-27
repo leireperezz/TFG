@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O15305|PF03332|28-245         .MDDFLQKLRQKIKIGVVGGSDFEKVQEQL-.GNDVVEKYDYVFPENGLVAYKDGKLLCRQNIQSHLGEALIQDLINYCLSYIAKIKLPKKRGTFIEFRNGMLNVSPIGRSCSQEERIEFYELDKKENIRQKFVADLRKEFAGKGLTFSIGGQISFDVFPDGWDKRYCLRHVENDGYKTIYFFGDKTMPGGNDHEIFTDP
+#=GR O15305|PF03332|28-245 PP .789**************************..8***********************************************************************************************************************************************************************
+Q92871|PF03332|36-255         a--AFLQKLRSRVQIGVVGGSDYCKIAEQLGdGDEVIEKFDYVFAENGTVQYKHGRLLSKQTIQNHLGEELLQDLINFCLSYMALLRLPKKRGTFIEFRNGMLNISPIGRSCTLEERIEFSELDKKEKIREKFVEALKTEFAGKGLRFSRGGMISFDVFPEGWDKRYCLDSLDQDSFDTIHFFGNETSPGGNDFEIFADP
+#=GR Q92871|PF03332|36-255 PP 7..69*************************99************************************************************************************************************************************************************************
+#=GC PP_cons                  .7889*************************9.9***********************************************************************************************************************************************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O15305|PF03332|28-245         RTMGYSVTAPEDTRRICELL---f
+#=GR O15305|PF03332|28-245 PP ****************9765...5
+Q92871|PF03332|36-255         RTVGHSVVSPQDTVQRCREIF--f
+#=GR Q92871|PF03332|36-255 PP ********************9..5
+#=GC PP_cons                  *****************8879...
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+Q8TD22|PF03820|27-340         l--GKPRFQQTSFYGRFRHFLDIIDPRTLFVTERRLREAVQLLEDYKHGTLRPGVTNEQLWSAQKIKQAILHPDTNEKIFMPFRMSGYIPFGTPIVVGLLLPNQTLASTVFWQWLNQSHNACVNYANRNATKPSPASKFIQGYLGAVISAVSIAVGLNVLVQKANkFTPATRLLIQRFVPFPAVASANICNVVLMRYGEL
+#=GR Q8TD22|PF03820|27-340 PP 5..69**************************************************************************************************************************************************************988**********************************
+Q96NB2|PF03820|9-322          .NIDAPRWDQRTFLGRVKHFLNITDPRTVFVSERELDWAKVMVEKSRMGVVPPGTQVEQLLYAKKLYDSAFHPDTGEKMNVIGRMSFQLPGGMIITGFMLQFYRTMPAVIFWQWVNQSFNALVNYTNRNAASPTSVRQMALSYFTATTTAVATAVGMNMLTKK--.APP----LVGRWVPFAAVAAANCVNIPMMRQQEL
+#=GR Q96NB2|PF03820|9-322  PP .689***************************************************************************************************************************************************************...999....***************************
+Q9BWM7|PF03820|9-321          .NIQEPRWDQSTFLGRARHFFTVTDPRNLLLSGAQLEASRNIVQNYRAGVVTPGITEDQLWRAKYVYDSAFHPDTGEKVVLIGRMSAQVPMNMTITGCMLTFYRKTPTVVFWQWVNQSFNAIVNYSNRSGDTPITVRQLGTAYVSATTGAVATALGLKSLTKH--.LPP----LVGRFVPFAAVAAANCINIPLMRQREL
+#=GR Q9BWM7|PF03820|9-321  PP .689***************************************************************************************************************************************************************...99*....***************************
+Q9H9B4|PF03820|10-322         .NIKEPRWDQSTFIGRANHFFTVTDPRNILLTNEQLESARKIVHDYRQGIVPPGLTENELWRAKYIYDSAFHPDTGEKMILIGRMSAQVPMNMTITGCMMTFYRTTPAVLFWQWINQSFNAVVNYTNRSGDAPLTVNELGTAYVSATTGAVATALGLNALTKH--.VSP----LIGRFVPFAAVAAANCINIPLMRQREL
+#=GR Q9H9B4|PF03820|10-322 PP .689***************************************************************************************************************************************************************...***....***************************
+Q6P4A7|PF03820|35-336         e--------RQSFIRRFLQWTELLDPTNVFISVESIENSRQLLCTNEDVS-SPASADQRIQEAWKRSLATVHPDSSNLIPKLFRPAAFLPFMAPTVFLSMTPLKGIKSVILPQVFLCAYMAAFNSINGNRS--YTCKPLERSLLMAGAVASSTFLGVIPQFVQMK.YGL-TGPWIKRLLPVIFLVQASGMNVYMSRSLES
+#=GR Q6P4A7|PF03820|35-336 PP 7........579*******************************9977766.6666666899999*****************************************************************88..679*******************9877666657.544.678***************************
+#=GC PP_cons                  .6889****99**********************************99999*9999999***************************************************************************99**********************99999978.889*889***************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8TD22|PF03820|27-340         EEGIDVLDSDGNLVGSSKIAARHALLETALTRVVLPMPILVLPPIVMSMLEKTALLQARPRLLLPVQSLVCLAAFGLALPLAISLFPQMSEIETSQLEPEIAQA-----TS.SRTVVYNKGL
+#=GR Q8TD22|PF03820|27-340 PP ******************************************************************************************************99.....77.899******8
+Q96NB2|PF03820|9-322          IKGICVKDRNENEIGHSRRAAAIGITQVVISRITMSAPGMILLPVIMERLEKLHFMQKVKVLHAPLQVMLSGCFLIFMVPVACGLFPQKCELPVSYLEPKLQDTIKAKYGElEPYVYFNKGL
+#=GR Q96NB2|PF03820|9-322  PP ********************************************************************************************************9999999899*******8
+Q9BWM7|PF03820|9-321          QVGIPVADEAGQRLGYSVTAAKQGIFQVVISRICMAIPAMAIPPLIMDTLEKKDFLKRRPWLGAPLQVGLVGFCLVFATPLCCALFPQKSSIHISNLEPELRAQIHEQNPS.VEVVYYNKGL
+#=GR Q9BWM7|PF03820|9-321  PP ***************************************************************************************************************.*********8
+Q9H9B4|PF03820|10-322         KVGIPVTDENGNRLGESANAAKQAITQVVVSRILMAAPGMAIPPFIMNTLEKKAFLKRFPWMSAPIQVGLVGFCLVFATPLCCALFPQKSSMSVTSLEAELQAKIQESHPE.LRRVYFNKGL
+#=GR Q9H9B4|PF03820|10-322 PP ***************************************************************************************************************.*********8
+Q6P4A7|PF03820|35-336         IKGIAVMDKEGNVLGHSRIAGTKAVRETLASRIVLFGTSALIPEVFTYFFKRTQYFRKNPGSLWILKLSCTVLAMGLMVPFSFSIFPQIGQIQYCSLEEKIQSP-----TE.ETEIFYHRG-
+#=GR Q6P4A7|PF03820|35-336 PP ******************************************************************************************************99.....77.788999998.
+#=GC PP_cons                  *******************************************************************************************************9*****88.999*****98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx
+//

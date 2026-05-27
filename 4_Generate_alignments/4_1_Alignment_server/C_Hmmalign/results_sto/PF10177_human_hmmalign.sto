@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q86VY9|PF10177|16-161         .........RQDSARSQQHVnlspspATQEKKPIRRRPRADVVVVRGKIRLYSPSGFFLILGVLISIIGIAMAVLGYWPQKEHFI-..............................................-DAETTLSTNETQVI-RNEGGVVVRFFEQHLHSDKMKMLGPFTMGIGIFIFICANAILHENRDKETKI
+#=GR Q86VY9|PF10177|16-161 PP .........8**************9999********************************************************9................................................88999999*99999.999*************************************************
+A6NKL6|PF10177|14-201         .........KQDPLRPPSQI......-PKRKRKAKKRRKNDVVVVKGKLKLCSISGLIALCGILVLLVGIAMAVVGYWPKATGTNReggkqlppagsshrvpttanssssgsknrsrshprapggvnsssagAPRSTPPARAASPSSSSTSVGFFFRIFSGYLHSDKLKVFGPLIMGIGIFLFICANAVLHENRDKKTKI
+#=GR A6NKL6|PF10177|14-201 PP .........7*********9.......9*****************************************************999889**************************************998887633333444444555668899************************************************
+Q69YZ2|PF10177|29-145         rrrrprspp-----------......--------------EPLRVRARLRLRSPSGAFAALGALVVLVGMGIAVAGYWPHRAGAP-..............................................GSRAANASSPQMSELRREGRGGG----RAHGPHERLRLLGPVIMGVGLFVFICANTLLYENRDLETR-
+#=GR Q69YZ2|PF10177|29-145 PP 755444444...............................56779************************************8777...............................................55555566666666655554443....467788******************************9995.
+#=GC PP_cons                  .........8**********......99************8999*************************************99888..............................................45666666667777757788887****899999*********************************8*
+#=GC RF                       .........xxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..............................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q86VY9|PF10177|16-161         IHMR
+#=GR Q86VY9|PF10177|16-161 PP ***9
+A6NKL6|PF10177|14-201         INLR
+#=GR A6NKL6|PF10177|14-201 PP ***8
+Q69YZ2|PF10177|29-145         ----
+#=GR Q69YZ2|PF10177|29-145 PP ....
+#=GC PP_cons                  ***9
+#=GC RF                       xxxx
+//

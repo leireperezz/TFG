@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+O00400|PF13000|75-285          .i--LLLLFLYVLQGIPLGLA-GSIPLILQS--KNVSYTDQAFFSFVFWPFSLKLLWAPLVDAVYVKNFGRRKSWLVPTQYILGLFMIYLS---------TQVDRLLGN-T--DDRTPDVIALTVAFFLFEFLAATQDIAVDGWALTMLSRENVGYASTCNSVGQTAGYFLGNVLFLALESADFCNKYLRFQPQPRGIVT
+#=GR O00400|PF13000|75-285  PP .5..699**************.*********..*******************************************************777.........788998853.3..3467899********************************************************************************
+O00400|PF13000|286-545         vv------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR O00400|PF13000|286-545 PP 97......................................................................................................................................................................................................
+#=GC PP_cons                   ....699**************.*********..*******************************************************777.........788998853.3..3467899********************************************************************************
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00400|PF13000|75-285          LSDFLFFWGTVFLITTTLVALLKKENE-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR O00400|PF13000|75-285  PP *************************86.............................................................................................................................................................................
+O00400|PF13000|286-545         ------------------------------------------------------------KEETQGITDTYKLLFAIIKMPAVLTFCLLILTAKIGFSAADAVTGLKLVEEGVPKEHLALLAVPMVPLQIILPLIISKYTAGPQPLN---------TFYKAMPYRLLLGLEYALLVWWTPKVEH---Q-------GGFP-
+#=GR O00400|PF13000|286-545 PP ............................................................578999**************************************************************************9998744.........44567788999**999999999776654...3.......3488.
+#=GC PP_cons                   *************************86.................................578999**************************************************************************9998744.........44567788999**999999999776654...3.......3488.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00400|PF13000|75-285          ----------------------------------------------------------------------------------------------------------------------------------------------------vs
+#=GR O00400|PF13000|75-285  PP ....................................................................................................................................................58
+O00400|PF13000|286-545         -----IYYYIVVLLSYALHQVTVYSMYVSIMAFNAKVSDPLIGGTYMTLLNTVSNLGGNWPSTVALWLVDPLTVKECVGASNQNC---RTPDAVELCKK-LGGSCVTALDGYYVESIICVFIGFGW-WFFLGPKFKKLQDEGSSSWKC..
+#=GR O00400|PF13000|286-545 PP .....689999999999999999999****************************************************9765333...34678899988.***********************865.66999**************98..
+#=GC PP_cons                   .....689999999999999999999****************************************************9765333...34678899988.***********************865.66999**************98..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

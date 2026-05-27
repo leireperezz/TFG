@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+O00330|PF00198|274-500         t---FTEIPASNIRRVIAKRLTESKSTVPHAYATADCDLGAVLKVRQDLVKDDI----.KVSVNDFIIKAAAVTLKQMPDVNVSWDGEG--PKQLPFIDISVAVATDKGLLTPIIKDAAAKGIQEIADSVKALSKKARDGKLLPEEYQGGSFSISNLGMFGIDEFTAVINPPQACILAVGRFRPVLKL.TEDEegnakLQ
+#=GR O00330|PF00198|274-500 PP 7...5799***************************************9998765.....******************************..88999**************************************************************************************888777.444459999**
+P10515|PF00198|420-647         f----TDIPISNIRRVIAQRLMQSKQTIPHYYLSIDVNMGEVLLVRKELNKILEGR-S.KISVNDFIIKASALACLKVPEANSSWMDTV--IRQNHVVDVSVAVSTPAGLITPIVFNAHIKGVETIANDVVSLATKAREGKLQPHEFQGGTFTISNLGMFGIKNFSAIINPPQACILAIGASEDKLVP.ADNEk...gFD
+#=GR P10515|PF00198|420-647 PP 7....789*******************************************99854.4.**************************9999..*******************************************************************************************999888.55555...6**
+P11182|PF00198|250-479         k---DKTEPIKGFQKAMVKTMSAAL-KIPHFGYCDEIDLTELVKLREELKPIAFARGI.KLSFMPFFLKAASLGLLQFPILNASVDENCQNITYKASHNIGIAMDTEQGLIVPNVKNVQICSIFDIATELNRLQKLGSVSQLSTTDLTGGTFTLSNIGSIGGTFAKPVIMPPEVAIGALGSIKAIPRFnQKGE.....VY
+#=GR P11182|PF00198|250-479 PP 6...6899*****************.*************************9998888.*********************************************************************************************************************************9****.....**
+P36957|PF00198|221-451         s---EHREKMNRMRQRIAQRLKEAQNTCAMLTTFNEIDMSNIQEMRARHKEAFLKKHNlKLGFMSAFVKASAFALQEQPVVNAVIDDTTKEVVYRDYIDISVAVATPRGLVVPVIRNVEAMNFADIERTITELGEKARKNELAIEDMDGGTFTISNGGVFGSLFGTPIINPPQSAILGMHGIFDRPVA.IGGK.....VE
+#=GR P36957|PF00198|221-451 PP 7...6899**********************************************9999**********************************************************************************************************************************.****.....**
+#=GC PP_cons                   ....6799*******************************************9987787.***************************************************************************************************************************999999.7777.....**
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx.....xx
+
+O00330|PF00198|274-500         QRQLITVTMSSDSRVVDDELATRFLKSFKANLENPIR---l
+#=GR O00330|PF00198|274-500 PP ***********************************86...5
+P10515|PF00198|420-647         VASMMSVTLSCDHRVVDGAVGAQWLAEFRKYLEKPITMLL.
+#=GR P10515|PF00198|420-647 PP *************************************986.
+P11182|PF00198|250-479         KAQIMNVSWSADHRVIDGATMSRFSNLWKSYLENPAFMLL.
+#=GR P11182|PF00198|250-479 PP ************************************9986.
+P36957|PF00198|221-451         VRPMMYVALTYDHRLIDGREAVTFLRKIKAAVEDPRVLLL.
+#=GR P36957|PF00198|221-451 PP ***********************************99885.
+#=GC PP_cons                   ***********************************98986.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

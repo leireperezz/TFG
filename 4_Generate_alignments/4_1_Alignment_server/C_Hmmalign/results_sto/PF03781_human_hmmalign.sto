@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q8NBJ7|PF03781|27-291         a--TSMVQLQGGRFLMGT.NSPDSRDGDGPVREATVKPFAIDIFPVTNKDFRDFVREKKYRTEaemfgwsfvfedfvsdelrnkatqpmKSVLWWLPVEKAFWRQPAGPGSGIRERLEHPVLHVSWNDARAYCAWRGKRLPTEEEWEFAARGGLKGQVYPWGNWFQPNR...tNLWQG---KFPKGDKAEDGFHG-VSPV
+#=GR Q8NBJ7|PF03781|27-291 PP 6..78*************.*****************************************************************99998888***************************************************************************99...99****...79999999999***.****
+Q8NBK3|PF03781|90-366         .---KMVPIPAGVFTMGTdDPQIKQDGEAPARRVTIDAFYMDAYEVSNTEFEKFVNSTGYLTEaekfgdsfvfegmlseqvktniqqavAAAPWWLPVKGANWRHPEGPDSTILHRPDHPVLHVSWNDAVAYCTWAGKRLPTEAEWEYSCRGGLHNRLFPWGNKLQPKGqhyaNIWQG---EFPVTNTGEDGFQG-TAPV
+#=GR Q8NBK3|PF03781|90-366 PP ....59************99999*****************************************************************9999***************************************************************************999999999**...89************.****
+#=GC PP_cons                  ...779************.9*******************************************..........................999***************************************************************************99....99***...79999999999***.****
+#=GC RF                       .xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q8NBJ7|PF03781|27-291         NAFPAqNNYGLYDLLGNVWEWTASPYQ--------------AAEQDMRVLRGASWIDTAdgsANHRARVTTRMGN-TPDSASDNLGFRCA-
+#=GR Q8NBJ7|PF03781|27-291 PP **************************9..............8999***********9989999*********988.7************7.
+Q8NBK3|PF03781|90-366         DAFPP.NGYGLYNIVGNAWEWTSDWWT-VHHSVEETLNPKGPPSGKDRVKKGGSYMCHR..sYCYRYRCAAR-SQNTPDSSASNLGFRCA-
+#=GR Q8NBK3|PF03781|90-366 PP *****.********************9.5555556667788999***************..***********.999*************7.
+#=GC PP_cons                  *****.********************9.55555566677889999************99...**********99998************7.
+#=GC RF                       xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

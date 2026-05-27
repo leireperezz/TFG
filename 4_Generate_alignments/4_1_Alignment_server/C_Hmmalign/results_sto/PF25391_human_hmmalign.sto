@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O14775|PF25391|54-394         la-----SLKSEAESLKGKLEEERAKLHDVELHQVAERVEALGQFVMKTRRTLKGHGNKVLCMDWCKDKRRIVSSSQDGKVIVWDSFTTNKEHAVTMPCTWVMACAYAPSGCAIACGGLDNKCSVYPLTFdKNENMAaKKKSVAMHTNYLSACSFTNsDMQILTASGDGTCALWDVESGQLLQSFHGHGADVLCLDLAPS
+#=GR O14775|PF25391|54-394 PP 65.....7999*******************************************************************************************************************9974144455404567999**********86489**************************************96
+P16520|PF25391|1-340          ..MGEMEQLRQEAEQLKKQIADARKACADVTLAELVSGLEVVGRVQMRTRRTLRGHLAKIYAMHWATDSKLLVSASQDGKLIVWDSYTTNKVHAIPLRSSWVMTCAYAPSGNFVACGGLDNMCSIYNLKS.REGNVK.VSRELSAHTGYLSCCRFLD.DNNIVTSSGDTTCALWDIETGQQKTVFVGHTGDCMSLAVSPD
+#=GR P16520|PF25391|1-340  PP ..89******************************************************************************************************************************.******.*******************.******************************************
+P62873|PF25391|1-340          ..MSELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNICSIYNLKT.REGNVR.VSRELAGHTGYLSCCRFLD.DNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPD
+#=GR P62873|PF25391|1-340  PP ..9*******************************************************************************************************************************.******.*******************.******************************************
+P62879|PF25391|1-340          ..MSELEQLRQEAEQLRNQIRDARKACGDSTLTQITAGLDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNFVACGGLDNICSIYSLKT.REGNVR.VSRELPGHTGYLSCCRFLD.DNQIITSSGDTTCALWDIETGQQTVGFAGHSGDVMSLSLAPD
+#=GR P62879|PF25391|1-340  PP ..9*******************************************************************************************************************************.******.*******************.******************************************
+Q9HAV0|PF25391|1-340          ..MSELEQLRQEAEQLRNQIQDARKACNDATLVQITSNMDSVGRIQMRTRRTLRGHLAKIYAMHWGYDSRLLVSASQDGKLIIWDSYTTNKMHAIPLRSSWVMTCAYAPSGNYVACGGLDNICSIYNLKT.REGNVR.VSRELPGHTGYLSCCRFLD.DSQIVTSSGDTTCALWDIETAQQTTTFTGHSGDVMSLSLSPD
+#=GR Q9HAV0|PF25391|1-340  PP ..9*******************************************************************************************************************************.******.*******************.******************************************
+#=GC PP_cons                  ..99***9************************************************************************************************************************99.999999.9999**************9.*****************************************9
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O14775|PF25391|54-394         etGNTFVSGGCDKKAMVWDMRSGQCVQAFETHESDINSVRYYPSGDAFASGSDDATCRLYDLRADREVAIYSKESIIFGASSVDFSLSGRLLFAGYNDYTINVWDVLKGSRVSILFGHENRVSTLRVSPDGTAFCSGSWDHTLRVW-
+#=GR O14775|PF25391|54-394 PP 3369*********************************************************************************************************************************************9.
+P16520|PF25391|1-340          ..FNLFISGACDASAKLWDVREGTCRQTFTGHESDINAICFFPNGEAICTGSDDASCRLFDLRADQELICFSHESIICGITSVAFSLSGRLLFAGYDDFNCNVWDSMKSERVGILSGHDNRVSCLGVTADGMAVATGSWDSFLKIWN
+#=GR P16520|PF25391|1-340  PP ..************************************************************************************************************************************************9
+P62873|PF25391|1-340          ..TRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN
+#=GR P62873|PF25391|1-340  PP ..************************************************************************************************************************************************9
+P62879|PF25391|1-340          ..GRTFVSGACDASIKLWDVRDSMCRQTFIGHESDINAVAFFPNGYAFTTGSDDATCRLFDLRADQELLMYSHDNIICGITSVAFSRSGRLLLAGYDDFNCNIWDAMKGDRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN
+#=GR P62879|PF25391|1-340  PP ..************************************************************************************************************************************************9
+Q9HAV0|PF25391|1-340          ..MRTFVSGACDASSKLWDIRDGMCRQSFTGHVSDINAVSFFPNGYAFATGSDDATCRLFDLRADQELLLYSHDNIICGITSVAFSKSGRLLLAGYDDFNCNVWDTLKGDRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLRIWN
+#=GR Q9HAV0|PF25391|1-340  PP ..************************************************************************************************************************************************9
+#=GC PP_cons                  ..9***********************************************************************************************************************************************9
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

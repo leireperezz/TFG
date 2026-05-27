@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P08236|PF02837|39-224          .-KELDGLWSFRADfsdNRRRGFEEQWYRRPLWESGpTvdMPVPSSFNDI---------------SQDWRLRHFVGWVWYEREVILPERWTQDL..RTRvvLRIGSAHSYAIVWVNGVDTLEHEGGYLPFEADISNLVQVGPlpSrlRITIAInntL--TpttlppgTIQYLTDTskypkgyfvqntyfDFFNYAGLQRS
+#=GR P08236|PF02837|39-224  PP ..679999999653111445689999999999998523114699999987...............56788999*******************98..765227889999999******************************6334235666665552..1446663344699999*************************
+Q6P575|PF02837|102-159         l-------------...-------------------.-..--------------------------------------WYEREVTLLERWIQDLctRVV..LRIGSAHFYAIVWVNGVDTVEHEGGYLPFEADISS------..-..------...----.......--------..............-----------
+#=GR Q6P575|PF02837|102-159 PP 7.............................................................................9*************9622667..88888888999**********************85................................................................
+#=GC PP_cons                   ..679999999653...4456899999999999985.3..4699999987...............56788999*****9*************97..766..78889999999**********************98*****6..4..566666...2..1.......44699999..............***********
+#=GC RF                        .xxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x..xxxxxx...xxxx.......xxxxxxxx..............xxxxxxxxxxx
+
+P08236|PF02837|39-224          VLLYTTP.
+#=GR P08236|PF02837|39-224  PP *****99.
+Q6P575|PF02837|102-159         -------l
+#=GR Q6P575|PF02837|102-159 PP .......8
+#=GC PP_cons                   *****99.
+#=GC RF                        xxxxxxx.
+//

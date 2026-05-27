@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P49770|PF01008|29-333          .--RSSEEMARETLGLLRQIITDHR.WSNAGEL....MELIRREGRRMTAAQPSETTVGNMVRRVLKiireEyGRLHGRSDESDQQESlhklltsgglnedfsfhyaqlqsnIIEAINELLVE.LEGTMENIAAQALEHI.......HSNEVIMTIGFSRT........VEAFLKEAAR-KRKFHVIVAECAPFCQG.HE
+#=GR P49770|PF01008|29-333  PP ...6899******************.*******....******************************99986799************************************************.****************.......**************........*******998.78***************.**
+Q14232|PF01008|16-293          e--DPDMASAVAAIRTLLEFLKRDK.GETIQGL....RANLTSAIETLCGVD-SSVAVSSGGELFLR...fIsLASLEYSDYSKCKKI........................MIERGELFLRR.ISLSRNKIADLCHTFI.......KDGATILTHAYSRV........VLRVLEAAVAAKKRFSVYVTESQPDLSG.KK
+#=GR Q14232|PF01008|16-293  PP 6..6899******************.*******....***************.**************...9559**************........................***********.****************.......**************........****************************.**
+Q9BV20|PF01008|44-346          .KVRGAPAIALVGCLSLAVELQAGAgGPGLAAL....VAFVRDKLSFLVTARPTAVNMARAARDLADv..aArEAEREGATEEAVRER........................VICCTEDMLEK.DLRDNRSIGDLGARHLlervapsGGKVTVLTHCNTGAlatagygtALGVIRSLHSLGRLEHAFCTETRPYNQGaRL
+#=GR Q9BV20|PF01008|44-346  PP .69*******************9884677899*....**************************99998..7447788899999999**........................***********.****************99999977889*************************************************
+Q9UI10|PF01008|219-509         .-VSGSNARCIALLRALQQVIQDYT.TPPNEELsrdlVNKLKPYMSFLTQCRPLSASMHNAIKFLNK....EiTSVGSSKREEEAKSE........................LRAAIDRYVQEkIVLAAQAISRFAYQKI.......SNGDVILVYGCSSL........VSRILQEAWTEGRRFRVVVVDSRPWLEG.RH
+#=GR Q9UI10|PF01008|219-509 PP ..68*********************.*******9999******************************....99***************........................***********9****************.......**************........****************************.**
+#=GC PP_cons                   .67799******************9.9999***....******************************....6.99999**********........................***********.****************.......99************........***********99***************.**
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x.xxxxxxxxxxxxxxx........................xxxxxxxxxxx.xxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+P49770|PF01008|29-333          MAVNLSKAGIETTVMTDAAIFAVMSR..VNKVIIGTKTILANGALRAVTGTHTLALAAKHHSTPLIVCAPMFKLSPQFPNEEDSFHKFVAPEEVLPFTEGDILE-......KVSVHCPVFDYVPPELITL.FISNIGGNAP
+#=GR P49770|PF01008|29-333  PP **************************..**************************************************************************88.......*******************.******9876
+Q14232|PF01008|16-293          MAKALCHLNVPVTVVLDAAVGYIMEK..ADLVIVGAEGVVENGGIINKIGTNQMAVCAKAQNKPFYVVAESFKFVRLFPLNQQDV-----PDKFKYKADTLKVAQt...gqDLKEEHPWVDYTAPSLITL.LFTDLGVLTP
+#=GR Q14232|PF01008|16-293  PP **************************..*********************************************************.....**********999988...88*******************.********98
+Q9BV20|PF01008|44-346          TAFELVYEQIPATLITDSMVAAAMAHrgVSAVVVGADRVVANGDTANKVGTYQLAIVAKHHGIPFYVAAPSSSCDLRLETGKEIIIEERPGQELTDVNGVRIAAP......GIGVWNPAFDVTPHDLITGgIITELGVFAP
+#=GR Q9BV20|PF01008|44-346  PP *************************99******************************************************************************......******************55*******987
+Q9UI10|PF01008|219-509         TLRSLVHAGVPASYLLIPAASYVLPE..VSKVLLGAHALLANGSVMSRVGTAQLALVARAHNVPVLVCCETYKFCERVQTDAFVSNELDDPDDLQCKRGEHVALAnwqnhaSLRLLNLVYDVTPPELVDL.VITELGMIPC
+#=GR Q9UI10|PF01008|219-509 PP **************************..************************************************************************99888999999*******************.*******986
+#=GC PP_cons                   **************************..**************************************************************************999......******************9.*******987
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxx.xxxxxxxxxx
+//

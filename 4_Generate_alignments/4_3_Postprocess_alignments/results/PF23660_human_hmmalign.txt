@@ -1,0 +1,3 @@
+NOMO3_HUMAN/746-798            qgpf--------------------------------------------------SYDFSYWARSGEKITVTPSSKE------LLFYPPSMEAVVSGESCPGKLIEIHGK
+NOMO1_HUMAN/746-798            qgpf--------------------------------------------------SYDFSYWARSGEKITVTPSSKE------LLFYPPSMEAVVSGESCPGKLIEIHGK
+NOMO2_HUMAN/746-798            qgpf--------------------------------------------------SYDFSYWARSGEKITVTPSSKE------LLFYPPSMEAVVSGESCPGKLIEIHGK

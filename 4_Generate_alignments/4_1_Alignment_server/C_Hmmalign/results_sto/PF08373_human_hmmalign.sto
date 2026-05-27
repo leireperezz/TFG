@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+Q14296|PF08373|483-536         ..e-----RWHFCRDGRVLLGSRALRERHLGLMGYQLLPLPFEELESQ..RGLPQLKSYLRQK
+#=GR Q14296|PF08373|483-536 PP ..6.....79**************************************..***********96
+Q14CZ7|PF08373|594-650         ...-CIDGPKRFCSNSKHLLGKEAIKQRHLQLLGYQVVQIPYHEIGML..KSRRELVEYLQRK
+#=GR Q14CZ7|PF08373|594-650 PP ....69******************************************..**********986
+Q53R41|PF08373|780-837         efl----DSKALCRNIPHMKGKSAMKKRHLEILGYRVIQISQFEWNSMalSTKDARMDYLRE-
+#=GR Q53R41|PF08373|780-837 PP 655....555559999********************************************97.
+Q7L8L6|PF08373|700-758         ..q--FTNRNQYCYGSRDLLGLHNMKRRQLARLGYRVVELSYWEWLPLlkRTRLEKLAFLHEK
+#=GR Q7L8L6|PF08373|700-758 PP ..7..56789**************************************************986
+Q969Z0|PF08373|566-620         ..w----EFPNFNSRSKDLLGRFVLARRHIVAAGFLIVDVPFYEWLEL..KSEWQKGAYLKDK
+#=GR Q969Z0|PF08373|566-620 PP ..6....5789*************************************..***********86
+Q9NYY8|PF08373|637-692         ..l--CVSRSAYCLGSSHPRGFLAMKMRHLNAMGFHVILVNNWEMDKL..-EMEDAVTFLKTK
+#=GR Q9NYY8|PF08373|637-692 PP ..7..7889***************************************...*********976
+#=GC PP_cons                   ....67878899************************************..**********986
+#=GC RF                        ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxx
+//

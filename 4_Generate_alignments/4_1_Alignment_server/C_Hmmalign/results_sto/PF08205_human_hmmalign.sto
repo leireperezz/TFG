@@ -1,0 +1,67 @@
+# STOCKHOLM 1.0
+
+O60500|PF08205|141-227         .......tpe------AgTMVTWV....aGQEYVVNCV...SG.DAKPA..PDITILLSGQTI........SDISANVNEGS...QQKLFTVEATARVTPRS.SDNRQLLVCEASSPALEA--p..
+#=GR O60500|PF08205|141-227 PP .......654......44677777....8*********...**.*****..************........***********...*****************.**************9986..6..
+O60500|PF08205|258-322         ........gq-------.------.....--SLELPCV...AR.GGNPL..ATLQWLKNGQPV........-----STAWGT...EHTQAVARSVLVMTVRP.EDHGAQLSCEAHN-------s..
+#=GR O60500|PF08205|258-322 PP ........76.....................56778**...**.*****..***********8.............999999...99999999*********.**********997.......7..
+O60500|PF08205|347-426         .......gsa-------.SQTE--.....NKNVTLSCV...SK.SSRPR..VLLRWWLGWRQL........-LPMEETVMDG...LHGGHISMSNLTFLARR.EDNGLTLTCEAFSEAFT---k..
+#=GR O60500|PF08205|347-426 PP .......854........4445.......55*******...**.*****..***********9.........9*********...*****************.***********999875...7..
+O60500|PF08205|446-531         iegppegqkl-------.-----R....aGTRVRLVCL...AI.GGNPE..PSLMWYKDSRTVt.....esRLPQESRRVHLgsvEKSGSTFSRELVLVTGP.SDNQAKFTCKA---------g..
+#=GR O60500|PF08205|446-531 PP 8776543332.............2....4689999***...**.*****..************8.....88555555555442237899*************.*********85.........9..
+O60500|PF08205|552-632         anasalrpgd-------.------.....--ALNLTCV...SV.SSNPP..VNLSWDKEGERL........EGVAAPPRRAP...FKGSAAARSVL-LQVSS.RDHGQRVTCRAHSAELR---e..
+#=GR O60500|PF08205|552-632 PP 9887776654.....................6789***...**.*****..************........***********...*******9998.77777.8************9987...5..
+O95727|PF08205|124-206         ...easvirk-------.-----Qn...gEEHVVLMCS...TM.RSKPP..PQITWLLGNSME........VSGGTLHEFET...DGKKCNTTSTLIIHTYG.--KNSTVDCIIRHRGLQG--r..
+#=GR O95727|PF08205|124-206 PP ...8765443.............33...4899******...**.*****..************........9**********...****************8...***********99987..5..
+P15151|PF08205|148-231         .........t--AEVQK.VQLTGE.....-PVPMARCV...ST.GGRPP..AQITWHSDLGGM........--PNTSQVPGF...LSGTVTVTSLWILVPSS.QVDGKNVTCKVEHESFEKP-...
+#=GR P15151|PF08205|148-231 PP .........6..57789.999999......********...**.*****..************..........*********...*****************.***************9875....
+P20273|PF08205|143-225         ..........PHIQLPP.EIQESQ.....--EVTLTCLlnfSC.YGYP-..IQLQWLLEGVPM........RQAAVTSTSLT...IKSVFTR-SELKFSPQW.SHHGKIVTCQLQDA------d..
+#=GR P20273|PF08205|143-225 PP ..........799****.****99.......************.***9...************........***********...***9999.*********.***********986......7..
+P20916|PF08205|142-222         ......nivv-----PP.EVVAGT.....--EVEVSCM...VP.DNCPElrPELSWLGHEGLG........EPAVLGRLRED...EGTWVQV-SLLHFVPTR.EANGHRLGCQAS--------fp.
+#=GR P20916|PF08205|142-222 PP ......7554.....44.555555.......8999***...**.**9965599*******999........77666666666...6666655.*********.**********97........78.
+P33681|PF08205|143-226         .........p---TPSI.SDFEIPt...sNIRRI-ICS...TS.GGFPE..PHLSWLENGEEL........NAINTTVSQDP...ETELYAVSSKLDFNMT-.--TNHSFMCLIKYGHLRV--n..
+#=GR P33681|PF08205|143-226 PP .........6...5666.6666666...477777.***...**.*****..************........***********...****************....9************996..6..
+P43121|PF08205|139-233         ..........PNIQVNP.LGIPVNs...kEPEEVATCV...GR.NGYPI..PQVIWYKNGRPLke...eknRVHIQSSQTVE...SSGLYTLQSILKAQLVK.EDKDAQFYCELNYRLPSG--n..
+#=GR P43121|PF08205|139-233 PP ..........5677777.6666666...89********...**.*****..**************...**999*********...*****************.**************9987..5..
+P50895|PF08205|151-248         ..........-EVSPNK.GTLSVMe...dSAQEIATCN...SR.NGNPA..PKITWYRNGQRLevpvemnpEGYMTSRTVRE...ASGLLSLTSTLYLRLRK.DDRDASFHCAAHYSLPEGRH...
+#=GR P50895|PF08205|151-248 PP ...........578999.9999999...999*******...**.*****..*******************************...*****************.****************9985...
+Q08ET2|PF08205|192-220         .........t-------.------.....---------...--.-----..------------........-----------...-----TRSSELTLTPRP.EDHGTNLTCQVKRQ------ga.
+#=GR Q08ET2|PF08205|192-220 PP .........6................................................................................889*********.***********986......58.
+Q13740|PF08205|137-230         ..........PEIVSKA.LFLETE.....QLKKLGDCI...SE.DSYPD..GNITWYRNGKVLhpl..egaVVIIFKKEMDP...VTQLYTMTSTLEYKTTK.ADIQMPFTCSVTYYGPSGQ-...
+#=GR Q13740|PF08205|137-230 PP ..........799****.******.....*********...**.*****..***************..**99**********...*****************.***************9986....
+Q15109|PF08205|124-218         ..........PEIVDSA.SELTAG.....VPNKVGTCV...SE.GSYPA..GTLSWHLDGKPLvpn..ekgVSVKEQTRRHP...ETGLFTLQSELMVTPARgGDPRPTFSCSFSPGLPRHR-...
+#=GR Q15109|PF08205|124-218 PP ..........89*****.******.....*********...**.*****..***************..**************...****************989*************99975....
+Q15223|PF08205|149-236         .........w--IEGTQ.AVLRAKkg.qdDKVLVATCT...SA.NGKPP..SVVSWETRLKGE........---AEYQEIRN...PNGTVTVISRYRLVPSR.EAHQQSLACIVNYHMDRF--k..
+#=GR Q15223|PF08205|149-236 PP .........6..66777.66666667.889********...**.*****..***********8...........********...*****************.***************997..6..
+Q6UWL6|PF08205|141-211         ........pa-------.------.....----NLTCR...SRgDARPT..PELLWFRDGVLL........DGATFHQTLLK...EGTPGSVESTLTLTPFS.HDDGATFVCRARSQA-----l..
+#=GR Q6UWL6|PF08205|141-211 PP ........97.......................689*9...87359***..************........88888888888...888889***********.**********99876.....6..
+Q86YD3|PF08205|28-116          ....lepqid-------.GQTWAEralreNERHAFTCR...VA.GGPGT..PRLAWYLDGQLQ........EASTSRLLSVG...GEAFSGGTSTFTVTAHR.--AQHELNCSLQDPR-----sgr
+#=GR Q86YD3|PF08205|28-116  PP ....765444........4444446667788*******...**.*****..************........***********...****************9...**********987.....578
+Q8IZU9|PF08205|166-232         .........l-------.------.....----NLTCH...AD.NAKPA..ASIIWLRKGEVI........NGATYSKTLLR...DGKRESIVSTLFISPGD.VENGQSIVCRATN-------k..
+#=GR Q8IZU9|PF08205|166-232 PP .........7.......................58***...**.*****..************........***********...*****************.*********9976.......7..
+Q8N126|PF08205|134-218         ...iitgyks-------.-SLREK.....-DTATLNCQ...SS.GSKPA..ARLTWRKGDQEL........HGEPTRIQEDP...NGKTFTVSSSVTFQVTR.EDDGASIVCSVNHESLK---g..
+#=GR Q8N126|PF08205|134-218 PP ...8666544.........34444......59999***...**.*****..************........***********...*****************.**************986...6..
+Q8N3J6|PF08205|143-211         .........q-------.------.....-----LTCK...TS.GSKPA..ADIRWFKNDKEI........KDVKYLKEEDA...NRKTFTVSSTLDFRVDR.SDDGVAVICRVDHESL----n..
+#=GR Q8N3J6|PF08205|143-211 PP .........7........................79**...**.*****..************........***********...*****************.*************986....7..
+Q8NFZ8|PF08205|130-206         .....evreq-------.-AVEGG.....--EVELSCL...VP.RSRPA..ATLRWYRDRKEL........---KGVSSSQE...NGKVWSVASTVRFRVDR.KDDGGIIICEAQNQA-----l..
+#=GR Q8NFZ8|PF08205|130-206 PP .....87654.........34444.......99*****...**.*****..************...........44455556...77999************.************997.....5..
+Q8TD46|PF08205|174-244         .........v---TPEV.TLFQNR.....--NRTAVCK...AV.AGKPA..AHISWIPEGDCA........-----TKQEYW...SNGTVTVKSTCHWEVH-.--NVSTVTCHVSH-------l..
+#=GR Q8TD46|PF08205|174-244 PP .........6...5666.777777.......99999**...**.*****..***********8.............888899...9***************....9********98.......9..
+Q92692|PF08205|168-248         ...aqkvtfs-------.-----Q.....DPTTVALCI...SK.EGRPP..ARISWLSSLDWE........--AKETQVSGT...LAGTVTVTSRFTLVPSG.RADGVTVTCKVEHESFEEP-...
+#=GR Q92692|PF08205|168-248 PP ...9766553.............3.....68999****...**.*****..***********9..........*********...*****************.***************9875....
+Q96J84|PF08205|136-205         .......gtp-------.------.....---HNLTCR...AF.NAKPA..ATIIWFRDGTQQ........EGAVASTELLK...DGKRETTVSQLLINPTD.LDIGRVFTCRS---------mne
+#=GR Q96J84|PF08205|136-205 PP .......876......................689***...**.*****..************........***********...*****************.*********96.........567
+Q96NY8|PF08205|151-232         ..........PSLNPGP.ALEEGQ.....GLTLAASC-...TA.EGSPA..PSVTWDTEVKGT........----TSSRSFK...HSRSAAVTSEFHLVPSR.SMNGQPLTCVVSHPGL----lq.
+#=GR Q96NY8|PF08205|151-232 PP ..........6788999.999***.....********....99.9****..***********9............*******...*****************.*************986....78.
+Q9BY67|PF08205|155-227         .......tav-------.-----E.....GEEIEVNCT...AM.ASKPA..TTIRWFKGNTEL........---KGKSEVEE...WSDMYTVTSQLMLKVHK.EDDGVPVICQVEHPA-----v..
+#=GR Q9BY67|PF08205|155-227 PP .......764.............3.....569999***...**.*****..***********9...........99******...*****************.*************97.....8..
+Q9BZZ2|PF08205|142-227         ..........PTIASPV.ELLEGT.....--EVDFNCStpyVC.LQE-Q..VRLQWQGQDPAR........--SVTFNSQKF...EPTGVGHLETLHMAMSW.QDHGRILRCQLSVANHRAQ-...
+#=GR Q9BZZ2|PF08205|142-227 PP ..........79999**.******.......*******9*9**.***.9..***********9..........*********...*****************.**************99975....
+Q9NQS3|PF08205|175-256         ..........--IKGPD.SLIDGG.....NETVAAICI...AA.TGKPV..AHIDWEGDLGEM........----ESTTTSF...PNETATIISQYKLFPTR.FARGRRITCVVKHPALEK--d..
+#=GR Q9NQS3|PF08205|175-256 PP ............78899.******.....*********...**.*****..************............*******...*****************.***************987..6..
+Q9NZQ7|PF08205|137-219         .inqrilvvd-------.----PV.....TSEHELTC-...QA.EGYPK..AEVIWTSSDHQV.......lSGKTTTTNSKR...EEKLFNVTSTLRINTT-.--TNEIFYCTFRRLDP----een
+#=GR Q9NZQ7|PF08205|137-219 PP .776665554............44.....67999***....99.*****..******999888.......7999999*****...****************....9******9876555....567
+Q6Q8B3|PF08205|146-214         ...pevnlfq-------.------.....SRNITAVCK...AV.TGKPA..AQISWIPEGSIL........----ATKQEYW...GNGTVTVKSTCPW----.EGHKSTVTCHVSH-------l..
+#=GR Q6Q8B3|PF08205|146-214 PP ...9877665...................4578899**...**.*****..***********9............9999999...*******998765.....5567*******98.......9..
+#=GC PP_cons                   ..........7888888.777776.....889999***...**.*****..***********9........99999999999...9****************.**********9999988765...
+#=GC RF                        ..........xxxxxxx.xxxxxx.....xxxxxxxxx...xx.xxxxx..xxxxxxxxxxxx........xxxxxxxxxxx...xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...
+//

@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+P17040|PF13837|325-408            .--HWGYEETKTFLAILSE.sPFSEKLRT........--CHQNRQVYRAIAEQLRAR.GFLRTLEQCRYRVKNLLRNYRKAKS...SH--PP.G...TCPFYEELEAL..
+#=GR P17040|PF13837|325-408    PP ...5***************.965777876..........******************.*************************...95..88.9...********986..
+P17040|PF13837|485-568            .--HWGYEETKAFLAILSE.sPFSEKLRT........--CHQNSQVYRAIAERLCAL.GFLRTLEQCRYRFKNLLRSYRKAKS...SH--PP.G...TCPFYEELDSL..
+#=GR P17040|PF13837|485-568    PP ...5***************.965777876..........******************.*************************...95..88.9...*********86..
+Q5T230|PF13837|61-131             t--PWSARETELLLGTLLQpaVWRALLLD........-RRQALP-TYRRVSAALAQQ.QVRRTPAQCRRRYKFLKDKFREAH-...------.-...-----------gq
+#=GR Q5T230|PF13837|61-131     PP 7..5**********888777955555555.........355555.9***********.*********************987..........................57
+Q9NX65|PF13837|255-338            p---WGYEETKTLLAILSS.sQFYGKLQT........--CQQNSQIYRAMAEGLWEQ.GFLRTPEQCRTKFKSLQLSYRKVRR...G--RVP.E...PCIFYEEMNAL..
+#=GR Q9NX65|PF13837|255-338    PP 6...9**************.866677776..........******************.************************9...8..489.*...********986..
+Q63HK3|PF13837|341-425            v--HWSYEETKTFLAILKEsrF-YETLQ-........-ACPRNSQVYGAVAEWLREC.GFLRTPEQCRTKFKSLQKSYRKVRN...GH--ML.E...PCAFFEDMDAL..
+#=GR Q63HK3|PF13837|341-425    PP 6..7***************844.44466..........5******************.*************************...85..78.9...*********86..
+Q63HK3|PF13837|499-582            .--HWGYEETKTFLDILREtrFYEA-LQA........--CHRKSKLYGAVAEQLREC.GFLRTPEQCRTKFKSLQKSYRKVKN...GH--VL.E...SCAFYKEMDAL..
+#=GR Q63HK3|PF13837|499-582    PP ...5***************855455.665..........999999************.*************************...85..67.9...*********86..
+Q8IWY8|PF13837|247-330            .--HWGYEETRTLLAILSQteFYEA-LR-........-NCHRNSQVYGAVAERLREY.GFLRTLEQCRTKFKGLQKSYRKVKS...GH--PP.E...TCPFFEEMEAL..
+#=GR Q8IWY8|PF13837|247-330    PP ...5***************855555.55..........5******************.*************************...95..99.*...********986..
+Q8IWY8|PF13837|410-493            .--HWGYEETKTYLAILSEtqFYEA-LR-........-NCHRNSQLYGAVAERLWEY.GFLRTPEQCRTKFKSLQTSYRKVKN...GQ--AP.E...TCPFFEEMDAL..
+#=GR Q8IWY8|PF13837|410-493    PP ...5***************754444.54..........5******************.*************************...96..9*.*...*********86..
+A0A1W2PQ72|PF13837|11-99          .--RWSRQETRTLLSILGE.aEYIQRLQT........--VHHNADVYQAVSKRMQQE.GFRRTERQCRSKFKVLKALYLKAYVahaTSMGEP.P...HCPFYDTLDQL..
+#=GR A0A1W2PQ72|PF13837|11-99  PP ...6***************.955566777..........688888************.********************99866322445555.6...*********96..
+Q6P1R3|PF13837|103-198            s---WTPAETNALIAVWGNerLVEARYQQlegagtvfGSKAPGPAMYERVSRALAEL.GYERTPSQCRERIKTLRRCYSRVKE...HGVGKR.K...SSYTFEQLEQ-..
+#=GR Q6P1R3|PF13837|103-198    PP 6...***************9*****************99******************.*************************...******.*...*******986...
+Q6ZTZ1|PF13837|44-129             .-RNWTDAEMRGLMLVWEE..FFDE-L--........KQTKRNAKVYEKMASKLFEMtGERRLGEEIKIKITNMTFQYRKLKC...MT-DSE.SappDWPYYLAID--..
+#=GR Q6ZTZ1|PF13837|44-129     PP ..59***************..5555.4..........469**************9986789**********************...85.444.4466****98775....
+A0A3B3IT52|PF13837|36-122         p---WSDQEIRSFLQEWEF..-LEREVYR........-VKKKYHIVSKAIAQRLKQR.GINKSWKECLQMLISLQDLYFTIQE...ANQRPRcQp.lPCPYGEALH--r.
+#=GR A0A3B3IT52|PF13837|36-122 PP 6...**************9...5665554.........577777799**********.*************************...975554436.6888888877..6.
+#=GC PP_cons                      ..56***************..55666666........76999999************.***********************99...867678.8...******99986..
+#=GC RF                           .xxxxxxxxxxxxxxxxxx..xxxxxxxx........xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxx.x...xxxxxxxxxxx..
+//

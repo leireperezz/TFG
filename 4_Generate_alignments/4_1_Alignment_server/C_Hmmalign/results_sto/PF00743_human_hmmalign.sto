@@ -1,0 +1,47 @@
+# STOCKHOLM 1.0
+
+P31512|PF00743|2-531         AKKVAVIGAGVSGLSSIKCCVDEDLEPTCFERSDDIGGLWKFTESSKDGMTRVYKSLVTNVCKEMSCYSDFPFHEDYPNFMNHEKFWDYLQEFAEHFDLLKYIQFKTTVCSITKRPDFSETGQWDVVTETEGKQNRAVFDAVMVCTGHFLNPHLPLEAFPGIHKFKGQILHSQEYKIPEGFQGKRVLVIGLGNTGGDIAV
+#=GR P31512|PF00743|2-531 PP 79******************************************************************************************************************************************************************************************************
+P31513|PF00743|3-531         -KKVAIIGAGVSGLASIRSCLEEGLEPTCFEKSNDIGGLWKFSDHAEEGRASIYKSVFSNSSKEMMCFPDFPFPDDFPNFMHNSKIQEYIIAFAKEKNLLKYIQFKTFVSSVNKHPDFATTGQWDVTTERDGKKESAVFDAVMVCSGHHVYPNLPKESFPGLNHFKGKCFHSRDYKEPGVFNGKRVLVVGLGNSGCDIAT
+#=GR P31513|PF00743|3-531 PP .8******************************************************************************************************************************************************************************************************
+P49326|PF00743|3-532         KKRIAVIGGGVSGLSSIKCCVEEGLEPVCFERTDDIGGLWRFQENPEEGRASIYKSVIINTSKEMMCFSDYPIPDHYPNFMHNAQVLEYFRMYAKEFDLLKYIRFKTTVCSVKKQPDFATSGQWEVVTESEGKKEMNVFDGVMVCTGHHTNAHLPLESFPGIEKFKGQYFHSRDYKNPEGFTGKRVIIIGIGNSGGDLAV
+#=GR P49326|PF00743|3-532 PP 69******************************************************************************************************************************************************************************************************
+Q01740|PF00743|2-531         AKRVAIVGAGVSGLASIKCCLEEGLEPTCFERSDDLGGLWRFTEHVEEGRASLYKSVVSNSCKEMSCYSDFPFPEDYPNYVPNSQFLEYLKMYANHFDLLKHIQFKTKVCSVTKCSDSAVSGQWEVVTMHEEKQESAIFDAVMVCTGFLTNPYLPLDSFPGINAFKGQYFHSRQYKHPDIFKDKRVLVIGMGNSGTDIAV
+#=GR Q01740|PF00743|2-531 PP 69******************************************************************************************************************************************************************************************************
+Q99518|PF00743|2-532         AKKVAVIGAGVSGLISLKCCVDEGLEPTCFERTEDIGGVWRFKENVEDGRASIYQSVVTNTSKEMSCFSDFPMPEDFPNFLHNSKLLEYFRIFAKKFDLLKYIQFQTTVLSVRKCPDFSSSGQWKVVTQSNGKEQSAVFDAVMVCSGHHILPHIPLKSFPGMERFKGQYFHSRQYKHPDGFEGKRILVIGMGNSGSDIAV
+#=GR Q99518|PF00743|2-532 PP 79******************************************************************************************************************************************************************************************************
+O60774|PF00743|3-538         -KRVGIIGAGVSGLAAIWCCLEEGLEPTCFERSDDVGGLWKFSDHTEEGRASIYQSVFTNSSKEMMCFPDFPYPDDYPNYIHHSKLQEYIKTYAQKKDLLRYIQFETLVSGIKKCPSFLVTGQWVVVTEKDGKQESTIFDAVMICSGHHVYPNLPTDSFPGLDQFRGNYLHSRDYKNPEAFKGKRVLVIGLGNSGSDIAV
+#=GR O60774|PF00743|3-538 PP .89*****************************************************************************************************************************************************************************************************
+#=GC PP_cons                 69******************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P31512|PF00743|2-531         ELSRTAAQVLLSTRTGTWVLGRSSDWGYPYNMMVTRRCCSFIAQVLPSRFLNWIQERKLNKRFNHEDYGLSITKGKKAK-FIVNDELPNCILCGAITMKTSVIEFTETSAVFEDGTVEENIDVVIFTTGYTFSFPFFEEPLKSLCTKKIFLYKQVFPLNLERATLAIIGLIGLKGSILSGTELQARWVTRVFKGLCKIPP
+#=GR P31512|PF00743|2-531 PP *****************************************************************************99.************************************************************************************************************************
+P31513|PF00743|3-531         ELSRTAEQVMISSRSGSWVMSRVWDNGYPWDMLLVTRFGTFLKNNLPTAISDWLYVKQMNARFKHENYGLMPLNGVLRKEPVFNDELPASILCGIVSVKPNVKEFTETSAIFEDGTIFEGIDCVIFATGYSFAYPFLDESIIKSRNNEIILFKGVFPPLLEKSTIAVIGFVQSLGAAIPTVDLQSRWAAQVIKGTCTLPS
+#=GR P31513|PF00743|3-531 PP ********************************************************************************************************************************************************************************************************
+P49326|PF00743|3-532         EISQTAKQVFLSTRRGAWILNRVGDYGYPADVLFSSRLTHFIWKICGQSLANKYLEKKINQRFDHEMFGLKPKHRALSQHPTLNDDLPNRIISGLVKVKGNVKEFTETAAIFEDGSREDDIDAVIFATGYSFDFPFLEDS-VKVVKNKISLYKKVFPPNLERPTLAIIGLIQPLGAIMPISELQGRWATQVFKGLKTLPS
+#=GR P49326|PF00743|3-532 PP ********************************************************************************************************************************************.99*********************************************************
+Q01740|PF00743|2-531         EASHLAEKVFLSTTGGGWVISRIFDSGYPWDMVFMTRFQNMLRNSLPTPIVTWLMERKINNWLNHANYGLIPEDRTQLKEFVLNDELPGRIITGKVFIRPSIKEVKENSVIFNNTSKEEPIDIIVFATGYTFAFPFLDESVVKVEDGQASLYKYIFPAHLQKPTLAIIGLIKPLGSMIPTGETQARWAVRVLKGVNKLPP
+#=GR Q01740|PF00743|2-531 PP ********************************************************************************************************************************************************************************************************
+Q99518|PF00743|2-532         ELSKNAAQVFISTRHGTWVMSRISEDGYPWDSVFHTRFRSMLRNVLPRTAVKWMIEQQMNRWFNHENYGLEPQNKYIMKEPVLNDDVPSRLLCGAIKVKSTVKELTETSAIFEDGTVEENIDVIIFATGYSFSFPFLEDSLVKVENNMVSLYKYIFPAHLDKSTLACIGLIQPLGSIFPTAELQARWVTRVFKGLCSLPS
+#=GR Q99518|PF00743|2-532 PP ********************************************************************************************************************************************************************************************************
+O60774|PF00743|3-538         ELSRLATQVIISTRSASWVMSRVWDDGYPWDMMYVTRFASFLRNVLPSFISDWLYVQKMNTWFKHENYGLMPLNGSLRKEPVFNDELPSRILCGTLSIKPSVKEFTETSAVFEDGTMFEAIDSVIFATGYDYSYPFLDETIMKSRNNEVTLFKGIFPPLMEKPTLAVIGLVQSLGAAIPTADLQAWWAAKVFANSCTLPT
+#=GR O60774|PF00743|3-538 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons                 ********************************************************************************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P31512|PF00743|2-531         SQKLMMEATEK-EQLIK.....RGVFKDTSKDKFDYIAYMDDIAACIGTKPSIPLLFLKDPRLAWEVFFGPCTPYQYRLMGPGKWDGARNAILTQWDRTLKPLKTRIVPDSSKPASMShYLKAWGAPVLLASLLLIC-.
+#=GR P31512|PF00743|2-531 PP **********9.*****.....**********************************************************************************************999***************986..
+P31513|PF00743|3-531         MEDMMNDINEKMEKKRK.....WFG--KSETIQTDYIVYMDELSSFIGAKPNIPWLFLTDPKLAMEVYFGPCSPYQFRLVGPGQWPGARNAILTQWDRSLKPMQTRVVGRLQKPCFFFhWLKLFAIPILLIAVFLV--l
+#=GR P31513|PF00743|3-531 PP *****************.....***..899***************************************************************************************99***************97..5
+P49326|PF00743|3-532         QSEMMAEISKAQEEIDK.....RYVESQRHTIQGDYIDTMEELADLVGVRPNLLSLAFTDPKLALHLLLGPCTPIHYRVQGPGKWDGARKAILTTDDRIRKPLMTRVVERSSSMTSTM.TIGKFMLALAFFAIIIA--y
+#=GR P49326|PF00743|3-532 PP *****************.....************************************************************************************************.**************986..5
+Q01740|PF00743|2-531         PSVMIEEINARKENKPS.....WFGLCYCKALQSDYITYIDELLTYINAKPNLFSMLLTDPHLALTVFFGPCSPYQFRLTGPGKWEGARNAIMTQWDRTFKVIKARVVQESPSPFESF.-LKVFSFLALLVAIFLIF-.
+#=GR Q01740|PF00743|2-531 PP *****************.....***********************************************************************************************9..**************985..
+Q99518|PF00743|2-532         ERTMMMDIIKRNEKRID.....LFGESQSQTLQTNYVDYLDELALEIGAKPDFCSLLFKDPKLAVRLYFGPCNSYQYRLVGPGQWEGARNAIFTQKQRILKPLKTRALKDSSNFSVSF.LLKILGLLAVVVAFFCQ--l
+#=GR Q99518|PF00743|2-532 PP *****************.....************************************************************************************************.**************976..6
+O60774|PF00743|3-538         TNEMMDDTDEKMGKKLKcmfssFFMFGQSQTLQTDYITYVDELGSFIGAKPNIPWLFLTDPRLALEVYFGPCSPYQFRLMGPGKWDGARNAILTQWNRTVKPTRTRVVSEVQRPHPFYnLLKMLSFPLLLLAVTLT--f
+#=GR O60774|PF00743|3-538 PP ************999762222257788***************************************************************************************999989************9875..6
+#=GC PP_cons                 ****************9.....999********************************************************************************************9.**************9876..
+#=GC RF                      xxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx.
+//

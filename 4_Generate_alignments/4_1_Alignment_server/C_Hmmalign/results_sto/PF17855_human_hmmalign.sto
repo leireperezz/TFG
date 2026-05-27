@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P25205|PF17855|567-650         ..-FMKKYIHVAK-IIKPVLTQESATYIAEEYSRLRSQD...sM-SsdTARTSPVTARTLETLIRLATAHAKARMSKTVDLQDAEEAVELVQ---.
+#=GR P25205|PF17855|567-650 PP ...69********.***********************99...52.4468999*************************************985....
+P33991|PF17855|686-768         .v--LKDYIAYAHSTIMPRLSEEASQALIEAYVDMRKIG....--S..SRGMVSAYPRQLESLIRLAEAHAKVRLSNKVEAIDVEEAKRLHRE--a
+#=GR P33991|PF17855|686-768 PP .5..99*******************************88......4..69****************************************986..6
+P33992|PF17855|558-647         ..-KLKKFIAYCRVKCGPRLSAEAAEKLKNRYIIMRSGArqheRDS.dRRSSIPITVRQLEAIVRIAEALSKMKLQPFATEADVEEALRLFQVS-.
+#=GR P33992|PF17855|558-647 PP ...59*******************************9887665334.6899***************************************9865..
+P33993|PF17855|558-640         ..-LMRRYIAMCR-EKQPMVPESLADYITAAYVEMRREA....W-A..SKDATYTSARTLLAILRLSTALARLRMVDVVEKEDVNEAIRLMEMS-.
+#=GR P33993|PF17855|558-640 PP ...59********.***********************99....5.4..599****************************************976..
+P49736|PF17855|718-802         ..EVLKKYIIYAKERVHPKLNQMDQDKVAKMYSDLRKES....M--..ATGSIPITVRHIESMIRMAEAHARIHLRDYVIEDDVNMAIRVMLESF.
+#=GR P49736|PF17855|718-802 PP ..68*********************************99....6....589****************************************9986.
+Q14566|PF17855|571-656         .d--IRRYLLFAR-QFKPKISKESEDFIVEQYKHLRQRD....GSG.vTKSSWRITVRQLESMIRLSEAMARMHCCDEVQPKHVKEAFRLLNKSI.
+#=GR Q14566|PF17855|571-656 PP .7..79*******.***********************99....444.799*****************************************9986.
+Q9NXL9|PF17855|522-604         ..EKMKTYFCLIR-NLQPTLSDVGNQVLLRYYQMQRQSD....C--..-RNAARTTIRLLESLIRLAEAHARLMFRDTVTLEDAITVVSVMESSM.
+#=GR Q9NXL9|PF17855|522-604 PP ..57999******.***********************88....4.....679***************************************9986.
+Q9UJA3|PF17855|665-748         ..-LLRKYIGYARQYVYPRLSTEAARVLQDFYLELRKQS....Q-R..-LNSSPITTRQLESLIRLTEARARLELREEATKEDAEDIVEIMKYSM.
+#=GR Q9UJA3|PF17855|665-748 PP ...69********************************99....5.4...799***************************************9875.
+Q4G0Z9|PF17855|540-622         fe----KLLAFAK-NLNVEFSLEAERMTHGYYLASRRIR....TGS..-VCGSKLSASALKYLVFLSEAHARLNLRNKVLKEDVLIAALLFETSL.
+#=GR Q4G0Z9|PF17855|540-622 PP 75....66899**.***********************99....766...8889999**********************************99985.
+#=GC PP_cons                   ..669*9******************************99....544..7899**************************************99876.
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q92837|PF05350|1-239         MPCRREEEEEAGEEAEGEEEEEDSFLLLQQSVALGSSGEVDRLVAQIGETLQLDAAQHSPASPCGPPGAPLRAPGPLAAaVPADKARSPAVPLLLPPALAETVGPAPPGVLRCALGDRGRVRGRAAPYCVAELATGPSALSPLPPQADLDGPPGAGKQGIPQPLSGPCRRGWLRGAAASRRLQQRRGSQPETRTGDDDPH
+#=GR Q92837|PF05350|1-239 PP 8***************************************************************************9876************************************************************************************************************************
+O75474|PF05350|1-141         MPCRREEEEEAGEEAEGEEEEDDSFLLLQQSVTLGSSGEVDRLVAQIGETLQLDAAQDSPASPCAPPGVPLRAPGPLAAaVPADKARPPAVPLLLPPASAETVGPAPSGALRCALGDRGRVRGRAAPYCVAEVAAGPSALP-----------------------------------------------------------
+#=GR O75474|PF05350|1-141 PP 8***************************************************************************9876***********************************************************96...........................................................
+#=GC PP_cons                 8***************************************************************************987.************************************************************8***********************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q92837|PF05350|1-239         RLLQQLVLSGNLIKEAVRRLHSRRLQLRAKLPQRPLLGP
+#=GR Q92837|PF05350|1-239 PP *************************************98
+O75474|PF05350|1-141         ---------------------------------------
+#=GR O75474|PF05350|1-141 PP .......................................
+#=GC PP_cons                 *************************************98
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

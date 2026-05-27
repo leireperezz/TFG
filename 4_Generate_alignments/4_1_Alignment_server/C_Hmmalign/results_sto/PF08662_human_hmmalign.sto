@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P55884|PF08662|507-702         RNLFNVVDCKLHWQKNGDYLCVKVD-RTPKGTQGVVTNFEIFRMREKQVPVDVVEMKET--IIAFAWEPNGSKFAVLHGEAPRiSVSFYHVKnngkIELIKMFDKQQANTIFWSPQGQFVVLAGLRSMNGALAFVDTSDCTVMNIAEHYMASDVEWDPTGRYVVTSVSWWSHKVDNAYWLWTFQGRLLQKNNK...DRFC
+#=GR P55884|PF08662|507-702 PP 79***********************.99****************************998..**********************9*******666779************************************************************************************************...****
+Q9BY44|PF08662|216-411         KSFFKADKVTMLWNKKATAVLVIASTDVDKTGASYYGEQTLHYI-ATNGESAVVQLPKNGPIYDVVWNSSSTEFCAVYGFMPA.KATIFNLK....CDPVFDFGTGPRNAAYYSPHGHILVLAGFGNLRGQMEVWDVKNYKLISKPVASDSTYFAWCPDGEHILTATCAPRLRVNNGYKIWHYTGSILHKYDVpsnAELW
+#=GR Q9BY44|PF08662|216-411 PP 89******************************************.89999*********************************.********....************************************************************************************************98888999
+#=GC PP_cons                   79************************99*****************99*********999************************.*******8....*************************************************************************************************...9999
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxx
+
+P55884|PF08662|507-702         QL
+#=GR P55884|PF08662|507-702 PP 95
+Q9BY44|PF08662|216-411         QV
+#=GR Q9BY44|PF08662|216-411 PP 97
+#=GC PP_cons                   96
+#=GC RF                        xx
+//

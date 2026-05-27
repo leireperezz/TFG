@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+Q5VZM2|PF04670|42-296         KVLLMGKSGSGKTSMRSIIFANYIARDTRRLGATIldrihslqinsslstyslvdsvgntktfDVEHSHVRFLGNLVLNLWDCGGQDTFMENYFTSQRDNIFRNVEVLIYVFDVESRELEKDMHYYQSCLEAILQNSPDAKIFCLVHKMDLVQEDQRDLIFKEREEDLRRLSRPLE--.--CSCFRTSIWDETLYKAWSS
+#=GR Q5VZM2|PF04670|42-296 PP 8*****************************************************************************************************************************************************************************88.....99*****************
+Q7L523|PF04670|9-235          KVLLMGKSGSGKTSMRSIIFANYIARDTRRLGATI............................DVEHSHVRFLGNLVLNLWDCGGQDTFMENYFTSQRDNIFRNVEVLIYVFDVESRELEKDMHYYQSCLEAILQNSPDAKIFCLVHKMDLVQEDQRDLIFKEREEDLRRLSRPLE--.--CACFRTSIWDETLYKAWSS
+#=GR Q7L523|PF04670|9-235  PP 8**********************************............................***************************************************************************************************************98.....88*****************
+Q9HB90|PF04670|63-289         RILLMGLRRSGKSSIQKVVFHKMSPNETLFLESTN............................KIYKDDISNSSFVNFQIWDFPGQMDFFDPT--FDYEMIFRGTGALIYVIDAQ-DDYMEALTRLHITVSKAYKVNPDMNFEVFIHKVDGLSDDHKIETQRDIHQRANDDLADAGLEkLHLSFYLTSIYDHSIFEAFSK
+#=GR Q9HB90|PF04670|63-289 PP 69*********************************............................*****************************8..99******************.88**********************************************************999*********************
+Q9NQL2|PF04670|64-290         RILLMGLRRSGKSSIQKVVFHKMSPNETLFLESTN............................KICREDVSNSSFVNFQIWDFPGQIDFFDPT--FDYEMIFRGTGALIFVIDSQ-DDYMEALARLHLTVTRAYKVNTDINFEVFIHKVDGLSDDHKIETQRDIHQRANDDLADAGLEkIHLSFYLTSIYDHSIFEAFSK
+#=GR Q9NQL2|PF04670|64-290 PP 69*********************************............................*****************************8..99******************.88**********************************************************999*********************
+#=GC PP_cons                  79*********************************............................*****************************9***********************99********************************************************9999.**99*****************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx
+
+Q5VZM2|PF04670|42-296         IVYQLIPNVQQLEMNLRNFAEIIEADEVLLFERATFLVISHYQCKEQR-DAHRFEKISNII
+#=GR Q5VZM2|PF04670|42-296 PP *******************************************99987.89********98
+Q7L523|PF04670|9-235          IVYQLIPNVQQLEMNLRNFAQIIEADEVLLFERATFLVISHYQCKEQR-DVHRFEKISNII
+#=GR Q7L523|PF04670|9-235  PP *******************************************99987.99********98
+Q9HB90|PF04670|63-289         VVQKLIPQLPTLENLLNIFISNSGIEKAFLFDVVSKIYIATDS-SPVD--MQSYELCCDMI
+#=GR Q9HB90|PF04670|63-289 PP *******************************************.9998..99*******98
+Q9NQL2|PF04670|64-290         VVQKLIPQLPTLENLLNIFISNSGIEKAFLFDVVSKIYIATDS-TPVD--MQTYELCCDMI
+#=GR Q9NQL2|PF04670|64-290 PP *******************************************.8998..99*******98
+#=GC PP_cons                  *******************************************99998.99********98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

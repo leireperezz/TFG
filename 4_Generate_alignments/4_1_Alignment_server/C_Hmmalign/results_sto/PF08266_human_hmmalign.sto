@@ -1,0 +1,135 @@
+# STOCKHOLM 1.0
+
+O14917|PF08266|21-111         l--NYSVPEEQGAGTVIGNIGRDA...R...L.QP...GlppaerggggRS.K.S.GS.....YRVLEN.S..APHLLDVDADSGLLYT.KQ.R.IDRESL..CR.....H...N...AKCQLSLEVF---an
+#=GR O14917|PF08266|21-111 PP 6..7*******************9...9...9.87...5221111111134.5.5.57.....9*****.*..****************.**.*.******..**.....*...*...********97...57
+O95206|PF08266|32-109         .-VRYSTFEEDAPGTVIGTLAEDL...H...M.KV...S..........G-.-.D.TS.....FRLMKQ.F..NSSLLRVREGDGQLTV.GD.AgLDRERL..CG.....Q...A...PQCVLAFDVV---..
+#=GR O95206|PF08266|32-109 PP ..69********************...9...9.99...8..........5....8.89.....******.*..****************.87.55******..**.....*...*...********97.....
+Q08174|PF08266|61-140         v---YKVPEEQPPNTLIGSLAADY...G...FpDV...G..........HL.Y.K.LE.....V-----.-..GAPYLRVDGKTGDIFT.TEtS.IDREGLreCQ.....N...QlpgDPCILEFEV----si
+#=GR Q08174|PF08266|61-140 PP 7...9*******************...*...9568...8..........88.7.6.54.....4.........4589***********9.8736.****998898.....7...644479*****99....67
+Q8TAB3|PF08266|25-106         l--KYSVEEEQRAGTVIANVAKDAreaG...F.AL...D..........PR.Q.A.SA.....FRVVSN.S..APHLVDINPSSGLLVT.KQ.K.IDRDLL..CR.....Q...S...PKCIISLEVM---..
+#=GR Q8TAB3|PF08266|25-106 PP 6..8******************972225...5.55...5..........55.6.6.67.....8*****.*..****************.**.*.******..**.....*...*...********96.....
+Q9BZA7|PF08266|27-112         .--NYTIREEMPENVLIGDLLKDL...N...L.SLipnK..........SL.TtA.MQ.....FKLVYKtG..DVPLIRIEEDTGEIFT.TGaR.IDREKL..CA.....GiprD...EHCFYEV------ev
+#=GR Q9BZA7|PF08266|27-112 PP ...59*******************...*...9.863335..........56.514.57.....77766527..88999*********98.7549.******..*8.....61114...5666655......56
+Q9BZA8|PF08266|59-144         .--NYTIREEIPENVLIGNLLKDL...N...L.SLipnK..........SL.T.TtMQ.....FKLVYKtG..DVPLIRIEEDTGEIFT.TGaR.IDREKL..CA.....GiprD...EHCFYEV------ev
+#=GR Q9BZA8|PF08266|59-144 PP ...59*******************...*...9.863335..........66.5.4156.....77766527..88999*********98.7549.******..*8.....61114...5666655......56
+Q9NPG4|PF08266|32-112         v--KYQVSEEVPSGTVIGKLSQEL...G...R.EE...R..........RRqA.G.AA.....FQVLQL.P..QALPIQVDSEEGLLST.GR.R.LDREQL..CR.....Q...W...DPCLVSFDVL---a.
+#=GR Q9NPG4|PF08266|32-112 PP 5..8********************...*...9.88...7..........6515.5.67.....8*****.*..****************.**.*.******..**.....*...*...********98...6.
+Q9NRJ7|PF08266|32-112         .--SYSVVEETERGSFVANLGKDL...G...L.GL...T..........EM.S.T.RK.....ARIISQ.G..NKQHLQLKAQTGDLLI.NE.K.LDREEL..CG.....P...T...EPCILHFQVLMEN..
+#=GR Q9NRJ7|PF08266|32-112 PP ...5********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9P2E7|PF08266|19-101         .QLHYTVQEEQEHGTFVGNIAEDL...G...L.DI...T..........KL.S.A.RG.....FQTVPN.S..RTPYLDLNLETGVLYV.NE.K.IDREQI..CK.....Q...S...PSCVLHLEVFLEN..
+#=GR Q9P2E7|PF08266|19-101 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9UN66|PF08266|32-112         r--SYSVVEETEGSSFVTNLAKDL...G...L.EQ...R..........EF.S.R.RG.....VRVVSR.G..NKLHLQLNQETADLLL.NE.K.LDREDL..CG.....H...T...EPCVLRFQVLLE-..
+#=GR Q9UN66|PF08266|32-112 PP 6..7********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********97...
+Q9UN70|PF08266|33-114         .-IHYEIPEEREKGFAVGNVVANL...G...L.DL...G..........SL.S.A.RR.....FRVVSG.A..SRRFFEVNRETGEMFV.ND.R.LDREEL..CG.....T...L...PSCTVTLELVVEN..
+#=GR Q9UN70|PF08266|33-114 PP ..79********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9UN72|PF08266|30-111         .QLHYSVPEEAKHGNFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRAVCK.F..RGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVE-..
+#=GR Q9UN72|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********97...
+Q9UN73|PF08266|30-111         .QLHYSVPEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRMASK.D..REDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9UN73|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9UN74|PF08266|30-111         .QLHYSVSEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.G..RGGLLEVNLQNGILFV.NS.R.IDREEL..CR.....R...S...AECSIHLEVIVD-..
+#=GR Q9UN74|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5E1|PF08266|32-111         .--RYSVTEETEKGSFVVNLAKDL...G...L.AE...G..........EL.A.A.RG.....TRVVSD.D..NKQYLLLDSHTGNLLT.NE.K.LDREKL..CG.....P...K...EPCMLYFQILMD-..
+#=GR Q9Y5E1|PF08266|32-111 PP ...8********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********96...
+Q9Y5E3|PF08266|30-111         .-IQYSVLEETESGTFVANLTKDL...G...L.RV...G..........EL.A.S.RG.....ARVVFK.G..NRQHLQFDPQTHDLLL.NE.K.LDREEL..CG.....S...T...EPCVLPFQVLLEN..
+#=GR Q9Y5E3|PF08266|30-111 PP ..69********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5F2|PF08266|31-112         w--SFSVAEEMQSGSFVGNLAKDL...G...L.KV...R..........EL.S.S.RG.....ARVVSN.D..KKQRLQLDINTGDLLL.SE.T.LDREEL..CG.....S...I...EPCVLHLQVLMQN..
+#=GR Q9Y5F2|PF08266|31-112 PP 6..79*******************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********87..
+Q9Y5F7|PF08266|30-111         .QIRYPVPEESQEGTFVGNVAQDF...L...L.DT...D..........SL.S.A.RR.....LQVAGE.V..NQRHFRVDLDSGALLI.KN.P.IDREAL..CG.....L...S...ASCIVPLEFVT--e.
+#=GR Q9Y5F7|PF08266|30-111 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*******9876..6.
+Q9Y5H5|PF08266|30-111         .QLHYSVPEEAEHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FQLDSK.G..RGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9Y5H5|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5H8|PF08266|30-111         .QLHYSVSEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.R..HGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9Y5H8|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5H9|PF08266|30-111         .QLRYSVPEEAKHGTFVGRIAQDL...G...L.EL...E..........EL.V.P.RL.....FRVASK.R..HGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHVEVIVD-..
+#=GR Q9Y5H9|PF08266|30-111 PP .68*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5I2|PF08266|29-110         .QLHYSVYEEARHGTFVGRIAQDL...G...L.EL...A..........EL.V.Q.RL.....FRVASK.R..HGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...VECSIHLEVIVD-..
+#=GR Q9Y5I2|PF08266|29-110 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5I3|PF08266|30-111         .QLHYSIPEEAKHGTFVGRVAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.T..HRDLLEVNLQNGILFV.NS.R.IDREEL..CQ.....W...S...AECSIHLELIA--d.
+#=GR Q9Y5I3|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...********985..7.
+O60245|PF08266|34-114         l--RYRLAEEGPADVRIGNVASDL...G...I.VT...G..........--.-.S.GE.....VTFSLE.S..GSEYLKIDNLTGELST.SErR.IDREKLpqCQm..ifD...E...NECFLDFEV----..
+#=GR O60245|PF08266|34-114 PP 5..9********************...*...*.88...7...............5.78.....889999.9..9**************9.9846.*****977763..335...7...899999997......
+O60330|PF08266|30-112         .QIRYSVPEELEKGSRVGDISRDL...G...L.EP...R..........EL.A.E.RG.....VRIIPR.G..RTQLFALNPRSGSLVT.AG.R.IDREEL..CM.....G...A...IKCQLNLDILMED..
+#=GR O60330|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9H158|PF08266|21-103         .QLEYSVPEETERGVAVGNLSADL...R...L.PA...A..........AM.S.S.RN.....FRFLSS.H..RELYFGVDLPSGNLVV.RE.P.ADREQL..CR.....A...K...AACVLTYDLVLED..
+#=GR Q9H158|PF08266|21-103 PP .579********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9HC56|PF08266|27-117         i---YTIREELPENVPIGNIPKDL...N...I.SH...I..........NA.A.T.GTsaslvYRLVSKaG..DAPLVKVSSSTGEIFTtSN.R.IDREKL..CAgasyaE...E...NECFFELEVV---i.
+#=GR Q9HC56|PF08266|27-117 PP 8...99******************...*...9.87...6..........66.5.4.331122268888636..78899********986268.9.******..*7333225...6...7899999998...5.
+Q9HCL0|PF08266|30-111         l--KYRIYEEQRVGSVIARLSEDV...AdvlL.KL...P..........NP.S.T.VR.....FRAMQR.G..NSPLLVVNEDNGEISI.GA.T.IDREQL..CQ.....K...N...LNCSIEFDVI---..
+#=GR Q9HCL0|PF08266|30-111 PP 6..8****************9987...64437.88...8..........88.9.9.9*.....******.*..****************.**.*.******..**.....*...*...********96.....
+Q9UN67|PF08266|32-111         .--RYSVTEETEKGSFVVNLAKDL...G...L.AE...G..........EL.A.A.RG.....TRVVSD.D..NKQYLLLDSHTGNLLT.NE.K.LDREKL..CG.....P...K...EPCMLYFQILMD-..
+#=GR Q9UN67|PF08266|32-111 PP ...8********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********96...
+Q9UN71|PF08266|32-112         .QIRYRIPEEMPKGSVVGNLATDL...G...F.SV...Q..........EL.P.T.RK.....LRVSS-.-..EKPYFTVSAESGELLV.SS.R.LDREEI..CG.....K...K...PACALEFEAVAEN..
+#=GR Q9UN71|PF08266|32-112 PP .69*********************...*...*.**...*..........**.*.*.**.....***99.....99**************.**.*.******..**.....*...*...*********9986..
+Q9UN75|PF08266|30-111         .QLHYSVYEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.R..HGDLLEVNLQNGILFV.NS.R.IDREKL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9UN75|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5E2|PF08266|31-112         l--RYFVAEETERGTFLTNLAKDL...G...L.GV...G..........EL.R.A.RG.....TRIVSD.Q..NMQILLLSSLTGDLLL.NE.K.LDREEL..CG.....P...R...EPCVLPFQLLLEK..
+#=GR Q9Y5E2|PF08266|31-112 PP 5..9********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9Y5E4|PF08266|31-112         .-VRYSIPEETESGYSVANLAKDL...G...L.GV...G..........EL.A.T.RG.....ARMHYK.G..NKELLQLDIKTGNLLL.YE.K.LDREVM..CG.....A...T...EPCILHFQLLLEN..
+#=GR Q9Y5E4|PF08266|31-112 PP ..69********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5E5|PF08266|30-110         .-IRYSVLEETESGSFVAHLAKDL...G...L.GI...G..........EL.A.S.RS.....ARVLSD.D..DKQRLQLDRQTGDLLL.RE.K.LDREEL..CG.....P...I...EPCVLHFQVFLE-..
+#=GR Q9Y5E5|PF08266|30-110 PP ..79********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********997...
+Q9Y5E6|PF08266|31-112         r--RYSVAEEKEKGFLIANLAKDL...G...L.RV...E..........EL.A.A.RG.....AQVVSK.G..NKQHFQLSHQTGDLLL.NE.K.LDREEL..CG.....P...T...EPCILHFQILLQN..
+#=GR Q9Y5E6|PF08266|31-112 PP 5..9********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********86..
+Q9Y5E7|PF08266|33-114         r--HYSVAEETESGSFVANLLKDL...G...L.EI...G..........EL.A.V.RG.....ARVVSK.G..KKMHLQFDRQTGDLLL.NE.K.LDREEL..CG.....P...T...EPCVLPFQVLLEN..
+#=GR Q9Y5E7|PF08266|33-114 PP 5..8********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5E8|PF08266|31-112         r--RYSVMEETERGSFVANLANDL...G...L.GV...G..........EL.A.E.RG.....ARVVSE.D..NEQGLQLDLQTGQLIL.NE.K.LDREKL..CG.....P...T...EPCIMHFQVLLKK..
+#=GR Q9Y5E8|PF08266|31-112 PP 5..9********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********985..
+Q9Y5E9|PF08266|31-112         a--HYSVAEETEIGSFVANLARDL...G...L.GV...E..........EL.S.S.RE.....ARVVSD.D..NKKYLHLDLLTGNLLL.NE.K.LDRDEL..CG.....S...T...EPCVLHFQVVLEN..
+#=GR Q9Y5E9|PF08266|31-112 PP 6..8********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5F0|PF08266|32-112         r--SYSVVEETEGSSFVTNLAKDL...G...L.EQ...R..........EF.S.R.RG.....VRVVSR.G..NKLHLQLNQETADLLL.NE.K.LDREDL..CG.....H...T...EPCVLRFQVLLE-..
+#=GR Q9Y5F0|PF08266|32-112 PP 6..7********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********97...
+Q9Y5F1|PF08266|32-112         n---FLVMEELQSGSFVGNLAKTL...G...L.EV...S..........EL.S.S.RG.....ARVVSN.D..NKECLQLDTNTGDLLL.RE.M.LDREEL..CG.....S...N...EPCVLYFQVLMKN..
+#=GR Q9Y5F1|PF08266|32-112 PP 6...78******************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5F3|PF08266|30-110         .TIRYSVAEEMESGSFVANVAKDL...G...L.EV...G..........KL.A.A.RG.....ARLVSE.G..NKMHFRLHRKTGDLFV.KE.K.LDRESL..CG.....K...A...DPCVLHFEVVL--..
+#=GR Q9Y5F3|PF08266|30-110 PP .58*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********97....
+Q9Y5F6|PF08266|30-111         .QLRYSVVEESEPGTLVGNVAQDL...G...L.KM...T..........DL.L.S.RR.....LQLGSE.E..NGRYFSLSLMSGALAV.NQ.K.IDRESL..CG.....A...S...TSCLLPVQVVTE-..
+#=GR Q9Y5F6|PF08266|30-111 PP .68*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********975...
+Q9Y5F8|PF08266|33-112         .-IRYSIPEELAKGSVVGNLAKDL...G...L.SV...L..........DV.S.A.RE.....LRVSA-.-..EKLHFSVDAQSGDLLV.KD.R.IDREQI..CK.....E...R...RRCELQLEAVVEN..
+#=GR Q9Y5F8|PF08266|33-112 PP ..79********************...*...*.**...*..........**.*.*.**.....***98.....99**************.**.*.******..**.....*...*...**********997..
+Q9Y5F9|PF08266|33-112         .-IRYSIPEELAKGSVVGNLAKDL...G...L.SV...L..........DV.S.A.RK.....LRVSA-.-..EKLHFSVDAESGDLLV.KN.R.IDREQI..CK.....E...R...RRCELQLEAVVEN..
+#=GR Q9Y5F9|PF08266|33-112 PP ..79********************...*...*.**...*..........**.*.*.**.....***98.....99**************.**.*.******..**.....*...*...**********997..
+Q9Y5G0|PF08266|32-112         .QIRYRIPEEMPKGSVVGNLATDL...G...F.SV...Q..........EL.P.T.RK.....LRVSS-.-..EKPYFTVSAESGELLV.SS.R.LDREEI..CG.....K...K...PACALEFEAVAEN..
+#=GR Q9Y5G0|PF08266|32-112 PP .69*********************...*...*.**...*..........**.*.*.**.....***99.....99**************.**.*.******..**.....*...*...*********9986..
+Q9Y5G1|PF08266|33-112         .-IRYAIPEELDRGSLVGNLAKDL...G...F.GV...G..........DL.P.T.RN.....LRVIA-.-..EKKFFTVSPENGNLLV.SD.R.IDREEI..CG.....K...K...STCVLEFEMVAEK..
+#=GR Q9Y5G1|PF08266|33-112 PP ..79********************...*...*.**...*..........**.*.*.**.....****9.....99**************.**.*.******..**.....*...*...*********9985..
+Q9Y5G2|PF08266|32-112         .QIRYSIPEELAKNSVVGNLAKDL...G...L.SV...R..........DL.P.A.RK.....LRVSA-.-..EKEYFTVNPESGDLLV.SD.R.IDREQI..CG.....K...Q...PLCVLDFDTVAEN..
+#=GR Q9Y5G2|PF08266|32-112 PP .69*********************...*...*.**...*..........**.*.*.**.....***98.....99**************.**.*.******..**.....*...*...********99986..
+Q9Y5G3|PF08266|30-109         .QIRYTIPEELANGSRVGKLAKDL...G...L.SV...R..........EL.P.T.RK.....LRVSA-.-..-EDYFNVSLESGDLLV.NG.R.IDREKI..CG.....R...K...LECALEFETVAEN..
+#=GR Q9Y5G3|PF08266|30-109 PP .69*********************...*...*.**...*..........**.*.*.**.....***98......789************.**.*.******..**.....*...*...*********9986..
+Q9Y5G4|PF08266|30-112         .QIRYSVPEETEKGYIVGNISKDL...A...L.EP...R..........EL.A.E.RR.....VRIVSR.G..RTQLFSLNPRSGTLVT.AG.R.IDREEL..CA.....Q...S...PRCLVNFKVLVED..
+#=GR Q9Y5G4|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5G5|PF08266|30-112         .QIRYSVPEETDKGSFVGNISKDL...G...L.DP...R..........KL.A.K.HG.....VRIVSR.G..RTQLFALNPRSGSLIT.AG.R.IDREEL..CA.....Q...S...PRCLININTLVED..
+#=GR Q9Y5G5|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********985..
+Q9Y5G6|PF08266|31-112         i--LYSVSEETDKGSFVGDIAKDL...G...L.EP...R..........EL.A.E.RG.....VRIISR.G..RTQLFALNQRSGSLVT.AG.R.IDREEI..CA.....Q...S...ARCLVNFNILMED..
+#=GR Q9Y5G6|PF08266|31-112 PP 6..5********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9Y5G7|PF08266|30-112         .QIRYSIPEELEKGSFVGNIVKDL...G...L.EP...Q..........EL.A.E.HG.....VRIVSR.G..RMQLFSLNPRNGSLVT.AG.R.IDREEL..CA.....Q...S...PRCLVSFNILVED..
+#=GR Q9Y5G7|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5G8|PF08266|30-112         .QIRYSMPEELDKGSFVGNIAKDL...G...L.EP...Q..........EL.A.E.RG.....VRIVSR.G..RTQLFALNPRSGSLVT.AG.R.IDREEL..CA.....Q...S...PLCVVNFNILVEN..
+#=GR Q9Y5G8|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********97..
+Q9Y5G9|PF08266|61-143         .QILYSVFEEQEEGSVVGNIAKDL...G...L.AP...R..........EL.A.E.RG.....VRIVSR.G..RTQLFALNPRSGTLVT.AG.R.IDREEL..CD.....R...S...PNCVTNLEILLED..
+#=GR Q9Y5G9|PF08266|61-143 PP .578********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9Y5H0|PF08266|30-112         .QIRYSVSEELDKGSFVGNIANDL...G...L.EP...R..........EL.A.E.RG.....VRIVSR.G..RTQLFSLNPQSGSLVT.AE.R.IDREEL..CA.....Q...I...PLCLVKINILVED..
+#=GR Q9Y5H0|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5H1|PF08266|30-112         .QIRYSVREEIDRGSFVGNIAKDL...G...L.EP...L..........AL.A.E.QG.....VRIVSR.G..RSQLFALNPRSGSLVT.AN.R.IDREEL..CA.....Q...S...APCLLNFNILLED..
+#=GR Q9Y5H1|PF08266|30-112 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...***********96..
+Q9Y5H2|PF08266|31-113         .QIRYSVPEETEKGSFVGNISKDL...G...L.EP...R..........EL.A.K.RG.....VRIVSR.G..KTQLFAVNPRSGSLIT.AG.R.IDREEL..CE.....T...V...SSCFLNMELLVED..
+#=GR Q9Y5H2|PF08266|31-113 PP .69*********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5H3|PF08266|34-116         .QISYSIPEELEKGSFVGNISKDL...G...L.AP...R..........EL.A.E.RG.....VRIVSR.G..RTQLFSLNPRSGSLIT.AG.R.IDREEL..CA.....Q...S...ARCVVSFNILVED..
+#=GR Q9Y5H3|PF08266|34-116 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5H4|PF08266|31-112         .-IHYSVPEETDKGSFVGNIAKDL...G...L.QP...Q..........EL.A.D.GG.....VRIVSR.G..RMPLFALNPRSGSLIT.AR.R.IDREEL..CA.....Q...S...MPCLVSFNILVED..
+#=GR Q9Y5H4|PF08266|31-112 PP ..79********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...**********996..
+Q9Y5H6|PF08266|30-111         .QLHYSVPEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.R..HRDLLEVSLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9Y5H6|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5H7|PF08266|29-110         .QLHYSIPEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.G..RGDLLEVNLQNGILFV.NS.R.IDREEL..CR.....R...R...AECSIHLEVIVD-..
+#=GR Q9Y5H7|PF08266|29-110 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5I0|PF08266|30-111         .QLHYSVPEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.P.RL.....FRVASK.R..HGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....R...S...AECSIHLEVIVD-..
+#=GR Q9Y5I0|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5I1|PF08266|30-111         .QLHYSVSEEAKHGTFVGRIAQDL...G...L.EL...A..........EL.V.Q.RL.....FRVASK.T..HGDLLEVNLQNGILFV.NS.R.IDREEL..CG.....Q...S...AECSIHLEVIVD-..
+#=GR Q9Y5I1|PF08266|30-111 PP .689********************...*...*.**...*..........**.*.*.**.....******.*..****************.**.*.******..**.....*...*...*********985...
+Q9Y5I4|PF08266|43-127         .QLRYSVPEEQAPGALVGNVARAL...G...L.EL...R..........RL.G.P.GC.....LRINHL.GapSPRYLELDLTSGALFV.NE.R.IDREAL..CE.....Q...R...PRCLLSLEVLAHN..
+#=GR Q9Y5I4|PF08266|43-127 PP .68*********************...*...*.**...*..........**.*.*.**.....***887.622578*************.**.*.******..**.....*...*...*********9875..
+Q96TA0|PF08266|8-58           g-----------------------...-...-.--...-..........--.-.-.-G.....ARVIFD.D..YKPYLRLDPQNGDLLL.NE.Q.LDREAL..CD.....L...T...EPCILHFQVLFEN..
+#=GR Q96TA0|PF08266|8-58   PP 8........................................................6.....9*****.*..****************.**.*.******..**.....*...*...**********997..
+#=GC PP_cons                  .689********************...*...*.**...9..........99.9.9.99.....******.*..****************.**.*.******..**.....*...*...*********9986..
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxx...x...x.xx...x..........xx.x.x.xx.....xxxxxx.x..xxxxxxxxxxxxxxxx.xx.x.xxxxxx..xx.....x...x...xxxxxxxxxxxxx..
+//

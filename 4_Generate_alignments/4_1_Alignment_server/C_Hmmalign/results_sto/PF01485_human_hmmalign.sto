@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+O95376|PF01485|208-270           .EKYRRYLFRDYVESHYQLQLCPGA.DCPMVIRVQEP--RARR.............VQCNR..CNEVFCFKCR.QMYHAPTDC
+#=GR O95376|PF01485|208-270   PP .79**********************.***********..5556.............78***..**********.********9
+P50876|PF01485|91-156            .QRYKKLQFEREVLFDPCRTWCPAS.TCQAVCQLQDVGLQTPQ............pVQCKA..CRMEFCSTCK.ASWHPGQGC
+#=GR P50876|PF01485|91-156    PP .79**********************.**********9888888............9*****..**********.******999
+Q6ZMZ0|PF01485|187-251           .-KYEEFMLRRYLASDPDCRWCPAP.DCGYAVIAYGC-ASCPK.............LTCERegCQTEFCYHCK.QIWHPNQTC
+#=GR Q6ZMZ0|PF01485|187-251   PP ..7**********************.****9988877.88999.............9***999**********.*********
+Q7Z419|PF01485|102-166           l--YQRLKFEREVHLDPYRTWCPVA.DCQTVCPVASSDPGQPV............lVECPS..CHLKFCSCCK.DAWHAEVSC
+#=GR Q7Z419|PF01485|102-166   PP 7..99********************.******98888655555............799***..**********.********9
+Q8IWT3|PF01485|2141-2203         .-KYEKALLRGYVESCSNLTWCTNPqGCDRILCRQGL--GCGT.............-TCSK..CGWASCFNCSfPEAHYPASC
+#=GR Q8IWT3|PF01485|2141-2203 PP ..7*****************************99999..5665..............9***..**********5667*****9
+Q8TC41|PF01485|340-396           d---------------SSTKPCP--.QCKHFTTFKKKGHIP-Tpsrs....eskykIQCPT..CQFVWCFKCH.SPWHEGVNC
+#=GR Q8TC41|PF01485|340-396   PP 6...............56799*9...***999776663333.14677....88888*****..**********.********9
+Q9NV58|PF01485|199-264           .EKYEEFMLRRWLVADPDCRWCPAP.DCGYAVIAFGC-ASCPK.............LTCGRegCGTEFCYHCK.QIWHPNQTC
+#=GR Q9NV58|PF01485|199-264   PP .79**********************.***99988776.78999.............9**9999**********.*********
+Q9P2G1|PF01485|402-478           .KRYLQFDIKAFVENNPAIKWCPTP.GCDRAVRLTKQGSNTSGsdtlsfpllrapaVDCG-..KGHLFCWECL.GEAHEPCDC
+#=GR Q9P2G1|PF01485|402-478   PP .69**********************.**********97777779****************...**********.*********
+Q9UBS8|PF01485|290-350           .-RYDRLLLQSSLDLMADVVYCPRP.CCQLPVMQEPG---CTM.............GICSS..CNFAFCTLCR.LTYHGVSPC
+#=GR Q9UBS8|PF01485|290-350   PP ..799********************.***********...999.............99***..**********.****98787
+Q9Y4X5|PF01485|257-317           .-KYQHLITNSFVECNRLLKWCPAP.DCHHVVKVQYP--DAKP.............VRCK-..CGRQFCFNCG.ENWHDPVKC
+#=GR Q9Y4X5|PF01485|257-317   PP ..7**********************.*********99..4445.............77**...**********.********9
+#=GC PP_cons                     .68*************9********.******99998666676.............99***..**********.*******99
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx.............xxxxx..xxxxxxxxxx.xxxxxxxxx
+//

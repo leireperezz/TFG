@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+Q12800|PF04516|53-258          esslppdn-----------------------ENKILPFQYVLCAATSPAVKLHDETLTYLNQGQSYEIRMLDNRkLGELPEINGKLVKSIFRVVFHDRRLQYTEHQQLEGWRWNRPGD--RILDIdiPMSvGIIDPRAN------PTQLNTVEFLWDPAKRTSVFIQVHCISTEFTMRKhgGEKGVPFRVQIDTFKENEN
+#=GR Q12800|PF04516|53-258  PP 87665443.......................445568*******************************98665536699***************************************..8888777************......999**********************************************987655
+Q6ISB3|PF04516|229-438         .......r----------SASVGAEEYMYD-QTSSGTFQYTLEATKSLRQKQGEGPMTYLNKGQFYAITLSETG.DNKCFRHPISKVRSVVMVVFSEDKNRDEQLKYWKYWHSRQHTAKQRVLDI..---.ADYKESFNTIGNIEEIAYNAVSFTWDVNEEAKIFITVNCLSTDFSSQK..GVKGLPLMIQIDTYSYNNR
+#=GR Q6ISB3|PF04516|229-438 PP .......6..........678999999999.999****************************************.**************************************************......************************************************..*******************
+Q8TE85|PF04516|226-420         ......sl--------------------------KSDFEYTLGSPKAIHIKSGESPMAYLNKGQFYPVTLRTPA.GGKGLALSSNKVKSVVMVVFDNEKVPVEQLRFWKHWHSRQPTAKQRVIDV..---.ADCKENFNTVEHIEEVAYNALSFVWNVNEEAKVFIGVNCLSTDFSSQK..GVKGVPLNLQIDTYDCGLG
+#=GR Q8TE85|PF04516|226-420 PP ......86..........................799***********************************99.899999********************************************......************************************************..*******************
+Q9NZI5|PF04516|239-440         sedyvfds------------------------VSGNNFEYTLEASKSLRQKPGDSTMTYLNKGQFYPITLKEVS.SSEGIHHPISKVRSVIMVVFAEDKSREDQLRHWKYWHSRQHTAKQRCIDI..---.ADYKESFNTISNIEEIAYNAISFTWDINDEAKVFISVNCLSTDFSSQK..GVKGLPLNIQVDTYSYNNR
+#=GR Q9NZI5|PF04516|239-440 PP 87776655........................45689*************************************.**************************************************......************************************************..*******************
+Q9NZI6|PF04516|45-238          .....ppl------------------------------QYVLCAATSPAVKLHEETLTYLNQGQSYEIRLLENRkLGDFQDLNTKYVKSIIRVVFHDRRLQYTEHQQLEGWRWSRPGD--RILDIdiPLSvGILDPRAS------PTQLNAVEFLWDPAKRASAFIQVHCISTEFTPRKhgGEKGVPFRVQIDTFKQNEN
+#=GR Q9NZI6|PF04516|45-238  PP .....*96..............................79*****************************976653669999*************************************..8888777***888888888......899**********************************************998765
+Q9NZI7|PF04516|55-255          ......ld----------------------GETEHPPFQYVMCAATSPAVKLHDETLTYLNQGQSYEIRMLDNRkMGDMPEINGKLVKSIIRVVFHDRRLQYTEHQQLEGWKWNRPGDRLLDLDI..PMSvGIIDTRTN------PSQLNAVEFLWDPAKRTSAFIQVHCISTEFTPRKhgGEKGVPFRIQVDTFKQNEN
+#=GR Q9NZI7|PF04516|55-255  PP ......86......................5678889*******************************976655489*****************************************6666777..************......899**********************************************998766
+#=GC PP_cons                   ..................6789999999995667789*9******************************98887.889****************************************9999999..***.**************99********************************..**************99888
+#=GC RF                        ........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxx
+
+Q12800|PF04516|53-258          GEYTehLHSASCQIKVFKPKGADRKQKTDREKMEKR---t
+#=GR Q12800|PF04516|53-258  PP 444445****************************98...6
+Q6ISB3|PF04516|229-438         SNKP..IHRAYCQIKVFCDKGAERKIRDEERKQNRKKGK.
+#=GR Q6ISB3|PF04516|229-438 PP ****..******************************986.
+Q8TE85|PF04516|226-420         TERL..VHRAVCQIKIFCDKGAERKMRDDERKQFRRK--v
+#=GR Q8TE85|PF04516|226-420 PP ****..*****************************97..8
+Q9NZI5|PF04516|239-440         SNKP..VHRAYCQIKVFCDKGAERKIRDEERKQSKRK--.
+#=GR Q9NZI5|PF04516|239-440 PP ****..****************************996...
+Q9NZI6|PF04516|45-238          GEYTehLHSASCQIKVFKPKGADRKQKTDREKMEKR---t
+#=GR Q9NZI6|PF04516|45-238  PP 554445****************************98...6
+Q9NZI7|PF04516|55-255          GEYTdhLHSASCQIKVFKPKGADRKQKTDREKMEKR---t
+#=GR Q9NZI7|PF04516|55-255  PP 555455****************************98...6
+#=GC PP_cons                   7777..****************************99786.
+#=GC RF                        xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

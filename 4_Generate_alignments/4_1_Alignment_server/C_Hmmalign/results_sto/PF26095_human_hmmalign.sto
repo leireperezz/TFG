@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O75150|PF26095|79-265         KLEKRQATDDATLLIVNRYWAQLDETVEALLRCHESQGELSSapeapgtqegptcdgtplpepgtselrdpllmqlrpplsepALAFVVALGASSSEEVELELQGRMEFSKAAVSRV............-VEASDRLQRR..VEELCQRVYSrgdseplseaAQAHTRELGREN.RRLQDLATQLQEKHHRISLEYSELQ
+#=GR O75150|PF26095|79-265 PP 59*****************************9998886655567899*********************************98889********************************.............899999****..********999999996666666666666666.6666666666666666666666666
+Q5VTR2|PF26095|78-264         KLERRQATDDASLLIVNRYWSQFDENIRIILKRYDLEQGLGDllterkalvvpepepds......dsnqerkddrergegqepAFSFLATLASSSSEEMESQLQERVESSRRAVSQIvtvydklqekveLLSRKLNSGDNliVEEAVQELNS..........FLAQENMRLQELtDLLQEKHRTMSQEFSKLQSKVETAE
+#=GR Q5VTR2|PF26095|78-264 PP 59********************9999999999999887555578888899999999999......9999*********9998889********************************88888877777644443344443558888888888..........88877776666614556666788999999999999999
+#=GC PP_cons                  59********************99999999999988875555.........................................89********************************............46666667777..9999999999..........777776666666.5666666777888888888888887
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxx..xxxxxxxxxx..........xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+O75150|PF26095|79-265         D-----kv
+#=GR O75150|PF26095|79-265 PP 5.....57
+Q5VTR2|PF26095|78-264         SRV---..
+#=GR Q5VTR2|PF26095|78-264 PP 985.....
+#=GC PP_cons                  785.....
+#=GC RF                       xxxxxx..
+//

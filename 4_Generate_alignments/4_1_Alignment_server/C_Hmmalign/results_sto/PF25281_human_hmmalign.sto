@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P46821|PF25281|240-523         .PSPFDILEPPTSGGFLKLSKPCCYIFPGGRGDSALFAVNGFNMLINGGSERKSCFWKLIRHLDRVDSILLTHIGDDNLPGINSMLQRKIAElEEEQSQGSTTNSDWMKNLISPDLGVVFLNVPENLKNPEPNIKMKRSIEEACFTLQYLNKLSMKPEPLFRSVGNTiDPVILFQKMGVGKLEMYVLNPVKSSKEMQYFM
+#=GR P46821|PF25281|240-523 PP .79*****************************************************************************************************************************************************************************************************
+P78559|PF25281|18-300          .PSPFDLLEPPTSGGFLKLSKPCCYIFPGGRGDSALFAVNGFNILVDGGSDRKSCFWKLVRHLDRIDSVLLTHIGADNLPGINGLLQRKVAElEEEQSQGSSSYSDWVKNLISPELGVVFFNVPEKLRLPDASRKAKRSIEEACLTLQHLNRLGIQAEPLYRVVSNTiEPLTLFHKMGVGRLDMYVLNPVKDSKEMQFLM
+#=GR P78559|PF25281|18-300  PP .79*****************************************************************************************************************************************************************************************************
+Q66K74|PF25281|221-404         .PSPFELLEPPTSGGFLRLGRPCCYIFPGGLGDAAFFAVNGFTVLVNGGSNPKSSFWKLVRHLDRVDAVLVTHPGADSLPGLNSLLRRKLAE.RSEVAAGGGSWDDRLRRLISPNLGVVFFNACE------AASRLARGEDEAELALSLLAQLGITPLPLSRGPVPA.KPTVLFEKMGVGRLDMYVLHPPS---------
+#=GR Q66K74|PF25281|221-404 PP .89*****************************************************************************************.********************************......99**********************************.*********************87.........
+Q66K74|PF25281|408-466         t-------------------------------------------------------------------------------------------.--------------------------------------------------------------------------.--------------------------------
+#=GR Q66K74|PF25281|408-466 PP 6.......................................................................................................................................................................................................
+#=GC PP_cons                   .79*****************************************************************************************.**************************************************************************.*********************99*********
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P46821|PF25281|240-523         QQWTGTNKDKAEfilPNGQEVDLPISYLTSVSSLIVWHPANPAEKIIRVLFPGNSTQYNILEGLEKLKHLDFLKQPLATQKDLTG..
+#=GR P46821|PF25281|240-523 PP ************999*******************************************************************985..
+P78559|PF25281|18-300          QKWAGNSKAKTGivlPNGKEAEISVPYLTSITALVVWLPANPTEKIVRVLFPGNAPQNKILEGLEKLRHLDFLRYPVATQKDLA-..
+#=GR P78559|PF25281|18-300  PP ***********9999*******************************************************************96...
+Q66K74|PF25281|221-404         ------------...----------------------------------------------------------------------ag
+#=GR Q66K74|PF25281|221-404 PP .....................................................................................68
+Q66K74|PF25281|408-466         ------------...------------LASVCALLVWHPAGPGEKVVRVLFPGCTPPACLLDGLVRLQHLRFLREPVVTPQDLEG..
+#=GR Q66K74|PF25281|408-466 PP ...........................89*****************************************************986..
+#=GC PP_cons                   ************...************9******************************************************976..
+#=GC RF                        xxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

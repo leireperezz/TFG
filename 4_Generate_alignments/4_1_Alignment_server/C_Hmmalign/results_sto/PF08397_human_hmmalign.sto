@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O43312|PF08397|16-237         FQTIISDMKgsyPVWEDFINKAGKLQSQLRTTVVAAAAFLDAFQKVADMATNTRGgTREIGSALTRMCMRHRSIEAKLRQFSSALIDCLINPLQEQMEEWKKVANQLDKDHAKEYKKARQEIKKKSSDTLKLQKKAKK...GRGDIQPQLDSA..LQDVNDKYLLLEETEKQAVRKALIEERGRFCTFISMLRPVIEEEI
+#=GR O43312|PF08397|16-237 PP 8*****************************************************************************************************************************************...************..*********************************************
+Q6UXY1|PF08397|16-226         YKSIMEQFN...PALENLVYLGNNYLRAFHALSEAAEVYFSAIQKIGERALQSPT.SQILGEILVQMSDTQRHLNSDLEVVVQTFHGGLLQHMEKNTKLDMQFIKDSRQHYELEYRHRAANLEKCMSELWRMERKRDK...-------NVREM..KESVNRLHAQMQAFVSESQRAAELEEKRRYRFLAEKHLLLSNTFL
+#=GR Q6UXY1|PF08397|16-226 PP 9********...*******************************************.**********************************************************************************..........*****..*********************************************
+Q765P7|PF08397|15-239         FQAIVNDMKssyPIWEDFNSKATKLHSQLRTTVLAAVAFLDAFQKVADMATNTRGaTRDIGSALTRMCMRHRSIETKLRQFTNALLESLINPLQERIEDWKKAANQLDKDHAKEYKRARHEIKKKSSDTLKLQKKARKellGKGDLQPQLDSA..LQDVNDMYLLLEETEKQAVRRALIEERGRFCTFITFLQPVVNGEL
+#=GR Q765P7|PF08397|15-239 PP 8********************************************************************************************************************************************************..*********************************************
+Q9UHR4|PF08397|16-236         YRNVMEQFN...PGLRNLINLGKNYEKAVNAMILAGKAYYDGVAKIGEIATGSPV.STELGHVLIEISSTHKKLNESLDENFKKFHKEIIHELEKKIELDVKYMNATLKRYQTEHKNKLESLEKSQAELKKIRRKSQG...SRNALKYEHKEIeyVETVTSRQSEIQKFIADGCKEALLEEKRRFCFLVDKHCGFANHIH
+#=GR Q9UHR4|PF08397|16-236 PP 899******...*******************************************.**********************************************************************************...***********999*********************************************
+Q9UQB8|PF08397|17-237         YKTIMEQFN...PSLRNFIAMGKNYEKALAGVTYAAKGYFDALVKMGELASESQG.SKELGDVLFQMAEVHRQIQNQLEEMLKSFHNELLTQLEQKVELDSRYLSAALKKYQTEQRSKGDALDKCQAELKKLRKKSQG...SKNPQKYSDKELqyIDAISNKQGELENYVSDGYKTALTEERRRFCFLVEKQCAVAKNSA
+#=GR Q9UQB8|PF08397|17-237 PP 9********...*******************************************.**********************************************************************************...************99*********************************************
+#=GC PP_cons                  9********...*******************************************.**********************************************************************************...************..*********************************************
+#=GC RF                       xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43312|PF08397|16-237         SMLGE-ITHLQTISEDLKSLTMDPHKLP
+#=GR O43312|PF08397|16-237 PP *****.*********************9
+Q6UXY1|PF08397|16-226         QFFGRARGMLQNRVLLWKEQ-SEASRSP
+#=GR Q6UXY1|PF08397|16-226 PP ********************.*****99
+Q765P7|PF08397|15-239         TMLGE-ITHLQGIIDDLVVLTAEPHKLP
+#=GR Q765P7|PF08397|15-239 PP *****.*********************9
+Q9UHR4|PF08397|16-236         YYHLQSAELLNSKLPRWQETCVDAIKVP
+#=GR Q9UHR4|PF08397|16-236 PP **************************99
+Q9UQB8|PF08397|17-237         AYHSKGKELLAQKLPLWQQACADPSKIP
+#=GR Q9UQB8|PF08397|17-237 PP ***************************9
+#=GC PP_cons                  **************************99
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

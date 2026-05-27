@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+P02647|PF01442|69-256          .....KLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHELQEKLSPLGEE..................MRDRARAHVDALRTHLAPYSDELR...........QRLAARLEALKENGGARLAEYHAKATEHLSTLSEKAKP.
+#=GR P02647|PF01442|69-256  PP .....689****************************************************************************************************..................************************...........**************************************.
+P02649|PF01442|81-288          .....LMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAG..................AREGAERGLSAIRERLGPLVEQGRvraatvgslagQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEv
+#=GR P02649|PF01442|81-288  PP .....589****************************************************************************************************..................*********************************************************99999999999999998
+P06727|PF01442|61-250          .....LFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVSTQAEQLRRQLTPYAQR..................MERVLRENADSLQASLRPHADELK...........AKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAP.
+#=GR P06727|PF01442|61-250  PP .....589****************************************************************************************************..................************************...........**************************************.
+Q6Q788|PF01442|60-260          ....l--EQDLNNMNKFLEKLRPLSGS----EAPRLPQDPVGMRRQLQEELEEVKARLQPYMAEAHELVGWNLEGLRQQLKPYTMDLMEQVALRVQELQEQLRVVGEDtkaqllggvdeawallqgLQSRVVHHTGRFKELFHPYAESLV...........SGIGRHVQELHRSVAPHAPASPARLSRCVQVLSRKLTL.
+#=GR Q6Q788|PF01442|60-260  PP ....6..56666666666666655555....8**********************************************************************************************************************...........**************************************.
+Q6Q788|PF01442|272-354         pdpqm-------------------------------------------------------------------------------------------------------..................----------------------LS...........EEVRQRLQAFRQDTYLQIAAFTRAIDQETEEVQQQLAPp
+#=GR Q6Q788|PF01442|272-354 PP 98865...............................................................................................................................................45...........667788888888888888888888888888888888888
+#=GC PP_cons                   .....5889999999999999999999*********************************************************************************..................**********************99...........9999******************9999999999999999.
+#=GC RF                        .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..................xxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+P02647|PF01442|69-256          ..................ALEDLRQGLLPVLESFKVSFL----sa..
+#=GR P02647|PF01442|69-256  PP ..................*****************9886....68..
+P02649|PF01442|81-288          ra............kleeQAQQIRLQAEAFQARLKSWFEPLVE....
+#=GR P02649|PF01442|81-288  PP 88............8988**********************997....
+P06727|PF01442|61-250          ..................YAQDTQEKLNHQLEGLTFQMKKNAE....
+#=GR P06727|PF01442|61-250  PP ..................********************99875....
+Q6Q788|PF01442|60-260          ..................KAKALHARIQQNLDQLREELSR---a...
+#=GR Q6Q788|PF01442|60-260  PP ..................******************9986...7...
+Q6Q788|PF01442|272-354         ppghsafapefqqtdsgkVLSKLQARLDDLWED----------iths
+#=GR Q6Q788|PF01442|272-354 PP 888888766666666666666666666666665..........5789
+#=GC PP_cons                   ..................999999999999999***9988986....
+#=GC RF                        ..................xxxxxxxxxxxxxxxxxxxxxxxxx....
+//

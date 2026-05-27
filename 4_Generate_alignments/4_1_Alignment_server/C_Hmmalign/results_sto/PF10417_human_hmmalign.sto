@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+
+P30041|PF10417|166-204         SLQLTAEKRV-ATPVDWKDGDSVMVLPTIPEEEAKKLF---pk
+#=GR P30041|PF10417|166-204 PP 59********.***********************9976...67
+P30048|PF10417|218-253         AFQYVETHG-EVCPANWTPDSPTI---KPSPA-ASKEYFQK..
+#=GR P30048|PF10417|218-253 PP 9********.**************...*****.*****986..
+P32119|PF10417|161-196         AFQYTDEHG-EVCPAGWKPGSDTI---KPNVDD-SKEYFSK..
+#=GR P32119|PF10417|161-196 PP 9********.**************...999996.9999986..
+Q06830|PF10417|162-197         AFQFTDKHG-EVCPAGWKPGSDTI---KPDVQ-KSKEYFSK..
+#=GR Q06830|PF10417|162-197 PP 9********.**************...*****.9*****97..
+Q13162|PF10417|234-261         AFQYTDKHG-EVCPAGWKPGSETIIPDPA------------..
+#=GR Q13162|PF10417|234-261 PP 9********.***************9985..............
+#=GC PP_cons                   8*************************999***899*99986..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

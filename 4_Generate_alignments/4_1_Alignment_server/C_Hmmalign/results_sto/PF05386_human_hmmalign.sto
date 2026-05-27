@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+Q99973|PF05386|1-29           MEKLHGHVSAHPDILSLENRCLAMLPDLQ
+#=GR Q99973|PF05386|1-29   PP 9***************************8
+Q99973|PF05386|31-59          LEKLHQHVSTHSDILSLKNQCLATLPDLK
+#=GR Q99973|PF05386|31-59  PP 8***************************9
+Q99973|PF05386|61-89          MEKPHGYVSAHPDILSLENQCLATLSDLK
+#=GR Q99973|PF05386|61-89  PP 9***************************9
+Q99973|PF05386|91-119         MEKPHGHVSAHPDILSLENRCLATLSSLK
+#=GR Q99973|PF05386|91-119 PP 9***************************9
+#=GC PP_cons                  9***************************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

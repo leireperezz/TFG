@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+O43490|PF05478|19-820         sg---GQPSSTDAPKAWNYELPATNYETQD-SHKAGPIGILFELVHIFLYVVQPRDFPEDTLRKFLQKAYESKIDYDKPETVILGLKIVYYEAGIILCCVLGLLFIILMPLVGYFFCMCRCCNKCGGEMHQRQKENGPFLRKCFAISLLVICIIISIGIFYGFVANHQVRTRIKRSRKLADSNFKDLRTLLNETPEQIKY
+#=GR O43490|PF05478|19-820 PP 76...68999*******************9.*************************************************************************************************************************************************************************
+Q8N271|PF05478|27-807         .a---TDCKFLGPAEHLTFTPAARARWLAPRVRAPGLLDSLYGTVRRFLSVVQLNPFPSELVKALLN-----------ELASVKVNEVVRYEAGYVVCAVIAGLYLLLVPTAGLCFCCCRCHRRCGGRV-KTEHKALACERAALMVFLLLTTLLLLIGVVCAFVTNQRTHEQMGPSIEAMPETLLSLWGLVSDVPQELQA
+#=GR Q8N271|PF05478|27-807 PP .6...689999********************************************************...........8899**********************************************9.**********************************************************************
+#=GC PP_cons                  .....68999********************************************************************999***********************************************************************************************************************
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43490|PF05478|19-820         ILAQ-YNTTKDKAFTDLNSINSVLGGGILDRLRPNIIPVLDEIKSMATAIKETKEALENMNSTLKSLHQQSTQLSSSLTSVKTSLRSSLNDPLCLvhpsSETCNSIRLSLSQ--LNSNPELRQLPPVDAELDNVNNVLRTDLDGLVQQGYQSLNDIPDRVQRQTTTVVAGIKRVLNSIGSDIDNVTQRLPiQDILSAFSV
+#=GR O43490|PF05478|19-820 PP ****.*****************************************************************************************999966************..**************************************************************************************
+Q8N271|PF05478|27-807         VAQQ-FSLPQEQVSEELDGVGVSIGSAIHTQLRSSVYPLLAAVGSLGQVLQVSVHHLQTLNATVVELQAGQQDLEPAIREHRDRLLELLQEARCQ....-GDCAGALSWART--LELGADFSQVPSVDHVLHQLKGVPEANFSSMVQEENSTFNALPALAAMQTSSVVQELKKAVAQQPEGVRTLAEGFPgLEAASRWAQ
+#=GR Q8N271|PF05478|27-807 PP ****.******************************************************************************************.....**********99..**************************************************************************************
+#=GC PP_cons                  ****.******************************************************************************************....6**********99..****************************************************************************.*********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx
+
+O43490|PF05478|19-820         YVNNTESYIHRNLPTLEEYDSYWWLGGLVICSLLTLIVIFYYLGLLCGVCGYDRHATPTTRGCVSNTGGVFLMVGVGLSFLFCWILMIIVVLTFVFGANVEKLICEPYTSKELFRVLDTPYLLNEdweYYLSGKLFNKSKMKLTFEQVYSDCKKNRGTYGTLHLQNSFNISEHLNINEHTGSISSELESLKVNL-NIFLL
+#=GR O43490|PF05478|19-820 PP **************************************************************************************************************************************************************************************************.9****
+Q8N271|PF05478|27-807         ALQEVEESSRPYLQEVQRYETYRWIVGCVLCSVVLFVVLCNLLGLNLGIWGLSARDDPSHPEAKGEAGARFLMAGVGLSFLFAAPLILLVFATFLVGGNVQTLVCQSWENGELFEFADTPGNLPP..sMNLSQLL--GLRKNISIHQAYQQCKEGAALWTVLQLNDSYDLEEHLDINQYTNKLRQELQSLKVDTQSLDLL
+#=GR Q8N271|PF05478|27-807 PP *****************************************************************************************************************************..********..***************************************************************
+#=GC PP_cons                  *****************************************************************************************************************************...************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43490|PF05478|19-820         GAAGRKNLQDFAACGIDRMNYDSYLAQTGKSPAGVNLLSFAYDLEAKANSLPPGNLRNSLKRDAQTIKTIHQQRVLPIEQSLSTLYQSVKILQRTGNGLLERVTRILASLDFAQNFITNNTSSVIIEETKKYGRTIIGYFEHYLQWIEFSISEKVASCKPVATALDTAVdVFLCSYIIDPLNLFWFGIGKATVFLLPALI
+#=GR O43490|PF05478|19-820 PP ********************************************************************************************************************************************************************************************************
+Q8N271|PF05478|27-807         SSAARRDLEALQSSGLQRIHYPDFLVQIQRPVVKTSMEQLAQELQGLAQAQDNSVLGQRLQEEAQGLRNLHQEKVVPQQSLVAKLNLSVRALESSAPNLQLETSDVLANVTYLKGELPAWAARILRNVSECFLAREMGYFSQYVAWVREEVTQRIATCQPLSGALDNSR.VILCDMMADPWNAFWFCLAWCTFFLIPSII
+#=GR Q8N271|PF05478|27-807 PP *************************************************************************************************************************************************************************.******************************
+#=GC PP_cons                  *************************************************************************************************************************************************************************.******************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O43490|PF05478|19-820         FAVKLAKYYR
+#=GR O43490|PF05478|19-820 PP *********8
+Q8N271|PF05478|27-807         FAVKTSKYFR
+#=GR Q8N271|PF05478|27-807 PP *********8
+#=GC PP_cons                  *********8
+#=GC RF                       xxxxxxxxxx
+//

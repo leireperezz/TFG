@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q14190|PF06621|358-660         TALSTSQETRKLVKPKNTKMKTKLRTNPYpPQQYSSFQMDKLECGQLGNWrASPPASAAAPPELQPHSESS....DLLYT-PSYSLPFSYHYGHFPLDSHVFSSKKPMLPAKFGQP-QGSPCEVARFFLSTLPASGECQWHYANPLVPSS-SSPAKN---.PPEP-PANTARHSLVPSYEAPAAAVRRFGEDTAP--PSF
+#=GR Q14190|PF06621|358-660 PP 5789*******************************************************************....*****.***********************************.*********************************.******....9999.*************************9665..9**
+P81133|PF06621|359-669         SSTPTMTDNRKGAKSRLSSSKSKSRTSPY.P-QYSGFHTERSESDHDSQW.GGSPLTDTASPQLLDPADRPgsqhDASCAYRQFSDRSSLCYGFALDHSRLV-----EERHFHTQACEGGRCEAGRYFLGTPQAGREPWWG-SRAALPLTKASPESREAYeNSMPHIASVHRIHGRGHWDEDSVVSSPDPGSASESGDRY
+#=GR P81133|PF06621|359-669 PP 689**************************.9.******************.*******************99999******************999999997.....899*******************************.9*********************************************************
+#=GC PP_cons                   5799*************************.********************.********************....*************************98*****99***************************************************.9******************************888*****
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q14190|PF06621|358-660         PScGHYREEPAlGPAK-------AARQAARDGARLALARAAPECCAPPTPEAPGAPAQLPFVLLNYHRVLARRGPL-GGAAPAASGLACAPggpeaatGALRLR....HPSPAATSPPGAPLPHYLGAS
+#=GR Q14190|PF06621|358-660 PP ****************.......99999************************************************.***************************....******************987
+P81133|PF06621|359-669         RT.EQYQSSPH.EPSKIETLIRATQQMIKEEENRLQLRKAP-SDQLASINGAGKKHSLCF-ANYQ-QP--PPTGEVCHGSALANTSPCDHIqq..regKMLSPHendyDNSPTALSRISSPNSDRISKS
+#=GR P81133|PF06621|359-669 PP **.********.****************************9.9****************9.7787.66..9*******************9**..*********99999******************98
+#=GC PP_cons                   **.********.***********9*************************************8998*88***********************.......******....******************997
+#=GC RF                        xx.xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxx....xxxxxxxxxxxxxxxxxxxxx
+//

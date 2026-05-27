@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q15834|PF10226|8-193          l----EELTDEEMAALGKEELVRRLRREEAARLAALVQRGRLMQEVNRQLQGHLGEIRELKQLNRRLQAENRELRDLCCFLDSERQRGRRAARQWQLFGTQASRAVREDLGGCWQKLAELEGRQEELLRENLALKELCLALGEEWGP................RGGPSGAGGSGAG--.PAPELALPPcgPRDLGDGSS-
+#=GR Q15834|PF10226|8-193  PP 6....789*******************************************************************************************************************************************................6666555555443...55555555446*********.
+A6NKD9|PF10226|13-219         .-EELSQVPDEELLRWSKEELARRLRRAEGEKVGLMLEHGGLMRDVNRRLQQHLLEIRGLKDVNQRLQDDNQELRELCCFLDDDRQKGRKLAREWQRFGRHAAGAVWHEVARSQQKLRELEARQEALLRENLELKELVLLLDEERAAlaatgaasggggggggAGSRSSIDSQASLSGpLSGGAPGAG..ARDVGDGSST
+#=GR A6NKD9|PF10226|13-219 PP ..689************************************************************************************************************************************************************999*************99999******..**********
+Q96PX6|PF10226|34-224         .-EDLSKVSDEELLQWSKEELIRSLRRAEAEKVSAMLDHSNLIREVNRRLQLHLGEIRGLKDINQKLQEDNQELRDLCCFLDDDRQKGKRVSREWQRLGRYTAGVMHKEVALYLQKLKDLEVKQEEVVKENMELKELCVLLDEEKGAg..............cAGSRCSIDSQASLCQ.LTA-STAPY..VRDVGDGSST
+#=GR Q96PX6|PF10226|34-224 PP ..689********************************************************************************************************************************************987..............789**********999.765.45678..**********
+#=GC PP_cons                  ..68999******************************************************************************************************************************************99................888888888888799.776767777..**********
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx................xxxxxxxxxxxxxxx.xxxxxxxxx..xxxxxxxxxx
+
+Q15834|PF10226|8-193          -STGSVGSPDQ
+#=GR Q15834|PF10226|8-193  PP .********97
+A6NKD9|PF10226|13-219         SSAGSGGSPDH
+#=GR A6NKD9|PF10226|13-219 PP **********8
+Q96PX6|PF10226|34-224         SSTGSTDSPDH
+#=GR Q96PX6|PF10226|34-224 PP **********8
+#=GC PP_cons                  **********7
+#=GC RF                       xxxxxxxxxxx
+//

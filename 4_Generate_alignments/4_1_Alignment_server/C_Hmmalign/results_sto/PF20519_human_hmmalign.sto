@@ -1,0 +1,36 @@
+# STOCKHOLM 1.0
+
+P98161|PF20519|3714-3890         ....-FLAITRSEELWPWMAHVLLPYV......HGNQS------------SPELGPPRLRQVRLQEA..--LYPDPPGPRVHT....CSAAGGFSTSD---YDVGW-...ESPHNGSG-TWAYSAPDLL-GAWSWGSCAVYDSGGYVQ.ELG.LSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRL
+#=GR P98161|PF20519|3714-3890 PP .....56899*****************......*****............799*************5....999999999999....*********99...9****....56666666.899**99999.9*****************.***.***********************************************
+Q13563|PF20519|269-463           ....NFKTLSSMEDFWKFTEGSLLDGLyw.kmqPSNQT-EADNRSFIFYENLLLGVPRIRQLRVRNG..SCSIPQDLRDEIKE....CYDVYSVSSEDR--------...APFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYL.DLS.RTREETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLV
+#=GR Q13563|PF20519|269-463   PP ....5899*******************99.98666777.9***************************..**************....***********9...........**************************************.***.***********************************************
+Q7Z442|PF20519|1988-2176         fsgv-----LGFREFFKWANTTLVSNL......YGHPP-GFITDG----NSKLVGSAQIRQVRVQES..SCPLAQQPQAYLNG....CRAPYSLDAEDMADYGEGWN...AT----TLSEWQYQSQDQRQGYPIWGKLTVYRGGGYVV.PLG.TDRQSTSRILRYLFDNTWLDALTRAVFVESTVYNANVNLFCIVTLTL
+#=GR Q7Z442|PF20519|1988-2176 PP 7765.....56899*************......99988.444333....69****************..**************....*******************5...33....334589**************************.***.***********************************************
+Q8TDX9|PF20519|2442-2512         ...v-----------------------......----------------------------------..--------------....--------------------...-------------------------------------L.SLG.RTRTEAHTALSRLRASMWIDRSTRAVSVHFTLYNPPTQLFTSVSLRV
+#=GR Q8TDX9|PF20519|2442-2512 PP ...5...............................................................................................................................................6.899.***********************************************
+Q9NTG1|PF20519|1750-1954         ....DLATVTKLEDIYRWLNSVLLPLL......HNDLNPTFLPES----SSKILGLPLMRQVRAKSSekMCLPAEKFVQNSIRreihCHPKYGIDPEDTKNYSGFWNevdKQAIDESTNGFTYKPQGTQWLYYSYGLLHTYGSGGYALyFFPeQQRFNSTLRLKELQESNWLDEKTWAVVLELTTFNPDINLFCSISVIF
+#=GR Q9NTG1|PF20519|1750-1954 PP ....689********************......************....****************9999***********9988999************************************************************9888899**********************************************
+Q9NZM6|PF20519|77-272            ....NFKSIRSITDFWKFMEGPLLEGLywdswyNNQQLYNLKNSSRIYYENILLGVPRVRQLKVRNN..TCKVYSSFQSLMSE....CYGKYTSANEDL--------...SNFGLQINTEWRYSTSNTN-SPWHWGFLGVYRNGGYIF.TLS.KSKSETKNKFIDLRLNSWITRGTRVIFIDFSLYNANVNLFCIIRLVA
+#=GR Q9NZM6|PF20519|77-272    PP ....5899************************55555567788899*********************..**************....***********9...........7778888888999999887.89****************.***.***********************************************
+Q9P0L9|PF20519|148-342           ....-FQAISSMADFWDFAQGPLLDSLyw.tkwYNNQSLGHGSHSFIYYENMLLGVPRLRQLKVRND..SCVVHEDFREDILS....CYDVYSPDKEEQ--------...LPFGPFNGTAWTYHSQDELGGFSHWGRLTSYSGGGYYL.DLP.GSRQGSAEALRALQEGLWLDRGTRVVFIDFSVYNANINLFCVLRLVV
+#=GR Q9P0L9|PF20519|148-342   PP .....7899********************.*************************************..**************....***********9...........9*************************************.***.***********************************************
+#=GC PP_cons                     ....5789999****************......888889888888****99***************9..**************....***********9*******7...789999888899*****99******************9.9**.***********************************************
+#=GC RF                          ....xxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P98161|PF20519|3714-3890         EFPAAGRALAALSVRPFAL-.
+#=GR P98161|PF20519|3714-3890 PP ****************987..
+Q13563|PF20519|269-463           EFPATGGVIPSWQFQPLKLI.
+#=GR Q13563|PF20519|269-463   PP *****************995.
+Q7Z442|PF20519|1988-2176         ETSALGTFFTHAALQSLRLY.
+#=GR Q7Z442|PF20519|1988-2176 PP ****************9985.
+Q8TDX9|PF20519|2442-2512         EILPTGSLVPSSLVESFS--i
+#=GR Q8TDX9|PF20519|2442-2512 PP ***************997..6
+Q9NTG1|PF20519|1750-1954         EVSQLGVVNTSISLHSFSL-.
+#=GR Q9NTG1|PF20519|1750-1954 PP *****************97..
+Q9NZM6|PF20519|77-272            EFPATGGILTSWQFYSVKLL.
+#=GR Q9NZM6|PF20519|77-272    PP ******************95.
+Q9P0L9|PF20519|148-342           EFPATGGAIPSWQIRTVKLI.
+#=GR Q9P0L9|PF20519|148-342   PP ******************96.
+#=GC PP_cons                     ****************9985.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxx.
+//

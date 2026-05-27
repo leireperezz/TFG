@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P46019|PF19292|1063-1207         ....r---------------------------------------------------------------------QGQWLRRRRLDGAINRVPVGFYQRVWKILQKC.HGLSIDG-----YVLPSS-TTREMTPHEIKFAVHVESVLNRVPQPEYRQLLVEAIMVLTLL-SDTEMTSIGGIIHVDQIVQMASQLFLQDQVS
+#=GR P46019|PF19292|1063-1207 PP ....7.....................................................................679*****************************.*****65.....468888.799**********************************99765.5666789***************997776654
+P46020|PF19292|1044-1139         qsskd-------------------------------------------------------------------SRQGQWQRRRRLDGALNRVPVGFYQKVWKVLQKC.HGLSVE-----GFVLPSS-TTREMTPGEIKFSVHVESVLNRVPQPEYRQLLVEAILVLTML--------------------------------
+#=GR P46020|PF19292|1044-1139 PP 86543...................................................................57899*****************************.***984.....4578888.799**********************************99877................................
+Q93100|PF19292|919-1077          .qngr-----------------------------------------------------------------------CWLNRRQIDGSLNRTPTGFYDRVWQILERTpNGIIVAGK-----HLPQQPTLSDMTMYEMNFSLLVEDTLGNIDQPQYRQIVVELLMVVSIVLERNPELEFQDKVDLDRLVKEA----FNEFQK
+#=GR Q93100|PF19292|919-1077  PP .8765.......................................................................4***************************99458998876.....6888999*********************************************************997766....667777
+#=GC PP_cons                     ........................................................................57787*****************************.89999666...45688889899***********************************9987*888899***********9888*997667666
+#=GC RF                          .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P46019|PF19292|1063-1207         IGAmDTLEKDQATGiCHFFYDSAP...----------------------sg
+#=GR P46019|PF19292|1063-1207 PP 433144455554432456777776.........................69
+P46020|PF19292|1044-1139         ---.----------.---------...----------------------ad
+#=GR P46020|PF19292|1044-1139 PP .................................................57
+Q93100|PF19292|919-1077          DQS.RLKEIEKQDD.MTSFYNTPPlgkRGTCSYLTKAVMNL--------l.
+#=GR Q93100|PF19292|919-1077  PP 777.7778889999.9********33223445666666655........6.
+#=GC PP_cons                     555.5566677766.778898888...23445666666655..........
+#=GC RF                          xxx.xxxxxxxxxx.xxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxx..
+//

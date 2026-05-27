@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q9BXS4|PF12280|72-256         RGCRLFSICQFVDDGIDLNRTKLECESACTEAYSQSDEQYACHLGCQNQLPFAELRQEQLMSLMPKMHLLFPLTLVRSFWSDMMDSAQSFITSSWTFYLQADDGKIVIFQSKPEIQYAPHLE......QEP---.....-TNLRESSLSKMSYLQMRNSQAHRNFL-----EDGESDGFLRCLSLNSG---WILTTTLVL
+#=GR Q9BXS4|PF12280|72-256 PP 9********************************************************************************************************************83333......333.........33344444455555555555554443.....4556678********96...*********
+Q9UK28|PF12280|79-284         RGCRLFSICRFVARSSKPNATQTECEAACVEAYVKEAEQQACSHGCWSQPAEPEPE-QKRKVLEAPSGALSLLDLFSTLCNDLVNSAQGFVSSTWTYYLQTDNGKVVVFQTQPIVESL-GFQggrlqrVEVTWRgshpeALEVHVDPVGPLDKVRKAKIRVKTSSKAKVESEEPQDNDFLSCMSRRSGLPRWILACCLFL
+#=GR Q9UK28|PF12280|79-284 PP 9*****************************************************97.8999999999**********************************************99985.6666899887777778888899*************************9988899999************************
+#=GC PP_cons                  9******************************************************9*99999***************************************************999973444......555777.....966777777777778877777777776998886777889*********8************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9BXS4|PF12280|72-256         SVMVLLWI
+#=GR Q9BXS4|PF12280|72-256 PP *******8
+Q9UK28|PF12280|79-284         SVLVMLWL
+#=GR Q9UK28|PF12280|79-284 PP *******8
+#=GC PP_cons                  *******8
+#=GC RF                       xxxxxxxx
+//

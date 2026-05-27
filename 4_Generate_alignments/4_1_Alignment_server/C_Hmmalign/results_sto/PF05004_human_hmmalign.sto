@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q12894|PF05004|44-341         a--SECpSLLSTTAE.DSLGgdVVD.EQGQQEDLEEKLKEYVDCLTDKSAKTRQGALESLRLALASRLLPDFLLERRLTLADALEKCLKKGKGEEQALAAAVLGLLCVQLGPGPKGEELFHSLQPLLVSVLSDSTaSPAARLHCASALGLGCYVAAADIQDLVSCLACLESVFSRFYGLGGSSTSPVVpaslHGLLSAAL
+#=GR Q12894|PF05004|44-341 PP 7..556566666666.333344555.9*********************************************************************************************************************************************************99999999999999******
+O00458|PF05004|50-347         .TMSHC.SGYSDPSSfAEDG.pEVLdEEGTQEDLEYKLKGLIDLTLDKSAKTRQAALEGIKNALASKMLYEFILERRMTLTDSIERCLKKGKSDEQRAAAALASVLCIQLGPGIESEEILKTLGPILKKIICDGSaSMQARQTCATCFGVCCFIATDDITELYSTLECLENIFTKSYLKEKDTTVICSt.pnTVLHISSL
+#=GR O00458|PF05004|50-347 PP .69***.********66666.966679*******************************************************************************************************************************************************88877766558.9999******
+#=GC PP_cons                  .69778.88888888.5555..666.9************************************************************************************************************.******************************************9998888777....99******
+#=GC RF                       .xxxxx.xxxxxxxx.xxxx..xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxx
+
+Q12894|PF05004|44-341         QAWALLLTICPSTQISHILDR----QLPRLPQLLSSESVNLRIAAGETIALLFELARDLEEEFV-------------YEDMEALCSVLRTLATDSNKYRAKADRRRQRSTFRAVLHSVE
+#=GR Q12894|PF05004|44-341 PP *******************99....39********************************88877.............779*************************************98
+O00458|PF05004|50-347         LAWTLLLTICPINEVKKKLEM--H--FHKLPSLLSCDDVNMRIAAGESLALLFELARGIESDFF-------------YEDMESLTQMLRALATDGNKHRAKVDKRKQRSVFRDVLRAVE
+#=GR O00458|PF05004|50-347 PP **********99999999877..4..89*******************************88887.............679*************************************98
+#=GC PP_cons                  *****************9988..4.399*******************************88887.............679*************************************98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

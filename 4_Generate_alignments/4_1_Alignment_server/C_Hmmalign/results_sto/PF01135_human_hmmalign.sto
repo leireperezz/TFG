@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P22061|PF01135|9-221          s--HSELIHNLRKNGIIKTDKVFEVMLATDRSHYAKC----NPYMDSPQSIGFQATISAPHMHAYALELLFdqLHEGAKALDVGSGSGILTACFARMVGCTGKVIGIDHIKELVDDSVNNVRKDDPTll.....ssgRVQLVVGDGRMGYAEEAPYDAIHVGAAAPVVPQALIDQ.LKPGGRLILPVGPaGGNQMLEQYD
+#=GR P22061|PF01135|9-221  PP 6..689*******************************....*****************************999*****************************************************999.....9****************************************.*************9**********
+Q96MG8|PF01135|10-221         d--NDDLIDNLKEAQYIRTERVEQAFRAIDRGDYYLEGYRDNAYKDLAWK-HGNIHLSAPCIYSEVMEALK..LQPGLSFLNLGSGTGYLSTMVGLILGPFGINHGIELHSDVVEYAKEKLESFIKNsdsfdkfefcEPAFVVGNCLQIASDSHQYDRIYCGAGVQKDHENYMKIlLKVGGILVMPIE-.---DQLTQIM
+#=GR Q96MG8|PF01135|10-221 PP 7..689*******************************************6.55899***************..***********************************************99876666788999999999*********************************963699*********.....5566777
+Q9NV79|PF01135|10-220         d--NDELIDNLKEAQYIRTELVEQAFRAIDRADYYLEEFKENAYKDLAWK-HGNIHLSAPCIYSEVMEALD..LQPGLSFLNLGSGTGYLSSMVGLILGPFGVNHGVELHSDVIEYAKQKLDFFIRTsdsfdkfdfcEPSFVTGNCLEISPDCSQYDRVYCGAGVQKEHEEYMKNlLKVGGILVMPLE-.---EKLTKIT
+#=GR Q9NV79|PF01135|10-220 PP 7..689*******************************************6.55899***************..*****************************99***************986544334456899999999**************************9999999763699*********.....6788899
+#=GC PP_cons                  ...689*******************************************7*67899***************..***********************************************9877666..........99*********************************998.799**********.***7788888
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.xxxxxxxxxx
+
+P22061|PF01135|9-221          KLQDGSIKMKPLMGVIYVPLTDKEK.
+#=GR P22061|PF01135|9-221  PP **********************985.
+Q96MG8|PF01135|10-221         RTGQNTWESKNILAVSFAPLV----q
+#=GR Q96MG8|PF01135|10-221 PP 7777899************98....5
+Q9NV79|PF01135|10-220         RTGPSAWETKKILAVSFAPL-----i
+#=GR Q9NV79|PF01135|10-220 PP 99988899999999999997.....7
+#=GC PP_cons                  9998999**********9999*985.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxx.
+//

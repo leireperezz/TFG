@@ -1,0 +1,72 @@
+# STOCKHOLM 1.0
+
+A4D0S4|PF00055|28-263          .CHPTTGDLLVGRNtqLM...AS...STCGLSR.........AQKYCILSYLEG.........-EQKC.FICDSR..FPYdpydqpNSHTIENVIVSFePDREKKWWQSENGL.----.DHVSIRLDLEA.LFRFS.HLILTFK.TFRPAAMLVERSTDYGHNWKVFKYFA...KDCATSFpNITSGQ----AQG..VGD
+#=GR A4D0S4|PF00055|28-263  PP .9***********9999*...**...*******.........**********98..........****.******..888888999*******9987769999**********......***********.*****.*******.**************************...*******8887774....455..8**
+O15230|PF00055|46-298          .-HPPYFNLAEGAR..IA...AS...ATCGEEApargsprptEDLYCKLVGGPVaggdpnqtiRGQYC.DICTAA..NSN......KAHPASNAID--.--GTERWWQSPPLSrGLEY.NEVNVTLDLGQ.VFHVA.YVLIKFAnSPRPDLWVLERSMDFGRTYQPWQFFAsskRDCLERF.GPQTLE---RITR..DDA
+#=GR O15230|PF00055|46-298  PP ..599*********..**...**...****998676776654489****998778999****99****.******..***......**********.....669**************.***********.*****.*******9**************************9999******.998764...8899..***
+O75445|PF00055|316-516         q-------------..--...--...-------.........--RYCIPNDAGD.........---TA.DNRVSR..LNP......EAHPLSFVND--.-NDVGTSWVSNVFTnITQLnQGVTISVDLENgQYQVF.YIIIQFF.SPQPTEIRIQRKKENSLDWEDWQYFA...RNCG-AF.GMKNNG---DLEK..PDS
+#=GR O75445|PF00055|316-516 PP 6...........................................5666665533............33.333344..444......89*****999....77789*****99954444799*******9659****.*******.**************************...***7.6*.**9986...6778..***
+O95631|PF00055|51-283          .CIPDFVNAAFGKD..VR...VS...STCG-RP.........PARYCVVSERGE........eRLRSC.HLCNAS..DPK......KAHPPAFLTDLN.NPHNLTCWQSENYL.--QFpHNVTLTLSLGK.KFEVT.YVSLQFC.SPRPESMAIYKSMDYGRTWVPFQFYS...TQCRKMY.NRPHRAPITK-QN..EQE
+#=GR O95631|PF00055|51-283  PP .9************..**...**...****.99.........********9877........5789**.******..***......************.*************8...888***********.*****.*******.**************************...*******.****974444.77..***
+P07942|PF00055|35-269          .CYPATGDLLIGRAqkLS...VT...STCGLHK.........PEPYCIVSHLQE.........-DKKC.FICNSQ..DPYhetlnpDSHLIENVVTTFaPNRLKIWWQSENGV.----.ENVTIQLDLEA.EFHFT.HLIMTFK.TFRPAAMLIERSSDFGKTWGVYRYFA...YDCEASFpGISTG----PMKK..VDD
+#=GR P07942|PF00055|35-269  PP .9***********999**...**...*******.........**********98..........****.******..**99999999********98889999**********......***********.*****.*******.**************************...*******999888....4667..9**
+P11047|PF00055|50-284          .CMPEFVNAAFNVT..VV...AT...NTCG-TP.........PEEYCVQTGVTG.........VTKSC.HLCDAG..QPH......LQHGAAFLTDYN.NQADTTWWQSQTMLaGVQYpSSINLTLHLGK.AFDIT.YVRLKFH.TSRPESFAIYKRTREDGPWIPYQYYS...GSCENTY.SKANRGFIRTGGD..EQQ
+#=GR P11047|PF00055|50-284  PP .9************..**...**...****.99.........************.........*****.******..***......************.*******************************.*****.*******.**************************...*******.9999886777667..***
+P24043|PF00055|40-285          f--PAVLNLASNAL..IT...TN...ATCGEKG.........PEMYCKLVEHVPgq.....pvRNPQC.RICNQNssNPN......QRHPITNAID--.--GKNTWWQSPSIKnGIEY.HYVTITLDLQQ.VFQIA.YVIVKAAnSPRPGNWILERSLD-DVEYKPWQYHAvtdTECLTLY.NIYPRTGPPSYAK..DDE
+#=GR P24043|PF00055|40-285  PP 5..999********..**...**...*******.........*******9998889.....9999***.***98755788......**********.....679**************.***********.*****.******99**************.9************99******.99999999999**..***
+P25391|PF00055|23-268          f--PAILNLASNAH..IS...TN...ATCGEKG.........PEMFCKLVEHVPgr.....pvRNPQC.RICDGNsaNPR......ERHPISHAID--.--GTNNWWQSPSIQnGREY.HWVTITLDLRQ.VFQVA.YVIIKAAnAPRPGNWILERSLD-GTTFSPWQYYAvsdSECLSRY.NITPRRGPPTYRA..DDE
+#=GR P25391|PF00055|23-268  PP 5..999********..**...**...*******.........********998899.....9999***.***98755788......**********.....5589********99999.***********.*****.******99**************.*************9*******.***9999999999..***
+P55268|PF00055|47-281          .CYPATGDLLVGRAdrLT...AS...STCGLNG.........PQPYCIVSHLQD.........-EKKC.FLCDSR..RPFsardnpHSHRIQNVVTSFaPQRRAAWWQSENGI.----.PAVTIQLDLEA.EFHFT.HLIMTFK.TFRPAAMLVERSADFGRTWHVYRYFS...YDCGADFpGVPLA-PPRH---..WDD
+#=GR P55268|PF00055|47-281  PP .9***********999**...**...*******.........**********98..........****.******..9988899999*******998889999*********9......***********.*****.*******.**************************...*******999987.4555.....9**
+Q13751|PF00055|26-248          .CYPPVGDLLVGRTrfLR...AS...STCGLTK.........PETYCTQYGEWQ.........--MKC.CKCDSR..QPHn....yYSHRVENVAS--.SSGPMRWWQSQNDV.----.NPVSLQLDLDR.RFQLQ.EVMMEFQ.GPMPAGMLIERSSDFGKTWRVYQYLA...ADCTSTFpRVRQGR-PQ---S..WQD
+#=GR Q13751|PF00055|26-248  PP .9****************...**...*******.........********9965...........9**.******..9997....78********9...88889********9......***********.*****.*******.**************************...*******5555543.44...5..9**
+Q16787|PF00055|48-297          h--PTYFNLAEAAR..IW...AT...ATCGERGpge..grpqPELYCKLVGGPTapgs.ghtiQGQFC.DYCNSE..DPR......KAHPVTNAID--.--GSERWWQSPPLSsGTQY.NRVNLTLDLGQ.LFHVA.YILIKFAnSPRPDLWVLERSVDFGSTYSPWQYFAhskVDCLKEF.GREANM---AVTR..DDD
+#=GR Q16787|PF00055|48-297  PP 5..99*********..**...**...****999777..77667*******99889***.*********.******..***......**********.....669*********9****.***********.*****.*******9**************************98889*****.**9886...7889..***
+Q96CW9|PF00055|39-285          .CQPKVMRLKDYVK..VK...VEpsgITCG-DP.........PERFCSHENP--.........--YLCsNECDAS..NPD......LAHPPRLMFDKE.EEGLATYWQSITWS.RYPSpLEANITLSWNK.TVELTdDVVMTFE.YGRPTVMVLEKSLDNGRTWQPYQFYA...EDCMEAF.GMSARRARDM-SSssAHR
+#=GR Q96CW9|PF00055|39-285  PP .8899999988888..66...543358***.99.........******8887.............568789****..***......**********99.9*************.88888***********.*****99******.**************************...*******.**99975544.444799*
+Q9HB63|PF00055|34-260          .CNPRMGNLALGRK..LW...AD...TTCGQNA.........TELYCFYSENTDl......tcRQPKC.DKCNAA..YPH......LAHLPSAMADSS.FRFPRTWWQSAEDV.----.HREKIQLDLEA.EFYFT.HLIVMFK.SPRPAAMVLDRSQDFGKTWKPYKYFA...TNCSATF.GLEDDV---V---..KKG
+#=GR Q9HB63|PF00055|34-260  PP .9************..**...**...*******.........**********99*......*99****.******..***......**********99.*************9......***********.*****.*******.**************************...*******.**9985...3.....789
+Q9Y2I2|PF00055|50-295          .CQPESTDMTKYLK..VKldpPD...ITCG-DP.........PETFCAMGNP--.........--YMCnNECDAS..TPE......LAHPPELMFDFE.GRHPSTFWQSATWK.EYPKpLQVNITLSWSK.TIELTdNIVITFE.SGRPDQMILEKSLDYGRTWQPYQYYA...TDCLDAF.HMDPKSVKDLSQH.tVLE
+#=GR Q9Y2I2|PF00055|50-295  PP .8999999999988..7633456...9***.99.........******9997.............679789****..***......************.**************.88888***********.*****99******.**************************...*******.9999965555444.799*
+Q9Y6N6|PF00055|35-269          .CLPVFENAAFGRL..AQ...AS...HTCG-SP.........PEDFCPHVGAAG.........AGAHC.QRCDAA..DPQ......RHHNASYLTDFH.SQDESTWWQSPSMAfGVQYpTSVNITLRLGK.AYEIT.YVRLKFH.TSRPESFAIYKRSRADGPWEPYQFYS...ASCQKTY.GRPEGQYLRPGED..ERV
+#=GR Q9Y6N6|PF00055|35-269  PP .99***********..**...**...****.99.........************.........*****.******..***......************.*******************************.*****.*******.**************************...*******.*****99999888..***
+O00634|PF00055|40-253          .CVPGLVNAALGRE..VL...AS...STCG---.........------------.........-RPAT.RACDAS..DPR......RAHSPALLTSPG.GTASPLCWRSESLP.-RAP.LNVTLTVPLGK.AFELV.FVSLRFC.SAPPASVALLKSQDHGRSWAPLGFFS...SHCDLDY.GRLPAPANGPAGP..GPE
+#=GR O00634|PF00055|40-253  PP .99***********..**...**...****..................................2345.78****..***......**********77.9999*********8..666.9**********.*****.*******.**************************...*******.7766656777677..9**
+#=GC PP_cons                   .999**********..99...99...*****9*.........9*****999988.........99999.99*999..999......**********99.99889********9.9888.***********.*****.*******.**************************...*******.9988866666777..9**
+#=GC RF                        .xxxxxxxxxxxxx..xx...xx...xxxxxxx.........xxxxxxxxxxxx.........xxxxx.xxxxxx..xxx......xxxxxxxxxxxx.xxxxxxxxxxxxxx.xxxx.xxxxxxxxxxx.xxxxx.xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx.xxxxxxxxxxxxx..xxx
+
+A4D0S4|PF00055|28-263          IVCDSKYSDI.EPS.TGGEVVLKV............L....--DPSFE.IENpYSPYIQDLVTLTNLRINFTKLHTL.........GDALLGRRQNDSldKYYYALYEMIVRG
+#=GR A4D0S4|PF00055|28-263  PP **********.***.*********............*......*****.**9*************************.........*****999998889***********98
+O15230|PF00055|46-298          AICTTEYSRI.VPL.ENGEIVVSL............V....NGRPGAM.NFS.YSPLLREFTKATNVRLRFLRTNTLlg.....hlMGKALRDPTVTR..RYYYSIKDISIGG
+#=GR O15230|PF00055|46-298  PP **********.***.*********............*....*******.***.**********************9988.....88778889******..***********98
+O75445|PF00055|316-516         VNCL-QLSNF.TPY.SRGNVTFSI............LtpgpNYRPGYN.NFY.NTPSLQEFVKATQIRFHFHGQYYT.........T----ETAVNLR..HRYYAVDEITISG
+#=GR O75445|PF00055|316-516 PP ***7.589**.***.*********............844445789999.999.*******************99877.........3....4445678..9*********988
+O95631|PF00055|51-283          AVCTDSHTDM.RPL.SGGLIAFST............L....DGRPSAH.DFD.NSPVLQDWVTATDIRVAFSRLHTF.........GDENEDDSELAR.dSYFYAVSDLQVGG
+#=GR O95631|PF00055|51-283  PP **********.***.*********............*....*******.***.************************.........****99999988.9***********98
+P07942|PF00055|35-269          IICDSRYSDI.EPS.TEGEVIFRA............L....--DPAFK.IEDpYSPRIQNLLKITNLRIKFVKLHTL.........GDNLLDSRMEIR.eKYYYAVYDMVVRG
+#=GR P07942|PF00055|35-269  PP **********.***.*********............*......*****.****************************.........**********99.9***********98
+P11047|PF00055|50-284          ALCTDEFSDI.SPL.TGGNVAFST............L....EGRPSAY.NFD.NSPVLQEWVTATDIRVTLNRLNTF.........GDEVFNDPKVLK..SYYYAISDFAVGG
+#=GR P11047|PF00055|50-284  PP **********.***.*********............*....*******.***.************************.........************..***********98
+P24043|PF00055|40-285          VICTSFYSKI.HPL.ENGEIHISL............I....NGRPSAD.D--.PSPELLEFTSARYIRLRFQRIRTLnadlmmfahKDPREIDPIVTR..RYYYSVKDISVGG
+#=GR P24043|PF00055|40-285  PP **********.***.*********............*....*****98.7...99********************99999988888777788888999..***********98
+P25391|PF00055|23-268          VICTSYYSRL.VPL.EHGEIHTSL............I....NGRPSAD.D--.LSPKLLEFTSARYIRLRLQRIRTLnadlmtlshREPKELDPIVTR..RYYYSIKDISVGG
+#=GR P25391|PF00055|23-268  PP **********.***.*********............*....*****98.7...99********************99777776665444555666777..***********98
+P55268|PF00055|47-281          VVCESRYSEI.EPS.TEGEVIYRV............L....--DPAIP.IPDpYSSRIQNLLKITNLRVNLTRLHTL.........GDNLLDPRREIR.eKYYYALYELVVRG
+#=GR P55268|PF00055|47-281  PP **********.***.*********............*......*****.****************************.........*********999.9***********98
+Q13751|PF00055|26-248          VRCQSLPQRPnARL.NGGKVQLNL............M....DLVSGIP.A-T.QSQKIQEVGEITNLRVNFTRLAPV.........----PQRGYHPP..SAYYAVSQLRLQG
+#=GR Q13751|PF00055|26-248  PP *****988651568.9********............*....7777766.5.6.8*********************88.............45556678..********99887
+Q16787|PF00055|48-297          VLCVTEYSRI.VPL.ENGEVVVSL............I....NGRPGAK.NFT.FSHTLREFTKATNIRLRFLRTNTLlg.....hlISKAQRDPTVTR..RYYYSIKDISIGG
+#=GR Q16787|PF00055|48-297  PP **********.***.*********............*....*******.***.**********************9888.....8888899999****..***********98
+Q96CW9|PF00055|39-285          VLCTEEYSRW.AGSkKEKHVRFEVrdrfaifagpdlR....NMDNLYT.RLE.SAKGLKEFFTLTDLRMRLLRPALG.........GTYV--QRENLY..KYFYAISNIEVIG
+#=GR Q96CW9|PF00055|39-285  PP ********76.66527899*****9999998888843....3344445.555.8899******************99.........8777..445888..**********987
+Q9HB63|PF00055|34-260          AICTSKYSSP.FPC.TGGEVIFKA............L....--SPPYD.TENpYSAKVQEQLKITNLRVQLLKRQSC.........PCQRNDLNEEPQ.hFTHYAIYDFIVKG
+#=GR Q9HB63|PF00055|34-260  PP **********.***.*********............*......55555.5555**********************88.........777766666655.69**********98
+Q9Y2I2|PF00055|50-295          IICTEEYSTG.YTT.NSKIIHFEIkdrfa.ffagprL....RNMASLYgQLD.TTKKLRDFFTVTDLRIRLLRPAVG.........--EIFVDELHLA..RYFYAISDIKVRG
+#=GR Q9Y2I2|PF00055|50-295  PP **********.***.**************.*999996....55555541566.*********************987...........788899999*..***********98
+Q9Y6N6|PF00055|35-269          AFCTSEFSDI.SPL.SGGNVAFST............L....EGRPSAY.NFE.ESPGLQEWVTSTELLISLDRLNTF.........GDDIFKDPKVLQ..SYYYAVSDFSVGG
+#=GR Q9Y6N6|PF00055|35-269  PP **********.***.*********............*....*******.***.************************.........************..***********98
+O00634|PF00055|40-253          ALCFPAP-LA.QPD.GSGLLAFSM............Q....DSSPPGL.DLD.SSPVLQDWVTATDVRVVLTRPSTA.........GDPR--DMEAVV..PYSYAATDLQVGG
+#=GR O00634|PF00055|40-253  PP ***9876.67.899.9********............*....*******.***.************************.........9877..445666..899********98
+#=GC PP_cons                   *****99*99.999.*********............9....8899998.899.**********************99.........888888888888..***********98
+#=GC RF                        xxxxxxxxxx.xxx.xxxxxxxxx............x....xxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxx..xxxxxxxxxxxxx
+//

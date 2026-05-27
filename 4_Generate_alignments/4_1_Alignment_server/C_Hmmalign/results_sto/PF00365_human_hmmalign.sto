@@ -1,0 +1,32 @@
+# STOCKHOLM 1.0
+
+P08237|PF00365|18-323          .-IAVLTSGGDAQGMNAAVRAVVRVGIFTGARVFFVHEGYQGLVDGgdHIKEATWESVSMMLQLGGTVIGSARCKDFREREGRLRAAYNLVKRGITNLCVIGGDGSLTGADTFRSEW.SdllsdlqkagkitdeeatkssyLNIVGLVGSIDNDFCGTDMTIGTDSALHRIMEIVDAITTTAQSH.QRTFVLEVMGRHCG
+#=GR P08237|PF00365|18-323  PP ..89******************************************99999******************************************************************.55*****************************************************************.**************
+P08237|PF00365|403-686         .-VAVMNVGAPAAGMNAAVRSTVRIGLIQGNRVLVVHDGFEGLAKG..QIEEAGWSYVGGWTGQGGSKLGTKRTLPKK---SFEQISANITKFNIQGLVIIGGFEAYTGGLELMEGR.Kqfd................elcIPFVVIPATVSNNVPGSDFSVGADTALNTICTTCDRIKQSAAGTkRRVFIIETMGGYCG
+#=GR P08237|PF00365|403-686 PP ..69******************************************..****************************75...599******************************999.56**................***********************************************9**************
+P17858|PF00365|18-323          .-IGVLTSGGDAQGMNAAVRAVTRMGIYVGAKVFLIYEGYEGLVEGgeNIKQANWLSVSNIIQLGGTIIGSARCKAFTTREGRRAAAYNLVQHGITNLCVIGGDGSLTGANIFRSEW.GslleelvaegkisettartyshLNIAGLVGSIDNDFCGTDMTIGTDSALHRIMEVIDAITTTAQSH.QRTFVLEVMGRHCG
+#=GR P17858|PF00365|18-323  PP ..89******************************************99999******************************************************************.77*****************************************************************.**************
+P17858|PF00365|402-685         l--AILNVGAPAAGMNAAVRSAVRTGISHGHTVYVVHDGFEGLAKG..QVQEVGWHDVAGWLGRGGSMLGTKRTLPKG---QLESIVENIRIYGIHALLVVGGFEAYEGVLQLVEAR.Grye................elcIVMCVIPATISNNVPGTDFSLGSDTAVNAAMESCDRIKQSASGTkRRVFIVETMGGYCG
+#=GR P17858|PF00365|402-685 PP 5..8******************************************..****************************64...59*********************************9.67**................***********************************************9**************
+Q01813|PF00365|27-332          .-IGVLTSGGDAQGMNAAVRAVVRMGIYVGAKVYFIYEGYQGMVDGgsNIAEADWESVSSILQVGGTIIGSARCQAFRTREGRLKAACNLLQRGITNLCVIGGDGSLTGANLFRKEWsGlleelarngq.idkeavqkyayLNVVGMVGSIDNDFCGTDMTIGTDSALHRIIEVVDAIMTTAQSH.QRTFVLEVMGRHCG
+#=GR Q01813|PF00365|27-332  PP ..89******************************************99999******************************************************************66**********.*******************************************************.**************
+Q01813|PF00365|412-697         .NVAVINVGAPAAGMNAAVRSAVRVGIADGHRMLAIYDGFDGFAKG..QIKEIGWTDVGGWTGQGGSILGTKRVLPGK---YLEEIATQMRTHSINALLIIGGFEAYLGLLELSAAReKhe.................efcVPMVMVPATVSNNVPGSDFSIGADTALNTITDTCDRIKQSASGTkRRVFIIETMGGYCG
+#=GR Q01813|PF00365|412-697 PP .689******************************************..****************************75...69*******************************999559*.................***********************************************9**************
+#=GC PP_cons                   .689******************************************..9***************************87***8**********************************9.6......................********************************************.**************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x......................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+P08237|PF00365|18-323          YLALVTSLSCGADWVFIPECPPDDDweeHLCRRLSETRTRGSRLN...IIIVAEGAIDKNGkpiTSEDIKNLV.VKRLGY.DTRVTVLGHVQRGGTPSAFDRILGSRMGVEAVM--a.
+#=GR P08237|PF00365|18-323  PP **********************987888**********99*****...*********88879999********.999***.*******************************96..6.
+P08237|PF00365|403-686         YLATMAGLAAGADAAYIFEEPFTIR...DLQANVEHLVQKMKTTVkrgLVLRNEKCNE-NY...TTDFIFNLYsEEGKGIfDSRKNVLGHMQQGGSPTPFDRNFATKMGAKAMNW-..
+#=GR P08237|PF00365|403-686 PP *************************...**********7666666788********85.67...9********66656668*******************************985...
+P17858|PF00365|18-323          YLALVSALASGADWLFIPEAPPEDGwenFMCERLGETRSRGSRLN...IIIIAEGAIDRNGkpiSSSYVKDLV.VQRLGF.DTRVTVLGHVQRGGTPSAFDRILSSKMGMEAVM--a.
+#=GR P17858|PF00365|18-323  PP ********************998556679*********99*****...*********877789999*******.999***.*******************************96..6.
+P17858|PF00365|402-685         YLATVTGIAVGADAAYVFEDPFNIH...DLKVNVEHMTEKMKTDIqrgLVLRNEKCHD-YY...TTEFLYNLYsSEGKGVfDCRTNVLGHLQQGGAPTPFDRNYGTKLGVKAM---lw
+#=GR P17858|PF00365|402-685 PP *************************...**********7777666788********95.55...8********66655547******************************98...67
+Q01813|PF00365|27-332          YLALVSALACGADWVFLPESPPEEGweeQMCVKLSENRARKKRLN...IIIVAEGAIDTQNkpiTSEKIKELV.VTQLGY.DTRVTILGHVQRGGTPSAFDRILASRMGVEAV---ia
+#=GR Q01813|PF00365|27-332  PP ********************99976777**********999****...*********65556889********.999***.******************************98...68
+Q01813|PF00365|412-697         YLANMGGLAAGADAAYIFEEPFDIR...DLQSNVEHLTEKMKTTIqrgLVLRNESCSE-NY...TTDFIYQLYsEEGKGVfDCRKNVLGHMQQGGAPSPFDRNFGTKISARAMEWI..
+#=GR Q01813|PF00365|412-697 PP *************************...**********7777666788********85.67...9********66645547********************************986..
+#=GC PP_cons                   **********************988...**********8888888...********96766...9********.887887.*******************************9776..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxx...xxxxxxxxxxxxx...xxxxxxxxx.xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

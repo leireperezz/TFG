@@ -1,0 +1,37 @@
+# STOCKHOLM 1.0
+
+A6NNB3|PF04505|32-99               .PPRDHLIWSVFSTLYlnlCCL--GFLALAYSIK...............ARDQKVVGDLEAARRFGSKAKCYNILAAMWTLVPPL--l.
+#=GR A6NNB3|PF04505|32-99       PP .79*******************..**********...............*******************************99765..7.
+P13164|PF04505|34-98               .--PDHVVWSLFNTLFlnwCCL--GFIAFAYSVK...............SRDRKMVGDVTGAQAYASTAKCLNIWALILGILMTI--..
+#=GR P13164|PF04505|34-98       PP ...5******************..**********...............*********************************986....
+Q01628|PF04505|55-120              .--PDHVVWSLFNTLFmnpCCL--GFIAFAYSVK...............SRDRKMVGDVTGAQAYASTAKCLNIWALILGILMTIL-..
+#=GR Q01628|PF04505|55-120      PP ...5******************..**********...............**********************************986...
+Q01629|PF04505|54-119              .--PDHVVWSLFNTLFmntCCL--GFIAFAYSVK...............SRDRKMVGDVTGAQAYASTAKCLNIWALILGIFMTIL-..
+#=GR Q01629|PF04505|54-119      PP ...5******************..**********...............**********************************986...
+Q7Z6L0|PF04505|264-330             .KPRDYIILAILSCFC...PMWPVNIVAFAYAVM...............SRNSLQQGDVDGAQRLGRVAKLLSIVALVGGVLIIIA-..
+#=GR Q7Z6L0|PF04505|264-330     PP .69*************...***************...............***********************************96...
+Q8IXB3|PF04505|101-166             .-PRDYLILAVVACFC...PVWPLNLIPLIISIM...............SRSSMQQGNVDGARRLGRLARLLSITLIIMGIVIIM--v.
+#=GR Q8IXB3|PF04505|101-166     PP ..99************...***************...............**********************************97..5.
+Q99946|PF04505|219-285             .PPHDYMPIAVLTTIC...CFWPTGIIAIFKAVQ...............VRTALARGDMVSAEIASREARNFSFISLAVGIAAMV--l.
+#=GR Q99946|PF04505|219-285     PP .79*************...***************...............********************************9887..5.
+Q9H7V2|PF04505|177-242             .PPRDHLGLSVFSMLC...CFWPLGIAAFYLSHE...............TNKAVAKGDLHQASTSSRRALFLAVLSITIGTGVY---v.
+#=GR Q9H7V2|PF04505|177-242     PP .79*************...***************...............*******************************9987...5.
+B4DJY2|PF04505|33-97               .MPKNYLWLTIVSCFC...PAYPINIVALVFSIM...............SLNSYNDGDYEGARRLGRNAKWVAIASIIIGLLII---..
+#=GR B4DJY2|PF04505|33-97       PP .59*************...***************...............********************************997.....
+A6NDD5|PF04505|157-223             .PPRDHLGLTLFSMLC...CFWPLGIAAFYFSQG...............TSKAISKGDFRLASTTSRRALFLATLAIAVGAGLYV--a.
+#=GR A6NDD5|PF04505|157-223     PP .79*************...***************...............*******************************99887..6.
+C9JQL5|PF04505|55-120              p---HHVVWSLFNTLFmnpCCL--GFIAFAYSVK...............SRDRKMVGNVTGAQAYASTTKCLNIWALILGILMTIL-..
+#=GR C9JQL5|PF04505|55-120      PP 5...79****************..**********...............**********************************986...
+Q6ZNR0|PF04505|92-156              .-PHDHLGLAVFSMLC...CFWPVGIAAFCLAQK...............TNKAWAKGDIQGAGAASRRAFLLGVLAVGLGVCT----ya
+#=GR Q6ZNR0|PF04505|92-156      PP ..89************...***************...............*******************************975....68
+A0A087WTH1|PF04505|33-92           l--------AATSIIC...GCSCLGVMALVFAIK...............AEERHKAGRSEEAVRWGARARKLILASFAVWLAVLIL-..
+#=GR A0A087WTH1|PF04505|33-92   PP 6........5678899...44446**********...............***************************9999998875...
+A0A1B0GWB2|PF04505|186-251         .-PKDYMMESVLVTLF...CCLLTGLIAIVYSHE...............ARAALGRGDLAQAEEASRKARSLVLFSLLFGVFVS---ts
+#=GR A0A1B0GWB2|PF04505|186-251 PP ..99************...***************...............********************************986...68
+A0A1W2PS18|PF04505|68-145          .--PNYLCLTIFAILL...-FPPFGLAALYFSYEgswtqkptsmlpplqTMKANQNSEWEEAYINSGRTGWFGAFVVMIGLGII---y.
+#=GR A0A1W2PS18|PF04505|68-145  PP ...59**********6....9************************************************************998...6.
+A6NMD0|PF04505|151-216             .--NDYYLWSIFNFVYlnfCCL--GFIALAYSLK...............VRDKKLLNDLNGAVEDAKTARLFNITSSALAASCIIL-..
+#=GR A6NMD0|PF04505|151-216     PP ...69*************9***..**********...............***************************9998888875...
+#=GC PP_cons                       .798************...9999***********...............*******************************998875...
+#=GC RF                            .xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

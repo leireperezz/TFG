@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O75534|PF00313|27-89           .-TGVIEKLLT--SYGFIQCSERQ.......A.RLFFHCSQYNGNL....-QDLKVGDDVEFEVSSd.rRTGKPIAVKLV--k.
+#=GR O75534|PF00313|27-89   PP ..699999999..***********.......*.************9.....**************99.999*****9976..5.
+O75534|PF00313|186-247         .CQGVVCAMKE--AFGFIERGDVV.......K.EIFFHYSEFKGDL....-ETLQPGDDVEFTIKD...RNGKEVATDVR--l.
+#=GR O75534|PF00313|186-247 PP .58********..***********.......*.************9.....***************...*********97..6.
+O75534|PF00313|351-411         .--GVIAAMRD--GFGFIKCVDRD.......V.RMFFHFSEILDGN....--QLHIADEVEFTVVPdmlSAQRNHAIR----ik
+#=GR O75534|PF00313|351-411 PP ...77888888..***********.......*.*********9999......************97666777777765....58
+O75534|PF00313|521-581         .--GYVATLKD--NFGFIETANHD.......K.EIFFHYSEFSGDV....-DSLELGDMVEYSLSK..gKGNKVSAEKVNK-..
+#=GR O75534|PF00313|521-581 PP ...899*****..***********.......*.************9.....***************..8889*******86...
+O75534|PF00313|675-737         r--ATVECVKD--QFGFINYEVGD.......SkKLFFHVKEVQDGI....--ELQAGDEVEFSVILn.qRTGKCSACNVW--r.
+#=GR O75534|PF00313|675-737 PP 6..79******..********998.......769************......***********9876.799********8..5.
+P16989|PF00313|93-159          .--GTVKWFNVRNGYGFINRNDTK.......E.DVFVHQTAIKKNNprkyLRSVGDGETVEFDVVE...GEKGAEAANVTG-..
+#=GR P16989|PF00313|93-159  PP ...9********************.......*.****************9****************...**********85...
+P67809|PF00313|61-127          .--GTVKWFNVRNGYGFINRNDTK.......E.DVFVHQTAIKKNNprkyLRSVGDGETVEFDVVE...GEKGAEAANVTG-..
+#=GR P67809|PF00313|61-127  PP ...9********************.......*.****************9****************...**********85...
+Q6ZN17|PF00313|31-101          .-TGHCKWFNVRMGFGFISMINREgspldipV.DVFVHQSKLFMEG....FRSLKEGEPVEFTFKK...SSKGLESIRVT--g.
+#=GR Q6ZN17|PF00313|31-101  PP ..799************975443322232226.9************....****************...******99998..5.
+Q9H9Z2|PF00313|42-111          .--GICKWFNVRMGFGFLSMTARAgvaldppV.DVFVHQSKLHMEG....FRSLKEGEAVEFTFKK...SAKGLESIRVT--g.
+#=GR Q9H9Z2|PF00313|42-111  PP ...89************987654322232225.*************....****************...******99998..5.
+Q9Y2T7|PF00313|96-162          .--GTVKWFNVRNGYGFINRNDTK.......E.DVFVHQTAIKRNNprkfLRSVGDGETVEFDVVE...GEKGAEATNVTG-..
+#=GR Q9Y2T7|PF00313|96-162  PP ...9********************.......*.****************99***************...**********85...
+Q9Y2V2|PF00313|64-127          .-KGVCKCFCRSKGHGFITPADGG.......P.DIFLHISDVEGEY....--VPVEGDEVTYKMCSippKNEKLQAVEVV--..
+#=GR Q9Y2V2|PF00313|64-127  PP ..69********************.......*.************9......667********9999999999***9995....
+Q9Y534|PF00313|70-134          .-KGVCKQFSRSQGHGFITPENGS.......E.DIFVHVSDIEGEY....--VPVEGDEVTYKMCPippKNQKFQAVEVV--l.
+#=GR Q9Y534|PF00313|70-134  PP ..69********************.......*.************9......6679*******98878899999999997..6.
+#=GC PP_cons                   .5799**************99999.......9.*************....**99**********99...999***999975...
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxx.......x.xxxxxxxxxxxxx....xxxxxxxxxxxxxxxx...xxxxxxxxxxxxx..
+//

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+P06400|PF01858|373-573         TPVRTVMNTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKFAKAVGQG-----CVEIGSQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTsqnldsgtdlSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSDS
+#=GR P06400|PF01858|373-573 PP 8****************************************************************.....99************************************************************999999**************************************************************
+P28749|PF01858|385-578         TPVASATQSVSRLQSIVAGLKNAPSDQLINIFESCVRNPVENIMKILKGIGETFCQHYTQSTDEQ--PGSHIDFAVNRLKLAEILYYKILETVMVQETRRLHGMDMSVLLEQDIFHRSLMACCLEIVLFAYSSPR..........TFPWIIEVLNLQPFYFYKVIEVVIRSEEGLSRDMVKHLNSIEEQILESLAWSHDS
+#=GR P28749|PF01858|385-578 PP 8****************************************************************..999*****************************************************************..........*******************************************************
+Q08999|PF01858|417-609         TPVSTATHSLSRLHTMLTGLRNAPSEKLEQILRTCSRDPTQAIANRLKEMFEIYSQHFQPDEDFS---NCAKEIASKHFRFAEMLYYKVLESVIEQEQKRLGDMDLSGILEQDAFHRSLLACCLEVVTFSYKPPG..........NFPFITEIFDVPLYHFYKVIEVFIRAEDGLCREVVKHLNQIEEQILDHLAWKPES
+#=GR Q08999|PF01858|417-609 PP 8*****************************************************99777777666...889****************************************************************..........*******************************************************
+#=GC PP_cons                   8*******************************************************999999999..9999****************************************************************..........*******************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P06400|PF01858|373-573         PLFDLI
+#=GR P06400|PF01858|373-573 PP ***975
+P28749|PF01858|385-578         ALWEAL
+#=GR P28749|PF01858|385-578 PP ***986
+Q08999|PF01858|417-609         PLWEKI
+#=GR Q08999|PF01858|417-609 PP ***986
+#=GC PP_cons                   ***986
+#=GC RF                        xxxxxx
+//

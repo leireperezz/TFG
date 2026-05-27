@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+P49257|PF03388|45-268         .-RFEYKYSFKGPHLVQSDGTVPFWAHAGNAIPSSDQIRVAPSLKSQRGSVWTKTKAAFENWEVEVTFRVTGR-G.RIGADGLAIWYAENQGLEGPVFGSADLWNGVGIFFDSFDNDG---KKNNPAIVIIGNNGQIHYDHQNDGASQALASCQRDFRNKPYPVRAKITYYQNTLTVMINNGFTPDKNDYEFCAKVENMI
+#=GR P49257|PF03388|45-268 PP ..589********************************************************************.9.9****************************************9...89*****************************************************************************
+Q12907|PF03388|53-277         h--LKREHSLIKPYQGVGSSSMPLWDFQGSTMLTSQYVRLTPDERSKEGSIWNHQPCFLKDWEMHVHFKVHGTGKkNLHGDGIALWYTRDRLVPGPVFGSKDNFHGLAIFLDTYPNDETT-ERVFPYISVMVNNGSLSYDHSKDGRWTELAGCTADFRNRDHDTFLAVRYSRGRLTVMTD---LEDKNEWKNCIDITGVR
+#=GR Q12907|PF03388|53-277 PP 5..79*******************************************************************98779*****************************************99.7**********************************************************...9****************
+Q9H0V9|PF03388|50-275         y--LKREHSLSKPYQGVGTGSSSLWNLMGNAMVMTQYIRLTPDMQSKQGALWNRVPCFLRDWELQVHFKIHGQGKkNLHGDGLAIWYTKDRMQPGPVFGNMDKFVGLGVFVDTYPNEEKQQERVFPYISAMVNNGSLSYDHERDGRPTELGGCTAIVRNLHYDTFLVIRYVKRHLTIMMD---IDGKHEWRDCIEVPGVR
+#=GR Q9H0V9|PF03388|50-275 PP 6..79********************************************************************8779*******************************************************************************************************...89***************
+Q9HAT1|PF03388|32-253         .-RFEYKLSFKGPRLALPGAGIPFWSHHGDAILGLEEVRLTPSMRNRSGAVWSRASVPFSAWEVEVQMRVTGL-G.RRGAQGMAVWYTRGRGHVGSVLGGLASWDGIGIFFDS-PAED---TQDSPAIRVLASDGHIPSEQPGDGASQGLGSCHWDFRNRPHPFRARITYWGQRLRMSLNSGL-TPSDPGEFCVDVGPLL
+#=GR Q9HAT1|PF03388|32-253 PP ..5899************9******************************************************.8.89**********************************8.3333...4679*********************************************************5.889999**********
+#=GC PP_cons                  ..579********************************************************************88.9***********************************9*888899*799**********************************************************8999**************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P49257|PF03388|45-268         IPAQGHFGISAATGGLADDHDVLSFLTFQLT-.
+#=GR P49257|PF03388|45-268 PP ****************************985..
+Q12907|PF03388|53-277         LPTGYYFGASAGTGDLSDNHDIISMKLFQL--m
+#=GR Q12907|PF03388|53-277 PP ****************************98..5
+Q9H0V9|PF03388|50-275         LPRGYYFGTSSITGDLSDNHDVISLKLFEL--t
+#=GR Q9H0V9|PF03388|50-275 PP ***************************997..5
+Q9HAT1|PF03388|32-253         LVPGGFFGVSAATGTLADDHDVLSFLTFSL--s
+#=GR Q9HAT1|PF03388|32-253 PP **************************9986..7
+#=GC PP_cons                  ***************************9975..
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

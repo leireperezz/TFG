@@ -1,0 +1,30 @@
+# STOCKHOLM 1.0
+
+Q12912|PF05781|24-555          ..-EVKDGALDVKRQHKCPGPTSGPSPGTNLSGCIRMNDDPSMEENGVERVCPESLLQSREYSSLPLPRHTSSTDGTITSSDPGLEILNMASCDLDRNSLCKK...........EEDTRSASPTIEAQGTSPAHDNIAFQDS...............TSKDKTILNLEAKEEPETIEEHKK............EHASGDS
+#=GR Q12912|PF05781|24-555  PP ...789*************************************************************************************************...........****************************...............************************............*******
+Q9Y6F6|PF05781|341-904         tq-----------------------------------------DAAGVGPPASQGRGPAGE-----PMGPEAGSKAELPPTVSRPPLLRGLSWDSGPEEPGPRlqkvlaklplaEEEKRFAGKAGGKLAKAPGLKDFQIQVQpvrmqkltklreehiLMRNQNLVGLKLPDLSEAAEQEKGlpselspaieeeESKSGLD
+#=GR Q9Y6F6|PF05781|341-904 PP 86.........................................66899*************.....55677899******************************************************************************************************************************
+#=GC PP_cons                   ...789*************************************889********************7888999******************************...........****************************...............************************............*******
+#=GC RF                        ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxx
+
+Q12912|PF05781|24-555          VVSPLPVTTVKSVNLRQSENTSA...NEKEVEAEFLRLSLGFKCDWFTLEKRVKLEERSRDLAEENLKKEITNCLKLLESLTPL...CEDDNQAQEIIKKLEKSIKFLSQCAARVASRAEMLGAINQESRVSKAVEVMIQHVENLKRMYAKEHAELEELKQVLLQN.ERSFNPLEDDDDCQIKKRSASLN.SKPSSLRRV
+#=GR Q12912|PF05781|24-555  PP ***********************...**********************************************************...*******************************************************************************.***********************.*********
+Q9Y6F6|PF05781|341-904         VMPNISDVLLRKLRVHRSLPGSApplTEKEVENVFVQLSLAFRNDSYTLESRINQAERERNLTEENTEKELENFKASITSSASLwhhCEH----RETYQKLLEDIAVLHRLAARLSSRAEVVGAVRQEKRMSKATEVMMQYVENLKRTYEKDHAELMEFKKLANQNsSRSCGP--SEDGVPRTARSMSLTlGKNMPRRRV
+#=GR Q9Y6F6|PF05781|341-904 PP ************************************************************************************888888....*******************************************************************************..*************************
+#=GC PP_cons                   ***********************...**********************************************************...999****************************************************************************.***********************.*********
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx
+
+Q12912|PF05781|24-555          TIASLPR....NI.GNAGMVAGMENNDRFSRRSSSWR...........ILGSKQSEHRPSLPRFISTYSWADAEEEKCELKTKDDSEPSG...EETVERTRK.PSLSEKKNNPSKWD.................VSSVYDTIASWATNLKSSIRKANKALWLSIAFIVLFAALMSFLTGQLFQKSVDAAPTQQEDSWTSL
+#=GR Q12912|PF05781|24-555  PP *******....**.***********************...........******************************************...*********.**************.................******************************************************************
+Q9Y6F6|PF05781|341-904         SVAVVPKfnalNLpGQTPSSSSIPSLPALSE-SPNGKgslpvtsalpaLLENGKTNGDPDCEASAPALTLSCLEELSQETKARMEEEAYSkgfQEGLKKTKElQDLKEEEEEQKSESpeepeeveeteeeekgpRSSKLEELVHFLQVMYPKLCQHWQVIWMMAAVMLVLTVVLGLYNS--YNSCAEQADGPLGRSTCSA
+#=GR Q9Y6F6|PF05781|341-904 PP *******************************.99*******************************************************999***************************************************************************************..*******************
+#=GC PP_cons                   *******....**.***********************...........******************************************...*********.**************.................******************************************************************
+#=GC RF                        xxxxxxx....xx.xxxxxxxxxxxxxxxxxxxxxxx...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxx.xxxxxxxxxxxxxx.................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q12912|PF05781|24-555          EHI.LWPFTRLRHNGPPPV
+#=GR Q12912|PF05781|24-555  PP ***.*************97
+Q9Y6F6|PF05781|341-904         AQRdSWWSSGLQHEQPTEQ
+#=GR Q9Y6F6|PF05781|341-904 PP *****************96
+#=GC PP_cons                   ***.*************96
+#=GC RF                        xxx.xxxxxxxxxxxxxxx
+//

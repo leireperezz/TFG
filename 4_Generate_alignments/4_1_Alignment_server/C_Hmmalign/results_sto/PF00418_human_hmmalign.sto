@@ -1,0 +1,27 @@
+# STOCKHOLM 1.0
+
+P10636|PF00418|566-591           pmp--------D.LK.NVKSKIGSTENLKHQPGGGK
+#=GR P10636|PF00418|566-591   PP 876........6.**.*******************7
+P10636|PF00418|592-621           ...VQIINKKLD.LS.NVQSKCGSKDNIKHVPGGG-
+#=GR P10636|PF00418|592-621   PP ...9********.**.******************9.
+P10636|PF00418|623-653           ...VQIVYKPVD.LS.KVTSKCGSLGNIHHKPGGGQ
+#=GR P10636|PF00418|623-653   PP ...8********.**.*******************7
+P10636|PF00418|654-685           ...VEVKSEKLD.FKdRVQSKIGSLDNITHVPGGGN
+#=GR P10636|PF00418|654-685   PP ...899******.**********************9
+P11137|PF00418|1664-1691         ...----NQPLPdLK.NVKSKIGSTDNIKYQPKGGQ
+#=GR P11137|PF00418|1664-1691 PP .......788888**.*******************7
+P11137|PF00418|1692-1722         ...VQIVTKKID.LS.HVTSKCGSLKNIRHRPGGGR
+#=GR P11137|PF00418|1692-1722 PP ...9********.**.*******************5
+P11137|PF00418|1723-1754         ...VKIESVKLD.FKeKAQAKVGSLDNAHHVPGGGN
+#=GR P11137|PF00418|1723-1754 PP ...9********.**********************9
+P27816|PF00418|931-953           ...--------D.LK.NVRSKVGSTENIKHQPGGGR
+#=GR P27816|PF00418|931-953   PP ...........9.**.*******************5
+P27816|PF00418|992-1022          ...VQIVSKKVS.YS.HIQSKCGSKDNIKHVPGGGN
+#=GR P27816|PF00418|992-1022  PP ...9********.**.*******************9
+P27816|PF00418|1023-1053         ...VQIQNKKVD.IS.KVSSKCGSKANIKHKPGGGD
+#=GR P27816|PF00418|1023-1053 PP ...9********.**.*******************7
+P27816|PF00418|1054-1084         ...VKIESQKLN.FKeKAQAKVGSLDNVGHLPAGG-
+#=GR P27816|PF00418|1054-1084 PP ...9********.*********************9.
+#=GC PP_cons                     ...8*******9.**.*******************7
+#=GC RF                          ...xxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxx
+//

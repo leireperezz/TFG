@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O75608|PF02230|11-225         p----AIVPAARKATAAVIFLHGLGDTG....HGWAEAFA-GIRSSHIKYICPHAPVRPVTLNMNVAMPSWFDIIGLSPDSQEDESGIKQAAENIKALIDQEVKNGIPSNRIILGGFSQGGALSLYTALTTQQKLAGVTALSCWLPLRASFPQGPIGGAnRDIS.ILQCHGDCDPLVPLMFGSLTVEKLKTLVNpaNVTF
+#=GR O75608|PF02230|11-225 PP 6....79999******************....********.******************************************************************************************************************98877****.***********************************
+O95372|PF02230|13-227         d---AATVSGAERETAAVIFLHGLGDTG....HSWADALS-TIRLPHVKYICPHAPRIPVTLNMKMVMPSWFDLMGLSPDAPEDEAGIKKAAENIKALIEHEMKNGIPANRIVLGGFSQGGALSLYTALTCPHPLAGIVALSCWLPLHRAFPQAANGSA.KDLA.ILQCHGELDPMVPVRFGALTAEKLRSVVTpaRVQF
+#=GR O95372|PF02230|13-227 PP 7...57899*******************....********.**********************************************************************************************************************.****.***********************************
+Q5VWZ2|PF02230|12-225         c-----IVSPAGRHSASLIFLHGSGDSGqglrMWIKQVLNQDLTFQHIKIIYPTAPPRSYTPMKGGISNVWFDRFKITNDCPEHLESIDVMCQVLTDLIDEEVKSGIKKNRILIGGFSMGGCMAIHLAYRNHQDVAGVFALSSFLNKASAVYQALQKSN.GVLPeLFQCHGTADELVLHSWAEETNSMLKSLGV..TTKF
+#=GR Q5VWZ2|PF02230|12-225 PP 7.....89********************5553334577889999************9888888888899************99999*************************************************************************.7777368***************************..****
+#=GC PP_cons                  ....57899*******************....888899999****************9999999999*****************************************************************************************999.9999.99***************************..****
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx
+
+O75608|PF02230|11-225         KTYEGMMHSSCQQEMMDVKQFIDK--l..
+#=GR O75608|PF02230|11-225 PP **********************97..6..
+O95372|PF02230|13-227         KTYPGVMHSSCPQEMAAVKEFLEK--l..
+#=GR O95372|PF02230|13-227 PP **********************97..6..
+Q5VWZ2|PF02230|12-225         HSFPNVYHELSKTELDILK-------lwi
+#=GR Q5VWZ2|PF02230|12-225 PP **************99876.......667
+#=GC PP_cons                  ****************999***97.....
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxx...
+//

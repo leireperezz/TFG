@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+O00507|PF12030|2099-2454         n--RFSEYLLECPSAEVRGAFAKLIVFIAH-----....FSLQDGSCPSPFA.SpgpssqacDNLSLSDHLLRATLNLL---RREVSEHGHHLQQYFNLFVMYANLGVAEKTQLLKLN-VPATFMLVSLDEGPGPPIKYQYAEL------------GKLYSVVSQLIRCCNVSSTMQSSINGNPPLPNp.fgDLNLSQPI
+#=GR O00507|PF12030|2099-2454 PP 6..89*************************.........********99988.66677889999***************...************************************.*************************............*********************************.9966789***
+Q70CQ2|PF12030|2359-2464         q------ILIKCPNQIVRQMFQRLCIHVIQRLRPVhahlY-LQPGMEDGSDDmDt.....svEDIGGRSCVTRFVRTLLLIMEHGVKPHSKHLTEYFAFLYEFAKMGEEESQFLLSL-----------------------------------------------------------------------....--------
+#=GR Q70CQ2|PF12030|2359-2464 PP 5......799********************9998888964.44444344443224.....4455566666666777777788999*****************************986...................................................................................
+Q93008|PF12030|2098-2453         n--RFSEYLLECPSAEVRGAFAKLIVFIAH-----....FSLQDGPCPSPFA.SpgpssqayDNLSLSDHLLRAVLNLL---RREVSEHGRHLQQYFNLFVMYANLGVAEKTQLLKLS-VPATFMLVSLDEGPGPPIKYQYAEL------------GKLYSVVSQLIRCCNVSSRMQSSINGNPPLPNpfgdP-NLSQPI
+#=GR Q93008|PF12030|2098-2453 PP 6..89*************************.........********99988.666778889999**************...************************************.*************************............**********************************954.569***
+#=GC PP_cons                     ...89**9**********************99988....8*88888887777.4........8888999999999999978899*******************************99*.*************************............********************************....56679***
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxx.x........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxx
+
+O00507|PF12030|2099-2454         MPIQQNVLDIL--FVRT--S-YVKKIIEDCSNSEDTIKLLRFCSWENPQFSSTVLSELLWQVAYSYTYELRPyLDLLFQILLIEDSWQTHRIHNALKGIPDDRDGLFDTIQRSKNHYQKRAYQCIKCMvALFSSCPVAYQILQgngdlkrkwtwavewlgdelerrpytgnpqySYNNWSPPVQSNETAN----------
+#=GR O00507|PF12030|2099-2454 PP ***********..****..6.**************************************************888999*************************************************************************************************************9986..........
+Q70CQ2|PF12030|2359-2464         ------------------------------------------------------------------------.-------------------------------------------------------.--------------...............................--------------------------
+#=GR Q70CQ2|PF12030|2359-2464 PP ........................................................................................................................................................................................................
+Q93008|PF12030|2098-2453         MPIQQNVADIL--FVRT--S-YVKKIIEDCSNSEETVKLLRFCCWENPQFSSTVLSELLWQVAYSYTYELRPyLDLLLQILLIEDSWQTHRIHNALKGIPDDRDGLFDTIQRSKNHYQKRAYQCIKCMvALFSNCPVAYQILQgngdlkrkwtwavewlgdelerrpytgnpqyTYNNWSPPVQSNETSN----------
+#=GR Q93008|PF12030|2098-2453 PP ***********..****..6.**************************************************999999**************************************************************************************************************997..........
+#=GC PP_cons                     ***********..****..6.**************************************************9.9999***************************************************.**************...............................*************987..........
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx...............................xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O00507|PF12030|2099-2454         ------------------------------------------------------------.
+#=GR O00507|PF12030|2099-2454 PP .............................................................
+Q70CQ2|PF12030|2359-2464         ------------------------------------------------------------q
+#=GR Q70CQ2|PF12030|2359-2464 PP ............................................................7
+Q93008|PF12030|2098-2453         ------------------------------------------------------------.
+#=GR Q93008|PF12030|2098-2453 PP .............................................................
+#=GC PP_cons                     .............................................................
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

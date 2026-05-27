@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q17R31|PF01026|9-265           .....................VDCHCHLSAPDFDRD.........LDDVLEKAKKANVVALVAVAEHSGEFEKIMQLSERYNGFVLPCLGVHPVQGLPPEDQRS....VTLKDLdvalpiieNYKDRLLAIGEVGLDFsprFAGTGEQKEEQRQVLIRQIQLAKRLNLPVNVHSRSAGRPTINLLQEQGAE--KVLLHAF
+#=GR Q17R31|PF01026|9-265   PP .....................7**************.........************************************************88777666666....6666666669998768899***********66657788999**************************************9876..59*****
+Q6P1N9|PF01026|8-293           diginltdpmfrgiyrgvqkh------------QDD.........LQDVIGRAVEIGVKKFMITGGNLQDSKDALHLAQTNGM-FFSTVGCHPTRCGEFEKNNPdlylKELLNLa......eNNKGKVVAIGECGLDF...DRLQFCPKDTQLKYFEKQFELSEQTKLPMFLHCRNSHAEFLDIMKRNRDRCVGGVVHSF
+#=GR Q6P1N9|PF01026|8-293   PP 888877777777777766433............788.........999********************************887.************9944333333457777777......6699*************...***********************************************99999*******
+Q93075|PF01026|496-760         .....................IDTHCHLDMLY--SKlsfqgtftkFRKIYSSSFPKEFQGCISDFCDPRTLTDCLWEELLKEDLVWGAFGCHPHFARYYSESQE....RNLLQA........LRHPKAVAFGEMGLDY...SYKCTTPVPEQHKVFERQLQLAVSLKKPLVIHCREADEDLLEIMKKFVPPDYKIHRHCF
+#=GR Q93075|PF01026|496-760 PP .....................8********33..333455666658888899999*****************999999988899*************99*****....******........****************...***********************************************************
+#=GC PP_cons                   .....................7********76*877.........99999****************************999999*********99998766666....888888........7999************...89999******************************************998998******
+#=GC RF                        .....................xxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxx........xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q17R31|PF01026|9-265           DGRPSVAMEGVRA..GYFFSIPPSIIR--SGQKQKLVKQLPLTSICLETDSPALGP.....................--EKQ.VRNEPWNISISAEYIAQVKGISVEEVIEVTTQNALKLF-
+#=GR Q17R31|PF01026|9-265   PP *************..********9999..66778**********************.......................666.9***********************************98.
+Q6P1N9|PF01026|8-293           DGTKEAAAALIDL..DLYIGFNGCSLK--TEANLEVLKSIPSEKLMIETDAPWCGVksthagskyirtafptkkkweSGHCLkDRNEPCHIIQILEIMSAVRDEDPLELANTLYNNTIKVF-
+#=GR Q6P1N9|PF01026|8-293   PP *************..********9888..67778*********************999***********999988884444449*********************************9998.
+Q93075|PF01026|496-760         TGSYPVIEPLLKYfpNMSVGFTAVLTYSSAWEAREALRQIPLERIIVETDAPYFLPr...................qVPKSLcQYAHPGLALHTVREIARVKDQPLSLTLAALRENTSRLYS
+#=GR Q93075|PF01026|496-760 PP ************9*******************************************8...................8788878*************************************95
+#=GC PP_cons                   *************..********9999**88889**********************.....................66666.9***********************************985
+#=GC RF                        xxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....................xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

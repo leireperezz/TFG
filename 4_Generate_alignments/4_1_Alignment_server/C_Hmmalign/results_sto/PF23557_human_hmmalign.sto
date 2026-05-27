@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+
+O75718|PF23557|43-342         PLESAYRHALDKYSGEHWAESVGYLEISLRLHRLLRDSEAFCHRNCSAA........-.-PQPEPAAGLA...SYPELRLFGGLLRRAHCLKRC...KQGLPAFRQSQPSREVLADFQRREPYKFLQFAYFKANNLPKAIAAAHTFLLKHPDDEMMKRNMAYYKSLPGA-EDYIKDLETKSYESLFIRAVRAYNGENWRT
+#=GR O75718|PF23557|43-342 PP 799*********************************************9...........**********...*********************...***********************************************************************8.******************************
+Q32P28|PF23557|35-347         -PDLLFAEGTAAYARGDWPGVVLSMERALRSRAALRALRLRCRTQCAADfpweldpdW.SPSPAQASGAA...ALRDLSFFGGLLRRAACLRRC...---LGPPAAHSLSEEMELEFRKRSPYNYLQVAYFKINKLEKAVAAAHTFFVGNPEHMEMQQNLDYYQTMSGVKEADFKDLETQPHMQEFRLGVRLYSEEQPQE
+#=GR Q32P28|PF23557|35-347 PP .699*********************************************888887777.77788888888...*********************......7788999*********************************************************************************************
+Q8IVL5|PF23557|43-352         PFDLLYASGAAAYYSGDYERAVRDLEAALRSHRRLREIRTRCARHCAAR........HpLPPPPPGEGPG...--AELPLFRSLLGRARCYRSCetqRLG-GPASRHRVSEDVRSDFQRRVPYNYLQRAYIKLNQLEKAVEAAHTFFVANPEHMEMQQNIENYRATAGVEALQLVDREAKPHMESYNAGVKHYEADDFEM
+#=GR Q8IVL5|PF23557|43-352 PP 89**********************************************9........4134556778888.....********************98888.99*************************************************************************************************
+Q8IVL6|PF23557|36-363         APDLLYADGLRAYAAGAWAPAVALLREALRSQAALGRVRLDCGASCAADpgaalpavL.LGAPEPDSGPGptqGSWERQLLRAALRRADCLTQCaarRLGPGGAARLRVGSALRDAFRRREPYNYLQRAYYQLKKLDLAAAAAHTFFVANPMHLQMREDMAKYRRMSGVRPQSFRDLETPPHWAAYDTGLELLGRQEAGL
+#=GR Q8IVL6|PF23557|36-363 PP 68*****************************************************999.99********99999******************************************************************************************************************************
+Q92791|PF23557|35-340         PLAAAYGHALEQYEGESWRESARYLEAALRLHRLLRDSEAFCHANCSGP........ApAAKPDPDGGRAd.eWACELRLFGRVLERAACLRRC...KRTLPAFQVPYPPRQLLRDFQSRLPYQYLHYALFKANRLEKAVAAAYTFLQRNPKHELTAKYLNYYQGMLDVADESLTDLEAQPYEAVFLRAVKLYNSGDFRS
+#=GR Q92791|PF23557|35-340 PP 7899********************************************9........52456777777778.89********************...*******************************************************************************************************
+#=GC PP_cons                  789*********************************************9........6.67788899998...*********************...99999**************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........x.xxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O75718|PF23557|43-342         SITDMELALPDFFKAFYECLAACEGSREIKDFK---....---DFYLSIADHYVEVLECKIQCEENLTPVIG-GYPVEKFVATMYHYLQFAYYKLNDLKNAAPCAVSYLLFDQNDKVMQQNLVYYQYHR.
+#=GR O75718|PF23557|43-342 PP *********************************..........*****************************.*****************************************************996.
+Q32P28|PF23557|35-347         AVPHLEAALQEYFVAYEECRALCEGPYDYDGYNYLE....YNADLFQAITDHYIQVLNCKQNCVTELASHPSREKPFEDFLPSHYNYLQFAYYNIGNYTQAVECAKTYLLFFPNDEVMNQNLAYYAA--m
+#=GR Q32P28|PF23557|35-347 PP ************************************....*************************************************************************************86..7
+Q8IVL5|PF23557|43-352         AIRHFEQALREYFVEDTECRTLCEGPQRFEEYEYLG....YKAGLYEAIADHYMQVLVCQHECVRELATRPGRLSPIENFLPLHYDYLQFAYYRVGEYVKALECAKAYLLCHPDDEDVLDNVDYYES--l
+#=GR Q8IVL5|PF23557|43-352 PP ************************************....*************************************************************************************96..7
+Q8IVL6|PF23557|36-363         ALPRLEEALQGSLAQMESCRADCEGPEEQQGAEEEEdgaaSQGGLYEAIAGHWIQVLQCRQRCVGETATRPGRSFPVPDFLPNQLRRLHEAHAQVGNLSQAIENVLSVLLFYPEDEAAKRALNQYQAQL.
+#=GR Q8IVL6|PF23557|36-363 PP *********************************99999999*************************************************************************************986.
+Q92791|PF23557|35-340         STEDMERALSEYLAVFARCLAGCEGAHEQVDFK---....---DFYPAIADLFAESLQCKVDCEANLTPNVG-GYFVDKFVATMYHYLQFAYYKLNDVRQAARSAASYMLFDPKDSVMQQNLVYYRFHR.
+#=GR Q92791|PF23557|35-340 PP *********************************..........*****************************.*****************************************************986.
+#=GC PP_cons                  ************************************....*************************************************************************************9886.
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

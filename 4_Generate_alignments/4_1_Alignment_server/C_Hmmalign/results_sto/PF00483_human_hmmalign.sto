@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q96IJ6|PF00483|3-195         KAVILIGGpqKGTRFRPLSFEVPKPLFPVAGV-PMIQHHIEACAQvPGMQEILLIGFYQPDEPLTQFLEaAQQEFNLPVRYLQEFAPLGTGGGLYHFRDQILAGSPeAFFVLNADVCSDFPLSAMLEAHRRQRHPFLLLGTTANRTQSLNYGCIVENpQTHEVLHYVEKPSTFI-SDIINCGIYLFSPEALK--------
+#=GR Q96IJ6|PF00483|3-195 PP 79******989*********************.************88********988888777777661567899***********************99999888***************************99999999999999******9995666*************.*************9886........
+Q9NR50|PF00483|5-131         -AVVMAVG..GGSRMTDLTSSIPKPLLPVGNK-PLIWYPLNLLER.VGFEEVIVVTTRDVQKALCAEFK.MKM--KPDIVCIPDDADMGTADSLRYIYPKLKTD--.-VLVLSCDLITDVALHEVVDLFRAYDAS----------------------.------------------------------------------
+#=GR Q9NR50|PF00483|5-131 PP .79*****..**********************.************.********************999.875..567********************999954....5*********************99984.................................................................
+Q9Y5P6|PF00483|2-230         KALILVGG..YGTRLRPLTLSTPKPLVDFCNK-PILLHQVEALAA.AGVDHVILAVSYMSQVLEKEMKA.QEQRLGIRISMSHEEEPLGTAGPLALARDLLSETAD.PFFVLNSDVICDFPFQAMVQFHRHHGQ--EGSILVTKVEEPSKYGVVVCEaDTGRIHRFVEKPQVFV-SNKINAGMYILSPAVLQRI--QLQP
+#=GR Q9Y5P6|PF00483|2-230 PP 79******..**********************.************.*****999999999999999999.************************************.***************************..9********************8889*************.*******************..3444
+#=GC PP_cons                 789*****..**********************.************.9********99999999999888.78799899**********************998899.*8***********************996999999**************99.777*************.**************998**..3444
+#=GC RF                      xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q96IJ6|PF00483|3-195         ---------------------------------------------------plr.
+#=GR Q96IJ6|PF00483|3-195 PP ...................................................679.
+Q9NR50|PF00483|5-131         ---------------------------------------------------laml
+#=GR Q9NR50|PF00483|5-131 PP ...................................................5678
+Q9Y5P6|PF00483|2-230         T----SIEKEVFPIMAKE-GQLYAMELQGF-WMDIGQPKDFLTG-------mc..
+#=GR Q9Y5P6|PF00483|2-230 PP 3....4555566666555.577799****6.**********975.......68..
+#=GC PP_cons                 3....4555566666555.577799****6.**********975...........
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

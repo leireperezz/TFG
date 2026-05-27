@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O14958|PF01216|2-381          KRTHLFIVGIYFLSS------CRAEEGLNFPTYDGKDRVVSLSEKNFKQVLKKYDLLCLYYHEPVSSDKVTQKQFQLKEIVLELVAQVLEHKAIGFVMVDAKKEAKLAKKLGFDEEGSLYILKGDRTIEFDGEFAADVLVEFLLDLIEDPVEIISSKLEVQAFERIEDYIKLIGFFKSEDSEYYKAFEEAAEHFQPYIKF
+#=GR O14958|PF01216|2-381  PP 689**********99......***********************************************************************************************************************************************************************************
+P31415|PF01216|12-396         -VPGLRLALLLLLVLGTPKSGVQGQEGLDFPEYDGVDRVINVNAKNYKNVFKKYEVLALLYHEPPEDDKASQRQFEMEELILELAAQVLEDKGVGFGLVDSEKDAAVAKKLGLTEVDSMYVFKGDEVIEYDGEFSADTIVEFLLDVLEDPVELIEGERELQAFENIEDEIKLIGYFKSKDSEHYKAFEDAAEEFHPYIPF
+#=GR P31415|PF01216|12-396 PP .589****************************************************************************************************************************************************************************************************
+#=GC PP_cons                  6799*********99*****************************************************************************************************************************************************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O14958|PF01216|2-381          FATFDKGVAKKLSLKMNEVDFYEPFMDEPIAIPNKPYTEEELVEFVKEHQRPTLRRLRPEEMFETWEDDLNGIHIVAFAEKSDPDGYEFLEILKQVARDNTDNPDLSILWIDPDDFPLLVAYWEKTFKIDLFRPQIGVVNVTDADSVWMEIPDDDDLPTAEELEDWIEDVLSGKINTEDDDEDDDD
+#=GR O14958|PF01216|2-381  PP ****************************************************************************************************************************************************************************************98
+P31415|PF01216|12-396         FATFDSKVAKKLTLKLNEIDFYEAFMEEPVTIPDKPNSEEEIVNFVEEHRRSTLRKLKPESMYETWEDDMDGIHIVAFAEEADPDGFEFLETLKAVAQDNTENPDLSIIWIDPDDFPLLVPYWEKTFDIDLSAPQIGVVNVTDADSVWMEMDDEEDLPSAEELEDWLEDVLEGEINTEDDDDDDDD
+#=GR P31415|PF01216|12-396 PP ****************************************************************************************************************************************************************************************98
+#=GC PP_cons                  ****************************************************************************************************************************************************************************************98
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

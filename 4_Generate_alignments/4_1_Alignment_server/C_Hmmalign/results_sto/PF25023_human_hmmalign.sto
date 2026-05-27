@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+Q6N022|PF25023|1574-2458         n--MYELSSPIDQELYLFDTTGKHLYTQSLPTGDYLYNFTY---TGDGDITLITDNNGNMVNVRRDSTGMPLWLVVPDGQVYWVTMGT-------NSALKSVTTQGHELAMMTYHGNSGLLATKSNENGWTTFYEYDSFGRLTNVTFPTGQVSSFRSDTDSSVHVQVETSskd...dvtITtnLSASGAFYTLLQDQVRN
+#=GR Q6N022|PF25023|1574-2458 PP 6..699***********************************...669*********************99999999999988886655.......788999999999999*************************************************97775444444588...866333334444455566777777
+Q9NT68|PF25023|1581-2465         .-NQYEAASPGEQELYVFNADGIHQYTVSLVTGEYLYNFTYST---DNDVTELIDNNGNSLKIRRDSSGMPRHLLMPDNQIITLTVGT-------NGGLKVVSTQNLELGLMTYDGNTGLLATKSDETGWTTFYDYDHEGRLTNVTRPTGVVTSLHREMEKS-ITIDIENsnrdddvtvI-..-------TNLSSVEASY
+#=GR Q9NT68|PF25023|1581-2465 PP ..68*************************************88...55678889****************9*************7666.......999*9999999999999********************************************999855.45555553555554432..........4444444555
+Q9P273|PF25023|1511-2392         .---YEVASPTDQELYIFDINGTHQYTVSLVTGDYLYNFSYSN---DNDITAVTDSNGNTLRIRRDPNRMPVRVVSPDNQVIWLTIGT-------NGCLKSMTAQGLELVLFTYHGNSGLLATKSDETGWTTFFDYDSEGRLTNVTFPTGVVTNLHGDMD-KAITVDIESssre.edvsIT.sNLSSIDSFYTMVQDQLR
+#=GR Q9P273|PF25023|1511-2392 PP ....89***********************************66...7789****************9988889999999999886666.......99*********99***************************************************9.8999999997766.665533.455555555555555555
+Q9UKZ4|PF25023|1533-2414         i---YEIASPADQELYQFTVNGTHLHTLNLITRDYVYNFTYNS---EGDLGAITSSNGNSVHIRRDAGGMPLWLVVPGGQVYWLTI-------SSNGVLKRVSAQGYNLALMTYPGNTGLLATKSNENGWTTVYEYDPEGHLTNATFPTGEVSSFHSDLE-KLTKVELDTsn....renV-..---------LMSTNLTA
+#=GR Q9UKZ4|PF25023|1533-2414 PP 8...9************************************88...9*******************99997777888888777755.......55***********99999************************************************8.33344433334....4551............44444444
+#=GC PP_cons                     ..679************************************77.66889999****************99889999999998886666.....55999********9999************************************************996666555555.........23..44455555555555555
+#=GC RF                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........xx..xxxxxxxxxxxxxxxxx
+
+Q6N022|PF25023|1574-2458         SYYIG..............ADGSLRLLLA--NGMEVALQTEPHLLA-----GTVNPTVGKRNVTLpIDNGLNLVEWRQ--RK.--EQARGQVTVFGRRLRVHNRNLLSLDFDRVTRTEKIYDDHRKFTLRILYDQAGRPSLWSPSSRLNGVNVTYSPGGYIAGIQRGIMSERMEYDQAGRITSRIFADGKTWSYTYLEKS
+#=GR Q6N022|PF25023|1574-2458 PP 77788..............*********8..999999999888654.....5899**********767888999**99..66...45788*********************************999999********************************************************************888
+Q9NT68|PF25023|1581-2465         TVVQDqvrn.....syqlcNNGTLRVMYA--NGMGISFHSEPHVLAG-----TITPTIGRCNISLpMENGLNSIEWRL--RKeQ---IKGKVTIFGRKLRVHGRNLLSIDYDRNIRTEKIYDDHRKFTLRIIYDQVGRPFLWLPSSGLAAVNVSYFFNGRLAGLQRGAMSERTDIDKQGRIVSRMFADGKVWSYSYLDKS
+#=GR Q9NT68|PF25023|1581-2465 PP 555555555.....55668*********8..**********998765.....899**********778899******9..6623...3569********************************999999********************************************************************999
+Q9P273|PF25023|1511-2392         NSYQI.............gYDGSLRIIYA--SGLDSHYQTEPHVLA-----GTANPTVAKRNMTLpGENGQNLVEWRF--RK.--EQAQGKVNVFGRKLRVNGRNLLSVDFDRTTKTEKIYDDHRKFLLRIAYDTSGHPTLWLPSSKLMAVNVTYSSTGQIASIQRGTTSEKVDYDGQGRIVSRVFADGKTWSYTYLEKS
+#=GR Q9P273|PF25023|1511-2392 PP 44433.............47777777776..666666666666544.....6888**********899999*******..55...234559********************************9999**********************************************************************888
+Q9UKZ4|PF25023|1533-2414         TSTIYilkqentqstyrvnPDGSLRVTFA--SGMEIGLSSEPHILAG-----AVNPTLGKCNISLpGEHNANLIEWRQ--RK.--EQNKGNVSAFERRLRAHNRNLLSIDFDHITRTGKIYDDHRKFTLRILYDQTGRPILWSPVSRYNEVNITYSPSGLVTFIQRGTWNEKMEYDQSGKIISRTWADGKIWSYTYLEKS
+#=GR Q9UKZ4|PF25023|1533-2414 PP 43433344333333333448888888887..8888888888888765.....899**********88999999****9..55...457789********************************999999********************************************************************777
+#=GC PP_cons                     55555..............9999999997..8888888888886655....5899**********.7889999****9..66.3.355679********************************99999*********************************************************************888
+#=GC RF                          xxxxx..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6N022|PF25023|1574-2458         M--VLLLHSQRQYIFEFDKNDRLSSVTMPNVARQTLETIRSVGYYRNIYQPPEGNASVIQDFTEDGHLLHTFYLGTGRRVIYKYGKLSKLAETLYDTTKVSFTYDETAGMLKTINLQNEGFTCTIRYRQIGPLIDRQIFRF-TEEGMVNARFDYNY.DNSFRVTSMQAVINETPLPIDLYRYDDVSGKTEQFGKFGVIY-
+#=GR Q6N022|PF25023|1574-2458 PP 7..6899*********************************************55999***********************************************************************************8.899***********.****************************************99.
+Q9NT68|PF25023|1581-2465         M--VLLLQSQRQYIFEYDSSDRLLAVTMPSVARHSMSTHTSIGYIRNIYNPPESNASVIFDYSDDGRILKTSFLGTGRQVFYKYGKLSKLSEIVYDSTAVTFGYDETTGVLKMVNLQSGGFSCTIRYRKIGPLVDKQIYRF-SEEGMVNARFDYTYhDNSFRIASIKPVISETPLPVDLYRYDEISGKVEHFGKFGVIY-
+#=GR Q9NT68|PF25023|1581-2465 PP 7..6899*************************************************************************************************************************************8.999**********96789*************************************99.
+Q9P273|PF25023|1511-2392         M--VLLLHSQRQYIFEYDMWDRLSAITMPSVARHTMQTIRSIGYYRNIYNPPESNASIITDYNEEGLLLQTAFLGTSRRVLFKYRRQTRLSEILYDSTRVSFTYDETAGVLKTVNLQSDGFICTIRYRQIGPLIDRQIFRF-SEDGMVNARFDYSY.DNSFRVTSMQGVINETPLPIDLYQFDDISGKVEQFGKFGVIY-
+#=GR Q9P273|PF25023|1511-2392 PP 7..6899**********************************************9**************************************************************************************8.999***********.****************************************99.
+Q9UKZ4|PF25023|1533-2414         V--MLLLHSQRRYIFEYDQPDCLLSVTMPSMVRHSLQTMLSVGYYRNIYTPPDSSTSFIQDYSRDGRLLQTLHLGTGRRVLYKYTKQARLSEVLYDTTQVTLTYEESSGVIKTIHLMHDGFICTIRYRQTGPLIGRQIFRF-SEEGLVNARFDYSY.N-NFRVTSMQAVINETPLPIDLYRYVDVSGRTEQFGKFSVIN-
+#=GR Q9UKZ4|PF25023|1533-2414 PP 4..79************************************************9**************************************************************************************8.999***********.8.69************************************65.
+#=GC PP_cons                     6..699**********************************************88**************************************************************************************8.999***********.999*************************************98.
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6N022|PF25023|1574-2458         -YDINQII--TTAVMTHTKHFDAYGRMKEVQYEIFRSLMYWMTVQYDNMGRVVKKELKVgPYANTTRYSYE..YDADGQLQTVsiNDKPLWRYSYDLNGNLHLLSPGNSArLtPLRYDIRDRITRLGDVQYKMDEDGFLRQRGGDIFEYNSAGLLIKAYNRaGSW.SVRYRYDGLGRRVSSKSSHSHHLQFFYADLTNPT
+#=GR Q6N022|PF25023|1574-2458 PP .5666777..6789*********************************************533556678899..**********99999*************988887777756*********************************************7651666.**********************************
+Q9NT68|PF25023|1581-2465         -YDINQII--TTAVMTLSKHFDTHGRIKEVQYEMFRSLMYWMTVQYDSMGRVIKRELKL.-GPYANTTKYTydYDGDGQLQSVavNDRPTWRYSYDLNGNLHLLNPGNSVrLmPLRYDLRDRITRLGDVQYKIDDDGYLCQRGSDIFEYNSKGLLTRAYNK.ASGwSVQYRYDGVGRRASYKTNLGHHLQYFYSDLHNPT
+#=GR Q9NT68|PF25023|1581-2465 PP .5666777..6789*********************************************..66666665551166789*****99999*************988876666767*********************************************998.8877**********************************
+Q9P273|PF25023|1511-2392         -YDINQII--STAVMTYTKHFDAHGRIKEIQYEIFRSLMYWITIQYDNMGRVTKREIKIgPFANTTKYAYE..YDVDGQLQTVylNEKIMWRYNYDLNGNLHLLNPSNSArLtPLRYDLRDRITRLGDVQYRLDEDGFLRQRGTEIFEYSSKGLLTRVYSK.GSGwTVIYRYDGLGRRVSSKTSLGQHLQFFYADLTYPT
+#=GR Q9P273|PF25023|1511-2392 PP .5677777..789**********************************************522455566789..9**********8888**************99999999856*********************************************999.9988**********************************
+Q9UKZ4|PF25023|1533-2414         -YDLNQVI--TTTVMKHTKIFSANGQVIEVQYEILKAIAYWMTIQYDNVGRMVICDIRVgVDANITRYFYE..YDADGQLQTVsvNDKTQWRYSYDLNGNINLLSHGKSArLtPLRYDLRDRITRLGEIQYKMDEDGFLRQRGNDIFEYNSNGLLQKAYNK.ASGwTVQYYYDGLGRRVASKSSLGQHLQFFYADLTNPI
+#=GR Q9UKZ4|PF25023|1533-2414 PP .6666777..5789****************************************9999966677778889*..*******99999999*************999999999866*********************************************998.8877**********************************
+#=GC PP_cons                     .5667777..6899*********************************************.44566677788..9999******..999*************999988888.5.*********************************************988.887.**********************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q6N022|PF25023|1574-2458         KVTHLYNHSSSEITSLYYDLQGHLFAMElS.SGDEFYIACDNIGTPLAVFSGTGLMIKQILYTAYGEIYMDTNPNFQIIIGYHGGLYDPLTKLVHM-GRRDYDVLAGRWTSPDHELWKHL--SSSNVMPFNLYMFKNNNPI
+#=GR Q6N022|PF25023|1574-2458 PP *************************99967.*****************************************************************.99******************999..89999*************7
+Q9NT68|PF25023|1581-2465         RITHVYNHSNSEITSLYYDLQGHLFAMEsS.SGEEYYVASDNTGTPLAVFSINGLMIKQLQYTAYGEIYYDSNPDFQMVIGFHGGLYDPLTKLVHF-TQRDYDVLAGRWTSPDYTMWKNV---GKEPAPFNLYMFKSNNP-
+#=GR Q9NT68|PF25023|1581-2465 PP *************************88846.*****************************************************************.779*************9999999...899************98.
+Q9P273|PF25023|1511-2392         RITHVYNHSSSEITSLYYDLQGHLFAME.IsSGDEFYIASDNTGTPLAVFSSNGLMLKQIQYTAYGEIYFDSNIDFQLVIGFHGGLYDPLTKLIHF-GERDYDILAGRWTTPDIEIWKRI---GKDPAPFNLYMFRNNNP-
+#=GR Q9P273|PF25023|1511-2392 PP *************************999.559****************************************************************.99******************999...99*************98.
+Q9UKZ4|PF25023|1533-2414         RVTHLYNHTSSEITSLYYDLQGHLIAMElS.SGEEYYVACDNTGTPLAVFSSRGQVIKEILYTPYGDIYHDTYPDFQVIIGFHGGLYDFLTKLVHL-GQRDYDVVAGRWTTPNHHIWKQL---NLLPKPFNLYSFENNYPV
+#=GR Q9UKZ4|PF25023|1533-2414 PP *************************99967.*****************************************************************.999*************8889888...999************997
+#=GC PP_cons                     *************************999.6.*****************************************************************.899*************9999999..8999************997
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

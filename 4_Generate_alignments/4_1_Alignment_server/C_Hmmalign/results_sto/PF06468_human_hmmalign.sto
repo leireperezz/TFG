@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q9BUD6|PF06468|41-235          AKYSITFTGKWSQTAFPKQYPLFRPpaQWSSLLGAAHSSDYSMWRKNQYVSNGLRDFAERGEAWALMKEIEAAGEAlQSVHAVFSAPAVP.....-SGTGQTSAELEVQRRHSLVSFVVRIVPSPDWFVGVDSLDLC-DGDRWREQAALDLYPYDAGTDSGFTFSSPNFATIPQDTVTEITSSSPSHPANSFYYPRLKAL
+#=GR Q9BUD6|PF06468|41-235  PP 89********************9999*********************************************98654279*********99......*****************************************.999**********************************************************9
+Q9HCB6|PF06468|205-398         AKYRLTFYGNWSEKTHPKDYPRRAN..HWSAIIGGSHSKNYVLWEYGGYASEGVKQVAELGSPVKMEEEIRQ--QS.DEVLTVIKAKAQWpawqpLNVRAAPSAEFSVDRTRHLMSFLTMMGPSPDWNVGLSAEDLCTKECGWVQKVVQDLIPWDAGTDSGVTYESPNKPTIPQEKIRPLTSL--DHPQSPFYDPEGGSI
+#=GR Q9HCB6|PF06468|205-398 PP 89***********************..*********************************************..88.9**********9987777799*************************************************************************************..7*********99876
+#=GC PP_cons                   89********************999..********************************************98676.8**********99.....79*****************************************999********************************************9**********9988
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9BUD6|PF06468|41-235          PP.
+#=GR Q9BUD6|PF06468|41-235  PP 98.
+Q9HCB6|PF06468|205-398         --t
+#=GR Q9HCB6|PF06468|205-398 PP ..7
+#=GC PP_cons                   98.
+#=GC RF                        xx.
+//

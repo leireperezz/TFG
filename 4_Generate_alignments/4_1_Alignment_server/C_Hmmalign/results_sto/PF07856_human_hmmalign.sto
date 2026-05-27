@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+Q96D31|PF07856|72-266         q--ALSWRKLYLSRAKLKASSRTSALLSGFAMVAMVEVQLDAD---HDYPPGLLIAFSACTTVLVAVHLFALMISTCILPNIEAVSNVHNLN-SVKESPHERMHRHIELAWAFSTVIGTLLFLAEVVLLCWVKFLPLKKQpgqprptskppasg..................................aaanvstsgitp
+#=GR Q96D31|PF07856|72-266 PP 6..689**********************************655...45********************************************.**********************************************99*************..................................************
+Q96SN7|PF07856|46-228         q--ALSWRKLYLSRAKLKASSRTSALLSGFAMVAMVEVQLE---TQYQYPRPLLIAFSACTTVLVAVHLFALLISTCILPNVEAVSNIHNLN-SISESPHERMHPYIELAWGFSTVLGILLFLAEVVLLCWIKFLPVDARrqpgppp...............................................gpgsht
+#=GR Q96SN7|PF07856|46-228 PP 6..689**********************************4...4456********************************************.*********************************************9889*****...............................................******
+Q9BRQ5|PF07856|48-275         a---LSWRRLYLSRAKLKASSRTSALLSGFAMVAMVEVQLESD---HEYPPGLLVAFSACTTVLVAVHLFALMVSTCLLPHIEAVSNIHNLN-SVHQSPHQRLHRYVELAWGFSTALGTFLFLAEVVLVGWVKFVPIGAPldtptpmvptsrvpgtlapvatslspasnlprssasaapsqaepacpprqacggggahgp
+#=GR Q9BRQ5|PF07856|48-275 PP 6...69**********************************544...56********************************************.**********************************************899**********************************************************
+#=GC PP_cons                  ...679**********************************555.4446********************************************.**********************************************8............................................................
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............................................................
+
+Q96D31|PF07856|72-266         gqAAAIASTTIMVPFGLIFIVFAVHFYRSLVSHKT-.
+#=GR Q96D31|PF07856|72-266 PP ********************************985..
+Q96SN7|PF07856|46-228         gwQAALVSTIIMVPVGLIFVVFTIHFYRSLVRHKTE.
+#=GR Q96SN7|PF07856|46-228 PP *********************************986.
+Q9BRQ5|PF07856|48-275         gwQAAMASTAIMVPVGLVFVAFALHFYRSLVAHK--t
+#=GR Q9BRQ5|PF07856|48-275 PP ********************************98..5
+#=GC PP_cons                  ..******************************9866.
+#=GC RF                       ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

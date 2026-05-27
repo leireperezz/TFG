@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+P28907|PF02267|56-296         .TKRFPETVLARCVKYTEI-HPEMRHVDCQSVWDAFKGAFISKHPCNITEEDYQPLMKLGTQTVPCNKILLWSRIKDLAHQFTQVQRDMFTLEDTLLGYLADDLTWCGEFNTSKINYQSCPDWrKDCSNNPVSVFWKTVSRRFAEAACDVVHVMLNGSRSK.IFDKNSTFGSVEVHNLQPEKVQTLEAWVIHGGREDSRD
+#=GR P28907|PF02267|56-296 PP .6899*************8.69*****************************************************************************************************999***********************************.**************************************
+Q10588|PF02267|41-280         a--HLRDIFLGRCAEYRALLSPEQRNKNCTAIWEAFKVA-LDKDPCSVLPSDYDLFINLSRHSIPRDKSLFWENSHLLVNSFADNTRRFMPLSDVLYGRVADFLSWCRQKNDSGLDYQSCPTS.EDCENNPVDSFWKRASIQYSKDSSGVIHVMLNGSEPTgAYPIKGFFADYEIPNLQKEKITRIEIWVMHEIGGPNVE
+#=GR Q10588|PF02267|41-280 PP 5..89*******************************998.9**********************************************************************************.****************************************************************************
+#=GC PP_cons                  .6899*************9*8****************99************************************************************************************.9************************************.**************************************
+#=GC RF                       .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P28907|PF02267|56-296         LCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSC
+#=GR P28907|PF02267|56-296 PP *****************************************998
+Q10588|PF02267|41-280         SCGEGSMKVLEKRLKDMGFQYSCINDYRPVKLLQCVDHSTHPDC
+#=GR Q10588|PF02267|41-280 PP ******************************************99
+#=GC PP_cons                  *****************************************999
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

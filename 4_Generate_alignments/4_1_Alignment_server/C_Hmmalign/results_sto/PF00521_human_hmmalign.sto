@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P11388|PF00521|713-1171         RSIPSMVDGLKPGQRKVLFTCFK-RN-DKREVKVAQLAGSVaeMSSYH-HGEMSLMMTIINLAQNFVGsnNLNLLQPIGQFGTRLHGGKDsASPRYIFTMLSSLARLLFPPKDDHTLKFLYD-DNQRVEPEWYIPIIPMVLINGAEGIGTGWSCKIPNFDVREIVNNIRRLMDGEEP----LPMLPSYKNFKGTIEELA-
+#=GR P11388|PF00521|713-1171 PP 9**********************.65.5********************.*************************************************************************.****************************************************99....589***********6555.
+Q02880|PF00521|734-1189         RSIPSLVDGFKPGQRKVLFTCFK-RN-DKREVKVAQLAGSVaeMSAYH-HGEQALMMTIVNLAQNFVGsnNINLLQPIGQFGTRLHGGKDaASPRYIFTMLSTLARLLFPAVDDNLLKFLYD-DNQRVEPEWYIPIIPMVLINGAEGIGTGWACKLPNYDAREIVNNVRRMLDGLDP----HPMLPNYKNFKGTIQELG-
+#=GR Q02880|PF00521|734-1189 PP 9**********************.65.5********************.*****************************************9*******************************.****************************************************99....69************8777.
+#=GC PP_cons                    9**********************.65.5*************..*****.*******************..********************.*******************************.****************************************************99....589***********7666.
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P11388|PF00521|713-1171         PNQYVIS-GEVAILNS------TTIEISELPVRTWTQTYKEQVLEPMlngTEKTPPLITDYREYhTDTTVKFVVKMTEEKLAEAERVGLHKVFKLQTSLTCNSMVLFDHvGclKKYDTVLDILRDFFELRLKYYGLRKEWLLGMLGAESAKLN------NQARFILEKIDGKIIiENKPKKELIKVLIQrgydsdpvkaw
+#=GR P11388|PF00521|713-1171 PP 8999999.99999988......58******************9987755444577789******9999**********9999999999*********************779*****************************************......***************************8777**********
+Q02880|PF00521|734-1189         QNQYAVS-GEIFVVDR------NTVEITELPVRTWTQVYKEQVLEPMlngTDKTPALISDYKEYhTDTTVKFVVKMTEEKLAQAEAAGLHKVFKLQTTLTCNSMVLFDHmGclKKYETVQDILKEFFDLRLSYYGLRKEWLVGMLGAESTKLN------NQARFILEKIQGKITiENRSKKDLIQMLVQrgyesdpvkaw
+#=GR Q02880|PF00521|734-1189 PP 8999999.99999998......69******************9998754444466789******9999**********9999999999*********************769*****************************************......***************************8888**********
+#=GC PP_cons                    8999999.99999988......69******************99887...44467789******.999**********9999999999*********************.6..****************************************......***************.***********888...........
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx...........
+
+P11388|PF00521|713-1171         keaqqkvpdeeeneesdneketeksdsvtdsgPTFNYLLDMPLWYLTKEKKDELCRLRNEKEQELDTLKRKSPS-----DLWKEDL-
+#=GR P11388|PF00521|713-1171 PP ********************************77****************************************.....9999987.
+Q02880|PF00521|734-1189         keaqekaae...edetqnqhddsssdsgtpsgPDFNYILNMSLWSLTKEKVEELIKQRDAKGREVNDLKRKSPS-----DLWKEDL-
+#=GR Q02880|PF00521|734-1189 PP *********...********************88****************************************.....9999987.
+#=GC PP_cons                    ................................77****************************************.....9999987.
+#=GC RF                         ................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

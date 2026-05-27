@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+
+O00231|PF01399|306-387         .........LTDYRAELRDDPIISTHLAKLYDNLLEQNLIRVIE....PFSRVQIEHISSLIKLSK......ADVERKLSQMILDKKFHGILDQGEGVLII--.
+#=GR O00231|PF01399|306-387 PP .........689********************************....******************......**************************985...
+O00232|PF01399|349-416         ........k----------------RWKDLKNRVVEHNIRIMAK....YYTRITMKRMAQLLDLSV......DESEAFLSNLVVNKTIFAKVDRLAGIINF--q
+#=GR O00232|PF01399|349-416 PP ........7................589****************....******************......***************************98..6
+O43242|PF01399|382-461         ......fge-------KFQADGTYTLIIRLRHNVIKTGVRMISL....SYSRISLADIAQKLQLDS.....pEDAEFIVAKAIRDGVIEASINHEKGYVQS--k
+#=GR O43242|PF01399|382-461 PP ......985.......6899************************....******************.....***************************975..6
+P60228|PF01399|312-394         .........LRECESVLVNDFFLVACLEDFIENARLFIFETFCR....IHQCISINMLADKLNMTP......EEAERWIVNLIRNARLDAKIDSKLGHVVM--g
+#=GR P60228|PF01399|312-394 PP .........789999*****************************....******************......***************************98..6
+P61201|PF01399|331-411         .......kt---NHSNIMDDPFIREHIEELLRNIRTQVLIKLIK....PYTRIHIPFISKELNIDV......ADVESLLVQCILDNTIHGRIDQVNQLLE---l
+#=GR P61201|PF01399|331-411 PP .......75...4499****************************....******************......*************************986...7
+Q13098|PF01399|346-427         .......de---MKDNLLLDMYLAPHVRTLYTQIRNRALIQYFS....PYVSADMHRMAAAFNTTV......AALEDELTQLILEGLISARVDSHSKILYA--r
+#=GR Q13098|PF01399|346-427 PP .......86...5678****************************....******************......**************************986..7
+Q14152|PF01399|416-494         .....eqpe---------KEPELQQYVPQLQNNTILRLLQQVSQ....IYQSIEFSRLTSLVPFVD.....aFQLERAIVDAARHCDLQVRIDHTSRTLSF--g
+#=GR Q14152|PF01399|416-494 PP .....8765.........67999*********************....***************999.....89*************************998..6
+Q15008|PF01399|278-357         .......ve-----QEMKKDWLFAPHYRYYVREMRIHAYSQLLE....SYRSLTLGYMAEAFGVGV......EFIDQELSRFIAAGRLHCKIDKVNEIVET--n
+#=GR Q15008|PF01399|278-357 PP .......85.....788999************************....******************......***************************97..6
+Q5JVF3|PF01399|298-388         .........LAKH-EAFFIRCGIFLILEKLKIITYRNLFKKVYLl..lKTHQLSLDAFLVALKFMQvedvdiDEVQCILANLIYMGHVKGYISHQHQKLVVSK.
+#=GR Q5JVF3|PF01399|298-388 PP .........7899.*******************************..*****************************************************986.
+Q7L2H7|PF01399|260-336         kdfidslgl----------------LHEQNMAKMRLLTFMGMAV....ENKEISFDTMQQELQIGA......DDVEAFVIDAVRTKMVYCKIDQTQRKVVVSH.
+#=GR Q7L2H7|PF01399|260-336 PP 876654443................4489999************....******************......****************************986.
+Q99613|PF01399|775-846         .......vr------------------TMLVRKIQEESLRTYLFtyssVYDSISMETLSDMFELDL......PTVHSIISKMIINEELMASLDQPTQTVVMHR.
+#=GR Q99613|PF01399|775-846 PP .......86..................79**********99999999999****************......*****************************86.
+Q9BT78|PF01399|289-362         .......qk-----------ATTADGSSILDRAVIEHNLLSASK....LYNNITFEELGALLEIPA......AKAEKIASQMITEGRMNGFIDQIDGIVHFE-.
+#=GR Q9BT78|PF01399|289-362 PP .......75...........567888999***************....******************......****************************96..
+Q9H9Q2|PF01399|79-154          .......ia---------NKESLPELSTAQQNKLKHLTIVSLAS....RMKCIPYSVLLKDLEMRN.....lRELEDLIIEAVYTDIIQGKLDQRNQLLEV--.
+#=GR Q9H9Q2|PF01399|79-154  PP .......87.........5778999*******************....******************.....**************************9986...
+Q9UBW8|PF01399|79-154          .....laea-----------RNLPPLTEAQKNKLRHLSVVTLAA....KVKCIPYAVLLEALALRN.....vRQLEDLVIEAVYADVLRGSLDQRNQRLEV--.
+#=GR Q9UBW8|PF01399|79-154  PP .....8865...........6788999*****************....******************.....**************************9976...
+Q9UNM6|PF01399|251-335         ......lkt------AWGQQPDLAANEAQLLRKIQLLCLMEMTFtrpaNHRQLTFEEIAKSAKITV......NEVELLVMKALSVGLVKGSIDEVDKRVHMTW.
+#=GR Q9UNM6|PF01399|251-335 PP ......865......68999**********************************************......****************************986.
+Q9UNS2|PF01399|280-362         ........n--KH-SETFTRDNNMGLVKQCLSSLYKKNIQRLTK....TFLTLSLQDMASRVQLSG.....pQEAEKYVLHMIEDGEIFASINQKDGMVSFHD.
+#=GR Q9UNS2|PF01399|280-362 PP ........6..68.89999*************************....******************.....*****************************985.
+B5ME19|PF01399|776-847         .......vr------------------TMLVRKIQEESLRTYLFtyssVYDSISMETLSDMFELDL......PTVHSIISKMIINEELMASLDQPTQTVVMHR.
+#=GR B5ME19|PF01399|776-847 PP .......86..................79**********99999999999****************......*****************************86.
+#=GC PP_cons                   .........78877999999999**999****************....******************......**************************99886.
+#=GC RF                        .........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

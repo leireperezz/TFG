@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+O95070|PF03878|57-288         -DPMANVAMAYGSSIASHGKDMVHKELHRFVSVSKLKYFFAVDTAYVAKKLGLLVFPYTHQNWEVQYSRDAP------LPPRQDLNAPDLYIPTMAFITYVLLAGMALGIQKRFSPEVLGLCASTALVWVVMEVLALLLGLYLATVRSDLSTFHLLAYSGYKYVGMILSVLTGLLFGSD-GYYVALAWTSSALMYFIVRS
+#=GR O95070|PF03878|57-288 PP .89*****************************************************************9999......*********************************************************************99*****************************9.********************
+Q5BJH7|PF03878|75-309         -DPVSNMAMAYGSSLAAQGKELVDKNIDRFIPITKLKYYFAVDTMYVGRKLGLLFFPYLHQDWEVQYQQDTP------VAPRFDVNAPDLYIPAMAFITYVLVAGLALGTQDRFSPDLLGLQASSALAWLTLEVLAILLSLYLVTVNTDLTTIDLVAFLGYKYVGMIGGVLMGLLFGKI-GYYLVLGWCCVAIFVFMIRT
+#=GR Q5BJH7|PF03878|75-309 PP .799****************************************************************9999......9********************************************************************99**************************9999.********************
+#=GC PP_cons                  .89*****************************************************************9999......9********************************************************************99**************************9999.********************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O95070|PF03878|57-288         LRTAALGPDSMGGPV-----PRQRLQLYLTLGAAAFQPLIIYWLT
+#=GR O95070|PF03878|57-288 PP ******999986544.....5999*******************97
+Q5BJH7|PF03878|75-309         LRLKILADAAAEGVPV--RGARNQLRMYLTMAVAAAQPMLMYWLT
+#=GR Q5BJH7|PF03878|75-309 PP ***********87666..999**********************97
+#=GC PP_cons                  *******999976556..9979*********************97
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

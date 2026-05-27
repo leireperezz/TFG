@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+
+Q14204|PF03028|4037-4144         ..p--NTPVLMCSVPGYDASGHVEDLAAEQN-...-TQITSIAIGSAEGF..nQADKAINTAVKSGRWVMLKNVHLAPGWLMQLEKKLHSL.......---QPHA....................CFRLFLT..MEINP.....KVPVNLLRAG----ri
+#=GR Q14204|PF03028|4037-4144 PP ..5..79***********************9.....899**********9..89*********************************9887..........889*....................*******..*****.....*******987....68
+Q6ZR08|PF03028|2491-2606         ...NCTIPLIFVLSPGADPMASLLKFANDKSM..sGNKFQAISLGQGQGP...IAAKMIKAAIEEGTWVCLQNCHLAVSWMPMLEKICEDF.......TSETCNS....................SFRLWLT..SYPSS.....KFPVTILQNGVKMT..
+#=GR Q6ZR08|PF03028|2491-2606 PP ...5899*************************..77888***********...**************************************.......*******....................*******..*****.....*************8..
+Q8IVF4|PF03028|3874-3986         ..p--HSPIVFILSPGSDPATDLMKLAERSGF..gGNRLKFLAMGQGQEK...VALQLLETAVARGQWLMLQNCHLLVKWLKDLEKSLERI.......--TKPHP....................DFRLWLT..TDPTK.....GFPIGILQKSLKVV..
+#=GR Q8IVF4|PF03028|3874-3986 PP ..6..68*************************..77778***********...************************************98.........889**....................*******..*****.....************86..
+Q8NCM8|PF03028|3721-3829         ..e----PILIIISPGADPSQELQELANAERS...GECYHQVAMGQGQAD...LAIQMLKECARNGDWLCLKNLHLVVSWLPVLEKELNTL.......---QPKD....................TFRLWLT..AEVHP.....NFTPILLQSSLKIT..
+#=GR Q8NCM8|PF03028|3721-3829 PP ..5....9**********************98...9999***********...**********************************9888..........6678....................*******..*****.....************98..
+Q8TD57|PF03028|3517-3632         ..c--CAPLIFVLSPSADPMAGLLKFADDLGM..gGTRTQTISLGQGQGP...IAAKMINNAIKDGTWVVLQNCHLAASWMPTLEKICEEV......iVPESTNA....................RFRLWLT..SYPSE.....KFPVSILQNGIKMT..
+#=GR Q8TD57|PF03028|3517-3632 PP ..5..78*************************..66777***********...************************************99......888888**....................*******..*****.....*************8..
+Q8TE73|PF03028|4041-4149         ..p--RTPLICLLSMGSDPTDSIIALGKRLK-...-IETRYVSMGQGQEV...HARKLLQQTMANGGWALLQNCHLGLDFMDELMDII--I.......ETELVHD....................AFRLWMT..TEAHK.....QFPITLLQMSIKF-..
+#=GR Q8TE73|PF03028|4041-4149 PP ..5..79************************.....57799*********...**********************************8..5.......6799***....................*******..*****.....***********96...
+Q8WXX0|PF03028|3426-3540         ..c--CAPLIFVLSPGADPMAALLKFADDQGY..gGSKLSSLSLGQGQGP...IAMKMLEKAVKEGTWVVLQNCHLATSWMPTLEKVCEEL.......SPESTHP....................DFRMWLT..SYPSP.....NFPVSVLQNGVKMT..
+#=GR Q8WXX0|PF03028|3426-3540 PP ..5..78*************************..88888***********...**************************************.......*******....................*******..*****.....*************8..
+Q96DT5|PF03028|3925-4045         ..p--ATPIFFILSPGVDALKDLEILGKRLGFtidSGKFHNVSLGQGQET...VAEVALEKASKGGHWVILQNVHLVAKWLGTLEKLLERF.......-SQGSHR....................DYRVFMS..AESAPtpdehIIPQGLLENSIKIT..
+#=GR Q96DT5|PF03028|3925-4045 PP ..5..79*************************9888899***********...*************************************9........6666**....................*******..*9888777755***********98..
+Q96JB1|PF03028|3906-4015         ..t--RTPLICFLSMGSDPTNQIDALAKKLK-...-LECRTISMGQGQEV...HARKLIQMSMQQGGWVLLQNCHLGLEFMEELLETLI--.......TTEASDD....................SFRVWIT..TEPHD.....RFPITLLQTSLKFT..
+#=GR Q96JB1|PF03028|3906-4015 PP ..7..79************************.....789***********...******************************999984.........457779*....................*******..*****.....************97..
+Q96M86|PF03028|4101-4228         tlh---------------PLTVIQKLAAKYQQ..gQKQLQVIALGSEAWDpvsVVVSTLSQAMYEGHWLVLDNCHLMPHWPKELLQLLLELlgrakvvA-----DleseqlldqpesrnvstvhrDFRLWLIvpAESSA.....SLPAVLTQHS----m.
+#=GR Q96M86|PF03028|4101-4228 PP 975...............88899*****9998..56667******987543446788999***********************9999877666333330.....245555666677777777777*****972256666.....8999888877....6.
+Q9C0G6|PF03028|3537-3653         ...SCNTPLVFILSTGSDPMGAFQRFARESGY...SERVQSISLGQGQGP...IAEKMVKDAMKSGNWVFLQNCHLAVSWMLAMEELIKTFt.....dPDSAIKD....................TFRLFLS..SMPSN.....TFPVTVLQNSVKVT..
+#=GR Q9C0G6|PF03028|3537-3653 PP ...589**************************...***************...************************************998.....889999**....................*******..*****.....************98..
+Q9NYC9|PF03028|3895-4015         ..p--ATPMFFILSPGVDPLKDVESQGRKLGYtfnNQNFHNVSLGQGQEV...VAEAALDLAAKKGHWVILQNIHLVAKWLSTLEKKLEEH.......-SENSHP....................EFRVFMS..AEPAPspeghIIPQGILENSIKIT..
+#=GR Q9NYC9|PF03028|3895-4015 PP ..5..79************************99977778***********...***********************************997........6677**....................*******..***99888856***********98..
+Q9P225|PF03028|3833-3946         ..p--RSPLVFILSPGVDPTSALLQLAEHMGM...AQRFHALSLGQGQAP...IAARLLREGVTQGHWVFLANCHLSLSWMPNLDKLVEQL.......QVEDPHP....................SFRLWLS..SIPHP.....DFPISILQVSIKMT..
+#=GR Q9P225|PF03028|3833-3946 PP ..6..68*************************...***************...**************************************.......*******....................*******..*****.....*************8..
+Q9P2D7|PF03028|3669-3782         ..s--TTPLIFVLSPGTDPAADLYKFAEEMKF...SKKLSAISLGQGQGP...RAEAMMRSSIERGKWVFFQNCHLAPSWMPALERLIEHI.......NPDKVHR....................DFRLWLT..SLPSN.....KFPVSILQNGSKMT..
+#=GR Q9P2D7|PF03028|3669-3782 PP ..6..79*************************...***************...**************************************.......*******....................*******..*****.....*************8..
+Q9UFH2|PF03028|3871-3991         ..p--STSIFFILSPGVDPLKDVEALGKKLGFtidNGKLHNVSLGQGQEV...VAENALDVAAEKGHWVILQNIHLVARWLGTLDKKLEHY.......-STGSHE....................DYRVFIS..AEPAPspethIIPQGILENAIKIT..
+#=GR Q9UFH2|PF03028|3871-3991 PP ..6..689************************9988889***********...************************************99........6666**....................*******..***99888755***********98..
+#=GC PP_cons                     ...5879************************9...8889***********...**********************************9998.......78888*9....................*******..****9.....9***********98..
+#=GC RF                          ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxx....................xxxxxxx..xxxxx.....xxxxxxxxxxxxxx..
+//

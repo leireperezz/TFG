@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+Q9H0A9|PF15058|3-153         -------EG-GELMSRLLSENADLKKQVRLLKENQMLRRL----------------LSQSCQEGGGHD---LLPPRAHAYP-EAGSPGSGVPDFGRFTSVADTPSQLQ---------TSSLEDLLCSHAPLSSED----------DTSPG--CAAPSQAPFKAFLSPPE----------------PHSHRGTDRKLSPLL
+#=GR Q9H0A9|PF15058|3-153 PP .......67.79****************************................*******87775...9999******.**************************.........******************..........*****..*****************................9**************
+Q76KD6|PF15058|1-228         MSLLTNYEGLRHQIERLVRENEELKKLVRLIRENHELKSAIKTQAGGLGISGFTSGLGEATAGLSSRQNNGVFLPPSPAVANERVLEEVGIMALAPLAEMLTSLQPSATPGSLMSPLTGTLSTLLSGPAPTSQSSPLTSFLTSPIAGPLTGTLASSLGLPSTGTLTPSSLVAGPVAMSQSSPLIAPVMGTVAVSLSSPLL
+#=GR Q76KD6|PF15058|1-228 PP 9*******************************************************************************************************************************************************************************************************
+#=GC PP_cons                 9******88*9****************************************************99988************************************************************************************************************************************
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Q9H0A9|PF15058|3-153         SP-----------LQDSLVDKTLLE-PR
+#=GR Q9H0A9|PF15058|3-153 PP **...........************.98
+Q76KD6|PF15058|1-228         SSTATPPGVSQNLLANPMSNLVLPEAPR
+#=GR Q76KD6|PF15058|1-228 PP ***************************9
+#=GC PP_cons                 ***************************9
+#=GC RF                      xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,49 @@
+# STOCKHOLM 1.0
+
+O60934|PF00533|116-179           .....css-------------..-CLDVSGKTAL...NQA.ILQLGGFT.........VNNW.TEECTHLV.MVSV.....-KVTIKTICALICG.RPIVKPEYFTE--.
+#=GR O60934|PF00533|116-179   PP .....775................5677778999...999.99999999.........9***.********.****......*************.********975...
+P04053|PF00533|29-111            ......di----KFQDLVVFIleKKMGTTRRAFL...MEL.ARRKGFRV.........ENEL.SDSVTHIV.AENNsgsdvLEWLQAQKVQVSSQ.PELLDVSWLIECI.
+#=GR P04053|PF00533|29-111    PP ......86....7*********99999*******...***.********.........****.********.***********************.************8.
+P09874|PF00533|387-461           .......d---KPLSNMKILT..LGKLSRNKDEV...KAM.IEKLGGKL.........TGTA.NKASLCIS.TKKE....vEKMNKKMEEVKEAN.IRVVSEDFLQD--.
+#=GR P09874|PF00533|387-461   PP .......6...79********..***********...***.********.........****.********.****....***************.********987...
+P18887|PF00533|317-389           .......g---KILQGVVVVL..SGFQNPFRSEL...RDK.ALELGAKY.........RPDW.TRDSTHLI.CAFA.....--NTPKYSQVLGLG.GRIVRKEWVLDC-.
+#=GR P18887|PF00533|317-389   PP .......7...79********..***********...***.********.........****.********.9777.......99**********.***********9..
+P35251|PF00533|404-479           ........--ENCLEGLIFVI.tGVLESIERDEA...KSL.IERYGGKV.........TGNV.SKKTNYLV.MGRD.....-SGQSKSDKAAALG.TKIIDEDGLLNLI.
+#=GR P35251|PF00533|404-479   PP ..........689********.************...***.********.........****.********.****......*************.*********9987.
+P38398|PF00533|1645-1723         ...rvnkr--------MSMVV..SGLTP---EEFmlvYKF.ARKHHITL.........TNLI.TEETTHVV.MKTDae.fvCERTLKYFLGIAGG.KWVVSYFWVTQSI.
+#=GR P38398|PF00533|1645-1723 PP ...98765........67788..45554...444455***.********.........****.********.******.****************.**********997.
+P38398|PF00533|1758-1841         .......r---KIFRGLEICC.yGPFTNMPTDQL...EWM.VQLCGASVvk....elsSFTL.GTGVHPIV.VVQPd..awTEDNGFHAIGQMCE.APVVTREWVLDS-.
+#=GR P38398|PF00533|1758-1841 PP .......6...89********.************...***.********99....9999999.9999****.99999..**99************.**********97..
+P49917|PF00533|656-730           ........--SNIFEDVEFCV.mSGTDSQPKPDL...ENR.IAEFGGYI.........VQNP.GPDTYCVI.AGSE.....--NIRVKNIILSNK.HDVVKPAWLLECF.
+#=GR P49917|PF00533|656-730   PP ..........689********.************...***.********.........****.********.****.......8899********.************7.
+P49917|PF00533|825-898           vindlstk-------------..---NEGTRLAI...KALeLRFHGAKV.........VSCL.AEGVSHVI.IGEDh..srVADFKAFRRTFKRK.FKILKESWVTDSI.
+#=GR P49917|PF00533|825-898   PP 98887655..................55555556...4443789*****.........****.********.*****..****************.***********98.
+Q6ZW49|PF00533|602-678           .......e--EGFLLGCVFAIadYPEQMSDKQLLatwKRI.IQAHGGTV.........DPTF.TSRCTHLL.CESQ.....--VSSAYAQAIRER.KRCVTAHWL----n
+#=GR Q6ZW49|PF00533|602-678   PP .......7..67899*******999999999999******.********.........****.********.****.......************.********9....7
+Q92547|PF00533|105-175           .......v-----MSDVTISC..TSLEKEKREEV...HKY.VQMMGGRV.........YRDL.NVSVTHLI.AGEV.....--GSKKYLVAANLK.KPILLPSWIKT--l
+#=GR Q92547|PF00533|105-175   PP .......5.....899*****..***********...***.********.........****.********.****.......************.*********85..7
+Q92547|PF00533|196-271           .......k--CPIFLGCIICV..TGLCGLDRKEV...QQL.TVKHGGQY.........MGQLkMNECTHLI.VQEP.....--KGQKYECAKRWN.VHCVTTQWFFDSI.
+#=GR Q92547|PF00533|196-271   PP .......7..589********..***********...***.********.........*************.****.......66**********.***********98.
+Q92547|PF00533|355-431           .......p--EDLLDGCRIYL..CGFSGRKLDKL...RRL.INSGGGVR.........FNQL.NEDVTHVI.VGDY.....DDELKQFWNKSAHR.PHVVGAKWLLECF.
+#=GR Q92547|PF00533|355-431   PP .......5..899********..***********...***.********.........****.********.****.....**************.************7.
+Q92547|PF00533|549-620           .......e--EGLFSQKSFLV..LGFSNENESNI...ANI.IKENAGKI.........MSLL.SRTVADYA.VVPL.....-LG----CEVEATV.GEVVTNTWLVTCI.
+#=GR Q92547|PF00533|549-620   PP .......7..789********..***********...***.********.........****.********.****......66....99*****.************8.
+Q92547|PF00533|643-723           ........--MTPLEDCVISF..SQCAGAEKESL...TFL.ANLLGASVqeyfvrksnAKKG.MFASTHLI.LKER.....--GGSKYEAAKKWN.LPAVTIAWLLE--.
+#=GR Q92547|PF00533|643-723   PP ..........589********..***********...***.*********************.********.****.......99**********.*********86...
+Q92547|PF00533|902-977           ........--PKPLHKVVVCV..SKKLSKKQSEL...NGI.AASLGADY.........RWSF.DETVTHFIyQGRP.....NDTNREYKSVKERG.VHIVSEHWLLDC-.
+#=GR Q92547|PF00533|902-977   PP ..........589********..***********...***.********.........****.********77777.....9*************.***********9..
+Q92547|PF00533|1262-1337         ......ee----LKKQYIFQL..SSLNPQERIDY...CHL.IEKLGGLVi.......eKQCF.DPTCTHIV.VGHP.....-LRNEKYLASVAAG.KWVLHRSYLEAC-.
+#=GR Q92547|PF00533|1262-1337 PP ......76....567899***..***********...***.*********.......*****.********.****......*************.**********99..
+Q99728|PF00533|571-640           .......v-----------LI.gSGLSSEQQKML...SEL.AVILKAKK.........YTEF.DSTVTHVV.VPGD....aVQSTLKCMLGILNG.CWILKFEWVKACL.
+#=GR Q99728|PF00533|571-640   PP .......5...........46.789999999999...***.********.........****.********.9999....98889**********.************7.
+Q9H8V3|PF00533|267-341           .......k--VPPFQDCILSF..LGFSDEEKTNM...EEM.TEMQGGKY.........LPLG.DERCTHLV.VEEN.....--IVKDLPFEPSKK.LYVVKQEWFWGSI.
+#=GR Q9H8V3|PF00533|267-341   PP .......6..689********..***********...***.********.........****.********.****.......7799********.*********9887.
+Q9UBZ9|PF00533|45-118            .......s--STIFSGVAIYV..NGYTDPSAEEL...RKL.MMLHGGQY.........HVYYsRSKTTHII.ATNL.....----PNAKIKELKG.EKVIRPEWIVESI.
+#=GR Q9UBZ9|PF00533|45-118    PP .......6..79*********..***********...***.********.........77772579*****.*999.........8999999***.***********98.
+Q9UKK3|PF00533|3-81              .......m---GIFANCIFCLkvKYLPQQQKKKL...QTD.IKENGGKF.........SFSL.NPQCTHII.LDNA....dVLSQYQLNSIQKNH.VHIANPDFIWKSI.
+#=GR Q9UKK3|PF00533|3-81      PP .......6...69*********************...***.********.........****.********.****....98889**********.**********997.
+Q9Y5B0|PF00533|660-715           .......a-------------..-----------...---.-TALGAKIltr...lvlSPDA.PDRATHLI.AARA.....--GTEKVLQAQECGhLHVVNPDWLWSCL.
+#=GR Q9Y5B0|PF00533|660-715   PP .......6..................................679*******...*******.********.****.......**********9747***********7.
+#=GC PP_cons                     ..........6899*******..9999999*999...***.********.........****.********.****.....9999**********.*********9997.
+#=GC RF                          ........xxxxxxxxxxxxx..xxxxxxxxxxx...xxx.xxxxxxxx.........xxxx.xxxxxxxx.xxxx.....xxxxxxxxxxxxxx.xxxxxxxxxxxxx.
+//

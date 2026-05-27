@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+O94985|PF19699|566-919         .DLQVLEDSGRGVQIQAHPSQLVLTLEGEDLGELDKAMQHISYLNSRQFPTPGIRRLKITSTIKCFNEATCISVPPVDGYVMVLQPEEPKISLSGVHHFARAASEFESSEGVFLFPELRIISTITREVEPEGDGAEDPTVQESLVSEEIVHDLDTCEVTVEGEELNHEQESLEVDMARLQQKGIEVSSSELGMTFTGVDT
+#=GR O94985|PF19699|566-919 PP .89*****************************************************************************************************************************************************************************************************
+Q9BQT9|PF19699|559-912         e------SLGKGMKVHVNPSQSLLTLEGDDVETFNHALQHVAYMNTLRFATPGVRPLRLTTAVKCFSEESCVSIPEVEGYVVVLQPDAPQILLSGTAHFARPAVDFEGTNGVPLFPDLQITCSISHQVEAKKDESWQGTVTDTRMSDEIVHNLDGCEISLVGDDLDPERESLLLDTTSLQQRGLELTNTSAYLTIAGVES
+#=GR Q9BQT9|PF19699|559-912 PP 6......579**********************************************************************************************************************************************************************************************
+Q9H4D0|PF19699|551-892         e------SLGQGIKYHFNPSQSILVMEGDDIGNINRALQKVSYINSRQFPTAGVRRLKVSSKVQCFGEDVCISIPEVDAYVMVLQAIEPRITLRGTDHFWRPAAQFESARGVTLFPDIKIVSTFAKT---EAPGDVKTTDPKSEVLEEMLHNLDFCDILVIGGDLDPRQECLELNHSELHQRHLDATNSTAGYSIYGVGS
+#=GR Q9H4D0|PF19699|551-892 PP 6......579*****************************************************************************************************************9975...5555555566679999******************************************************
+#=GC PP_cons                   .89****789******************************************************************************************************************998***888888889999**********************************************************
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+O94985|PF19699|566-919         MASYEEVLHLLRYRNWHARSLLDRKFKLICSELNGRYISNEFKVEVNVIHT..ANPMEHANHMAAQPQFVHPEHRSFVDLSGHNLANPHPFAVVPSTATVVIVVCVSFLVFMIILGVFRIRAAHRRTMRD......QDTGKENEMDWDDSALTITVNPMETYE
+#=GR O94985|PF19699|566-919 PP ***************************************************..*****************************************************************************......**************************8
+Q9BQT9|PF19699|559-912         ITVYEEILRQARYRLRHGAALYTRKFRLSCSEMNGRYSSNEFIVEVNVLHS..MNRVAHPSHVLSSQQFLHRGHQPPPEMAGHSLASSHRNSMIPSAATLIIVVCVGFLVLMVVLGLVRIHSLHRRVSGAggppgaSSDPKDPDLFWDDSALTIIVNPMESY-
+#=GR Q9BQT9|PF19699|559-912 PP ***************************************************..*************************************************************************87542222215678999*****************98.
+Q9H4D0|PF19699|551-892         MSRYEQVLHHIRYRNWRPASLEARRFRIKCSELNGRYTSNEFNLEVSILHEdqVSDKEHVNHLIVQPPFLQSVHHPES------RSSIQHSSVVPSIATVVIIISVCMLVFVVAMGVYRVRIAHQHFIQE......TEAAKESEMDWDDSALTITVNPMEKHE
+#=GR Q9H4D0|PF19699|551-892 PP **************************************************72246789*************9999753......44566789**************************************......************************876
+#=GC PP_cons                   **************************************************9..8999******************988******8889999***********************************9988......8999********************987
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

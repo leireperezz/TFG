@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+
+P09086|PF00157|199-269         d--LEELEQFARTFKQRRIKLGFTQGDVGLAMGKLYGNDF...SQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE.
+#=GR P09086|PF00157|199-269 PP 6..79***********************************...********************************8.
+P14859|PF00157|284-354         d--LEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLYGNDF...SQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE.
+#=GR P14859|PF00157|284-354 PP 6..79***********************************...********************************8.
+P20264|PF00157|318-388         t--SDDLEQFAKQFKQRRIKLGFTQADVGLALGTLYGNVF...SQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD.
+#=GR P20264|PF00157|318-388 PP 6..689**********************************...*******************************97.
+P20265|PF00157|266-336         t--SDDLEQFAKQFKQRRIKLGFTQADVGLALGTLYGNVF...SQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD.
+#=GR P20265|PF00157|266-336 PP 6..689**********************************...*******************************97.
+P28069|PF00157|129-198         i---RELEKFANEFKVRRIKLGYTQTNVGEALAAVHGSEF...SQTTICRFENLQLSFKNACKLKAILSKWLEEAE.
+#=GR P28069|PF00157|129-198 PP 7...79**********************************...********************************8.
+P49335|PF00157|190-260         t--SDELEQFAKQFKQRRIKLGFTQADVGLALGTLYGNVF...SQTTICRFEGLQLSFKNMCKLKPLLNKWLEEAD.
+#=GR P49335|PF00157|190-260 PP 6..68***********************************...*******************************97.
+P78424|PF00157|480-525         n--LEEIREFAKAFKIRRLSLGLTQTQVGQALSATEGPAY...SQSAICR--------------------------h
+#=GR P78424|PF00157|480-525 PP 6..79***********************************...******9..........................7
+P78424|PF00157|559-586         .---------------------------------------...-----ARFEKLDITPKSAQKIKPVLERWMAEAE.
+#=GR P78424|PF00157|559-586 PP ................................................59*************************8.
+Q01851|PF00157|264-337         d--PRELEAFAERFKQRRIKLGVTQADVGSALANLKIPGVgslSQSTICRFESLTLSHNNMIALKPILQAWLEEAE.
+#=GR Q01851|PF00157|264-337 PP 7..58******************************98854455********************************8.
+Q01860|PF00157|143-212         .--QKELEQFAKLLKQKRITLGYTQADVGLTLGVLFGKVF...SQTTICRFEALQLSFKNMCKLRPLLQKWVEEAD.
+#=GR Q01860|PF00157|143-212 PP ...69***********************************...*******************************97.
+Q03052|PF00157|252-321         s---DDLEQFAKQFKQRRIKLGFTQADVGLALGTLYGNVF...SQTTICRFEALQLSFKNMCKLKPLLNKWLEETD.
+#=GR Q03052|PF00157|252-321 PP 7...69**********************************...******************************976.
+Q06416|PF00157|143-212         .--QKELEQFAKLLKQKRITLGYTQADVGLILGVLFGKVF...SQKTICRFEALQLSFKNMCKLRPLLQKWVEEAD.
+#=GR Q06416|PF00157|143-212 PP ...69***********************************...*******************************97.
+Q12837|PF00157|255-327         p---RDLEAFAERFKQRRIKLGVTQADVGSALANLKIPGVgslSQSTICRFESLTLSHNNMIALKPILQAWLEEAE.
+#=GR Q12837|PF00157|255-327 PP 7...69*****************************98854455********************************8.
+Q14863|PF00157|453-523         n--LEEIREFAKNFKIRRLSLGLTQTQVGQALTATEGPAY...SQSAICRFEKLDITPKSAQKLKPVLEKWLNEAE.
+#=GR Q14863|PF00157|453-523 PP 6..79***********************************...********************************8.
+Q15319|PF00157|184-256         p---RELEAFAERFKQRRIKLGVTQADVGAALANLKIPGVgslSQSTICRFESLTLSHNNMIALKPVLQAWLEEAE.
+#=GR Q15319|PF00157|184-256 PP 7...79*****************************98854455********************************8.
+Q9UKI9|PF00157|187-257         d--LEELEKFAKTFKQRRIKLGFTQGDVGLAMGKLYGNDF...SQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE.
+#=GR Q9UKI9|PF00157|187-257 PP 6..79***********************************...********************************8.
+Q8N7G0|PF00157|123-192         l---KELQQLAKELRQKRLSLGYSQADVGIAVGALFGKVL...SQTTICRFEAQQLSVANMWKLRPLLKKWLKEVE.
+#=GR Q8N7G0|PF00157|123-192 PP 5...8***********************************...*******************************98.
+#=GC PP_cons                   ...689********************************99...*******************************98.
+#=GC RF                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

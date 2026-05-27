@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+P61619|PF00344|75-458         TLMELGISPIVTSGLIMQLLaGA-----KIIEvGDTPKDRALFNGAQKLFGMIITIGQSIVYVMT-GMyGdPsemgaGICLLITIQLFVAGLIVLLLDELLQKgYGLGSGISLFIATNICETIVwKAFSpttvntgrgmefeG---AiialfhllatrtdkvrA--LreafyrQNLPNLMNLIATIFVFAVVIYFQGFRV
+#=GR P61619|PF00344|75-458 PP 89******************999.....99996679*************************7655.6543324678899**************************************************77777666666662...044446767767666652..0336667669************************
+Q9H9S3|PF00344|75-458         TLMELGISPIVTSGLIMQLLaGA-----KIIEvGDTPKDRALFNGAQKLFGMIITIGQAIVYVMT-GMyGdPaemgaGICLLIIIQLFVAGLIVLLLDELLQKgYGLGSGISLFIATNICETIVwKAFSpttintgrgtefeG---AvialfhllatrtdkvrA--LreafyrQNLPNLMNLIATVFVFAVVIYFQGFRV
+#=GR Q9H9S3|PF00344|75-458 PP 89******************999.....99996679*************************7655.6543324678899**************************************************66666655555551...044446767766666652..0336667669************************
+#=GC PP_cons                  89******************.99.....9999.679*************************7655.65.3.2.....99************************.********************.****.............2...0................2..0......669************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.x.....xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.xxxx.............xxxxx................xxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P61619|PF00344|75-458         DLPIKSArYR---GQ-YNTYPIKLFYTSNIPIILQSALVSNLYVISQMLsarfsgnllvsllgtwsdtssggparaypvgglcyylsppesfGSVL-EDPVHAVVYIVFMLGscafFSKTWIEVSgSSAKDVAKQLKEQQMVMRGHRE-TSMVHELNRYIPTAAAFGGLCIGALSVLADFLGA-IG--SGTGILLAVTII
+#=GR P61619|PF00344|75-458 PP *******666...96.9***********************65555555555555666666666666666777766666666666666644333333.557999***9999999999*******************************7.8*********************************.99..************
+Q9H9S3|PF00344|75-458         DLPIKSArYR---GQ-YSSYPIKLFYTSNIPIILQSALVSNLYVISQMLsvrfsgnflvnllgqwadvsgggparsypvgglcyylsppesmGAIF-EDPVHVVVYIIFMLGscafFSKTWIEVSgSSAKDVAKQLKEQQMVMRGHRD-TSMVHELNRYIPTAAAFGGLCIGALSVLADFLGA-IG--SGTGILLAVTII
+#=GR Q9H9S3|PF00344|75-458 PP *******666...96.9***********************55555444455555555555555555666666666666666666666655423333.557**********999999*******************************7.7*********************************.99..************
+#=GC PP_cons                  *******.66...96.9***********************555555544...........................................3333.5579*********99....*********.*********************7.7*********************************.99..************
+#=GC RF                       xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...........................................xxxxxxxxxxxxxxxxxxxx....xxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+P61619|PF00344|75-458         YQYF
+#=GR P61619|PF00344|75-458 PP *985
+Q9H9S3|PF00344|75-458         YQYF
+#=GR Q9H9S3|PF00344|75-458 PP *985
+#=GC PP_cons                  *985
+#=GC RF                       xxxx
+//
