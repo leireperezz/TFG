@@ -1,4 +1,4 @@
-Pfam_code,HMMER_conservation,HMMER_blosum,HMMER_gaps,FULL_conservation,FULL_blosum,FULL_gaps
+Pfam_code,REC_conservation,REC_blosum,REC_gaps,FULL_conservation,FULL_blosum,FULL_gaps
 PF00001,0.12,0.67,0.62,0.10,0.68,0.69
 PF00002,0.23,1.05,0.43,0.19,1.01,0.53
 PF00003,0.35,0.94,0.20,0.31,0.95,0.28

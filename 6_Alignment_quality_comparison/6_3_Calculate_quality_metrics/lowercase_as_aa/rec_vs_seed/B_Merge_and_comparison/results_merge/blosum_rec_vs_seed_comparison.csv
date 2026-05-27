@@ -1,4 +1,4 @@
-Pfam_code,HMMER_blosum,SEED_blosum,HMMER_vs_SEED_blosum_diff,HMMER_vs_SEED_blosum_%_improvement
+Pfam_code,REC_blosum,SEED_blosum,REC_vs_SEED_blosum_diff,REC_vs_SEED_blosum_%_improvement
 PF00001,0.83,0.83,0.00,0.00
 PF00002,1.28,1.26,0.02,1.59
 PF00004,1.20,1.16,0.04,3.45

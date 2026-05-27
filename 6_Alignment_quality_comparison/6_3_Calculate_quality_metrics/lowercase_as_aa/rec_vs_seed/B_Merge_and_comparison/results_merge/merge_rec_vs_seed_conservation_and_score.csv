@@ -1,4 +1,4 @@
-Pfam_code,HMMER_conservation,HMMER_blosum,HMMER_gaps,SEED_conservation,SEED_blosum,SEED_gaps
+Pfam_code,REC_conservation,REC_blosum,REC_gaps,SEED_conservation,SEED_blosum,SEED_gaps
 PF00001,0.24,0.83,0.37,0.24,0.83,0.38
 PF00002,0.36,1.28,0.26,0.36,1.26,0.26
 PF00004,0.37,1.2,0.27,0.37,1.16,0.26

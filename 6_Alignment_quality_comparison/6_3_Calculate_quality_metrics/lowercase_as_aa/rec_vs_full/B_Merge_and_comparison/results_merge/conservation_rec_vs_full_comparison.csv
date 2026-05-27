@@ -1,4 +1,4 @@
-Pfam_code,HMMER_conservation,FULL_conservation,HMMER_vs_FULL_conservation_diff,HMMER_vs_FULL_conservation_%_improvement
+Pfam_code,REC_conservation,FULL_conservation,REC_vs_FULL_conservation_diff,REC_vs_FULL_conservation_%_improvement
 PF00001,0.12,0.10,0.02,20.00
 PF00002,0.23,0.19,0.04,21.05
 PF00003,0.35,0.31,0.04,12.90

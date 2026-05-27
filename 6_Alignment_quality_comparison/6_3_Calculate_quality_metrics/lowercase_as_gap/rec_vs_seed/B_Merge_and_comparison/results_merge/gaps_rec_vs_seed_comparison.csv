@@ -1,4 +1,4 @@
-Pfam_code,HMMER_gaps,SEED_gaps,HMMER_vs_SEED_gaps_diff,HMMER_vs_SEED_gaps_%_improvement
+Pfam_code,REC_gaps,SEED_gaps,REC_vs_SEED_gaps_diff,REC_vs_SEED_gaps_%_improvement
 PF00001,0.04,0.38,0.34,89.47
 PF00002,0.05,0.26,0.21,80.77
 PF00004,0.05,0.26,0.21,80.77

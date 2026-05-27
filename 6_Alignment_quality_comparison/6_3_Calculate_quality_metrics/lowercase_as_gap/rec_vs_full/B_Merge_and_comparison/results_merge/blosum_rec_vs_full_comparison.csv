@@ -1,4 +1,4 @@
-Pfam_code,HMMER_blosum,FULL_blosum,HMMER_vs_FULL_blosum_diff,HMMER_vs_FULL_blosum_%_improvement
+Pfam_code,REC_blosum,FULL_blosum,REC_vs_FULL_blosum_diff,REC_vs_FULL_blosum_%_improvement
 PF00001,0.69,0.70,-0.01,-1.43
 PF00002,1.06,1.04,0.02,1.92
 PF00003,0.95,1.01,-0.06,-5.94

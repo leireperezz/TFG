@@ -1,4 +1,4 @@
-Pfam_code,HMMER_gaps,FULL_gaps,HMMER_vs_FULL_gaps_diff,HMMER_vs_FULL_gaps_%_improvement
+Pfam_code,REC_gaps,FULL_gaps,REC_vs_FULL_gaps_diff,REC_vs_FULL_gaps_%_improvement
 PF00001,0.07,0.08,0.01,12.50
 PF00002,0.07,0.06,-0.01,-16.67
 PF00003,0.04,0.04,0.00,0.00
