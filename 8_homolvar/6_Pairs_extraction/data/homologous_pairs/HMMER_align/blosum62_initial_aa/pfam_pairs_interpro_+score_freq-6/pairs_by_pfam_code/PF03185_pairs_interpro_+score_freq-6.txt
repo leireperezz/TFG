@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF03185	G	Arg	160.0	153.0	True	gnomAD	KCNMB1	['NM_004137']	rs144153073	ENST00000274629	Q16558	KCMB1_HUMAN	p.Gly153Arg								3.28532380151e-05	0.0001805901192578	G	True
-PF03185	G	Arg	160.0	153.0	True	gnomAD	KCNMB1	['NM_004137']	rs144153073	ENST00000274629	Q16558	KCMB1_HUMAN	p.Gly153Arg								1.96966712625e-05	2.32578183892e-05	G	True
-PF03185	V	Leu	73.0	71.0	True	gnomAD	KCNMB1	['NM_004137']	rs771873575	ENST00000274629	Q16558	KCMB1_HUMAN	p.Val71Leu								1.31447499868e-05	1.23137544637e-05	V	True
-PF03185	V	Leu	73.0	71.0	True	gnomAD	KCNMB1	['NM_004137']	rs771873575	ENST00000274629	Q16558	KCMB1_HUMAN	p.Val71Leu								5.25789999474e-05	9.09849635376e-05	V	True

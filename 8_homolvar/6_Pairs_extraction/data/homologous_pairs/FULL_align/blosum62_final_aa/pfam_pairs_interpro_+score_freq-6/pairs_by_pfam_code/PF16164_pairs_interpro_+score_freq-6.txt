@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF16164	Asn	S	35.0	1231.0	True	gnomAD	VWF	['NM_000552']	rs61749368	ENST00000261405	P04275	VWF_HUMAN	p.Asn1231Ser								0.0004927467675812	0.0007890508239142	ST	True
-PF16164	Asn	T	35.0	1231.0	True	gnomAD	VWF	['NM_000552']	rs61749368	ENST00000261405	P04275	VWF_HUMAN	p.Asn1231Thr								0.0050065703022339	0.001804967500984	ST	True

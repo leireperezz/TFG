@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00676	Met	L	340.0	241.0	True	gnomAD	DHTKD1	['NM_018706']	rs149066296	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Met241Leu								0.0009194556822361	0.0001122666359987	LV	True
-PF00676	Met	V	340.0	241.0	True	gnomAD	DHTKD1	['NM_018706']	rs149066296	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Met241Val								1.97026217622e-05	4.1073103278e-06	LV	True
-PF00676	Thr	R	1947.0	461.0	True	gnomAD	DHTKD1	['NM_018706']	rs201559023	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Thr461Arg								2.62756844815e-05	2.94291564919e-05	RK	True
-PF00676	Thr	K	1947.0	461.0	True	gnomAD	DHTKD1	['NM_018706']	rs201559023	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Thr461Lys								9.18936659008e-05	2.66915605391e-05	RK	True

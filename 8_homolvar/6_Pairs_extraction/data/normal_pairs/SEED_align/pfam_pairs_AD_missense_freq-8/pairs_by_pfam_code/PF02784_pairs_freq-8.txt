@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-258	PF02784	Val	Leu	1047.0	209.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']		ENST00000234111	P11926	DCOR_HUMAN	p.Val209Leu									6.841208704753956e-07
-259	PF02784	Val	Leu	1047.0	209.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']	rs1438106441	ENST00000234111	P11926	DCOR_HUMAN	p.Val209Leu								1.31450955648e-05	
-260	PF02784	Val	Leu	1346.0	254.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']	rs573428254	ENST00000234111	P11926	DCOR_HUMAN	p.Val254Leu									1.3790877885e-06
-261	PF02784	Val	Leu	1346.0	254.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']	rs573428254	ENST00000234111	P11926	DCOR_HUMAN	p.Val254Leu								6.5708203012e-06	6.895438942956792e-07

@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF17855	Met	I	86.0	793.0	True	gnomAD	MCM2	['NM_004526']	rs200244254	ENST00000265056	P49736	MCM2_HUMAN	p.Met793Ile								5.25010172072e-05	7.86764836674e-05	IV	True
-PF17855	Met	V	86.0	793.0	True	gnomAD	MCM2	['NM_004526']	rs1168025291	ENST00000265056	P49736	MCM2_HUMAN	p.Met793Val								1.31350811748e-05	2.7365171798e-06	IV	True
-PF17855	Val	I	84.0	791.0	True	gnomAD	MCM2	['NM_004526']	rs777726822	ENST00000265056	P49736	MCM2_HUMAN	p.Val791Ile								1.31338735733e-05	1.43666365651e-05	IL	True
-PF17855	Val	L	84.0	645.0	True	gnomAD	MCM6	['NM_005915']	rs767461208	ENST00000264156	Q14566	MCM6_HUMAN	p.Val645Leu								1.31393958505e-05	3.35678055971e-05	IL	True

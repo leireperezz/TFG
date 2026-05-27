@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-34	PF12895	Asp	Glu	77.0	111.0	True	gnomAD	STUB1	['NM_005861']	rs746292203	ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Asp111Glu									2.7386943274e-06
-35	PF12895	Asp	Glu	77.0	111.0	True	gnomAD	STUB1	['NM_005861']		ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Asp111Glu									6.846735818698435e-07
-77	PF12895	Ser	Arg	75.0	109.0	True	gnomAD	STUB1	['NM_005861']		ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Ser109Arg									1.2003245677e-06
-78	PF12895	Ser	Arg	75.0	109.0	True	gnomAD	STUB1	['NM_005861']		ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Ser109Arg									6.846745194269548e-07

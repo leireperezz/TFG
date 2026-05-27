@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-34	PF03129	Asp	Asn	93.0	690.0	True	gnomAD	GARS1	['NM_001316772', 'NM_002047']		ENST00000389266	P41250	GARS_HUMAN	p.Asp690Asn									1.5904876116e-06
-35	PF03129	Asp	Asn	93.0	459.0	True	gnomAD	POLG2	['NM_007215']		ENST00000539111	Q9UHN1	DPOG2_HUMAN	p.Asp459Asn	Likely benign								3.1824025866e-06
-98	PF03129	Ile	Met	75.0	672.0	True	gnomAD	GARS1	['NM_001316772', 'NM_002047']	rs768607839	ENST00000389266	P41250	GARS_HUMAN	p.Ile672Met								6.5729797946e-06	
-99	PF03129	Ile	Met	75.0	466.0	True	gnomAD	HARS1	['NM_001289094', 'NM_002109']	rs766088180	ENST00000504156	P12081	HARS1_HUMAN	p.Ile466Met	Likely benign								6.840506744739651e-07
-192	PF03129	Val	Leu	69.0	666.0	True	gnomAD	GARS1	['NM_001316772', 'NM_002047']		ENST00000389266	P41250	GARS_HUMAN	p.Val666Leu									2.7362438759e-06
-193	PF03129	Val	Leu	69.0	666.0	True	gnomAD	GARS1	['NM_001316772', 'NM_002047']	rs544634101	ENST00000389266	P41250	GARS_HUMAN	p.Val666Leu									1.3681219379e-06

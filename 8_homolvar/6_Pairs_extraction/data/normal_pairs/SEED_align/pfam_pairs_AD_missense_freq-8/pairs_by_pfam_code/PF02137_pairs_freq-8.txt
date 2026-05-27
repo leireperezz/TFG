@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-128	PF02137	Phe	Leu	327.0	940.0	True	gnomAD	ADAR	['NM_001111']		ENST00000368474	P55265	DSRAD_HUMAN	p.Phe940Leu									6.84079687074588e-07
-129	PF02137	Phe	Leu	327.0	940.0	True	gnomAD	ADAR	['NM_001111']		ENST00000368474	P55265	DSRAD_HUMAN	p.Phe940Leu									6.84079687074588e-07
-174	PF02137	Val	Leu	382.0	955.0	True	gnomAD	ADAR	['NM_001111']		ENST00000368474	P55265	DSRAD_HUMAN	p.Val955Leu									1.5905432659e-06
-175	PF02137	Val	Leu	382.0	955.0	True	gnomAD	ADAR	['NM_001111']	rs1696920679	ENST00000368474	P55265	DSRAD_HUMAN	p.Val955Leu									1.5905432659e-06

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-110	PF02773	Val	Leu	55.0	306.0	True	gnomAD	MAT1A	['NM_000429']	rs369601773	ENST00000372213	Q00266	METK1_HUMAN	p.Val306Leu									8.4997634232e-06
-111	PF02773	Val	Leu	55.0	306.0	True	gnomAD	MAT1A	['NM_000429']	rs369601773	ENST00000372213	Q00266	METK1_HUMAN	p.Val306Leu								7.22847229523e-05	0.0001657453867534

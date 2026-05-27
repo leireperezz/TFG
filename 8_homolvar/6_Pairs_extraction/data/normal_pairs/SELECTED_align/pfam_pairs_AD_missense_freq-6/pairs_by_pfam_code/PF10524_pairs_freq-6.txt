@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-6	PF10524	Arg	His	39.0	38.0	True	gnomAD	NFIA	['NM_001145512']	rs1055228912	ENST00000371189	Q12857	NFIA_HUMAN	p.Arg38His								6.6672889469e-06	1.92899856396e-05
-7	PF10524	Arg	His	39.0	38.0	True	ClinVar	NFIX	NM_001365902	rs2013223468			NFIX_HUMAN	p.Arg38His	Pathogenic/Likely pathogenic(Last reviewed: Apr 1, 2023)	Malan overgrowth syndrome|not provided	criteria provided, multiple submitters, no conflicts	VCV000976670	976670.0	964886.0	NC_000019.10:13025105:G:A		
-10	PF10524	Thr	Ser	9.0	8.0	True	gnomAD	NFIA	['NM_001134673']	rs747260684	ENST00000403491	Q12857	NFIA_HUMAN	p.Thr8Ser								2.63341540811e-05	3.9325432973e-05
-11	PF10524	Thr	Ser	9.0	9.0	True	gnomAD	NFIB	['NM_001190737', 'NM_001369465']	rs1222431685	ENST00000380953	O00712	NFIB_HUMAN	p.Thr9Ser								1.33377792597e-05	

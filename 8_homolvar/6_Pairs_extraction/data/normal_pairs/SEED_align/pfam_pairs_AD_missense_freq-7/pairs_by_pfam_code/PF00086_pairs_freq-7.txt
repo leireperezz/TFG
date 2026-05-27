@@ -1,4 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-47	PF00086	Met	Ile	71.0	115.0	True	gnomAD	EPCAM	['NM_002354']		ENST00000263735	P16422	EPCAM_HUMAN	p.Met115Ile									1.3680994772e-06
-48	PF00086	Met	Ile	71.0	115.0	True	gnomAD	EPCAM	['NM_002354']	rs115212523	ENST00000263735	P16422	EPCAM_HUMAN	p.Met115Ile								1.31475151196e-05	4.7883481703e-06
-49	PF00086	Met	Ile	71.0	115.0	True	gnomAD	EPCAM	['NM_002354']	rs115212523	ENST00000263735	P16422	EPCAM_HUMAN	p.Met115Ile								0.0029099938252952	0.0003303960237556

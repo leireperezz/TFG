@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-11	PF14520	Glu	Gly	55.0	77.0	True	gnomAD	RAD51		rs1595980929	ENST00000382643	Q06609	RAD51_HUMAN	p.Glu77Gly								0.0	1.49244821204e-05
-12	PF14520	Glu	Gly	55.0	77.0	True	gnomAD	RAD51	['NM_002875']	rs1218843632	ENST00000267868	Q06609	RAD51_HUMAN	p.Glu77Gly								6.5731526154e-06	4.7713565921e-06
-14	PF14520	Glu	Val	55.0	77.0	True	gnomAD	RAD51		rs1595980929	ENST00000382643	Q06609	RAD51_HUMAN	p.Glu77Val								2.05376763672e-05	
-15	PF14520	Glu	Val	55.0	77.0	True	gnomAD	RAD51	['NM_002875']		ENST00000267868	Q06609	RAD51_HUMAN	p.Glu77Val									1.5904521973e-06

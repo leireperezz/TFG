@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF14551	D	Glu	53.0	67.0	True	gnomAD	MCM6	['NM_005915']	rs750109785	ENST00000264156	Q14566	MCM6_HUMAN	p.Asp67Glu								1.31532218816e-05	1.3681125792e-06	D	True
-PF14551	D	Glu	53.0	236.0	True	gnomAD	MCM2	['NM_004526']	rs768479679	ENST00000265056	P49736	MCM2_HUMAN	p.Asp236Glu									1.9153471293e-05	D	True

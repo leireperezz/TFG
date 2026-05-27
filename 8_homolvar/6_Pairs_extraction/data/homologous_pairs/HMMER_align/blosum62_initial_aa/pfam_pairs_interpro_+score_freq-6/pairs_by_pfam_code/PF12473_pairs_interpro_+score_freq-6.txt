@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF12473	R	His	66.0	1201.0	True	gnomAD	KIF1A	['NM_001244008', 'NM_001379631']	rs765118465	ENST00000498729	Q12756	KIF1A_HUMAN	p.Arg1201His								4.60072297075e-05	8.2274618965e-06	R	True
-PF12473	R	His	66.0	1318.0	True	gnomAD	KIF1B	['NM_001365951']	rs368637007	ENST00000676179	O60333	KIF1B_HUMAN	p.Arg1318His								1.97298328225e-05	1.02784641507e-05	R	True

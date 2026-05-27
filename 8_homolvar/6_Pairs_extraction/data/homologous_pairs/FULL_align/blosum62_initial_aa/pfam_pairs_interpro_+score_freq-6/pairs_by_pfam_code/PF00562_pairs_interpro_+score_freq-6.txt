@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00562	A	Ser	744.0	760.0	True	gnomAD	POLR3B	['NM_018082']	rs146513209	ENST00000228347	Q9NW08	RPC2_HUMAN	p.Ala760Ser								1.97096117206e-05		A	True
-PF00562	A	Ser	744.0	762.0	True	gnomAD	POLR1B	['NM_001371969', 'NM_019014']	rs1365585855	ENST00000263331	Q9H9Y6	RPA2_HUMAN	p.Ala762Ser								3.2854101506e-05	6.1591272106e-06	A	True
-PF00562	I	Val	692.0	746.0	True	gnomAD	POLR1B	['NM_001371969', 'NM_019014']	rs144775729	ENST00000263331	Q9H9Y6	RPA2_HUMAN	p.Ile746Val								1.31302521008e-05	6.858268396962061e-07	IM	True
-PF00562	M	Val	692.0	744.0	True	gnomAD	POLR3B	['NM_018082']	rs747766146	ENST00000228347	Q9NW08	RPC2_HUMAN	p.Met744Val								1.31414679019e-05	0.0	IM	True

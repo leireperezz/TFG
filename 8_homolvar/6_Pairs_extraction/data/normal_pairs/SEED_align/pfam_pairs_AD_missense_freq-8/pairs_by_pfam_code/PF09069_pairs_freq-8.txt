@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-22	PF09069	Gln	His	90.0	220.0	True	gnomAD	DTNA	['NM_001386795']		ENST00000444659	Q9Y4J8	DTNA_HUMAN	p.Gln220His									6.841798462511049e-07
-23	PF09069	Gln	His	90.0	220.0	True	gnomAD	DTNA	['NM_001386795']	rs1031348434	ENST00000444659	Q9Y4J8	DTNA_HUMAN	p.Gln220His								1.31431951107e-05	3.76298915438e-05

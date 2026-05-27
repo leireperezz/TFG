@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-18	PF03154	His	Tyr	930.0	1433.0	True	ClinVar	RERE	NM_001042681				RERE_HUMAN	p.His1433Tyr	Pathogenic(Last reviewed: May 19, 2022)	not provided	criteria provided, single submitter	VCV001686749	1686749.0	1678866.0	NC_000001.11:8358237:G:A		
-19	PF03154	His	Tyr	930.0	1058.0	True	ClinVar	ATN1	NM_001940	rs1555144358			ATN1_HUMAN	p.His1058Tyr	Pathogenic	ATN1-related disorders	criteria provided, single submitter	VCV000487497	487497.0	480549.0	NC_000012.12:6939134:C:T		

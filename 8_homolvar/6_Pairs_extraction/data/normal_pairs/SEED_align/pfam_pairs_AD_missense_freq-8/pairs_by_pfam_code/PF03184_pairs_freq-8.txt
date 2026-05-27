@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-17	PF03184	Gln	His	32.0	1182.0	True	gnomAD	POGZ	['NM_001410860', 'NM_015100']		ENST00000271715	Q7Z3K3	POGZ_HUMAN	p.Gln1182His	Benign								6.840441235821475e-07
-18	PF03184	Gln	His	32.0	1182.0	True	gnomAD	POGZ	['NM_001410860', 'NM_015100']	rs767143461	ENST00000271715	Q7Z3K3	POGZ_HUMAN	p.Gln1182His	Benign								6.840441235821475e-07
-44	PF03184	Ser	Arg	87.0	1222.0	True	gnomAD	POGZ	['NM_001410860', 'NM_015100']	rs772154987	ENST00000271715	Q7Z3K3	POGZ_HUMAN	p.Ser1222Arg	Likely benign							1.97052100575e-05	
-45	PF03184	Ser	Arg	87.0	1222.0	True	gnomAD	POGZ	['NM_001410860', 'NM_015100']		ENST00000271715	Q7Z3K3	POGZ_HUMAN	p.Ser1222Arg	Likely benign								1.2003303309e-06

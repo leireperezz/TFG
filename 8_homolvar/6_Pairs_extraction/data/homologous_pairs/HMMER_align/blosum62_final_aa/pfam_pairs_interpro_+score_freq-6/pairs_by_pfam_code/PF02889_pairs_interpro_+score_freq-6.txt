@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02889	Glu	Q	330.0	646.0	True	gnomAD	SEC63	['NM_007214']		ENST00000369002	Q9UGP8	SEC63_HUMAN	p.Glu646Gln								1.27867427051e-05	8.995556195239552e-07	QK	True
-PF02889	Glu	K	330.0	646.0	True	gnomAD	SEC63	['NM_007214']	rs755429526	ENST00000369002	Q9UGP8	SEC63_HUMAN	p.Glu646Lys								1.27867427051e-05	8.995604747520362e-07	QK	True
-PF02889	Val	L	393.0	696.0	True	gnomAD	SEC63	['NM_007214']	rs767955182	ENST00000369002	Q9UGP8	SEC63_HUMAN	p.Val696Leu									1.28418793662e-05	L	True
-PF02889	Val	L	393.0	696.0	True	gnomAD	SEC63	['NM_007214']	rs767955182	ENST00000369002	Q9UGP8	SEC63_HUMAN	p.Val696Leu									1.78359435642e-05	L	True

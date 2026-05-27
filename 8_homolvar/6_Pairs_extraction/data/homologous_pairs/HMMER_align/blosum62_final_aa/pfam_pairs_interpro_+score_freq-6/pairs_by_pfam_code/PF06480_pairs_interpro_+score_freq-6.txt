@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF06480	Gly	R	34.0	167.0	True	gnomAD	AFG3L2	['NM_006796']	rs1234429070	ENST00000269143	Q9Y4W6	AFG32_HUMAN	p.Gly167Arg								1.31445772046e-05	2.0521576385e-06	R	True
-PF06480	Gly	R	34.0	162.0	True	gnomAD	SPG7	['NM_003119']	rs774691810	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Gly162Arg								6.5711657247e-06	1.23135522956e-05	R	True

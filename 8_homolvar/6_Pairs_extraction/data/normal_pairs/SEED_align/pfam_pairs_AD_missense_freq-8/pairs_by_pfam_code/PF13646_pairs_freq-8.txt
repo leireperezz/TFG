@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-40	PF13646	Met	Leu	82.0	427.0	True	gnomAD	PPP2R1A	['NM_014225']		ENST00000322088	P30153	2AAA_HUMAN	p.Met427Leu									1.3699324486e-06
-41	PF13646	Met	Leu	82.0	427.0	True	gnomAD	PPP2R1A	['NM_014225']		ENST00000322088	P30153	2AAA_HUMAN	p.Met427Leu									6.84966224315479e-07

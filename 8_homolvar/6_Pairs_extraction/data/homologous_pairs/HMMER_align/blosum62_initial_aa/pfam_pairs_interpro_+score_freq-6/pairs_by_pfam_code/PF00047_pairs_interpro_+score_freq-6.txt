@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00047	G	Ser	99.0	191.0	True	gnomAD	TIE1	['NM_005424', 'NM_001253357']	rs138189724	ENST00000372476	P35590	TIE1_HUMAN	p.Gly191Ser								0.0001642705075301	3.89958500205e-05	G	True
-PF00047	G	Ser	99.0	97.0	True	ClinVar	FGFR1	NM_023110				FGFR1_HUMAN	p.Gly97Ser	Likely pathogenic(Last reviewed: May 4, 2023)	Hypogonadotropic hypogonadism 2 with or without anosmia	criteria provided, single submitter	VCV002505445	2505445.0	2670408.0	NC_000008.11:38429750:C:T			G	True
-PF00047	N	Tyr	92.0	184.0	True	gnomAD	TIE1	['NM_005424', 'NM_001253357']	rs557675663	ENST00000372476	P35590	TIE1_HUMAN	p.Asn184Tyr								1.31338735733e-05	3.1814306257e-06	ND	True
-PF00047	D	Tyr	92.0	90.0	True	gnomAD	FGFR1	['NM_023110']	rs770577710	ENST00000447712	P11362	FGFR1_HUMAN	p.Asp90Tyr								6.5702158972e-06	1.99060161472e-05	ND	True

@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-33	PF02737	Asn	Lys	34.0	331.0	True	gnomAD	EHHADH	['NM_001966']	rs773117658	ENST00000231887	Q08426	ECHP_HUMAN	p.Asn331Lys								6.5713384502e-06	
-34	PF02737	Asn	Lys	34.0	331.0	True	gnomAD	EHHADH	['NM_001966']		ENST00000231887	Q08426	ECHP_HUMAN	p.Asn331Lys									6.840478669335365e-07
-40	PF02737	Asp	Glu	30.0	327.0	True	gnomAD	EHHADH	['NM_001966']	rs1490035131	ENST00000231887	Q08426	ECHP_HUMAN	p.Asp327Glu								6.5702158972e-06	1.3680976055e-06
-41	PF02737	Asp	Glu	30.0	327.0	True	gnomAD	EHHADH	['NM_001966']		ENST00000231887	Q08426	ECHP_HUMAN	p.Asp327Glu									6.840488027777854e-07
-219	PF02737	Val	Leu	79.0	369.0	True	gnomAD	EHHADH	['NM_001966']	rs757709975	ENST00000231887	Q08426	ECHP_HUMAN	p.Val369Leu									3.4355524711e-06
-220	PF02737	Val	Leu	79.0	369.0	True	gnomAD	EHHADH	['NM_001966']	rs757709975	ENST00000231887	Q08426	ECHP_HUMAN	p.Val369Leu									1.3742209884e-06

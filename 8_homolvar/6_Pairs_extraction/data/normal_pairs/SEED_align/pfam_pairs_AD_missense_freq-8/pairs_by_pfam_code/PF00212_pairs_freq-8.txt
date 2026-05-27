@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-26	PF00212	Ser	Arg	11.0	124.0	True	gnomAD	NPPA	['NM_006172']	rs978766447	ENST00000376480	P01160	ANF_HUMAN	p.Ser124Arg								6.5729797946e-06	7.5802368065e-06
-27	PF00212	Ser	Arg	11.0	124.0	True	gnomAD	NPPA	['NM_006172']	rs978766447	ENST00000376480	P01160	ANF_HUMAN	p.Ser124Arg									2.0673373108e-06
-28	PF00212	Ser	Arg	29.0	142.0	True	gnomAD	NPPA	['NM_006172']	rs747448548	ENST00000376480	P01160	ANF_HUMAN	p.Ser142Arg									3.5568353839e-06
-29	PF00212	Ser	Arg	29.0	142.0	True	gnomAD	NPPA	['NM_006172']	rs747448548	ENST00000376480	P01160	ANF_HUMAN	p.Ser142Arg								1.31511461223e-05	

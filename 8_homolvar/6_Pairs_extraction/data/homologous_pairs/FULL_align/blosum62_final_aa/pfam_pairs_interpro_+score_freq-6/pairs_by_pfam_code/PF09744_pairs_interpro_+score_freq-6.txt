@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09744	Ala	S	280.0	124.0	True	gnomAD	RILPL1	['NM_178314', 'NM_001319302', 'NM_001319244']	rs770474413	ENST00000376874	Q5EBL4	RIPL1_HUMAN	p.Ala124Ser								1.31423314495e-05	7.5258444339e-06	ST	True
-PF09744	Ala	T	280.0	124.0	True	gnomAD	RILPL1	['NM_178314', 'NM_001319302', 'NM_001319244']	rs770474413	ENST00000376874	Q5EBL4	RIPL1_HUMAN	p.Ala124Thr								6.5711657247e-06	1.02625151372e-05	ST	True

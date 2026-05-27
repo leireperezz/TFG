@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-40	PF04643	Glu	Asp	82.0	109.0	True	gnomAD	GHRL	['NM_001302825', 'NM_001302822', 'NM_001302821', 'NM_016362']		ENST00000335542	Q9UBU3	GHRL_HUMAN	p.Glu109Asp									6.978006718424868e-07
-41	PF04643	Glu	Asp	82.0	109.0	True	gnomAD	GHRL	['NM_001302825', 'NM_001302822', 'NM_001302821', 'NM_016362']		ENST00000335542	Q9UBU3	GHRL_HUMAN	p.Glu109Asp									6.978006718424868e-07

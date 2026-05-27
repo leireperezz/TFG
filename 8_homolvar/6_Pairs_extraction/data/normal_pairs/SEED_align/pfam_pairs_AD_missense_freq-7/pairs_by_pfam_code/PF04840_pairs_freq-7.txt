@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-239	PF04840	Met	Ile	162.0	674.0	True	gnomAD	VPS16	['NM_022575']	rs762272920	ENST00000380445	Q9H269	VPS16_HUMAN	p.Met674Ile									1.5904167846e-06
-240	PF04840	Met	Ile	162.0	674.0	True	gnomAD	VPS16	['NM_022575']	rs762272920	ENST00000380445	Q9H269	VPS16_HUMAN	p.Met674Ile									3.1808335692e-06
-254	PF04840	Phe	Leu	93.0	607.0	True	gnomAD	VPS16	['NM_022575']	rs890615325	ENST00000380445	Q9H269	VPS16_HUMAN	p.Phe607Leu									4.1042872016e-06
-255	PF04840	Phe	Leu	93.0	607.0	True	gnomAD	VPS16	['NM_022575']	rs777297364	ENST00000380445	Q9H269	VPS16_HUMAN	p.Phe607Leu									1.5903813734e-06
-308	PF04840	Thr	Ser	57.0	571.0	True	gnomAD	VPS16	['NM_022575']		ENST00000380445	Q9H269	VPS16_HUMAN	p.Thr571Ser									2.4006433724e-06
-309	PF04840	Thr	Ser	57.0	571.0	True	gnomAD	VPS16	['NM_022575']		ENST00000380445	Q9H269	VPS16_HUMAN	p.Thr571Ser									1.2003216862e-06

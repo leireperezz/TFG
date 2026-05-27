@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09067	Arg	C	19.0	57.0	True	gnomAD	GHR	['NM_000163', 'NM_001242401', 'NM_001242406']	rs200503849	ENST00000230882	P10912	GHR_HUMAN	p.Arg57Cys								1.31399138021e-05	1.16334929631e-05	C	True
-PF09067	Arg	C	19.0	37.0	True	gnomAD	PRLR	['NM_000949']	rs1196114381	ENST00000618457	P16471	PRLR_HUMAN	p.Arg37Cys								1.31466508906e-05	2.0524215838e-06	C	True
-PF09067	Arg	H	19.0	57.0	True	gnomAD	GHR	['NM_000163', 'NM_001242401', 'NM_001242406']	rs373412197	ENST00000230882	P10912	GHR_HUMAN	p.Arg57His								5.92058521695e-05	5.54326001174e-05	H	True
-PF09067	Arg	H	19.0	37.0	True	gnomAD	PRLR	['NM_000949']	rs754923118	ENST00000618457	P16471	PRLR_HUMAN	p.Arg37His								4.60229588817e-05	3.3522289586e-05	H	True
-PF09067	Val	L	80.0	92.0	True	gnomAD	MPL	['NM_005373']	rs1215318596	ENST00000372470	P40238	TPOR_HUMAN	p.Val92Leu	Likely benign							1.3145441161e-05		LM	True
-PF09067	Val	M	80.0	92.0	True	gnomAD	MPL	['NM_005373']	rs1215318596	ENST00000372470	P40238	TPOR_HUMAN	p.Val92Met	Likely benign							3.9436323483e-05	8.2085294829e-06	LM	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09336	Met	I	62.0	387.0	True	gnomAD	VPS4A	['NM_013245']	rs372824425	ENST00000254950	Q9UN37	VPS4A_HUMAN	p.Met387Ile								6.5700432308e-06	1.36832973462e-05	I	True
-PF09336	Met	I	62.0	387.0	True	gnomAD	VPS4A	['NM_013245']	rs372824425	ENST00000254950	Q9UN37	VPS4A_HUMAN	p.Met387Ile								1.97101296926e-05	1.3683259899e-06	I	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-67	PF00094	Val	Ile	81.0	1545.0	True	gnomAD	TECTA	['NM_005422']	rs377156351	ENST00000392793	O75443	TECTA_HUMAN	p.Val1545Ile								0.0002234636871508	0.0002948524643098
-68	PF00094	Val	Ile	81.0	444.0	True	gnomAD	VWF	['NM_000552']	rs149116506	ENST00000261405	P04275	VWF_HUMAN	p.Val444Ile								0.0002430724355858	5.81462165283e-05

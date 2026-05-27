@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF13181	I	Val	36.0	187.0	True	gnomAD	SRP72	['NM_006947']		ENST00000642900	O76094	SRP72_HUMAN	p.Ile187Val									1.84698735839e-05	IM	True
-PF13181	M	Val	36.0	733.0	True	gnomAD	TTC21B	['NM_024753']	rs772826953	ENST00000243344	Q7Z4L5	TT21B_HUMAN	p.Met733Val								1.9716088328e-05	6.8488272068e-06	IM	True

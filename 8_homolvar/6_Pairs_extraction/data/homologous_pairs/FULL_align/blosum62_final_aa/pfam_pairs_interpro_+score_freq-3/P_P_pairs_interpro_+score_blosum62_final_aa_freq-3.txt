@@ -1,1 +1,0 @@
-Pfam_code	initial_aa	pos_align	final_aa	final_aa2	gene_name	gene_name2	pos_prot_change	pos_prot_change2	db1	db2	uniprot1	uniprot2

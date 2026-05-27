@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-281	PF00521	Val	Leu	319.0	1036.0	True	gnomAD	TOP2B	['NM_001330700']	rs766308401	ENST00000264331	Q02880	TOP2B_HUMAN	p.Val1036Leu									3.2016494898e-06
-282	PF00521	Val	Leu	319.0	1036.0	True	gnomAD	TOP2B	['NM_001330700']		ENST00000264331	Q02880	TOP2B_HUMAN	p.Val1036Leu									1.6008247449e-06
-283	PF00521	Val	Leu	342.0	1059.0	True	gnomAD	TOP2B	['NM_001330700']	rs75813619	ENST00000264331	Q02880	TOP2B_HUMAN	p.Val1059Leu									0.0006371056962478
-284	PF00521	Val	Leu	342.0	1059.0	True	gnomAD	TOP2B	['NM_001330700']	rs75813619	ENST00000264331	Q02880	TOP2B_HUMAN	p.Val1059Leu								6.5711657247e-06	1.3755801509e-06

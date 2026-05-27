@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF04998	Val	I	706.0	1552.0	True	gnomAD	POLR1A	['NM_015425']	rs370258399	ENST00000263857	O95602	RPA1_HUMAN	p.Val1552Ile								0.0001182778741523	6.15783769581e-05	IL	True
-PF04998	Val	L	706.0	1552.0	True	gnomAD	POLR1A	['NM_015425']	rs370258399	ENST00000263857	O95602	RPA1_HUMAN	p.Val1552Leu								1.31419860169e-05	3.0789188479e-05	IL	True

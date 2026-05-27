@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-3	PF04810	Arg	Gln	65.0	79.0	True	gnomAD	SEC23B	['NM_032985', 'NM_006363']	rs370537015	ENST00000650089	Q15437	SC23B_HUMAN	p.Arg79Gln								1.31532218816e-05	3.4742778366e-06
-4	PF04810	Arg	Gln	65.0	79.0	True	gnomAD	SEC23A	['NM_006364']	rs769284175	ENST00000307712	Q15436	SC23A_HUMAN	p.Arg79Gln								1.3247138618e-05	9.5888966056e-06

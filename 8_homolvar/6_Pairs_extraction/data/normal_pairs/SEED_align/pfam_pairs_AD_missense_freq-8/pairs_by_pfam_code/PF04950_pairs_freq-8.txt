@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-129	PF04950	Gly	Arg	137.0	947.0	True	gnomAD	BMS1	['NM_014753']	rs770851815	ENST00000374518	Q14692	BMS1_HUMAN	p.Gly947Arg									6.853351974450704e-07
-130	PF04950	Gly	Arg	137.0	947.0	True	gnomAD	BMS1	['NM_014753']		ENST00000374518	Q14692	BMS1_HUMAN	p.Gly947Arg									2.0560055923e-06
-289	PF04950	Ser	Arg	33.0	845.0	True	gnomAD	BMS1	['NM_014753']		ENST00000374518	Q14692	BMS1_HUMAN	p.Ser845Arg									6.877096654842645e-07
-290	PF04950	Ser	Arg	33.0	845.0	True	gnomAD	BMS1	['NM_014753']		ENST00000374518	Q14692	BMS1_HUMAN	p.Ser845Arg									6.877096654842645e-07
-311	PF04950	Trp	Arg	175.0	983.0	True	gnomAD	BMS1	['NM_014753']		ENST00000374518	Q14692	BMS1_HUMAN	p.Trp983Arg									6.853661980132604e-07
-312	PF04950	Trp	Arg	175.0	983.0	True	gnomAD	BMS1	['NM_014753']		ENST00000374518	Q14692	BMS1_HUMAN	p.Trp983Arg									6.853661980132604e-07

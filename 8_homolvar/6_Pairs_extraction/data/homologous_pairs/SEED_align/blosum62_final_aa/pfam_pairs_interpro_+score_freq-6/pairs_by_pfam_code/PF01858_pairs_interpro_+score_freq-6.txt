@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01858	Ile	L	43.0	415.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs1346693507	ENST00000267163	P06400	RB_HUMAN	p.Ile415Leu								1.31387053119e-05	1.5914747878e-06	LM	True
-PF01858	Ile	M	43.0	415.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs1454134039	ENST00000267163	P06400	RB_HUMAN	p.Ile415Met								2.62781011444e-05		LM	True

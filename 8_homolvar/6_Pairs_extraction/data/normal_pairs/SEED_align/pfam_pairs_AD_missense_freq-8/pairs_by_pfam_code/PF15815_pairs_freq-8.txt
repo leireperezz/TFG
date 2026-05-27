@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-114	PF15815	Val	Leu	25.0	446.0	True	gnomAD	MKRN3	['NM_005664']		ENST00000314520	Q13064	MKRN3_HUMAN	p.Val446Leu									1.3680901188e-06
-115	PF15815	Val	Leu	25.0	446.0	True	gnomAD	MKRN3	['NM_005664']	rs577256541	ENST00000314520	Q13064	MKRN3_HUMAN	p.Val446Leu								6.5650398497e-06	

@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00804	Ala	S	152.0	59.0	True	gnomAD	STX1B	['NM_052874']	rs202077851	ENST00000215095	P61266	STX1B_HUMAN	p.Ala59Ser								6.5711657247e-06	2.05219413756e-05	ST	True
-PF00804	Ala	T	152.0	59.0	True	gnomAD	STX1B	['NM_052874']	rs202077851	ENST00000215095	P61266	STX1B_HUMAN	p.Ala59Thr								2.62846628991e-05	4.30960768888e-05	ST	True
-PF00804	Gln	R	348.0	141.0	True	gnomAD	STX16	['NM_001001433']	rs772174293	ENST00000371141	O14662	STX16_HUMAN	p.Gln141Arg								4.6025984956e-05	4.1124677685e-06	RK	True
-PF00804	Gln	K	348.0	141.0	True	gnomAD	STX16	['NM_001001433']	rs749354141	ENST00000371141	O14662	STX16_HUMAN	p.Gln141Lys								1.97155700428e-05	9.5963237854e-06	RK	True

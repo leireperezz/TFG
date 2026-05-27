@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF18119	Ala	S	81.0	537.0	True	gnomAD	DDX58	['NM_001385913', 'NM_001385907', 'NM_001385909', 'NM_014314']	rs371259089	ENST00000379883	O95786	RIGI_HUMAN	p.Ala537Ser								1.31528758763e-05	1.29998617909e-05	ST	True
-PF18119	Ala	T	81.0	537.0	True	gnomAD	DDX58	['NM_001385913', 'NM_001385907', 'NM_001385909', 'NM_014314']	rs371259089	ENST00000379883	O95786	RIGI_HUMAN	p.Ala537Thr								1.97293138144e-05	2.53155549717e-05	ST	True
-PF18119	Arg	S	176.0	689.0	True	gnomAD	IFIH1	['NM_022168']	rs376420466	ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Arg689Ser								0.000249776515749	0.000135087820868	S	True
-PF18119	Arg	S	176.0	689.0	True	gnomAD	IFIH1	['NM_022168']	rs376420466	ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Arg689Ser								5.91575958353e-05	0.0001461155994943	S	True

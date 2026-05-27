@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF03128	V	Phe	12.0	318.0	True	gnomAD	VEGFC	['NM_005429']	rs202208990	ENST00000618562	P49767	VEGFC_HUMAN	p.Val318Phe								0.0001641626392099	1.64171488064e-05	V	True
-PF03128	V	Phe	12.0	294.0	True	gnomAD	VEGFC	['NM_005429']	rs745847895	ENST00000618562	P49767	VEGFC_HUMAN	p.Val294Phe								3.2854101506e-05	2.25745679022e-05	V	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF03666	Val	I	382.0	342.0	True	gnomAD	NPRL3	['NM_001077350', 'NM_001243247']	rs11558704	ENST00000611875	Q12980	NPRL3_HUMAN	p.Val342Ile								1.31381874556e-05	2.00387606885e-05	IL	True
-PF03666	Val	L	382.0	342.0	True	gnomAD	NPRL3	['NM_001077350', 'NM_001243247']	rs11558704	ENST00000611875	Q12980	NPRL3_HUMAN	p.Val342Leu								0.0016672574271723	0.0022901932493691	IL	True

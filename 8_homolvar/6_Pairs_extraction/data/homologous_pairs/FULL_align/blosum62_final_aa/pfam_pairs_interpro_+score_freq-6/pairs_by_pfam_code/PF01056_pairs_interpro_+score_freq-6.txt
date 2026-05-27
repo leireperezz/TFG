@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01056	Pro	R	657.0	246.0	True	gnomAD	MYC	['NM_002467']	rs545330879	ENST00000621592	P01106	MYC_HUMAN	p.Pro246Arg								3.28463317216e-05	1.67041349694e-05	RQ	True
-PF01056	Pro	Q	657.0	246.0	True	gnomAD	MYC	['NM_002467']	rs545330879	ENST00000621592	P01106	MYC_HUMAN	p.Pro246Gln								1.31283559359e-05	6.9600465487e-06	RQ	True

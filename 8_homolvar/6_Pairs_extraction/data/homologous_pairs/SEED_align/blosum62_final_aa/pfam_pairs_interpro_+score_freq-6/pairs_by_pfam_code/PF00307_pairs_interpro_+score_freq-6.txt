@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00307	Asp	N	79.0	322.0	True	gnomAD	PLS1	['NM_001145319']	rs149284875	ENST00000457734	Q14651	PLSI_HUMAN	p.Asp322Asn								0.0001906464888175	0.0002911642014304	NH	True
-PF00307	Asp	H	79.0	322.0	True	gnomAD	PLS1	['NM_001145319']	rs149284875	ENST00000457734	Q14651	PLSI_HUMAN	p.Asp322His								0.0001313784224079	6.2095945134e-06	NH	True

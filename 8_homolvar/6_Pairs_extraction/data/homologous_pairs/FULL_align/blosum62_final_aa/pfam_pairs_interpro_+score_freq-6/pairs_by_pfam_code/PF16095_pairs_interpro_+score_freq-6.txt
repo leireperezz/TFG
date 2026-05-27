@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF16095	Lys	Q	541.0	1638.0	True	gnomAD	LRRK2	['NM_198578']	rs201620277	ENST00000298910	Q5S007	LRRK2_HUMAN	p.Lys1638Gln								1.31406044678e-05		QE	True
-PF16095	Lys	E	541.0	1638.0	True	gnomAD	LRRK2	['NM_198578']	rs201620277	ENST00000298910	Q5S007	LRRK2_HUMAN	p.Lys1638Glu									1.02788444934e-05	QE	True

@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF04815	N	Ser	82.0	597.0	True	gnomAD	SEC23B	['NM_032985', 'NM_006363']	rs762108877	ENST00000650089	Q15437	SC23B_HUMAN	p.Asn597Ser								1.97098707032e-05	3.96764589991e-05	N	True
-PF04815	N	Ser	82.0	595.0	True	gnomAD	SEC23A	['NM_006364']	rs775163398	ENST00000307712	Q15436	SC23A_HUMAN	p.Asn595Ser								1.31409498278e-05	1.98654084327e-05	N	True
-PF04815	S	Thr	73.0	589.0	True	gnomAD	SEC23B	['NM_032985', 'NM_006363']	rs1335643635	ENST00000650089	Q15437	SC23B_HUMAN	p.Ser589Thr								1.31438861213e-05	1.2004830743e-06	S	True
-PF04815	S	Thr	73.0	587.0	True	gnomAD	SEC23A	['NM_006364']	rs1325196444	ENST00000307712	Q15436	SC23A_HUMAN	p.Ser587Thr								1.31380148459e-05	9.6129153637e-06	S	True
-PF04815	R	Trp	12.0	530.0	True	ClinVar	SEC23B	NM_006363	rs121918223			SC23B_HUMAN	p.Arg530Trp	Likely pathogenic(Last reviewed: Aug 11, 2023)	Congenital dyserythropoietic anemia, type II	criteria provided, single submitter	VCV000001224	1224.0	16263.0	NC_000020.11:18543094:C:T			R	True
-PF04815	R	Trp	12.0	528.0	True	gnomAD	SEC23A	['NM_006364']	rs1228015235	ENST00000307712	Q15436	SC23A_HUMAN	p.Arg528Trp								3.28990656665e-05	2.59943879484e-05	R	True

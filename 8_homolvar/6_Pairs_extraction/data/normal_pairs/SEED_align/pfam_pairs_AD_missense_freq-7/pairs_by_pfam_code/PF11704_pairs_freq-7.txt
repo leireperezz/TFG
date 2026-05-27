@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-50	PF11704	Gln	His	126.0	201.0	True	gnomAD	FLCN	['NM_144997', 'NM_001353231', 'NM_001353230', 'NM_001353229']	rs759405317	ENST00000285071	Q8NFG4	FLCN_HUMAN	p.Gln201His								1.31364615627e-05	1.5058055649e-05
-51	PF11704	Gln	His	126.0	201.0	True	gnomAD	FLCN	['NM_144997', 'NM_001353231', 'NM_001353230', 'NM_001353229']	rs759405317	ENST00000285071	Q8NFG4	FLCN_HUMAN	p.Gln201His									2.0533684139e-06
-113	PF11704	Phe	Leu	66.0	142.0	True	gnomAD	FLCN	['NM_144997', 'NM_001353231', 'NM_001353230', 'NM_001353229']		ENST00000285071	Q8NFG4	FLCN_HUMAN	p.Phe142Leu									1.6133664181e-06
-114	PF11704	Phe	Leu	66.0	142.0	True	gnomAD	FLCN	['NM_144997', 'NM_001353231', 'NM_001353230', 'NM_001353229']	rs1457527275	ENST00000285071	Q8NFG4	FLCN_HUMAN	p.Phe142Leu								6.5679719416e-06	

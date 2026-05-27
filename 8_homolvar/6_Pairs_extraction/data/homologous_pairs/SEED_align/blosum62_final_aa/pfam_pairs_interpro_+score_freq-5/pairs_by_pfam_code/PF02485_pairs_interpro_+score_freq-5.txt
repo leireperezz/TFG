@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02485	Ala	T	84.0	179.0	True	gnomAD	GCNT2	['NM_145655']	rs149144819	ENST00000265012	Q8N0V5	GNT2A_HUMAN	p.Ala179Thr								0.0042462007677341	0.0004295808850187	T	True
-PF02485	Ala	T	84.0	179.0	True	gnomAD	GCNT2	['NM_145649']	rs201295923	ENST00000495262	Q8N0V5	GNT2A_HUMAN	p.Ala179Thr								0.0004991920970009	3.35186664769e-05	T	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02199	Thr	A	24.0	38.0	True	gnomAD	PSAP	['NM_002778', 'NM_001042466', 'NM_001042465']	rs535525554	ENST00000394936	P07602	SAP_HUMAN	p.Thr38Ala									1.09461585824e-05	AS	True
-PF02199	Thr	S	24.0	38.0	True	gnomAD	PSAP	['NM_002778', 'NM_001042466', 'NM_001042465']	rs535525554	ENST00000394936	P07602	SAP_HUMAN	p.Thr38Ser								1.97155700428e-05	4.44687692412e-05	AS	True

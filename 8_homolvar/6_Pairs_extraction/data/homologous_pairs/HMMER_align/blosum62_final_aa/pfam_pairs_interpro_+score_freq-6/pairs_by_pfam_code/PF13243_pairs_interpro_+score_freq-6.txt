@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF13243	Ala	S	226.0	608.0	True	gnomAD	LSS	['NM_001001438', 'NM_002340']	rs374703920	ENST00000397728	P48449	LSS_HUMAN	p.Ala608Ser								1.97052100575e-05		ST	True
-PF13243	Ala	T	226.0	608.0	True	gnomAD	LSS	['NM_001001438', 'NM_002340']	rs374703920	ENST00000397728	P48449	LSS_HUMAN	p.Ala608Thr								0.0001313697928298	8.221396733e-06	ST	True
-PF13243	His	R	33.0	415.0	True	gnomAD	LSS	['NM_001001438', 'NM_002340']	rs1055587780	ENST00000397728	P48449	LSS_HUMAN	p.His415Arg								1.97179025409e-05	1.6122843166e-06	RQ	True
-PF13243	His	Q	33.0	415.0	True	gnomAD	LSS	['NM_001001438', 'NM_002340']		ENST00000397728	P48449	LSS_HUMAN	p.His415Gln									2.06519404563e-05	RQ	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-161	PF00211	Val	Leu	210.0	964.0	True	gnomAD	GUCY2C	['NM_004963']		ENST00000261170	P25092	GUC2C_HUMAN	p.Val964Leu									2.0719033332e-06
-162	PF00211	Val	Leu	210.0	964.0	True	gnomAD	GUCY2C	['NM_004963']	rs1382390012	ENST00000261170	P25092	GUC2C_HUMAN	p.Val964Leu								6.575486586e-06	2.0719033332e-06

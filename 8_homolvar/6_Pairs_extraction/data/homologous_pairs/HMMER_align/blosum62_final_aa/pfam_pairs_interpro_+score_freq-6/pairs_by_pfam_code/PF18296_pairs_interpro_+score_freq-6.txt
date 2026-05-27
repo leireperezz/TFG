@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF18296	Ala	G	100.0	1465.0	True	gnomAD	MED13	['NM_005121']	rs752375868	ENST00000397786	Q9UHV7	MED13_HUMAN	p.Ala1465Gly								1.31418133074e-05	4.58686076618e-05	G	True
-PF18296	Ala	G	100.0	1515.0	True	gnomAD	MED13L	['NM_015335']	rs753656258	ENST00000281928	Q71F56	MD13L_HUMAN	p.Ala1515Gly								2.62867357131e-05	1.5906090442e-06	G	True
-PF18296	Asp	G	25.0	1440.0	True	gnomAD	MED13L	['NM_015335']	rs971640387	ENST00000281928	Q71F56	MD13L_HUMAN	p.Asp1440Gly								2.62953759581e-05	1.5904623155e-06	G	True
-PF18296	Asp	G	25.0	1391.0	True	gnomAD	MED13	['NM_005121']	rs1278066428	ENST00000397786	Q9UHV7	MED13_HUMAN	p.Asp1391Gly									1.2729164744e-05	G	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-140	PF03034	Met	Leu	146.0	234.0	True	gnomAD	PTDSS1	['NM_014754', 'NM_001290225']	rs754291059	ENST00000517309	P48651	PTSS1_HUMAN	p.Met234Leu								1.31471694144e-05	2.7362101847e-06
-141	PF03034	Met	Leu	146.0	234.0	True	gnomAD	PTDSS1	['NM_014754', 'NM_001290225']	rs754291059	ENST00000517309	P48651	PTSS1_HUMAN	p.Met234Leu									5.4724203694e-06

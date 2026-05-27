@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-82	PF01273	Gly	Arg	60.0	75.0	True	gnomAD	CETP	['NM_000078']	rs766793959	ENST00000200676	P11597	CETP_HUMAN	p.Gly75Arg								1.31266326249e-05	
-83	PF01273	Gly	Arg	60.0	75.0	True	gnomAD	CETP	['NM_000078']	rs766793959	ENST00000200676	P11597	CETP_HUMAN	p.Gly75Arg									1.5907051914e-06
-206	PF01273	Trp	Cys	116.0	123.0	True	gnomAD	CETP	['NM_000078']		ENST00000200676	P11597	CETP_HUMAN	p.Trp123Cys									3.1807728641e-06
-207	PF01273	Trp	Cys	116.0	123.0	True	gnomAD	CETP	['NM_000078']	rs1293086003	ENST00000200676	P11597	CETP_HUMAN	p.Trp123Cys									1.590386432e-06

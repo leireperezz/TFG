@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00876	Ala	S	620.0	130.0	True	gnomAD	PANX1	['NM_015368']	rs201108551	ENST00000227638	Q96RD7	PANX1_HUMAN	p.Ala130Ser								1.3156682937e-05	1.91540740031e-05	ST	True
-PF00876	Ala	T	620.0	130.0	True	gnomAD	PANX1	['NM_015368']	rs201108551	ENST00000227638	Q96RD7	PANX1_HUMAN	p.Ala130Thr								3.28917073427e-05	8.89296293002e-05	ST	True

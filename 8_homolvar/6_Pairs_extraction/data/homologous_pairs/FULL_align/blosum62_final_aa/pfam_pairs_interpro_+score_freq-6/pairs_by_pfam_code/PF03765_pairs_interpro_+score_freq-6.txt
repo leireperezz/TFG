@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF03765	Gly	R	305.0	77.0	True	gnomAD	RLBP1	['NM_000326']	rs755885208	ENST00000268125	P12271	RLBP1_HUMAN	p.Gly77Arg								6.56848964149e-05	1.43830296687e-05	R	True
-PF03765	Gly	R	305.0	77.0	True	gnomAD	RLBP1	['NM_000326']	rs755885208	ENST00000268125	P12271	RLBP1_HUMAN	p.Gly77Arg								6.5684896414e-06	2.87660593375e-05	R	True

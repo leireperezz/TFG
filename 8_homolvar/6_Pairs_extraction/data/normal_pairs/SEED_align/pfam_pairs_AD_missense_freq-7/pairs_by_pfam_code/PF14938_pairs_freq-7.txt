@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-178	PF14938	Phe	Leu	26.0	32.0	True	gnomAD	NAPB	['NM_022080']	rs1167568647	ENST00000377026	Q9H115	SNAB_HUMAN	p.Phe32Leu								6.5744490611e-06	1.2007800267e-06
-179	PF14938	Phe	Leu	26.0	32.0	True	gnomAD	NAPB	['NM_022080']		ENST00000377026	Q9H115	SNAB_HUMAN	p.Phe32Leu									1.7440805904e-06
-193	PF14938	Ser	Arg	72.0	77.0	True	gnomAD	NAPB	['NM_022080']	rs1194166657	ENST00000377026	Q9H115	SNAB_HUMAN	p.Ser77Arg								6.5714248163e-06	
-194	PF14938	Ser	Arg	72.0	77.0	True	gnomAD	NAPB	['NM_022080']	rs1194166657	ENST00000377026	Q9H115	SNAB_HUMAN	p.Ser77Arg								6.5714248163e-06	6.842968917866581e-07

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-3	PF00634	Ala	Thr	23.0	1689.0	True	gnomAD	BRCA2	['NM_000059']	rs767200163	ENST00000380152	P51587	BRCA2_HUMAN	p.Ala1689Thr	Likely benign							6.5788608044e-06	0.0
-4	PF00634	Ala	Thr	23.0	1996.0	True	gnomAD	BRCA2	['NM_000059']	rs80358833	ENST00000380152	P51587	BRCA2_HUMAN	p.Ala1996Thr	Likely benign							0.0001116569897275	0.0002243937946906

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-5	PF00147	Arg	Gln	117.0	278.0	True	gnomAD	ANGPTL4	['NM_139314']	rs35061979	ENST00000301455	Q9BY76	ANGL4_HUMAN	p.Arg278Gln								0.0185956111205956	0.0029817618531533
-6	PF00147	Arg	Gln	117.0	2077.0	True	gnomAD	TNC	['NM_002160']	rs371541652	ENST00000350763	P24821	TENA_HUMAN	p.Arg2077Gln								0.0002893632692788	0.0001005621905318
-16	PF00147	Gln	Arg	248.0	2165.0	True	gnomAD	TNC	['NM_002160']	rs200330029	ENST00000350763	P24821	TENA_HUMAN	p.Gln2165Arg								7.22012182314e-05	0.0001122422022467
-17	PF00147	Gln	Arg	248.0	372.0	True	gnomAD	ANGPTL4	['NM_139314']	rs756440132	ENST00000301455	Q9BY76	ANGL4_HUMAN	p.Gln372Arg								0.0001248095012875	7.66214326566e-05

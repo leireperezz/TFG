@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-82	PF03529	Ser	Asn	54.0	153.0	True	gnomAD	OTX2	['NM_021728']	rs1040844433	ENST00000672264	P32243	OTX2_HUMAN	p.Ser153Asn									2.7363075171e-06
-83	PF03529	Ser	Asn	54.0	164.0	True	gnomAD	CRX	['NM_000554']	rs1039194669	ENST00000221996	O43186	CRX_HUMAN	p.Ser164Asn								3.94503254651e-05	
-84	PF03529	Ser	Asn	168.0	212.0	True	gnomAD	CRX	['NM_000554']		ENST00000221996	O43186	CRX_HUMAN	p.Ser212Asn									1.368243613e-06
-85	PF03529	Ser	Asn	168.0	194.0	True	gnomAD	OTX2	['NM_021728']	rs762435469	ENST00000672264	P32243	OTX2_HUMAN	p.Ser194Asn									1.3680901188e-06

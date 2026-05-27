@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-86	PF13918	Glu	Asp	59.0	280.0	True	gnomAD	PLD3	['NM_012268']	rs765927354	ENST00000409735	Q8IV08	PLD3_HUMAN	p.Glu280Asp									1.5905027897e-06
-87	PF13918	Glu	Asp	59.0	280.0	True	gnomAD	PLD3	['NM_012268']		ENST00000409735	Q8IV08	PLD3_HUMAN	p.Glu280Asp									3.1810055794e-06
-154	PF13918	Phe	Leu	31.0	253.0	True	gnomAD	PLD3	['NM_012268']		ENST00000409735	Q8IV08	PLD3_HUMAN	p.Phe253Leu									1.3683166284e-06
-155	PF13918	Phe	Leu	31.0	253.0	True	gnomAD	PLD3	['NM_012268']	rs1044181417	ENST00000409735	Q8IV08	PLD3_HUMAN	p.Phe253Leu									1.5906191644e-06

@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF03131	Q	His	19.0	277.0	True	gnomAD	MAF	['NM_005360']	rs1485387151	ENST00000326043	O75444	MAF_HUMAN	p.Gln277His								1.3186871151e-05		Q	True
-PF03131	Q	His	19.0	243.0	True	gnomAD	MAFA	['NM_201589']	rs771797520	ENST00000333480	Q8NHW3	MAFA_HUMAN	p.Gln243His								1.31528758763e-05	1.18366007988e-05	Q	True
-PF03131	R	His	80.0	207.0	True	gnomAD	NRL	['NM_001354768', 'NM_001354770', 'NM_006177']	rs748999699	ENST00000561028	P54845	NRL_HUMAN	p.Arg207His								1.97228285165e-05	3.70059330328e-05	R	True
-PF03131	R	His	80.0	302.0	True	gnomAD	MAFA	['NM_201589']	rs780786479	ENST00000333480	Q8NHW3	MAFA_HUMAN	p.Arg302His								6.5721158269e-06	3.71126967376e-05	R	True
-PF03131	G	Ser	44.0	266.0	True	gnomAD	MAFA	['NM_201589']	rs761090493	ENST00000333480	Q8NHW3	MAFA_HUMAN	p.Gly266Ser								6.5778222146e-06	2.8332957864e-05	G	True
-PF03131	G	Ser	44.0	171.0	True	gnomAD	NRL	['NM_001354768', 'NM_001354770', 'NM_006177']	rs2036290933	ENST00000561028	P54845	NRL_HUMAN	p.Gly171Ser								1.31461324078e-05		G	True

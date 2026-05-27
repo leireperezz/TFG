@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-139	PF00264	Met	Ile	249.0	179.0	True	gnomAD	TYR	['NM_000372']		ENST00000263321	P14679	TYRO_HUMAN	p.Met179Ile									2.0521464083e-06
-140	PF00264	Met	Ile	249.0	179.0	True	gnomAD	TYR	['NM_000372']	rs1413966492	ENST00000263321	P14679	TYRO_HUMAN	p.Met179Ile									4.1042928166e-06
-142	PF00264	Met	Ile	1113.0	362.0	True	gnomAD	TYR	['NM_000372']		ENST00000263321	P14679	TYRO_HUMAN	p.Met362Ile									1.5918041189e-06
-143	PF00264	Met	Ile	1113.0	362.0	True	gnomAD	TYR	['NM_000372']	rs754675944	ENST00000263321	P14679	TYRO_HUMAN	p.Met362Ile									1.5918041189e-06
-215	PF00264	Trp	Cys	694.0	272.0	True	gnomAD	TYR	['NM_000372']		ENST00000263321	P14679	TYRO_HUMAN	p.Trp272Cys									1.3681855806e-06
-216	PF00264	Trp	Cys	694.0	272.0	True	gnomAD	TYR	['NM_000372']	rs62645902	ENST00000263321	P14679	TYRO_HUMAN	p.Trp272Cys									1.3681855806e-06

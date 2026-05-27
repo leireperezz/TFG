@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-33	PF08758	Ile	Val	225.0	96.0	True	gnomAD	DSC2	['NM_001406506', 'NM_024422']	rs772447450	ENST00000280904	Q02487	DSC2_HUMAN	p.Ile96Val								3.94223314366e-05	2.66887476134e-05
-34	PF08758	Ile	Val	225.0	96.0	True	gnomAD	DSC3	['NM_001941']	rs758357591	ENST00000360428	Q14574	DSC3_HUMAN	p.Ile96Val									2.12068474858e-05

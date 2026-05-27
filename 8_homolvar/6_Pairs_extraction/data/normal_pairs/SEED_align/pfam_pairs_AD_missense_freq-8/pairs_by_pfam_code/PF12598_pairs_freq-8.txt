@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-92	PF12598	His	Gln	62.0	347.0	True	gnomAD	TBX2	['NM_005994']		ENST00000240328	Q13207	TBX2_HUMAN	p.His347Gln									7.167030512915706e-07
-93	PF12598	His	Gln	62.0	347.0	True	gnomAD	TBX2	['NM_005994']	rs1328769835	ENST00000240328	Q13207	TBX2_HUMAN	p.His347Gln								6.5737575598e-06	0.0

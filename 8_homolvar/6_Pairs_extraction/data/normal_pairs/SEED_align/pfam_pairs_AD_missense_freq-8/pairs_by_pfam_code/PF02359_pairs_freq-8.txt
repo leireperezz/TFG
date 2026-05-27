@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-30	PF02359	Gly	Glu	79.0	97.0	True	ClinVar	VCP	NM_007126	rs864309502			TERA_HUMAN	p.Gly97Glu	Pathogenic(Last reviewed: Aug 22, 2022)	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia|Frontotemporal dementia and/or amyotrophic lateral sclerosis 6	criteria provided, single submitter	VCV000218306	218306.0	215002.0	NC_000009.12:35067902:C:T		
-31	PF02359	Gly	Glu	79.0	75.0	True	gnomAD	NSF	['NM_006178']		ENST00000398238	P46459	NSF_HUMAN	p.Gly75Glu									3.6519008143e-06
-48	PF02359	Met	Ile	66.0	84.0	True	gnomAD	VCP	['NM_007126']		ENST00000358901	P55072	TERA_HUMAN	p.Met84Ile									1.5903813734e-06
-49	PF02359	Met	Ile	66.0	84.0	True	gnomAD	VCP	['NM_007126']		ENST00000358901	P55072	TERA_HUMAN	p.Met84Ile									1.5903813734e-06

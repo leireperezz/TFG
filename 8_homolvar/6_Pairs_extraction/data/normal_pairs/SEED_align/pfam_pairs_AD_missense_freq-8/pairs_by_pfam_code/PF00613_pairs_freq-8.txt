@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-111	PF00613	Phe	Leu	122.0	609.0	True	gnomAD	PIK3CD	['NM_005026']	rs1156998927	ENST00000377346	O00329	PK3CD_HUMAN	p.Phe609Leu								1.31428496326e-05	
-112	PF00613	Phe	Leu	122.0	609.0	True	gnomAD	PIK3CD	['NM_005026']	rs2100967264	ENST00000377346	O00329	PK3CD_HUMAN	p.Phe609Leu								6.5680582192e-06	0.0

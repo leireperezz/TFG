@@ -1,4 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-22	PF11934	Phe	Leu	27.0	131.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs749495284	ENST00000267163	P06400	RB_HUMAN	p.Phe131Leu	Likely benign								8.2223994606e-06
-23	PF11934	Phe	Leu	27.0	131.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs749495284	ENST00000267163	P06400	RB_HUMAN	p.Phe131Leu	Likely benign							6.57609196e-06	3.4259997752e-06
-24	PF11934	Phe	Leu	27.0	131.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']		ENST00000267163	P06400	RB_HUMAN	p.Phe131Leu	Likely benign								1.5949675583e-06

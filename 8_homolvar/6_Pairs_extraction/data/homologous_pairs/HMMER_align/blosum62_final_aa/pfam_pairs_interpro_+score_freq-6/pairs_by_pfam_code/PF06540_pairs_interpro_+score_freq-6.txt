@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF06540	Asp	N	45.0	106.0	True	gnomAD	GAL	['NM_015973']	rs375918368	ENST00000265643	P22466	GALA_HUMAN	p.Asp106Asn								5.91926127619e-05	0.0001766489287406	NH	True
-PF06540	Asp	H	45.0	106.0	True	gnomAD	GAL	['NM_015973']	rs375918368	ENST00000265643	P22466	GALA_HUMAN	p.Asp106His								0.0001905838437475	2.12251426192e-05	NH	True
-PF06540	Met	I	11.0	72.0	True	gnomAD	GAL	['NM_015973']	rs375393105	ENST00000265643	P22466	GALA_HUMAN	p.Met72Ile								4.5987885477e-05	7.5699810337e-06	IV	True
-PF06540	Met	V	11.0	72.0	True	gnomAD	GAL	['NM_015973']	rs765429698	ENST00000265643	P22466	GALA_HUMAN	p.Met72Val								1.31428496326e-05	3.84754911121e-05	IV	True

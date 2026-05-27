@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00433	Pro	S	29.0	453.0	True	gnomAD	AKT2	['NM_001626']	rs1278736092	ENST00000392038	P31751	AKT2_HUMAN	p.Pro453Ser								1.31414679019e-05		ST	True
-PF00433	Pro	T	29.0	453.0	True	gnomAD	AKT2	['NM_001626']	rs1278736092	ENST00000392038	P31751	AKT2_HUMAN	p.Pro453Thr								1.31414679019e-05	3.1808436869e-06	ST	True

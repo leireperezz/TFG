@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-59	PF18382	Gln	His	80.0	42.0	True	gnomAD	FHOD3	['NM_001281740']		ENST00000590592	Q2V2M9	FHOD3_HUMAN	p.Gln42His									1.7229318787e-06
-60	PF18382	Gln	His	80.0	42.0	True	gnomAD	FHOD3	['NM_001281740']	rs1255051070	ENST00000590592	Q2V2M9	FHOD3_HUMAN	p.Gln42His								6.5741032923e-06	1.7229318787e-06

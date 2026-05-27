@@ -1,8 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF03137	Ile	S	430.0	101.0	True	ClinVar	SLCO2A1	NM_005630				SO2A1_HUMAN	p.Ile101Ser	Pathogenic(Last reviewed: Jun 23, 2021)	Hypertrophic osteoarthropathy, primary, autosomal dominant	no assertion criteria provided	VCV001174121	1174121.0	1163221.0	NC_000003.12:133973757:A:C			ST	True
-PF03137	Ile	T	430.0	101.0	True	gnomAD	SLCO2A1	['NM_005630']	rs765824772	ENST00000310926	Q92959	SO2A1_HUMAN	p.Ile101Thr								6.5705612573e-06	1.36816686163e-05	ST	True
-PF03137	Phe	L	1289.0	275.0	True	gnomAD	SLCO2A1	['NM_005630']	rs150153024	ENST00000310926	Q92959	SO2A1_HUMAN	p.Phe275Leu								1.97098707032e-05	6.841227425659802e-07	LV	True
-PF03137	Phe	V	1289.0	275.0	True	gnomAD	SLCO2A1	['NM_005630']	rs150153024	ENST00000310926	Q92959	SO2A1_HUMAN	p.Phe275Val								2.62798276043e-05	8.2094729107e-06	LV	True
-PF03137	Pro	A	2381.0	431.0	True	gnomAD	SLCO2A1	['NM_005630']	rs146195307	ENST00000310926	Q92959	SO2A1_HUMAN	p.Pro431Ala								0.0001576002731738	7.59461452883e-05	AS	True
-PF03137	Pro	S	2381.0	431.0	True	gnomAD	SLCO2A1	['NM_005630']	rs146195307	ENST00000310926	Q92959	SO2A1_HUMAN	p.Pro431Ser								1.97000341467e-05	8.8945814209e-06	AST	True
-PF03137	Pro	T	2381.0	431.0	True	gnomAD	SLCO2A1	['NM_005630']	rs146195307	ENST00000310926	Q92959	SO2A1_HUMAN	p.Pro431Thr								0.0006308982413711	7.3893647883e-05	ST	True

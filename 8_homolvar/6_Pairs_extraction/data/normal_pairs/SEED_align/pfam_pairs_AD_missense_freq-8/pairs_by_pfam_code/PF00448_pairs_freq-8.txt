@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-104	PF00448	Phe	Leu	41.0	140.0	True	gnomAD	SRP54	['NM_003136']		ENST00000216774	P61011	SRP54_HUMAN	p.Phe140Leu									6.871171039937995e-07
-105	PF00448	Phe	Leu	41.0	140.0	True	gnomAD	SRP54	['NM_003136']		ENST00000216774	P61011	SRP54_HUMAN	p.Phe140Leu									6.871171039937995e-07
-107	PF00448	Phe	Leu	116.0	202.0	True	gnomAD	SRP54	['NM_003136']		ENST00000216774	P61011	SRP54_HUMAN	p.Phe202Leu									2.0950130309e-06
-108	PF00448	Phe	Leu	116.0	202.0	True	gnomAD	SRP54	['NM_003136']		ENST00000216774	P61011	SRP54_HUMAN	p.Phe202Leu									6.983376769936842e-07

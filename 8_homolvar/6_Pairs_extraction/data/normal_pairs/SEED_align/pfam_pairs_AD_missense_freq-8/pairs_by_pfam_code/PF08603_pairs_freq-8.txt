@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-19	PF08603	Asp	Glu	132.0	447.0	True	gnomAD	CAP1	['NM_006367', 'NM_001105530']		ENST00000372805	Q01518	CAP1_HUMAN	p.Asp447Glu									4.1181977668e-06
-20	PF08603	Asp	Glu	132.0	447.0	True	gnomAD	CAP1	['NM_006367', 'NM_001105530']		ENST00000372805	Q01518	CAP1_HUMAN	p.Asp447Glu									6.86366294473104e-07
-147	PF08603	Val	Leu	69.0	385.0	True	gnomAD	CAP1	['NM_006367', 'NM_001105530']		ENST00000372805	Q01518	CAP1_HUMAN	p.Val385Leu									3.4205341506e-06
-148	PF08603	Val	Leu	69.0	385.0	True	gnomAD	CAP1	['NM_006367', 'NM_001105530']		ENST00000372805	Q01518	CAP1_HUMAN	p.Val385Leu									6.841077661281826e-07

@@ -1,9 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00605	R	Cys	86.0	81.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs2081445676	ENST00000377139	Q14653	IRF3_HUMAN	p.Arg81Cys								1.31407771455e-05		R	True
-PF00605	R	Cys	86.0	84.0	True	ClinVar	IRF6	NM_006147	rs121434226			IRF6_HUMAN	p.Arg84Cys	Pathogenic(Last reviewed: Aug 26, 2022)	Orofacial cleft 6, susceptibility to|Van der Woude syndrome|Popliteal pterygium syndrome|not provided	criteria provided, multiple submitters, no conflicts	VCV000003414	3414.0	18453.0	NC_000001.11:209796476:G:A			R	True
-PF00605	R	His	28.0	33.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs1480971369	ENST00000377139	Q14653	IRF3_HUMAN	p.Arg33His								1.97075401048e-05		R	True
-PF00605	R	His	28.0	35.0	True	gnomAD	IRF6	['NM_006147']	rs1334475866	ENST00000367021	O14896	IRF6_HUMAN	p.Arg35His								6.5883097032e-06	1.29972828838e-05	R	True
-PF00605	R	Trp	101.0	96.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs772522569	ENST00000377139	Q14653	IRF3_HUMAN	p.Arg96Trp								3.94311400856e-05	4.65153185888e-05	R	True
-PF00605	R	Trp	101.0	98.0	True	gnomAD	IRF8	['NM_002163']	rs756331900	ENST00000268638	Q02556	IRF8_HUMAN	p.Arg98Trp									1.573378975e-05	R	True
-PF00605	I	Val	49.0	53.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs1287628711	ENST00000377139	Q14653	IRF3_HUMAN	p.Ile53Val								3.28493528677e-05	3.1842773123e-06	I	True
-PF00605	I	Val	49.0	56.0	True	gnomAD	IRF6	['NM_006147']	rs769172583	ENST00000367021	O14896	IRF6_HUMAN	p.Ile56Val								1.3527040554e-05	3.1853930615e-06	I	True

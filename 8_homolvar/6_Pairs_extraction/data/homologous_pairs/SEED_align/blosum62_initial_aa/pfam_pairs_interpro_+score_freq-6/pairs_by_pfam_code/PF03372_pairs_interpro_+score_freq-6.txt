@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF03372	V	Leu	461.0	163.0	True	gnomAD	DNASE1	['NM_001387139', 'NM_005223', 'NM_001387141', 'NM_001351825']	rs759204609	ENST00000246949	P24855	DNAS1_HUMAN	p.Val163Leu								6.5759189846e-06	3.34400229303e-05	V	True
-PF03372	V	Leu	461.0	163.0	True	gnomAD	DNASE1	['NM_001387139', 'NM_005223', 'NM_001387141', 'NM_001351825']	rs759204609	ENST00000246949	P24855	DNAS1_HUMAN	p.Val163Leu									3.02577643015e-05	V	True
-PF03372	N	Lys	365.0	128.0	True	gnomAD	DNASE1	['NM_001387139', 'NM_005223', 'NM_001387141', 'NM_001351825']	rs755327078	ENST00000246949	P24855	DNAS1_HUMAN	p.Asn128Lys								3.2837702937e-05	1.71134650111e-05	N	True
-PF03372	N	Lys	365.0	128.0	True	gnomAD	DNASE1	['NM_001387139', 'NM_005223', 'NM_001387141', 'NM_001351825']	rs755327078	ENST00000246949	P24855	DNAS1_HUMAN	p.Asn128Lys								2.62905367213e-05	0.0	N	True

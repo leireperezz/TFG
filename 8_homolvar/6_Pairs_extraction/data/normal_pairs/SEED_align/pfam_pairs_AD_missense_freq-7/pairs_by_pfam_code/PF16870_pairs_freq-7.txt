@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-110	PF16870	Phe	Leu	35.0	807.0	True	gnomAD	DHTKD1	['NM_018706']		ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Phe807Leu									1.6618859746e-06
-111	PF16870	Phe	Leu	35.0	807.0	True	gnomAD	DHTKD1	['NM_018706']		ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Phe807Leu									1.6622727257e-06
-112	PF16870	Phe	Leu	41.0	813.0	True	gnomAD	DHTKD1	['NM_018706']		ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Phe813Leu									8.9579554913e-06
-113	PF16870	Phe	Leu	41.0	813.0	True	gnomAD	DHTKD1	['NM_018706']	rs1157887940	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Phe813Leu									1.10251759893e-05
-173	PF16870	Val	Leu	34.0	806.0	True	gnomAD	DHTKD1	['NM_018706']	rs763567671	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Val806Leu								6.5738439895e-06	5.6053576007e-06
-174	PF16870	Val	Leu	34.0	806.0	True	gnomAD	DHTKD1	['NM_018706']		ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Val806Leu									4.2040182005e-06

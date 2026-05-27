@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-147	PF08347	Phe	Leu	111.0	95.0	True	gnomAD	TCF7L2	['NM_001146274']	rs201733753	ENST00000627217	Q9NQB0	TF7L2_HUMAN	p.Phe95Leu									7.794450974462261e-07
-148	PF08347	Phe	Leu	111.0	95.0	True	gnomAD	TCF7L2	['NM_001146274']	rs755936952	ENST00000627217	Q9NQB0	TF7L2_HUMAN	p.Phe95Leu									2.2354461279e-06

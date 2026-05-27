@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-45	PF00244	Asn	Lys	20.0	29.0	True	gnomAD	YWHAG	['NM_012479']	rs759666738	ENST00000307630	P61981	1433G_HUMAN	p.Asn29Lys									2.0884471281e-06
-46	PF00244	Asn	Lys	20.0	29.0	True	gnomAD	YWHAG	['NM_012479']	rs759666738	ENST00000307630	P61981	1433G_HUMAN	p.Asn29Lys									1.3922980854e-06

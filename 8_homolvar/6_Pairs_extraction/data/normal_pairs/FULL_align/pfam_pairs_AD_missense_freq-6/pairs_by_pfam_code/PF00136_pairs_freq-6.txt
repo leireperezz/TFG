@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-111	PF00136	Thr	Ala	820.0	640.0	True	gnomAD	POLD1	['NM_002691']	rs201212113	ENST00000440232	P28340	DPOD1_HUMAN	p.Thr640Ala								2.62805182518e-05	5.4764737533e-06
-112	PF00136	Thr	Ala	820.0	737.0	True	gnomAD	POLE	['NM_006231']	rs779102091	ENST00000320574	Q07864	DPOE1_HUMAN	p.Thr737Ala								3.93907563025e-05	1.43660075633e-05
-116	PF00136	Thr	Ile	705.0	626.0	True	gnomAD	POLD1	['NM_002691']	rs1060501842	ENST00000440232	P28340	DPOD1_HUMAN	p.Thr626Ile	Likely benign								1.75638045116e-05
-117	PF00136	Thr	Ile	705.0	650.0	True	gnomAD	POLE	['NM_006231']	rs115559742	ENST00000320574	Q07864	DPOE1_HUMAN	p.Thr650Ile								2.62539545018e-05	6.3628207657e-06

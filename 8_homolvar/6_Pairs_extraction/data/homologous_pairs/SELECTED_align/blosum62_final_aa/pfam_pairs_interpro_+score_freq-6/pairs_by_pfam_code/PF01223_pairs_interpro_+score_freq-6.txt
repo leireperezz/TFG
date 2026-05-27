@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01223	Asn	H	84.0	731.0	True	gnomAD	ENPP1	['NM_006208']	rs748292010	ENST00000647893	P22413	ENPP1_HUMAN	p.Asn731His								2.63754813525e-05	3.15377822631e-05	HY	True
-PF01223	Asn	Y	84.0	731.0	True	gnomAD	ENPP1	['NM_006208']	rs748292010	ENST00000647893	P22413	ENPP1_HUMAN	p.Asn731Tyr								1.31877406762e-05	4.1136237734e-06	HY	True
-PF01223	Asn	H	99.0	746.0	True	gnomAD	ENPP1	['NM_006208']	rs144099489	ENST00000647893	P22413	ENPP1_HUMAN	p.Asn746His								0.0003873220944278	9.68026330316e-05	HY	True
-PF01223	Asn	Y	99.0	746.0	True	gnomAD	ENPP1	['NM_006208']	rs144099489	ENST00000647893	P22413	ENPP1_HUMAN	p.Asn746Tyr								5.25589645883e-05	4.8001228831e-06	HY	True

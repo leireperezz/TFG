@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-32	PF01454	Phe	Leu	36.0	1030.0	True	gnomAD	MAGEL2	['NM_019066']	rs762817125	ENST00000650528	Q9UJ55	MAGL2_HUMAN	p.Phe1030Leu	Likely benign								1.5911253393e-05
-33	PF01454	Phe	Leu	36.0	1030.0	True	gnomAD	MAGEL2	['NM_019066']	rs775596633	ENST00000650528	Q9UJ55	MAGL2_HUMAN	p.Phe1030Leu	Likely benign								4.7733608278e-06

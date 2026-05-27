@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-30	PF14533	Gln	His	195.0	1049.0	True	gnomAD	USP7	['NM_003470']	rs749245139	ENST00000344836	Q93009	UBP7_HUMAN	p.Gln1049His									1.3682960335e-06
-31	PF14533	Gln	His	195.0	1049.0	True	gnomAD	USP7	['NM_003470']	rs749245139	ENST00000344836	Q93009	UBP7_HUMAN	p.Gln1049His									2.7365920671e-06
-44	PF14533	Gly	Arg	65.0	932.0	True	gnomAD	USP7	['NM_003470']		ENST00000344836	Q93009	UBP7_HUMAN	p.Gly932Arg									6.840778152196368e-07
-45	PF14533	Gly	Arg	65.0	932.0	True	gnomAD	USP7	['NM_003470']	rs1476991127	ENST00000344836	Q93009	UBP7_HUMAN	p.Gly932Arg								6.5694389699e-06	5.4726225217e-06

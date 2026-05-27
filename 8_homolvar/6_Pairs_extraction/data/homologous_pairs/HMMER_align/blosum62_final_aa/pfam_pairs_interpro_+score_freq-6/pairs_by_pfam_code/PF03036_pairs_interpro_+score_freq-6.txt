@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF03036	Val	L	237.0	234.0	True	gnomAD	PLIN1	['NM_002666']	rs542866752	ENST00000300055	O60240	PLIN1_HUMAN	p.Val234Leu								1.31361164385e-05	2.7366519799e-06	LM	True
-PF03036	Val	M	237.0	234.0	True	gnomAD	PLIN1	['NM_002666']	rs542866752	ENST00000300055	O60240	PLIN1_HUMAN	p.Val234Met								4.59764075348e-05	1.29990969048e-05	LM	True

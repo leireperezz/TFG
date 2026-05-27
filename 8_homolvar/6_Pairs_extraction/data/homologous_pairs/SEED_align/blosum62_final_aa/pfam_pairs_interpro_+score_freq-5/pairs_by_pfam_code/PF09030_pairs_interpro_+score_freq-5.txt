@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09030	Met	I	216.0	2015.0	True	gnomAD	EP300	['NM_001429']	rs753072432	ENST00000263253	Q09472	EP300_HUMAN	p.Met2015Ile								4.6001787498e-05	0.0001648828305661	IV	True
-PF09030	Met	V	216.0	2015.0	True	gnomAD	EP300	['NM_001429']	rs1351718424	ENST00000263253	Q09472	EP300_HUMAN	p.Met2015Val								0.0001905963694677	9.5780460238e-06	IV	True

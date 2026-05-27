@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-91	PF12001	Phe	Leu	26.0	1547.0	True	gnomAD	ANKRD26	['NM_014915']	rs2053227182	ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Phe1547Leu								6.5715111847e-06	
-92	PF12001	Phe	Leu	26.0	1547.0	True	gnomAD	ANKRD26	['NM_014915']	rs370491617	ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Phe1547Leu								0.0002758041002876	2.95491216351e-05
-118	PF12001	Thr	Ser	84.0	1603.0	True	gnomAD	ANKRD26	['NM_014915']		ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Thr1603Ser									1.2003303309e-06
-119	PF12001	Thr	Ser	84.0	1603.0	True	gnomAD	ANKRD26	['NM_014915']	rs886046944	ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Thr1603Ser									2.0523204903e-06

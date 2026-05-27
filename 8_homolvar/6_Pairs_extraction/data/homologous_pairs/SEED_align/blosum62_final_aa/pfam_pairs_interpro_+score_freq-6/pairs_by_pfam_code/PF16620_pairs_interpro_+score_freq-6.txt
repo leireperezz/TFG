@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF16620	Val	I	73.0	337.0	True	gnomAD	MYLK	['NM_001321309', 'NM_053025']	rs760242263	ENST00000360304	Q15746	MYLK_HUMAN	p.Val337Ile								1.31400864617e-05	2.0521576385e-06	IL	True
-PF16620	Val	L	73.0	337.0	True	gnomAD	MYLK	['NM_001321309', 'NM_053025']	rs760242263	ENST00000360304	Q15746	MYLK_HUMAN	p.Val337Leu								6.5700432308e-06	1.36810509236e-05	IL	True

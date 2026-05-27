@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00640	M	Ile	194.0	525.0	True	gnomAD	APPL1	['NM_012096']	rs763536989	ENST00000288266	Q9UKG1	DP13A_HUMAN	p.Met525Ile								2.63002169767e-05	2.05245528384e-05	MV	True
-PF00640	V	Ile	194.0	585.0	True	gnomAD	MAPK8IP1	['NM_005456']	rs1268652072	ENST00000241014	Q9UQF2	JIP1_HUMAN	p.Val585Ile									1.29973006658e-05	MV	True

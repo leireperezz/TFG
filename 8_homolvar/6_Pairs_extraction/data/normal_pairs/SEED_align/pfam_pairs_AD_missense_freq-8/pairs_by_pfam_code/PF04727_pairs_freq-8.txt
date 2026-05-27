@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-126	PF04727	Phe	Leu	37.0	187.0	True	gnomAD	ELMOD3	['NM_001329791', 'NM_001135022', 'NM_001329792']		ENST00000409013	Q96FG2	ELMD3_HUMAN	p.Phe187Leu									1.3680938621e-06
-127	PF04727	Phe	Leu	37.0	187.0	True	gnomAD	ELMOD3	['NM_001329791', 'NM_001135022', 'NM_001329792']		ENST00000409013	Q96FG2	ELMD3_HUMAN	p.Phe187Leu									1.5903813734e-06
-128	PF04727	Phe	Leu	138.0	248.0	True	gnomAD	ELMOD3	['NM_001329791', 'NM_001135022', 'NM_001329792']		ENST00000409013	Q96FG2	ELMD3_HUMAN	p.Phe248Leu									3.6012590001e-06
-129	PF04727	Phe	Leu	138.0	248.0	True	gnomAD	ELMOD3	['NM_001329791', 'NM_001135022', 'NM_001329792']	rs780266533	ENST00000409013	Q96FG2	ELMD3_HUMAN	p.Phe248Leu									6.84079687074588e-07

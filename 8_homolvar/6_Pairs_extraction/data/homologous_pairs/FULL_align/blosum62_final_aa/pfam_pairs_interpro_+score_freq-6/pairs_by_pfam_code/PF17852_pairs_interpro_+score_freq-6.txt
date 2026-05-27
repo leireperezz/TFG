@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF17852	Pro	A	668.0	2480.0	True	gnomAD	DYNC1H1	['NM_001376']	rs1018948570	ENST00000360184	Q14204	DYHC1_HUMAN	p.Pro2480Ala								2.62787917011e-05	4.1071135206e-06	AS	True
-PF17852	Pro	S	668.0	2480.0	True	gnomAD	DYNC1H1	['NM_001376']	rs1018948570	ENST00000360184	Q14204	DYHC1_HUMAN	p.Pro2480Ser								2.62787917011e-05	8.8987459613e-06	AS	True

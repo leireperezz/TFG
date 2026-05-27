@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF16756	Val	L	543.0	1103.0	True	gnomAD	PALB2	['NM_001407305', 'NM_001407306', 'NM_001407296', 'NM_024675']	rs201657283	ENST00000261584	Q86YC2	PALB2_HUMAN	p.Val1103Leu	Likely benign							1.31438861213e-05	5.47252518729e-05	LM	True
-PF16756	Val	M	543.0	1103.0	True	gnomAD	PALB2	['NM_001407305', 'NM_001407306', 'NM_001407296', 'NM_024675']	rs201657283	ENST00000261584	Q86YC2	PALB2_HUMAN	p.Val1103Met	Likely benign							3.94011032308e-05	8.1403812161e-05	LM	True

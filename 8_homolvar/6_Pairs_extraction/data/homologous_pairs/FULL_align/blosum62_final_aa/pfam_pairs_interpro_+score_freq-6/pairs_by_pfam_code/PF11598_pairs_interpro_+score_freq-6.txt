@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF11598	Met	I	66.0	67.0	True	gnomAD	COMP	['NM_000095']	rs199553971	ENST00000222271	P49747	COMP_HUMAN	p.Met67Ile								3.9437360326e-05	6.63592704584e-05	IV	True
-PF11598	Met	V	66.0	67.0	True	gnomAD	COMP	['NM_000095']	rs142742836	ENST00000222271	P49747	COMP_HUMAN	p.Met67Val								4.6045967031e-05	1.3682323805e-06	IV	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF08357	Val	I	20.0	374.0	True	gnomAD	IL17RD	['NM_017563']	rs781151564	ENST00000296318	Q8NFM7	I17RD_HUMAN	p.Val374Ile								5.25486074619e-05	5.13200895569e-05	IL	True
-PF08357	Val	L	20.0	374.0	True	gnomAD	IL17RD	['NM_017563']	rs781151564	ENST00000296318	Q8NFM7	I17RD_HUMAN	p.Val374Leu									2.18966015105e-05	IL	True

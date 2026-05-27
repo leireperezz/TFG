@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-32	PF01119	Gly	Arg	8.0	221.0	True	gnomAD	MLH1	['NM_000249', 'NM_001354628', 'NM_001354629']	rs2125809353	ENST00000231790	P40692	MLH1_HUMAN	p.Gly221Arg	Likely benign								1.2025156627e-06
-33	PF01119	Gly	Arg	8.0	216.0	True	gnomAD	MLH3	['NM_001040108']		ENST00000355774	Q9UHC1	MLH3_HUMAN	p.Gly216Arg									1.2003360941e-06
-35	PF01119	Gly	Asp	31.0	244.0	True	ClinVar	MLH1	NM_000249	rs63750303			MLH1_HUMAN	p.Gly244Asp	Pathogenic(Last reviewed: Sep 5, 2013)	Lynch syndrome	reviewed by expert panel	VCV000090339	90339.0	95813.0	NC_000003.12:37014484:G:A		
-36	PF01119	Gly	Asp	31.0	237.0	True	gnomAD	MLH3	['NM_001040108']	rs1892467617	ENST00000355774	Q9UHC1	MLH3_HUMAN	p.Gly237Asp									2.0536551639e-06
-51	PF01119	Ile	Val	33.0	246.0	True	gnomAD	MLH1	['NM_000249', 'NM_001354628', 'NM_001354629']	rs750253749	ENST00000231790	P40692	MLH1_HUMAN	p.Ile246Val	Likely benign							1.31392232091e-05	1.3700225368e-06
-52	PF01119	Ile	Val	33.0	239.0	True	gnomAD	MLH3	['NM_001040108']	rs568118559	ENST00000355774	Q9UHC1	MLH3_HUMAN	p.Ile239Val								4.59468329504e-05	1.36893288943e-05

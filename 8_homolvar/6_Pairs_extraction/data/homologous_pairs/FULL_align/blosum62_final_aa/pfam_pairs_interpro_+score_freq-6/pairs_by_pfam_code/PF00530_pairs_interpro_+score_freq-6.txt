@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00530	Met	I	545.0	204.0	True	gnomAD	CFI	['NM_001375281', 'NM_001375279', 'NM_001375284', 'NM_000204']	rs150082318	ENST00000394634	P05156	CFAI_HUMAN	p.Met204Ile								3.94021382227e-05	3.1811877282e-06	IV	True
-PF00530	Met	V	545.0	204.0	True	gnomAD	CFI	['NM_001375281', 'NM_001375279', 'NM_001375284', 'NM_000204']	rs756680624	ENST00000394634	P05156	CFAI_HUMAN	p.Met204Val								4.59558823529e-05	3.62563226238e-05	IV	True

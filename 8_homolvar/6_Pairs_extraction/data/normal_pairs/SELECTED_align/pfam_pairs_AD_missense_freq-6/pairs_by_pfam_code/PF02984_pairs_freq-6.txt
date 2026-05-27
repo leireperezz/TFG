@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-44	PF02984	Thr	Ile	129.0	230.0	True	gnomAD	CCND1	['NM_053056']	rs984643266	ENST00000227507	P24385	CCND1_HUMAN	p.Thr230Ile									1.64206084109e-05
-45	PF02984	Thr	Ile	129.0	471.0	True	gnomAD	CCNF	['NM_001761', 'NM_001323538']	rs771496661	ENST00000397066	P41002	CCNF_HUMAN	p.Thr471Ile								4.19856409108e-05	9.1374269005e-06

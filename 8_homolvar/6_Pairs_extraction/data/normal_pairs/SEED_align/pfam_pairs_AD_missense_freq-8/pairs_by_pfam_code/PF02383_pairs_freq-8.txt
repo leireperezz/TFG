@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-81	PF02383	Cys	Ser	1899.0	291.0	True	gnomAD	FIG4	['NM_014845']		ENST00000230124	Q92562	FIG4_HUMAN	p.Cys291Ser									6.932495518141647e-07
-82	PF02383	Cys	Ser	1899.0	291.0	True	gnomAD	FIG4	['NM_014845']		ENST00000230124	Q92562	FIG4_HUMAN	p.Cys291Ser									2.4512267164e-06
-208	PF02383	Met	Ile	2323.0	364.0	True	gnomAD	FIG4	['NM_014845']	rs369640318	ENST00000230124	Q92562	FIG4_HUMAN	p.Met364Ile								6.5743626155e-06	6.845826510326245e-07
-209	PF02383	Met	Ile	2323.0	364.0	True	gnomAD	FIG4	['NM_014845']		ENST00000230124	Q92562	FIG4_HUMAN	p.Met364Ile									6.845817137270956e-07

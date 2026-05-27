@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01490	Met	I	997.0	205.0	True	gnomAD	SLC36A2	['NM_181776']	rs556896093	ENST00000335244	Q495M3	S36A2_HUMAN	p.Met205Ile								5.25555117592e-05	9.5425007077e-06	IV	True
-PF01490	Met	V	997.0	205.0	True	gnomAD	SLC36A2	['NM_181776']	rs143611303	ENST00000335244	Q495M3	S36A2_HUMAN	p.Met205Val								0.0001708705195778	0.0001203935775498	IV	True

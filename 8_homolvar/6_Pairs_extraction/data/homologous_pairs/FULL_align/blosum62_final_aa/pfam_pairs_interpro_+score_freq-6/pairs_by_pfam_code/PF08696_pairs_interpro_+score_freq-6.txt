@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF08696	His	R	626.0	226.0	True	gnomAD	DNA2	['NM_001080449']	rs761165705	ENST00000358410	P51530	DNA2_HUMAN	p.His226Arg								3.94171517166e-05	4.76961382717e-05	RQ	True
-PF08696	His	Q	626.0	226.0	True	gnomAD	DNA2	['NM_001080449']	rs763610246	ENST00000358410	P51530	DNA2_HUMAN	p.His226Gln								1.31399138021e-05	1.6298962082e-06	RQ	True

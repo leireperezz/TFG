@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-56	PF02037	Met	Leu	32.0	35.0	True	gnomAD	HNRNPU	['NM_031844']	rs1260819558	ENST00000640218	Q00839	HNRPU_HUMAN	p.Met35Leu								3.9415598066e-05	6.852825968372838e-07
-57	PF02037	Met	Leu	32.0	398.0	True	gnomAD	MYOCD	['NM_001378306', 'NM_001146312']	rs747791727	ENST00000425538	Q8IZQ8	MYCD_HUMAN	p.Met398Leu								6.5701295629e-06	4.104596053e-06

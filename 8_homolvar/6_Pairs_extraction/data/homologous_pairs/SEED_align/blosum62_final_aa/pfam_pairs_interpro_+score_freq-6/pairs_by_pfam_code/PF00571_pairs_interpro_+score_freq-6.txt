@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00571	Val	I	69.0	646.0	True	gnomAD	CLCN7	['NM_001287']	rs375096271	ENST00000382745	P51798	CLCN7_HUMAN	p.Val646Ile								0.0001115983509702	7.0544949461e-05	IL	True
-PF00571	Val	L	69.0	646.0	True	gnomAD	CLCN7	['NM_001287']	rs375096271	ENST00000382745	P51798	CLCN7_HUMAN	p.Val646Leu								1.97090937758e-05	1.84923653927e-05	IL	True

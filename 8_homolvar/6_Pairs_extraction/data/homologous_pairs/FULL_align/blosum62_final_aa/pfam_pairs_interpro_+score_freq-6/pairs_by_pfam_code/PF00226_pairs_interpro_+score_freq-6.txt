@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00226	Ala	S	426.0	65.0	True	gnomAD	DNAJC5	['NM_025219']	rs772453351	ENST00000360864	Q9H3Z4	DNJC5_HUMAN	p.Ala65Ser								1.31428496326e-05	2.32581684055e-05	ST	True
-PF00226	Ala	T	426.0	65.0	True	gnomAD	DNAJC5	['NM_025219']	rs772453351	ENST00000360864	Q9H3Z4	DNJC5_HUMAN	p.Ala65Thr								1.31428496326e-05	3.76235077148e-05	ST	True

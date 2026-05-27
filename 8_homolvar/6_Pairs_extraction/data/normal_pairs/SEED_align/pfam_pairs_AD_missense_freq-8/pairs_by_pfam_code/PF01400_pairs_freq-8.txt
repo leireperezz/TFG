@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-57	PF01400	Glu	Asp	129.0	273.0	True	gnomAD	TLL1	['NM_012464']	rs17590218	ENST00000061240	O43897	TLL1_HUMAN	p.Glu273Asp								6.59900487e-06	
-58	PF01400	Glu	Asp	129.0	273.0	True	gnomAD	TLL1	['NM_012464']	rs17590218	ENST00000061240	O43897	TLL1_HUMAN	p.Glu273Asp									4.1210602663e-06
-125	PF01400	Lys	Asn	84.0	230.0	True	gnomAD	TLL1	['NM_012464']		ENST00000061240	O43897	TLL1_HUMAN	p.Lys230Asn									6.840937263132548e-07
-126	PF01400	Lys	Asn	84.0	230.0	True	gnomAD	TLL1	['NM_012464']		ENST00000061240	O43897	TLL1_HUMAN	p.Lys230Asn									1.3681874526e-06
-136	PF01400	Met	Leu	164.0	308.0	True	gnomAD	TLL1	['NM_012464']	rs375718088	ENST00000061240	O43897	TLL1_HUMAN	p.Met308Leu								6.5991790621e-06	
-137	PF01400	Met	Leu	164.0	308.0	True	gnomAD	TLL1	['NM_012464']	rs375718088	ENST00000061240	O43897	TLL1_HUMAN	p.Met308Leu								6.5991790621e-06	2.7397673115e-06

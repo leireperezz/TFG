@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-52	PF08142	Phe	Leu	70.0	312.0	True	gnomAD	BMS1	['NM_014753']	rs755403632	ENST00000374518	Q14692	BMS1_HUMAN	p.Phe312Leu									1.5946470886e-06
-53	PF08142	Phe	Leu	70.0	312.0	True	gnomAD	BMS1	['NM_014753']	rs1841559827	ENST00000374518	Q14692	BMS1_HUMAN	p.Phe312Leu									2.0547945205e-06
-79	PF08142	Val	Leu	38.0	280.0	True	gnomAD	BMS1	['NM_014753']	rs772382821	ENST00000374518	Q14692	BMS1_HUMAN	p.Val280Leu								1.31314590364e-05	2.741017685e-06
-80	PF08142	Val	Leu	38.0	280.0	True	gnomAD	BMS1	['NM_014753']	rs772382821	ENST00000374518	Q14692	BMS1_HUMAN	p.Val280Leu									1.3705088425e-06

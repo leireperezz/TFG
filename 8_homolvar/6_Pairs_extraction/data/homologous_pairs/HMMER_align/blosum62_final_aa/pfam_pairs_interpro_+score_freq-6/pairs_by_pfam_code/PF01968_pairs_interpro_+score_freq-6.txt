@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01968	Met	I	230.0	455.0	True	gnomAD	OPLAH	['NM_017570']	rs566477781	ENST00000618853	O14841	OPLA_HUMAN	p.Met455Ile								0.0001772118666316	1.03621931927e-05	IV	True
-PF01968	Met	V	230.0	455.0	True	gnomAD	OPLAH	['NM_017570']	rs782121351	ENST00000618853	O14841	OPLA_HUMAN	p.Met455Val								4.59993691515e-05	6.97637151319e-05	IV	True
-PF01968	Val	L	19.0	249.0	True	gnomAD	OPLAH	['NM_017570']	rs201505787	ENST00000618853	O14841	OPLA_HUMAN	p.Val249Leu								3.28519428639e-05	9.0015108689e-06	LM	True
-PF01968	Val	M	19.0	249.0	True	gnomAD	OPLAH	['NM_017570']	rs201505787	ENST00000618853	O14841	OPLA_HUMAN	p.Val249Met								1.31407771455e-05	4.1545434779e-06	LM	True

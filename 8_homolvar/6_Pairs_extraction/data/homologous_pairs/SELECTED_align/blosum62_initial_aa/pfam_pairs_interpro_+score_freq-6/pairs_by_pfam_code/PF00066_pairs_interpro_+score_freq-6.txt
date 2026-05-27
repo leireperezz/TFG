@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00066	R	His	22.0	1483.0	True	gnomAD	NOTCH3	['NM_000435']	rs940480447	ENST00000263388	Q9UM47	NOTC3_HUMAN	p.Arg1483His								1.31426769004e-05	8.9208612556e-06	RQ	True
-PF00066	Q	His	22.0	1479.0	True	gnomAD	NOTCH2	['NM_024408', 'NM_001200001']	rs1175903456	ENST00000256646	Q04721	NOTC2_HUMAN	p.Gln1479His									1.1628861466e-05	RQ	True
-PF00066	Q	Lys	12.0	1495.0	True	gnomAD	NOTCH1	['NM_017617']	rs1036363986	ENST00000651671	P46531	NOTC1_HUMAN	p.Gln1495Lys									1.78034634583e-05	QE	True
-PF00066	E	Lys	12.0	1453.0	True	gnomAD	NOTCH1	['NM_017617']	rs746144524	ENST00000651671	P46531	NOTC1_HUMAN	p.Glu1453Lys								1.31400864617e-05	2.7402327827e-06	QE	True

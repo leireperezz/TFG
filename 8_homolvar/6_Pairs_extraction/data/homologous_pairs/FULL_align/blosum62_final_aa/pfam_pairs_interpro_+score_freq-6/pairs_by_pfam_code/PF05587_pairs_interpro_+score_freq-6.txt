@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF05587	Ile	M	204.0	311.0	True	gnomAD	ANTXR1	['NM_032208']	rs764509823	ENST00000303714	Q9H6X2	ANTR1_HUMAN	p.Ile311Met								1.31371518654e-05	2.0521576385e-06	MV	True
-PF05587	Ile	V	204.0	311.0	True	gnomAD	ANTXR1	['NM_032208']	rs758837226	ENST00000303714	Q9H6X2	ANTR1_HUMAN	p.Ile311Val								1.31387053119e-05	1.5903813734e-06	MV	True

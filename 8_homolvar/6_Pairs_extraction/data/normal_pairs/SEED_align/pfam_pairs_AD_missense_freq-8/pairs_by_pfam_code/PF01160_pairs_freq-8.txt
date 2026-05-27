@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-40	PF01160	Leu	Phe	8.0	28.0	True	gnomAD	PDYN	['NM_001190898', 'NM_024411']		ENST00000217305	P01213	PDYN_HUMAN	p.Leu28Phe									1.5906191644e-06
-41	PF01160	Leu	Phe	8.0	28.0	True	gnomAD	PDYN	['NM_001190898', 'NM_024411']	rs377388422	ENST00000217305	P01213	PDYN_HUMAN	p.Leu28Phe								1.31438861213e-05	1.5906191644e-06

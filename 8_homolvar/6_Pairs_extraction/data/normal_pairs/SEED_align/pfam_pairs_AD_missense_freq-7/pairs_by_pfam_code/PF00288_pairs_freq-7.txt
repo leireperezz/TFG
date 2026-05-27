@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-18	PF00288	Gly	Arg	38.0	140.0	True	gnomAD	MVK	['NM_000431', 'NM_001114185']	rs781108404	ENST00000228510	Q03426	KIME_HUMAN	p.Gly140Arg								1.9716088328e-05	1.16293546802e-05
-19	PF00288	Gly	Arg	38.0	140.0	True	gnomAD	MVK	['NM_000431', 'NM_001114185']		ENST00000228510	Q03426	KIME_HUMAN	p.Gly140Arg									4.7885578095e-06
-21	PF00288	Gly	Arg	96.0	198.0	True	gnomAD	MVK	['NM_000431', 'NM_001114185']	rs202172198	ENST00000228510	Q03426	KIME_HUMAN	p.Gly198Arg								6.5703885727e-06	1.3681107075e-06
-22	PF00288	Gly	Arg	96.0	198.0	True	gnomAD	MVK	['NM_000431', 'NM_001114185']	rs202172198	ENST00000228510	Q03426	KIME_HUMAN	p.Gly198Arg								6.5652984584e-06	7.5246088913e-06

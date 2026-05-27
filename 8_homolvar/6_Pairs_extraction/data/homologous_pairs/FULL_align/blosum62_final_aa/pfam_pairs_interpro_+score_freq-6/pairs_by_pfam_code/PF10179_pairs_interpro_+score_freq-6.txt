@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF10179	Ile	M	259.0	293.0	True	gnomAD	NDNF	['NM_024574']	rs1266853784	ENST00000379692	Q8TB73	NDNF_HUMAN	p.Ile293Met								1.31482065846e-05	1.91557250989e-05	MV	True
-PF10179	Ile	V	259.0	293.0	True	gnomAD	NDNF	['NM_024574']	rs148222810	ENST00000379692	Q8TB73	NDNF_HUMAN	p.Ile293Val								2.63050597782e-05	2.0523991177e-06	MV	True

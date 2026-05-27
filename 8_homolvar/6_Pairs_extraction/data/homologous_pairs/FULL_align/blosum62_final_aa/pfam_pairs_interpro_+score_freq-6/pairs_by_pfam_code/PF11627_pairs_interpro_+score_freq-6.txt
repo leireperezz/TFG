@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF11627	Phe	L	47.0	325.0	True	ClinVar	HNRNPA1	NM_031157	rs483353028			ROA1_HUMAN	p.Phe325Leu	Pathogenic	Chronic progressive multiple sclerosis	no assertion criteria provided	VCV000135594	135594.0	139320.0	NC_000012.12:54283876:T:C			LV	True
-PF11627	Phe	V	47.0	325.0	True	ClinVar	HNRNPA1	NM_031157	rs483353028			ROA1_HUMAN	p.Phe325Val	Pathogenic	Chronic progressive multiple sclerosis	no assertion criteria provided	VCV000135595	135595.0	139321.0	NC_000012.12:54283876:T:G			LV	True

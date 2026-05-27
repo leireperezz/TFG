@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF07474	Val	I	229.0	4945.0	True	gnomAD	HMCN1	['NM_031935']	rs763348905	ENST00000271588	Q96RW7	HMCN1_HUMAN	p.Val4945Ile									1.23176643518e-05	IL	True
-PF07474	Val	L	229.0	4945.0	True	gnomAD	HMCN1	['NM_031935']	rs763348905	ENST00000271588	Q96RW7	HMCN1_HUMAN	p.Val4945Leu								4.60078344769e-05	5.4745174897e-06	IL	True

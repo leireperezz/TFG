@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-164	PF00780	Met	Leu	398.0	1461.0	True	gnomAD	CDC42BPB	['NM_006035']		ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Met1461Leu									2.0564086604e-06
-165	PF00780	Met	Leu	398.0	1461.0	True	gnomAD	CDC42BPB	['NM_006035']	rs1892019190	ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Met1461Leu									4.7982868744e-06
-248	PF00780	Val	Leu	236.0	1371.0	True	gnomAD	CDC42BPB	['NM_006035']	rs1194977739	ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Val1371Leu								6.5689211203e-06	
-249	PF00780	Val	Leu	236.0	1371.0	True	gnomAD	CDC42BPB	['NM_006035']		ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Val1371Leu									1.2003216862e-06

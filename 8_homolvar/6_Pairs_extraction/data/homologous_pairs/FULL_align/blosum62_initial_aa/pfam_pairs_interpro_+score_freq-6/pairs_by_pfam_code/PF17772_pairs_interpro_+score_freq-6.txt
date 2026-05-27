@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF17772	P	Ser	63.0	198.0	True	gnomAD	KAT8	['NM_032188']	rs1462936834	ENST00000219797	Q9H7Z6	KAT8_HUMAN	p.Pro198Ser									1.02608864585e-05	P	True
-PF17772	P	Ser	63.0	528.0	True	ClinVar	KAT6A	NM_006766	rs1822869930			KAT6A_HUMAN	p.Pro528Ser	Likely pathogenic	Autism spectrum disorder	no assertion criteria provided	VCV000996682	996682.0	984337.0	NC_000008.11:41955311:G:A			P	True
-PF17772	M	Val	144.0	217.0	True	gnomAD	KAT8	['NM_032188']	rs756211242	ENST00000219797	Q9H7Z6	KAT8_HUMAN	p.Met217Val								6.5681444991e-06	1.77852688722e-05	M	True
-PF17772	M	Val	144.0	758.0	True	gnomAD	KAT6B	['NM_001370137', 'NM_012330']	rs766894762	ENST00000287239	Q8WYB5	KAT6B_HUMAN	p.Met758Val								0.0001182141778203	8.4411455197e-06	M	True

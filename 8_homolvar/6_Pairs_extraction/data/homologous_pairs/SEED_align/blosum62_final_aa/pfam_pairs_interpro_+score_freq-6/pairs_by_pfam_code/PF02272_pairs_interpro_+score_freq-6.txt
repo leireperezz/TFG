@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02272	Pro	A	112.0	906.0	True	gnomAD	AARS1	['NM_001605']	rs776897040	ENST00000261772	P49588	SYAC_HUMAN	p.Pro906Ala	Likely benign							1.31418133074e-05	1.43809021619e-05	AS	True
-PF02272	Pro	S	112.0	906.0	True	gnomAD	AARS1	['NM_001605']	rs776897040	ENST00000261772	P49588	SYAC_HUMAN	p.Pro906Ser	Likely benign							1.31418133074e-05	6.848048648537599e-07	AS	True

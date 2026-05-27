@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF03493	Val	L	73.0	611.0	True	gnomAD	KCNMA1	['NM_001161352']	rs200668674	ENST00000286628	Q12791	KCMA1_HUMAN	p.Val611Leu								1.31435406069e-05	6.858249582675513e-07	LM	True
-PF03493	Val	M	73.0	611.0	True	gnomAD	KCNMA1	['NM_001161352']	rs200668674	ENST00000286628	Q12791	KCMA1_HUMAN	p.Val611Met								6.5717703034e-06	1.0287374374e-05	LM	True

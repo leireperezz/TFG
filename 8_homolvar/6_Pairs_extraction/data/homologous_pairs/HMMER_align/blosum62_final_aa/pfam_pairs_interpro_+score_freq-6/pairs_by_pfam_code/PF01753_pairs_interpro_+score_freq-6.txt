@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01753	Met	I	20.0	512.0	True	gnomAD	DEAF1	['NM_001293634', 'NM_021008']	rs1391894786	ENST00000382409	O75398	DEAF1_HUMAN	p.Met512Ile								1.31532218816e-05	3.1818355372e-06	IV	True
-PF01753	Met	V	20.0	512.0	True	gnomAD	DEAF1	['NM_001293634', 'NM_021008']	rs1189473860	ENST00000382409	O75398	DEAF1_HUMAN	p.Met512Val								6.5797265465e-06	1.43672066455e-05	IV	True

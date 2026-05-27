@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-125	PF07993	Met	Ile	136.0	149.0	True	gnomAD	FAR1	['NM_032228']		ENST00000354817	Q8WVX9	FACR1_HUMAN	p.Met149Ile									6.861797900838787e-07
-126	PF07993	Met	Ile	136.0	149.0	True	gnomAD	FAR1	['NM_032228']		ENST00000354817	Q8WVX9	FACR1_HUMAN	p.Met149Ile									2.0585393702e-06

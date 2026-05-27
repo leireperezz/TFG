@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-47	PF09007	Asp	Glu	117.0	347.0	True	gnomAD	SLC9A3R1	['NM_004252']	rs200658339	ENST00000262613	O14745	NHRF1_HUMAN	p.Asp347Glu								6.5654708755e-06	1.3681593741e-06
-48	PF09007	Asp	Glu	117.0	347.0	True	gnomAD	SLC9A3R1	['NM_004252']	rs200658339	ENST00000262613	O14745	NHRF1_HUMAN	p.Asp347Glu								2.62818996557e-05	2.66791077959e-05
-63	PF09007	Glu	Asp	46.0	279.0	True	gnomAD	SLC9A3R1	['NM_004252']	rs775346495	ENST00000262613	O14745	NHRF1_HUMAN	p.Glu279Asp									1.3685900374e-06
-64	PF09007	Glu	Asp	46.0	279.0	True	gnomAD	SLC9A3R1	['NM_004252']	rs775346495	ENST00000262613	O14745	NHRF1_HUMAN	p.Glu279Asp								1.31440588853e-05	8.2115402249e-06

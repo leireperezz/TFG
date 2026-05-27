@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-74	PF05463	Asn	Lys	53.0	52.0	True	gnomAD	SOST	['NM_025237']	rs914981653	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Asn52Lys								0.0	2.0521716764e-06
-75	PF05463	Asn	Lys	53.0	52.0	True	gnomAD	SOST	['NM_025237']		ENST00000301691	Q9BQB4	SOST_HUMAN	p.Asn52Lys									4.1043433529e-06
-84	PF05463	Asp	Glu	32.0	32.0	True	gnomAD	SOST	['NM_025237']	rs1249296225	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Asp32Glu								6.5724613867e-06	
-85	PF05463	Asp	Glu	32.0	32.0	True	gnomAD	SOST	['NM_025237']	rs1249296225	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Asp32Glu								6.5724613867e-06	1.5903813734e-06
-233	PF05463	Thr	Ser	56.0	55.0	True	gnomAD	SOST	['NM_025237']	rs1421157409	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Thr55Ser								6.5698705735e-06	
-234	PF05463	Thr	Ser	56.0	55.0	True	gnomAD	SOST	['NM_025237']	rs1053399949	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Thr55Ser								6.5735847072e-06	3.6009650586e-06

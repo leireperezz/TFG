@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-32	PF20519	Gly	Arg	35.0	3737.0	True	gnomAD	PKD1	['NM_001009944']	rs773289901	ENST00000262304	P98161	PKD1_HUMAN	p.Gly3737Arg								2.62787917011e-05	4.7932729837e-06
-33	PF20519	Gly	Arg	35.0	3737.0	True	gnomAD	PKD1	['NM_001009944']	rs773289901	ENST00000262304	P98161	PKD1_HUMAN	p.Gly3737Arg								6.5696979252e-06	1.2325559101e-05

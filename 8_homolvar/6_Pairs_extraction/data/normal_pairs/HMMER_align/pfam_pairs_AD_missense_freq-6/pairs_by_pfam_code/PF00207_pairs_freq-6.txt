@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-12	PF00207	Asp	Glu	66.0	832.0	True	gnomAD	C3	['NM_000064']		ENST00000245907	P01024	CO3_HUMAN	p.Asp832Glu									1.32037287329e-05
-13	PF00207	Asp	Glu	66.0	793.0	True	gnomAD	A2ML1	['NM_144670']	rs754179635	ENST00000299698	A8K2U0	A2ML1_HUMAN	p.Asp793Glu								2.62839720338e-05	1.29968916907e-05
-46	PF00207	Val	Ile	6.0	777.0	True	gnomAD	C5	['NM_001735']	rs12375815	ENST00000223642	P01031	CO5_HUMAN	p.Val777Ile									1.80210918859e-05
-47	PF00207	Val	Ile	6.0	775.0	True	gnomAD	C3	['NM_000064']	rs745813592	ENST00000245907	P01024	CO3_HUMAN	p.Val775Ile								1.31369792829e-05	4.1049611191e-06

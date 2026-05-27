@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF20267	Met	L	395.0	1471.0	True	gnomAD	GREB1L	['NM_001142966']	rs189091188	ENST00000424526	Q9C091	GRB1L_HUMAN	p.Met1471Leu								5.26225777169e-05	1.21483238886e-05	LV	True
-PF20267	Met	V	395.0	1471.0	True	gnomAD	GREB1L	['NM_001142966']	rs189091188	ENST00000424526	Q9C091	GRB1L_HUMAN	p.Met1471Val								2.6290882322e-05	3.5730364378e-06	LV	True
-PF20267	Val	L	84.0	1265.0	True	gnomAD	GREB1L	['NM_001142966']	rs1266307352	ENST00000424526	Q9C091	GRB1L_HUMAN	p.Val1265Leu								1.97070222689e-05		LM	True
-PF20267	Val	M	84.0	1265.0	True	gnomAD	GREB1L	['NM_001142966']	rs1266307352	ENST00000424526	Q9C091	GRB1L_HUMAN	p.Val1265Met								1.31380148459e-05	1.7661603673e-06	LM	True

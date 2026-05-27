@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-17	PF02883	Gln	His	60.0	761.0	True	gnomAD	AP1G1	['NM_001128']	rs1049750769	ENST00000299980	O43747	AP1G1_HUMAN	p.Gln761His								6.5738439895e-06	1.02623325871e-05
-18	PF02883	Gln	His	60.0	761.0	True	gnomAD	AP1G1	['NM_001128']	rs1049750769	ENST00000299980	O43747	AP1G1_HUMAN	p.Gln761His									2.7366220232e-06

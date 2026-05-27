@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-27	PF03299	Arg	Ser	58.0	287.0	True	gnomAD	TFAP2B	['NM_003221']	rs777687254	ENST00000393655	Q92481	AP2B_HUMAN	p.Arg287Ser									1.02606899287e-05
-28	PF03299	Arg	Ser	58.0	287.0	True	gnomAD	TFAP2B	['NM_003221']	rs777687254	ENST00000393655	Q92481	AP2B_HUMAN	p.Arg287Ser								6.5660744067e-06	2.0521379857e-06
-47	PF03299	Gln	His	191.0	418.0	True	gnomAD	TFAP2B	['NM_003221']	rs1762769941	ENST00000393655	Q92481	AP2B_HUMAN	p.Gln418His								6.5725477824e-06	
-48	PF03299	Gln	His	191.0	418.0	True	gnomAD	TFAP2B	['NM_003221']		ENST00000393655	Q92481	AP2B_HUMAN	p.Gln418His									1.5903763148e-06
-89	PF03299	Leu	Phe	111.0	340.0	True	gnomAD	TFAP2B	['NM_003221']		ENST00000393655	Q92481	AP2B_HUMAN	p.Leu340Phe									2.4006491355e-06
-90	PF03299	Leu	Phe	111.0	340.0	True	gnomAD	TFAP2B	['NM_003221']		ENST00000393655	Q92481	AP2B_HUMAN	p.Leu340Phe									1.2003245677e-06

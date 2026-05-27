@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-32	PF01388	Asn	Ser	65.0	77.0	True	gnomAD	ARID2	['NM_152641']	rs749050032	ENST00000334344	Q68CP9	ARID2_HUMAN	p.Asn77Ser								1.31414679019e-05	3.42051543062e-05
-33	PF01388	Asn	Ser	65.0	1081.0	True	gnomAD	ARID1A	['NM_006015']	rs148400981	ENST00000324856	O14497	ARI1A_HUMAN	p.Asn1081Ser								0.0003808123120559	2.94139375548e-05
-106	PF01388	Phe	Leu	38.0	658.0	True	gnomAD	JARID2	['NM_004973']	rs1454236802	ENST00000341776	Q92833	JARD2_HUMAN	p.Phe658Leu									3.4291483092e-06
-107	PF01388	Phe	Leu	38.0	658.0	True	gnomAD	JARID2	['NM_004973']	rs1437199477	ENST00000341776	Q92833	JARD2_HUMAN	p.Phe658Leu								1.31399138021e-05	

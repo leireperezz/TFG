@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-3	PF00055	Arg	Gln	617.0	159.0	True	gnomAD	LAMB3	['NM_000228']	rs528873916	ENST00000356082	Q13751	LAMB3_HUMAN	p.Arg159Gln								4.59884897379e-05	0.0001060274193746
-4	PF00055	Arg	Gln	617.0	200.0	True	gnomAD	LAMA3	['NM_198129']	rs78284895	ENST00000313654	Q16787	LAMA3_HUMAN	p.Arg200Gln								0.0010908565195105	0.0001276089512876

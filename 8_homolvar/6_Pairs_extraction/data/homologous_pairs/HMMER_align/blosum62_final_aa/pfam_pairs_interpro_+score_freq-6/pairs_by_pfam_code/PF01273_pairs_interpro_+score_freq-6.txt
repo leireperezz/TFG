@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01273	Val	I	65.0	72.0	True	gnomAD	CETP	['NM_000078']	rs767785661	ENST00000200676	P11597	CETP_HUMAN	p.Val72Ile								1.31373244525e-05	6.841367835719602e-07	IL	True
-PF01273	Val	L	65.0	72.0	True	gnomAD	CETP	['NM_000078']	rs767785661	ENST00000200676	P11597	CETP_HUMAN	p.Val72Leu								1.97059866787e-05	1.09461885371e-05	IL	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02020	Ala	S	209.0	1548.0	True	gnomAD	EIF4G1	['NM_198241']	rs1333924370	ENST00000346169	Q04637	IF4G1_HUMAN	p.Ala1548Ser								1.31406044678e-05	6.840562896239606e-07	ST	True
-PF02020	Ala	T	209.0	1548.0	True	gnomAD	EIF4G1	['NM_198241']	rs1333924370	ENST00000346169	Q04637	IF4G1_HUMAN	p.Ala1548Thr									1.91535761094e-05	ST	True

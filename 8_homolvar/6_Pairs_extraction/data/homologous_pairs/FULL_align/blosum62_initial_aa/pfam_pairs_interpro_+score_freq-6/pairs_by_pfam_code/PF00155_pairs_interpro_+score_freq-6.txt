@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00155	R	Gln	2111.0	399.0	True	gnomAD	SPTLC2	['NM_004863']	rs143757018	ENST00000216484	O15270	SPTC2_HUMAN	p.Arg399Gln								0.0001380108042743	1.36816124601e-05	R	True
-PF00155	R	Gln	2111.0	329.0	True	ClinVar	SPTLC1	NM_006415				SPTC1_HUMAN	p.Arg329Gln	Likely pathogenic(Last reviewed: Oct 28, 2021)	Neuropathy, hereditary sensory and autonomic, type 1A	criteria provided, single submitter	VCV001308661	1308661.0	1298930.0	NC_000009.12:92047266:C:T			R	True
-PF00155	I	Val	1425.0	324.0	True	gnomAD	SPTLC2	['NM_004863']	rs1488039133	ENST00000216484	O15270	SPTC2_HUMAN	p.Ile324Val								1.9716865807e-05	7.5246088913e-06	I	True
-PF00155	I	Val	1425.0	254.0	True	gnomAD	SPTLC1	['NM_001281303', 'NM_006415', 'NM_001368272', 'NM_001368273']	rs1355123398	ENST00000262554	O15269	SPTC1_HUMAN	p.Ile254Val								1.97065044602e-05	3.4214469983e-06	I	True

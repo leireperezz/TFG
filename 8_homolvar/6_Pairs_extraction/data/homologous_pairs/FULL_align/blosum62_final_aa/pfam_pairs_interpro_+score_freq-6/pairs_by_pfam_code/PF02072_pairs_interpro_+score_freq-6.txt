@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02072	Ala	S	33.0	12.0	True	gnomAD	HCRT	['NM_001524']	rs574542591	ENST00000293330	O43612	OREX_HUMAN	p.Ala12Ser								8.53701782266e-05	0.0001544978177183	ST	True
-PF02072	Ala	T	33.0	12.0	True	gnomAD	HCRT	['NM_001524']	rs574542591	ENST00000293330	O43612	OREX_HUMAN	p.Ala12Thr								1.31440588853e-05	3.0756554007e-05	ST	True

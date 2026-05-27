@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-5	PF01585	Gly	Arg	20.0	2323.0	True	gnomAD	SON	['NM_138927']	rs1195189639	ENST00000356577	P18583	SON_HUMAN	p.Gly2323Arg								0.0	6.856669551038991e-07
-6	PF01585	Gly	Arg	20.0	2323.0	True	gnomAD	SON	['NM_138927']		ENST00000356577	P18583	SON_HUMAN	p.Gly2323Arg									6.856575524493745e-07

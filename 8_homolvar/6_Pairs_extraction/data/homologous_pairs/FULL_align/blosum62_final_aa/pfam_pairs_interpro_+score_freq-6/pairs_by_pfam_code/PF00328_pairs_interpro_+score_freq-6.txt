@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00328	Gln	R	1953.0	270.0	True	ClinVar	MINPP1	NM_004897	rs104894171			MINP1_HUMAN	p.Gln270Arg	Pathogenic(Last reviewed: Apr 1, 2001)	Thyroid cancer, nonmedullary, 2	no assertion criteria provided	VCV000005022	5022.0	20061.0	NC_000010.11:87508506:A:G			RK	True
-PF00328	Gln	K	1953.0	270.0	True	gnomAD	MINPP1	['NM_004897']	rs147897043	ENST00000371996	Q9UNW1	MINP1_HUMAN	p.Gln270Lys								0.0003681207436039	0.0004920155255191	RK	True

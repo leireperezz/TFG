@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-9	PF11938	Glu	Asp	133.0	78.0	True	gnomAD	CRELD1	['NM_001077415']	rs372016350	ENST00000452070	Q96HD1	CREL1_HUMAN	p.Glu78Asp								5.25658716078e-05	7.87468432787e-05
-10	PF11938	Glu	Asp	133.0	78.0	True	gnomAD	CRELD1	['NM_001077415']	rs372016350	ENST00000452070	Q96HD1	CREL1_HUMAN	p.Glu78Asp								2.62829358039e-05	1.84883892915e-05

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-8	PF00439	Asn	Ser	83.0	1126.0	True	gnomAD	EP300	['NM_001429']	rs777847755	ENST00000263253	Q09472	EP300_HUMAN	p.Asn1126Ser								5.90946696607e-05	7.18255173489e-05
-9	PF00439	Asn	Ser	83.0	1162.0	True	gnomAD	CREBBP	['NM_004380']	rs148166625	ENST00000262367	Q92793	CBP_HUMAN	p.Asn1162Ser								6.5728933876e-06	2.12058900385e-05
-33	PF00439	Val	Ile	78.0	1157.0	True	gnomAD	CREBBP	['NM_004380']	rs759599590	ENST00000262367	Q92793	CBP_HUMAN	p.Val1157Ile								1.31632639629e-05	1.43652803487e-05
-34	PF00439	Val	Ile	78.0	1529.0	True	gnomAD	SMARCA4	['NM_003072']	rs777829717	ENST00000344626	P51532	SMCA4_HUMAN	p.Val1529Ile								3.28553968274e-05	1.36815188674e-05

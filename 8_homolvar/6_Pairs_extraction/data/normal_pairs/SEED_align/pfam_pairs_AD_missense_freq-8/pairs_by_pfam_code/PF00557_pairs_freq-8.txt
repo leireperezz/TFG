@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-17	PF00557	Asn	Lys	274.0	388.0	True	gnomAD	SUPT16H	['NM_007192']		ENST00000216297	Q9Y5B9	SP16H_HUMAN	p.Asn388Lys									1.2003216862e-06
-18	PF00557	Asn	Lys	274.0	388.0	True	gnomAD	SUPT16H	['NM_007192']		ENST00000216297	Q9Y5B9	SP16H_HUMAN	p.Asn388Lys									2.4006433724e-06
-94	PF00557	Met	Ile	181.0	330.0	True	gnomAD	SUPT16H	['NM_007192']	rs746301647	ENST00000216297	Q9Y5B9	SP16H_HUMAN	p.Met330Ile									4.7716449768e-06
-95	PF00557	Met	Ile	181.0	330.0	True	gnomAD	SUPT16H	['NM_007192']	rs746301647	ENST00000216297	Q9Y5B9	SP16H_HUMAN	p.Met330Ile									1.5905483256e-06

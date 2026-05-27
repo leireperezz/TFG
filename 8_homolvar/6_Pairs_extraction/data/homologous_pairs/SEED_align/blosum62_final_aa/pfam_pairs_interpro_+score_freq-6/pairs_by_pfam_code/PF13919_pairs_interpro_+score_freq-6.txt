@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF13919	Arg	H	69.0	302.0	True	gnomAD	ASXL1	['NM_015338']	rs769717271	ENST00000375687	Q8IXJ9	ASXL1_HUMAN	p.Arg302His								1.97225691933e-05	2.18899210594e-05	H	True
-PF13919	Arg	H	69.0	301.0	True	gnomAD	ASXL3	['NM_030632']	rs768502867	ENST00000269197	Q9C0F0	ASXL3_HUMAN	p.Arg301His								4.6045967031e-05	1.0960105217e-05	H	True
-PF13919	Val	I	58.0	310.0	True	gnomAD	ASXL2	['NM_018263']	rs775234233	ENST00000435504	Q76L83	ASXL2_HUMAN	p.Val310Ile									2.05265469832e-05	I	True
-PF13919	Val	I	58.0	291.0	True	gnomAD	ASXL1	['NM_015338']	rs2123235416	ENST00000375687	Q8IXJ9	ASXL1_HUMAN	p.Val291Ile									1.36809386218e-05	I	True

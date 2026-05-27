@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-53	PF00702	Glu	Asp	88.0	428.0	True	gnomAD	EYA4	['NM_004100']	rs773085937	ENST00000355286	O95677	EYA4_HUMAN	p.Glu428Asp									1.5904471383e-06
-54	PF00702	Glu	Asp	88.0	428.0	True	gnomAD	EYA4	['NM_004100']	rs773085937	ENST00000355286	O95677	EYA4_HUMAN	p.Glu428Asp									1.5904471383e-06
-109	PF00702	Met	Ile	183.0	478.0	True	gnomAD	EYA4	['NM_004100']	rs1187396214	ENST00000355286	O95677	EYA4_HUMAN	p.Met478Ile								6.5702158972e-06	2.46268350412e-05
-110	PF00702	Met	Ile	183.0	478.0	True	gnomAD	EYA4	['NM_004100']	rs1187396214	ENST00000355286	O95677	EYA4_HUMAN	p.Met478Ile									3.420389076e-06

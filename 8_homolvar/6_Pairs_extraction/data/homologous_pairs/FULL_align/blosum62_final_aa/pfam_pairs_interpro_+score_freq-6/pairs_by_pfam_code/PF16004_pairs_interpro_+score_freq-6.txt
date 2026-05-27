@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF16004	Asp	H	162.0	39.0	True	gnomAD	EFTUD2	['NM_004247']	rs779797291	ENST00000426333	Q15029	U5S1_HUMAN	p.Asp39His								6.57004323088e-05	3.18461195503e-05	HY	True
-PF16004	Asp	Y	162.0	39.0	True	gnomAD	EFTUD2	['NM_004247']	rs779797291	ENST00000426333	Q15029	U5S1_HUMAN	p.Asp39Tyr								6.5700432308e-06	1.11461418426e-05	HY	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-62	PF04089	Phe	Leu	225.0	217.0	True	gnomAD	ITM2B	['NM_021999']		ENST00000647800	Q9Y287	ITM2B_HUMAN	p.Phe217Leu									2.737787074e-06
-63	PF04089	Phe	Leu	225.0	217.0	True	gnomAD	ITM2B	['NM_021999']	rs1048587576	ENST00000647800	Q9Y287	ITM2B_HUMAN	p.Phe217Leu								6.5710793654e-06	2.0533403055e-06

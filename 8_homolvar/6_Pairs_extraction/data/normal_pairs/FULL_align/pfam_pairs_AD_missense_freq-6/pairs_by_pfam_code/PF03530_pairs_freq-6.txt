@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-29	PF03530	Val	Leu	290.0	114.0	True	gnomAD	KCNN4	['NM_002250']	rs200491983	ENST00000648319	O15554	KCNN4_HUMAN	p.Val114Leu								6.56874852203e-05	4.85674004507e-05
-30	PF03530	Val	Leu	290.0	114.0	True	gnomAD	KCNN4	['NM_002250']	rs200491983	ENST00000648319	O15554	KCNN4_HUMAN	p.Val114Leu								1.31274942239e-05	2.98342602768e-05

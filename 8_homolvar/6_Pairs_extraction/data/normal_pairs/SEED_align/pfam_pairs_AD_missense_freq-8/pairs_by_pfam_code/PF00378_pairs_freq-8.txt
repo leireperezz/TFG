@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-65	PF00378	Asp	Glu	48.0	42.0	True	gnomAD	EHHADH	['NM_001966']	rs1232343760	ENST00000231887	Q08426	ECHP_HUMAN	p.Asp42Glu									1.3682136602e-06
-66	PF00378	Asp	Glu	48.0	42.0	True	gnomAD	EHHADH	['NM_001966']	rs1232343760	ENST00000231887	Q08426	ECHP_HUMAN	p.Asp42Glu								6.5710793654e-06	6.8410683012e-06

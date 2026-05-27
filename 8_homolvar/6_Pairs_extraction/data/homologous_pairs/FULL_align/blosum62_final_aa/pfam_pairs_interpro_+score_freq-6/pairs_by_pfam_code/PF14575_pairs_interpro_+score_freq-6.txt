@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF14575	Ala	S	318.0	637.0	True	gnomAD	EPHA10	['NM_001099439']	rs759710427	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Ala637Ser								5.25617271783e-05	4.1043040468e-06	ST	True
-PF14575	Ala	T	318.0	637.0	True	gnomAD	EPHA10	['NM_001099439']	rs759710427	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Ala637Thr								0.0002494747899159	9.91873477987e-05	ST	True
-PF14575	Val	L	112.0	550.0	True	gnomAD	EPHA2	['NM_001329090', 'NM_004431']	rs200836253	ENST00000358432	P29317	EPHA2_HUMAN	p.Val550Leu								6.57237499342e-05	8.68765750654e-05	LM	True
-PF14575	Val	M	112.0	582.0	True	gnomAD	EPHA10	['NM_001099439']	rs532043523	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Val582Met								3.93824826717e-05	2.60297506349e-05	LM	True

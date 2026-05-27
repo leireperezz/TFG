@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-88	PF07412	Gly	Arg	76.0	66.0	True	gnomAD	GMNN	['NM_015895']		ENST00000230056	O75496	GEMI_HUMAN	p.Gly66Arg									7.004861373793413e-07
-89	PF07412	Gly	Arg	76.0	66.0	True	gnomAD	GMNN	['NM_015895']	rs1287902452	ENST00000230056	O75496	GEMI_HUMAN	p.Gly66Arg									1.4009722747e-06

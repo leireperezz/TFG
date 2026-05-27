@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-23	PF07885	Gly	Arg	293.0	97.0	True	ClinVar	KCNK3	NM_002246	rs398123040			KCNK3_HUMAN	p.Gly97Arg	Pathogenic(Last reviewed: Jul 25, 2013)	Pulmonary hypertension, primary, 4	no assertion criteria provided	VCV000060480	60480.0	75075.0	NC_000002.12:26727671:G:A		
-24	PF07885	Gly	Arg	293.0	203.0	True	ClinVar	KCNK3	NM_002246				KCNK3_HUMAN	p.Gly203Arg	Pathogenic	Pulmonary hypertension, primary, 4	no assertion criteria provided	VCV002446440	2446440.0	2421570.0	NC_000002.12:26727989:G:C		
-82	PF07885	Val	Met	254.0	117.0	True	gnomAD	KCNK18	['NM_181840']	rs748343807	ENST00000334549	Q7Z418	KCNKI_HUMAN	p.Val117Met								6.5734982843e-06	1.0952527638e-05
-83	PF07885	Val	Met	254.0	213.0	True	gnomAD	KCNK4	['NM_033310']	rs200599852	ENST00000422670	Q9NYG8	KCNK4_HUMAN	p.Val213Met								8.53993404543e-05	0.0001096386037523
-87	PF07885	Val	Met	446.0	541.0	True	gnomAD	KCNN3	['NM_002249']	rs1326148732	ENST00000271915	Q9UGI6	KCNN3_HUMAN	p.Val541Met								1.31404317945e-05	2.0523682276e-06
-88	PF07885	Val	Met	446.0	284.0	True	gnomAD	KCNN4	['NM_002250']	rs202092056	ENST00000648319	O15554	KCNN4_HUMAN	p.Val284Met								2.63026381546e-05	6.1586635973e-06

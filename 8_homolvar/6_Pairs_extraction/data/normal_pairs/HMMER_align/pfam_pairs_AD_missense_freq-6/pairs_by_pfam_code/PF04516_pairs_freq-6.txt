@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-34	PF04516	Glu	Lys	230.0	429.0	True	gnomAD	GRHL2	['NM_024915']	rs750607556	ENST00000646743	Q6ISB3	GRHL2_HUMAN	p.Glu429Lys								6.5728069829e-06	1.23168720619e-05
-35	PF04516	Glu	Lys	230.0	412.0	True	gnomAD	GRHL3	['NM_198173']	rs371427354	ENST00000361548	Q8TE85	GRHL3_HUMAN	p.Glu412Lys								1.97085758583e-05	3.42028144811e-05

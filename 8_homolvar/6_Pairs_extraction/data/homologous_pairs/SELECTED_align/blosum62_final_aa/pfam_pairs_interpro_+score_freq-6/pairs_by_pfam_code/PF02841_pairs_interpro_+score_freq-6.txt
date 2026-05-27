@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02841	Pro	S	69.0	380.0	True	gnomAD	ATL3	['NM_015459']	rs745644667	ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Pro380Ser								6.57211582696e-05	0.0001568897195442	ST	True
-PF02841	Pro	T	69.0	380.0	True	gnomAD	ATL3	['NM_015459']	rs745644667	ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Pro380Thr								1.97316495659e-05	3.425539728e-06	ST	True

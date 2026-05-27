@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-35	PF01504	Asp	Glu	317.0	2081.0	True	gnomAD	PIKFYVE	['NM_015040']	rs746132026	ENST00000264380	Q9Y2I7	FYV1_HUMAN	p.Asp2081Glu									4.1047533043e-06
-36	PF01504	Asp	Glu	317.0	2081.0	True	gnomAD	PIKFYVE	['NM_015040']		ENST00000264380	Q9Y2I7	FYV1_HUMAN	p.Asp2081Glu									1.3682511014e-06
-56	PF01504	Gly	Arg	102.0	1943.0	True	gnomAD	PIKFYVE	['NM_015040']	rs191717036	ENST00000264380	Q9Y2I7	FYV1_HUMAN	p.Gly1943Arg									6.3705020274e-06
-57	PF01504	Gly	Arg	102.0	1943.0	True	gnomAD	PIKFYVE	['NM_015040']	rs191717036	ENST00000264380	Q9Y2I7	FYV1_HUMAN	p.Gly1943Arg								1.31316314738e-05	3.1852510137e-06

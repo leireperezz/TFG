@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-39	PF03134	Ser	Arg	68.0	85.0	True	gnomAD	REEP2	['NM_001271803']	rs1763886452	ENST00000378339	Q9BRK0	REEP2_HUMAN	p.Ser85Arg									1.5904774931e-06
-40	PF03134	Ser	Arg	68.0	85.0	True	gnomAD	REEP2	['NM_001271803']		ENST00000378339	Q9BRK0	REEP2_HUMAN	p.Ser85Arg									6.840684560985387e-07
-61	PF03134	Val	Leu	75.0	92.0	True	gnomAD	REEP2	['NM_001271803']		ENST00000378339	Q9BRK0	REEP2_HUMAN	p.Val92Leu									2.0522587159e-06
-62	PF03134	Val	Leu	75.0	92.0	True	gnomAD	REEP2	['NM_001271803']		ENST00000378339	Q9BRK0	REEP2_HUMAN	p.Val92Leu									6.840862386475889e-07

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-65	PF15898	Met	Ile	75.0	1003.0	True	gnomAD	PPP1R12A	['NM_002480']		ENST00000450142	O14974	MYPT1_HUMAN	p.Met1003Ile									7.008464823814203e-07
-66	PF15898	Met	Ile	75.0	1003.0	True	gnomAD	PPP1R12A	['NM_002480']		ENST00000450142	O14974	MYPT1_HUMAN	p.Met1003Ile									7.008464823814203e-07

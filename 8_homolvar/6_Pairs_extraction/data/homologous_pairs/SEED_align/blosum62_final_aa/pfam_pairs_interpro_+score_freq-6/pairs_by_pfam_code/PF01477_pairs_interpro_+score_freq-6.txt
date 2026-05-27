@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01477	Phe	L	7.0	360.0	True	gnomAD	LIPC	['NM_000236']	rs761590587	ENST00000299022	P11150	LIPC_HUMAN	p.Phe360Leu								0.0001642834612553	1.92771084337e-05	LV	True
-PF01477	Phe	V	7.0	360.0	True	gnomAD	LIPC	['NM_000236']	rs776792209	ENST00000299022	P11150	LIPC_HUMAN	p.Phe360Val								1.31428496326e-05	2.4443980914e-06	LV	True
-PF01477	Val	L	84.0	3179.0	True	gnomAD	PKD1	['NM_001009944']	rs141487504	ENST00000262304	P98161	PKD1_HUMAN	p.Val3179Leu								7.88301604193e-05	2.7419158039e-06	LM	True
-PF01477	Val	M	84.0	3179.0	True	gnomAD	PKD1	['NM_001009944']	rs141487504	ENST00000262304	P98161	PKD1_HUMAN	p.Val3179Met									1.78224771598e-05	LM	True

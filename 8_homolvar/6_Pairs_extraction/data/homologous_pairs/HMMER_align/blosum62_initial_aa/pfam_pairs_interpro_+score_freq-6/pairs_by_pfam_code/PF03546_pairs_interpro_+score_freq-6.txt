@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF03546	S	Leu	62.0	440.0	True	gnomAD	TCOF1	['NM_001371623']	rs768338173	ENST00000643257	Q13428	TCOF_HUMAN	p.Ser440Leu								6.5750542441e-06	1.64183168215e-05	S	True
-PF03546	S	Leu	62.0	304.0	True	gnomAD	TCOF1	['NM_001371623']	rs144193760	ENST00000643257	Q13428	TCOF_HUMAN	p.Ser304Leu								0.0001575444078299	0.0001889862122232	S	True

@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF04382	R	Gln	78.0	528.0	True	gnomAD	EPB41L1	['NM_012156']	rs759516636	ENST00000338074	Q9H4G0	E41L1_HUMAN	p.Arg528Gln								1.31473422647e-05	6.8405161032e-06	R	True
-PF04382	R	Gln	78.0	700.0	True	gnomAD	EPB41	['NM_001166005', 'NM_001376013']	rs142267469	ENST00000343067	P11171	EPB41_HUMAN	p.Arg700Gln								0.0001641734196666	0.0001457043883699	R	True
-PF04382	R	Trp	78.0	528.0	True	gnomAD	EPB41L1	['NM_012156']	rs200873928	ENST00000338074	Q9H4G0	E41L1_HUMAN	p.Arg528Trp								3.93943771092e-05	1.36810696407e-05	R	True
-PF04382	R	Trp	78.0	700.0	True	gnomAD	EPB41	['NM_001166005', 'NM_001376013']	rs777520843	ENST00000343067	P11171	EPB41_HUMAN	p.Arg700Trp									1.16290364727e-05	R	True

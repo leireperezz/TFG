@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-74	PF04326	Trp	Arg	63.0	259.0	True	gnomAD	SLFN14	['NM_001129820']	rs1390267753	ENST00000674182	P0C7P3	SLN14_HUMAN	p.Trp259Arg								1.31447499868e-05	1.286269219e-05
-75	PF04326	Trp	Arg	63.0	259.0	True	gnomAD	SLFN14	['NM_001129820']		ENST00000674182	P0C7P3	SLN14_HUMAN	p.Trp259Arg									7.145940105588411e-07

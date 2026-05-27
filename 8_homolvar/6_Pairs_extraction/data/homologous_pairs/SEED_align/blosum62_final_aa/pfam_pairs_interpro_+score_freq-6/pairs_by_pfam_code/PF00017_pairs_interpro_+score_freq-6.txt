@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00017	Ile	V	103.0	423.0	True	gnomAD	RASA1	['NM_002890']	rs749848937	ENST00000274376	P20936	RASA1_HUMAN	p.Ile423Val								1.31511461223e-05	1.02896184609e-05	V	True
-PF00017	Ile	V	103.0	614.0	True	gnomAD	PLCG2	['NM_002661']	rs747542285	ENST00000564138	P16885	PLCG2_HUMAN	p.Ile614Val								1.31387053119e-05	3.4205762713e-06	V	True
-PF00017	Thr	M	14.0	189.0	True	gnomAD	RASA1	['NM_002890']	rs986802785	ENST00000274376	P20936	RASA1_HUMAN	p.Thr189Met								2.62991794656e-05	3.42562421724e-05	M	True
-PF00017	Thr	M	14.0	541.0	True	gnomAD	PLCG2	['NM_002661']	rs767040629	ENST00000564138	P16885	PLCG2_HUMAN	p.Thr541Met								1.31463052309e-05	2.0523345305e-06	M	True

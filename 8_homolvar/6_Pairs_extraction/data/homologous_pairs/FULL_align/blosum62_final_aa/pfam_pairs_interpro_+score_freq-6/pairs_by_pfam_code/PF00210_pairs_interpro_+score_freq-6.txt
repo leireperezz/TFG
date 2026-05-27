@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00210	His	R	515.0	137.0	True	gnomAD	FTH1	['NM_002032']	rs767112958	ENST00000273550	P02794	FRIH_HUMAN	p.His137Arg								0.000111690734925	1.03220194824e-05	RQ	True
-PF00210	His	Q	515.0	133.0	True	gnomAD	FTL	['NM_000146']	rs762943867	ENST00000331825	P02792	FRIL_HUMAN	p.His133Gln								1.9711942809e-05	6.84070327902271e-07	RQ	True

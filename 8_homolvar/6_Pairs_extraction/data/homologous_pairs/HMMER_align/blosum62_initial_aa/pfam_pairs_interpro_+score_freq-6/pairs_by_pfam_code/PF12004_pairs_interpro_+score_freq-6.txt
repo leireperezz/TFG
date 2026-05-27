@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF12004	G	Arg	437.0	1127.0	True	gnomAD	SYNGAP1	['NM_006772']	rs893995495	ENST00000646630	Q96PV0	SYGP1_HUMAN	p.Gly1127Arg								1.31508002261e-05		G	True
-PF12004	G	Arg	437.0	1127.0	True	gnomAD	SYNGAP1	['NM_006772']	rs893995495	ENST00000646630	Q96PV0	SYGP1_HUMAN	p.Gly1127Arg								1.97262003392e-05	9.6788411597e-06	G	True

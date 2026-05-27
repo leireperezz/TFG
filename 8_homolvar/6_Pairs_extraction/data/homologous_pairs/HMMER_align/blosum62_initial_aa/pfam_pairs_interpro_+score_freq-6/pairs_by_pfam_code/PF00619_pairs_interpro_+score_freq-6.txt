@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00619	R	Gln	11.0	459.0	True	gnomAD	CARD8	['NM_001184900']	rs141801097	ENST00000651546	Q9Y2G2	CARD8_HUMAN	p.Arg459Gln								3.94539572319e-05	2.3259313987e-05	R	True
-PF00619	R	Gln	11.0	9.0	True	gnomAD	NLRC4	['NM_001199138']	rs374574191	ENST00000402280	Q9NPP4	NLRC4_HUMAN	p.Arg9Gln								0.000144599852771	1.84816566135e-05	R	True

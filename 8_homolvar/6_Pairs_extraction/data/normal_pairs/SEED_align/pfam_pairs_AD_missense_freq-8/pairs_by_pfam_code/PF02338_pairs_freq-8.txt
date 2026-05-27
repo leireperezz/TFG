@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-97	PF02338	Met	Ile	8.0	105.0	True	gnomAD	TNFAIP3	['NM_001270508', 'NM_001270507', 'NM_006290']	rs2114477377	ENST00000612899	P21580	TNAP3_HUMAN	p.Met105Ile									6.842023158879988e-07
-98	PF02338	Met	Ile	8.0	105.0	True	gnomAD	TNFAIP3	['NM_001270508', 'NM_001270507', 'NM_006290']		ENST00000612899	P21580	TNAP3_HUMAN	p.Met105Ile									6.842023158879988e-07

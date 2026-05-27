@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF13771	Pro	L	68.0	1881.0	True	gnomAD	RAI1	['NM_030665']	rs755875722	ENST00000353383	Q7Z5J4	RAI1_HUMAN	p.Pro1881Leu								2.62784464182e-05	5.13311888303e-05	L	True
-PF13771	Pro	L	68.0	1911.0	True	gnomAD	TCF20	['NM_001378418']	rs185777730	ENST00000677622	Q9UGU0	TCF20_HUMAN	p.Pro1911Leu								0.0002035589992776	5.13077314594e-05	L	True
-PF13771	Val	L	35.0	277.0	True	gnomAD	KMT2C	['NM_170606']	rs753990249	ENST00000262189	Q8NEZ4	KMT2C_HUMAN	p.Val277Leu								3.28579877768e-05	1.43963408614e-05	L	True
-PF13771	Val	L	35.0	1633.0	True	gnomAD	KMT2B	['NM_014727']	rs1325178700	ENST00000420124	Q9UMN6	KMT2B_HUMAN	p.Val1633Leu								1.31385326886e-05	1.626259538e-06	L	True

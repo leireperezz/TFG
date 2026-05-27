@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00258	Asn	S	85.0	837.0	True	gnomAD	NOS1	['NM_000620', 'NM_001204214', 'NM_001204213']	rs77828469	ENST00000317775	P29475	NOS1_HUMAN	p.Asn837Ser								1.31554713605e-05	2.7362476194e-06	ST	True
-PF00258	Asn	T	85.0	837.0	True	gnomAD	NOS1	['NM_000620', 'NM_001204214', 'NM_001204213']	rs77828469	ENST00000317775	P29475	NOS1_HUMAN	p.Asn837Thr								1.31556444292e-05	2.0521857145e-06	ST	True

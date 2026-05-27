@@ -1,9 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-9	PF06733	Ala	Val	219.0	406.0	True	gnomAD	BRIP1	['NM_032043']	rs767872861	ENST00000259008	Q9BX63	FANCJ_HUMAN	p.Ala406Val	Likely benign								2.7371988054e-06
-10	PF06733	Ala	Val	219.0	263.0	True	gnomAD	RTEL1	['NM_001283009']	rs746748836	ENST00000360203	Q9NZ71	RTEL1_HUMAN	p.Ala263Val									3.1884501581e-06
-36	PF06733	Asp	Asn	172.0	220.0	True	gnomAD	RTEL1	['NM_001283009']	rs776356655	ENST00000360203	Q9NZ71	RTEL1_HUMAN	p.Asp220Asn	Likely benign							1.31450955648e-05	3.62593983676e-05
-37	PF06733	Asp	Asn	172.0	363.0	True	gnomAD	BRIP1	['NM_032043']	rs2145334012	ENST00000259008	Q9BX63	FANCJ_HUMAN	p.Asp363Asn	Likely benign								1.5906748278e-06
-48	PF06733	Gln	His	8.0	255.0	True	ClinVar	BRIP1	NM_032043	rs2078111971			FANCJ_HUMAN	p.Gln255His	Pathogenic(Last reviewed: Feb 7, 2011)	Fanconi anemia complementation group J	no assertion criteria provided	VCV000929523	929523.0	917865.0	NC_000017.11:61808619:C:A		
-49	PF06733	Gln	His	8.0	255.0	True	ClinVar	BRIP1	NM_032043				FANCJ_HUMAN	p.Gln255His	Likely pathogenic(Last reviewed: May 31, 2023)	Familial cancer of breast	criteria provided, single submitter	VCV002583462	2583462.0	2751033.0	NC_000017.11:61808619:C:G		
-81	PF06733	Ile	Val	174.0	222.0	True	gnomAD	RTEL1	['NM_001283009']	rs1235107432	ENST00000360203	Q9NZ71	RTEL1_HUMAN	p.Ile222Val	Likely benign								4.1046971417e-06
-82	PF06733	Ile	Val	174.0	365.0	True	gnomAD	BRIP1	['NM_032043']	rs749251680	ENST00000259008	Q9BX63	FANCJ_HUMAN	p.Ile365Val	Likely benign								4.7720244836e-06

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00018	Met	L	39.0	105.0	True	gnomAD	HCK	['NM_002110']	rs55722810	ENST00000375852	P08631	HCK_HUMAN	p.Met105Leu								0.0153853225467535	0.0201520020373767	LV	True
-PF00018	Met	V	39.0	105.0	True	gnomAD	HCK	['NM_002110']	rs55722810	ENST00000375852	P08631	HCK_HUMAN	p.Met105Val								0.0001313266619389	1.07290458158e-05	LV	True

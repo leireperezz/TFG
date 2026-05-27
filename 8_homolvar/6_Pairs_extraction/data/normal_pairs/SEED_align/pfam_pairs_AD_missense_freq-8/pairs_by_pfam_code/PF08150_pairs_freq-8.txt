@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-18	PF08150	Asn	Lys	37.0	804.0	True	gnomAD	MYOF	['NM_013451']	rs569246757	ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Asn804Lys									1.2003332124e-06
-19	PF08150	Asn	Lys	37.0	804.0	True	gnomAD	MYOF	['NM_013451']		ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Asn804Lys									2.4006664249e-06
-75	PF08150	Lys	Asn	65.0	829.0	True	gnomAD	MYOF	['NM_013451']	rs779524437	ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Lys829Asn									3.4203048449e-06
-76	PF08150	Lys	Asn	65.0	829.0	True	gnomAD	MYOF	['NM_013451']		ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Lys829Asn									6.840609689860438e-07
-80	PF08150	Met	Ile	5.0	772.0	True	gnomAD	MYOF	['NM_013451']		ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Met772Ile									3.1808639226e-06
-81	PF08150	Met	Ile	5.0	772.0	True	gnomAD	MYOF	['NM_013451']	rs763272939	ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Met772Ile									1.5904319613e-06

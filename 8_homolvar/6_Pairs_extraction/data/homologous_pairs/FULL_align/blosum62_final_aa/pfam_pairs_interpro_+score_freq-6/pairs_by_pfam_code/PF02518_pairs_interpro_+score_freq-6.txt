@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02518	Ile	M	256.0	126.0	True	gnomAD	TOP2B	['NM_001330700']	rs1434764984	ENST00000264331	Q02880	TOP2B_HUMAN	p.Ile126Met									1.24015845681e-05	MV	True
-PF02518	Ile	V	256.0	126.0	True	gnomAD	TOP2B	['NM_001330700']	rs767342178	ENST00000264331	Q02880	TOP2B_HUMAN	p.Ile126Val								2.62933017813e-05	4.01436569437e-05	MV	True
-PF02518	Ser	F	507.0	134.0	True	gnomAD	TOP2B	['NM_001330700']		ENST00000264331	Q02880	TOP2B_HUMAN	p.Ser134Phe								0.0	6.1550365785e-05	FY	True
-PF02518	Ser	Y	507.0	134.0	True	gnomAD	TOP2B	['NM_001330700']	rs1703158756	ENST00000264331	Q02880	TOP2B_HUMAN	p.Ser134Tyr								0.0	0.0001144084204597	FY	True

@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-24	PF00581	Asn	Lys	129.0	106.0	True	gnomAD	DUSP6	['NM_001946']		ENST00000279488	Q16828	DUS6_HUMAN	p.Asn106Lys									1.3755706898e-06
-25	PF00581	Asn	Lys	129.0	106.0	True	gnomAD	DUSP6	['NM_001946']		ENST00000279488	Q16828	DUS6_HUMAN	p.Asn106Lys									1.3755706898e-06
-114	PF00581	Phe	Leu	97.0	77.0	True	gnomAD	DUSP6	['NM_001946']		ENST00000279488	Q16828	DUS6_HUMAN	p.Phe77Leu									1.3709973731e-06
-115	PF00581	Phe	Leu	97.0	77.0	True	gnomAD	DUSP6	['NM_001946']		ENST00000279488	Q16828	DUS6_HUMAN	p.Phe77Leu									1.5985727942e-06
-146	PF00581	Val	Leu	93.0	73.0	True	gnomAD	DUSP6	['NM_001946']	rs746895147	ENST00000279488	Q16828	DUS6_HUMAN	p.Val73Leu									6.853990804685936e-07
-147	PF00581	Val	Leu	93.0	73.0	True	gnomAD	DUSP6	['NM_001946']	rs746895147	ENST00000279488	Q16828	DUS6_HUMAN	p.Val73Leu									6.853990804685936e-07

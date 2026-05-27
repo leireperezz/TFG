@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF18720	Arg	Q	29.0	446.0	True	gnomAD	TNC	['NM_002160']	rs139025891	ENST00000350763	P24821	TENA_HUMAN	p.Arg446Gln								0.0001183291918116	6.49884594177e-05	Q	True
-PF18720	Arg	Q	29.0	197.0	True	gnomAD	TNC	['NM_002160']	rs144220097	ENST00000350763	P24821	TENA_HUMAN	p.Arg197Gln								0.0002100288789708	0.0001388620969407	Q	True
-PF18720	Val	I	40.0	605.0	True	gnomAD	TNC	['NM_002160']	rs3827816	ENST00000350763	P24821	TENA_HUMAN	p.Val605Ile								0.0251148746225548	0.0176521165288871	IM	True
-PF18720	Val	M	40.0	295.0	True	gnomAD	TNC	['NM_002160']	rs764927501	ENST00000350763	P24821	TENA_HUMAN	p.Val295Met								0.0002300119606219	2.80465380995e-05	IM	True

@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-52	PF04812	Gln	His	9.0	322.0	True	gnomAD	HNF1B	['NM_000458']		ENST00000617811	P35680	HNF1B_HUMAN	p.Gln322His									1.5903914907e-06
-53	PF04812	Gln	His	9.0	322.0	True	gnomAD	HNF1B	['NM_000458']	rs1270401103	ENST00000617811	P35680	HNF1B_HUMAN	p.Gln322His								6.5741897311e-06	
-165	PF04812	Pro	Arg	101.0	379.0	True	ClinVar	HNF1A	NM_000545				HNF1A_HUMAN	p.Pro379Arg	Pathogenic(Last reviewed: Aug 14, 2023)	Monogenic diabetes	reviewed by expert panel	VCV001675516	1675516.0	1666900.0	NC_000012.12:120996568:C:G		
-166	PF04812	Pro	Arg	101.0	412.0	True	gnomAD	HNF1B	['NM_000458']		ENST00000617811	P35680	HNF1B_HUMAN	p.Pro412Arg									1.2004542518e-06
-186	PF04812	Pro	Ser	101.0	379.0	True	ClinVar	HNF1A	NM_000545				HNF1A_HUMAN	p.Pro379Ser	Likely pathogenic(Last reviewed: Jun 20, 2022)	not provided	criteria provided, single submitter	VCV002052397	2052397.0	2115444.0	NC_000012.12:120996567:C:T		
-187	PF04812	Pro	Ser	101.0	412.0	True	gnomAD	HNF1B	['NM_000458']		ENST00000617811	P35680	HNF1B_HUMAN	p.Pro412Ser									1.5904774931e-06

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-90	PF16496	Phe	Leu	56.0	87.0	True	gnomAD	SMARCC1	['NM_003074']	rs749184048	ENST00000254480	Q92922	SMRC1_HUMAN	p.Phe87Leu									1.5911405295e-06
-91	PF16496	Phe	Leu	56.0	87.0	True	gnomAD	SMARCC1	['NM_003074']		ENST00000254480	Q92922	SMRC1_HUMAN	p.Phe87Leu									1.5911405295e-06

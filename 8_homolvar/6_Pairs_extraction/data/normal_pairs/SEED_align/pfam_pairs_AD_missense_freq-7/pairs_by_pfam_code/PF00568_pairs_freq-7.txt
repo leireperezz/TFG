@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-87	PF00568	Lys	Arg	93.0	69.0	True	gnomAD	HOMER2	['NM_004839']		ENST00000450735	Q9NSB8	HOME2_HUMAN	p.Lys69Arg									1.3683035225e-06
-88	PF00568	Lys	Arg	93.0	84.0	True	gnomAD	SPRED1	['NM_152594']		ENST00000299084	Q7Z699	SPRE1_HUMAN	p.Lys84Arg									1.591135466e-06

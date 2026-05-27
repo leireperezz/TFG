@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02037	Ala	S	16.0	26.0	True	gnomAD	SF3B2	['NM_006842']	rs11554199	ENST00000322535	Q13435	SF3B2_HUMAN	p.Ala26Ser								0.0061505540093472	0.0079632719145657	ST	True
-PF02037	Ala	T	16.0	26.0	True	gnomAD	SF3B2	['NM_006842']	rs11554199	ENST00000322535	Q13435	SF3B2_HUMAN	p.Ala26Thr								1.31378422407e-05	2.7371688367e-06	ST	True
-PF02037	Met	L	54.0	35.0	True	gnomAD	HNRNPU	['NM_031844']	rs1260819558	ENST00000640218	Q00839	HNRPU_HUMAN	p.Met35Leu								3.9415598066e-05	6.852825968372838e-07	LV	True
-PF02037	Met	V	54.0	398.0	True	gnomAD	MYOCD	['NM_001378306', 'NM_001146312']	rs747791727	ENST00000425538	Q8IZQ8	MYCD_HUMAN	p.Met398Val								6.5701295629e-06	1.36818370876e-05	LV	True

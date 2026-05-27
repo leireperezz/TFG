@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF17725	C	Ser	201.0	405.0	True	gnomAD	TEAD1	['NM_021961']	rs201062262	ENST00000527636	P28347	TEAD1_HUMAN	p.Cys405Ser								1.97179025409e-05	3.0223398637e-05	C	True
-PF17725	C	Ser	201.0	405.0	True	gnomAD	TEAD1	['NM_021961']	rs775912290	ENST00000527636	P28347	TEAD1_HUMAN	p.Cys405Ser								3.28454686391e-05	4.788839541e-06	C	True

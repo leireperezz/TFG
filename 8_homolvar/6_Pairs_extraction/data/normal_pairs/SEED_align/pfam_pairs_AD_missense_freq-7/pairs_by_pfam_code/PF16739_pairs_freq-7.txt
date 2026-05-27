@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-71	PF16739	Met	Ile	172.0	95.0	True	gnomAD	IFIH1	['NM_022168']	rs748006043	ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Met95Ile								6.5719430606e-06	6.1564560702e-06
-72	PF16739	Met	Ile	172.0	95.0	True	gnomAD	IFIH1	['NM_022168']	rs748006043	ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Met95Ile									2.7362026978e-06
-85	PF16739	Ser	Arg	128.0	64.0	True	gnomAD	IFIH1	['NM_022168']	rs752429833	ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Ser64Arg								1.31411225146e-05	
-86	PF16739	Ser	Arg	128.0	64.0	True	gnomAD	IFIH1	['NM_022168']		ENST00000649979	Q9BYX4	IFIH1_HUMAN	p.Ser64Arg									2.4006491355e-06

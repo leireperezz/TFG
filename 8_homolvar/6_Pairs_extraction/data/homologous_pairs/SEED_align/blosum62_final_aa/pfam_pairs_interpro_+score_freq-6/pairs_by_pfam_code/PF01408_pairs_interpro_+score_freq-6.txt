@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01408	Val	L	35.0	43.0	True	gnomAD	BLVRA	['NM_000712']	rs183114141	ENST00000265523	P53004	BIEA_HUMAN	p.Val43Leu								1.3141295206e-05	4.1042815865e-06	LM	True
-PF01408	Val	M	35.0	43.0	True	gnomAD	BLVRA	['NM_000712']	rs183114141	ENST00000265523	P53004	BIEA_HUMAN	p.Val43Met								0.0001247455846628	3.14661588302e-05	LM	True

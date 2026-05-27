@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF15362	Pro	S	44.0	256.0	True	gnomAD	ENAM	['NM_031889']	rs140279358	ENST00000396073	Q9NRM1	ENAM_HUMAN	p.Pro256Ser								1.97163474809e-05	0.0001231292898586	ST	True
-PF15362	Pro	T	44.0	256.0	True	gnomAD	ENAM	['NM_031889']	rs140279358	ENST00000396073	Q9NRM1	ENAM_HUMAN	p.Pro256Thr								0.0001051538532315	9.43991222249e-05	ST	True

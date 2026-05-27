@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00134	N	Ser	181.0	129.0	True	gnomAD	CCND2	['NM_001759']	rs777749450	ENST00000261254	P30279	CCND2_HUMAN	p.Asn129Ser								6.5930008702e-06	1.02632875362e-05	N	True
-PF00134	N	Ser	181.0	130.0	True	gnomAD	CCND1	['NM_053056']	rs1131439	ENST00000227507	P24385	CCND1_HUMAN	p.Asn130Ser								1.32402981715e-05	2.0805275108e-06	N	True

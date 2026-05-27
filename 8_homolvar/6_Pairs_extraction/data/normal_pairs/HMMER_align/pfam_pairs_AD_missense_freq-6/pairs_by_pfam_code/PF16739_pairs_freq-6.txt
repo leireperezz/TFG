@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-62	PF16739	Met	Val	54.0	51.0	True	gnomAD	DDX58	['NM_001385913', 'NM_001385907', 'NM_001385909', 'NM_014314']	rs201116858	ENST00000379883	O95786	RIGI_HUMAN	p.Met51Val								8.53533629224e-05	9.64523327099e-05
-63	PF16739	Met	Val	54.0	149.0	True	gnomAD	DDX58	['NM_001385913', 'NM_001385907', 'NM_001385909', 'NM_014314']	rs576017922	ENST00000379883	O95786	RIGI_HUMAN	p.Met149Val								1.96925339039e-05	1.16289410139e-05

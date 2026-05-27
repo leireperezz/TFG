@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-109	PF04153	Pro	Ser	26.0	418.0	True	gnomAD	CNOT2	['NM_014515', 'NM_001199303']	rs2136068010	ENST00000229195	Q9NZN8	CNOT2_HUMAN	p.Pro418Ser								6.5694389699e-06	
-110	PF04153	Pro	Ser	26.0	642.0	True	gnomAD	CNOT3	['NM_014516']	rs1352326205	ENST00000221232	O75175	CNOT3_HUMAN	p.Pro642Ser								1.31475151196e-05	3.6904345412e-06

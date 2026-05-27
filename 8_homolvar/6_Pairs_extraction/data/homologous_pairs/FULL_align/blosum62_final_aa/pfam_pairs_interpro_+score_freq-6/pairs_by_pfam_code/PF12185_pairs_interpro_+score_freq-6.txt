@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF12185	Lys	Q	20.0	2645.0	True	gnomAD	RANBP2	['NM_006267']	rs1006200808	ENST00000283195	P49792	RBP2_HUMAN	p.Lys2645Gln								6.5693526559e-06	1.77869479376e-05	QE	True
-PF12185	Lys	E	20.0	2723.0	True	gnomAD	RANBP2	['NM_006267']	rs1447116616	ENST00000283195	P49792	RBP2_HUMAN	p.Lys2723Glu								1.31395684965e-05	3.1813192931e-06	QE	True

@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00525	Arg	C	14.0	12.0	True	ClinVar	CRYAA	NM_000394	rs397515624			CRYAA_HUMAN	p.Arg12Cys	Pathogenic/Likely pathogenic(Last reviewed: Sep 29, 2021)	Cataract 9 multiple types|Abnormality of the eye	criteria provided, multiple submitters, no conflicts	VCV000068459	68459.0	79351.0	NC_000021.9:43169132:C:T			C	True
-PF00525	Arg	C	14.0	12.0	True	gnomAD	CRYAB	['NM_001289808']	rs375933774	ENST00000650687	P02511	CRYAB_HUMAN	p.Arg12Cys								3.94238856181e-05	7.6008844665e-06	C	True
-PF00525	Gly	A	34.0	29.0	True	gnomAD	CRYAB	['NM_001289808']	rs1965460969	ENST00000650687	P02511	CRYAB_HUMAN	p.Gly29Ala									1.37041681227e-05	AS	True
-PF00525	Gly	S	34.0	28.0	True	gnomAD	CRYAA	['NM_000394']	rs368931928	ENST00000291554	P02489	CRYAA_HUMAN	p.Gly28Ser								6.15505822685e-05	2.69585377689e-05	AS	True
-PF00525	Pro	A	44.0	39.0	True	gnomAD	CRYAB	['NM_001289808']	rs145768025	ENST00000650687	P02511	CRYAB_HUMAN	p.Pro39Ala								3.28705164615e-05	5.81851437583e-05	AS	True
-PF00525	Pro	S	44.0	39.0	True	gnomAD	CRYAB	['NM_001289808']	rs145768025	ENST00000650687	P02511	CRYAB_HUMAN	p.Pro39Ser								6.5741032923e-06	1.50596842668e-05	AS	True

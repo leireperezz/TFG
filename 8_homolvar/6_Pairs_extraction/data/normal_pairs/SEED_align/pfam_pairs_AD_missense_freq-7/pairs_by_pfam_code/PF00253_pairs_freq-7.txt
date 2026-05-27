@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-32	PF00253	Lys	Asn	46.0	48.0	True	gnomAD	RPS29	['NM_001032']	rs1425542937	ENST00000245458	P62273	RS29_HUMAN	p.Lys48Asn									1.59115572e-06
-33	PF00253	Lys	Asn	46.0	48.0	True	gnomAD	RPS29	['NM_001032']	rs1425542937	ENST00000245458	P62273	RS29_HUMAN	p.Lys48Asn									3.18231144e-06

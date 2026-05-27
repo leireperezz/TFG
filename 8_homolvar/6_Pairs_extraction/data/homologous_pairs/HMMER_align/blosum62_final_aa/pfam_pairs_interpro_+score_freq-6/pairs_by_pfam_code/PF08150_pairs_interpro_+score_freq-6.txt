@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF08150	Pro	S	67.0	831.0	True	gnomAD	MYOF	['NM_013451']	rs377167806	ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Pro831Ser								0.0001773305836146	1.71014306372e-05	ST	True
-PF08150	Pro	T	67.0	831.0	True	gnomAD	MYOF	['NM_013451']	rs377167806	ENST00000359263	Q9NZM1	MYOF_HUMAN	p.Pro831Thr								1.31457867753e-05	2.39420028921e-05	ST	True

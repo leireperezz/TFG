@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-34	PF02874	Gly	Asp	47.0	91.0	True	gnomAD	ATP6V1B2	['NM_001693']	rs749178277	ENST00000276390	P21281	VATB2_HUMAN	p.Gly91Asp									1.5907912277e-06
-35	PF02874	Gly	Asp	47.0	59.0	True	gnomAD	ATP6V1A	['NM_001690']	rs1379328654	ENST00000273398	P38606	VATA_HUMAN	p.Gly59Asp									6.842453868176021e-07
-36	PF02874	Gly	Asp	60.0	72.0	True	ClinVar	ATP6V1A	NM_001690	rs1060505037			VATA_HUMAN	p.Gly72Asp	Pathogenic(Last reviewed: Mar 27, 2017)	Autosomal recessive cutis laxa type 2D	no assertion criteria provided	VCV000417773	417773.0	404674.0	NC_000003.12:113784226:G:A		
-37	PF02874	Gly	Asp	60.0	104.0	True	gnomAD	ATP6V1B2	['NM_001693']		ENST00000276390	P21281	VATB2_HUMAN	p.Gly104Asp									1.2005234282e-06

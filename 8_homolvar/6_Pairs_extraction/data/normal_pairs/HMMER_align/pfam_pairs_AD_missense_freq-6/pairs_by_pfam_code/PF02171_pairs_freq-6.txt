@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-2	PF02171	Arg	His	272.0	773.0	True	gnomAD	AGO2	['NM_012154']	rs1201563583	ENST00000220592	Q9UKV8	AGO2_HUMAN	p.Arg773His								2.62694722463e-05	4.7883285176e-06
-3	PF02171	Arg	His	272.0	771.0	True	gnomAD	AGO1	['NM_012199']	rs371456175	ENST00000373204	Q9UL18	AGO1_HUMAN	p.Arg771His								1.31511461223e-05	5.4723829354e-06

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01294	Leu	R	103.0	110.0	True	gnomAD	RPL13	['NM_000977']	rs147112593	ENST00000311528	P26373	RL13_HUMAN	p.Leu110Arg								1.97090937758e-05	2.7367643235e-06	RQ	True
-PF01294	Leu	Q	103.0	110.0	True	gnomAD	RPL13	['NM_000977']	rs147112593	ENST00000311528	P26373	RL13_HUMAN	p.Leu110Gln								6.5696979252e-06	1.64205859412e-05	RQ	True

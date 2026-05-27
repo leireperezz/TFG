@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-33	PF17958	Phe	Leu	60.0	226.0	True	gnomAD	PPP2R3C	['NM_001305156', 'NM_001305155', 'NM_017917']	rs927051992	ENST00000261475	Q969Q6	P2R3C_HUMAN	p.Phe226Leu									1.6411899283e-06
-34	PF17958	Phe	Leu	60.0	226.0	True	gnomAD	PPP2R3C	['NM_001305156', 'NM_001305155', 'NM_017917']	rs768914854	ENST00000261475	Q969Q6	P2R3C_HUMAN	p.Phe226Leu								0.0001315080022619	0.0001636899601179

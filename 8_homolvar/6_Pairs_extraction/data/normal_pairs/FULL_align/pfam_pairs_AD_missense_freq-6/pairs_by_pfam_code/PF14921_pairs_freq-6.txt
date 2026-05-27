@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-16	PF14921	Arg	Gln	199.0	344.0	True	gnomAD	APCDD1	['NM_153000']	rs754691351	ENST00000355285	Q8J025	APCD1_HUMAN	p.Arg344Gln								3.94011032308e-05	7.52519572349e-05
-17	PF14921	Arg	Gln	199.0	125.0	True	gnomAD	APCDD1	['NM_153000']	rs186616216	ENST00000355285	Q8J025	APCD1_HUMAN	p.Arg125Gln								0.0001576582494679	1.77857068587e-05

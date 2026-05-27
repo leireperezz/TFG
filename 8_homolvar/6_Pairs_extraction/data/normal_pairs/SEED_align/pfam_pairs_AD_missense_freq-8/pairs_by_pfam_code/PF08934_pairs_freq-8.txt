@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-89	PF08934	Met	Ile	141.0	904.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs1461167778	ENST00000267163	P06400	RB_HUMAN	p.Met904Ile								6.5730662039e-06	
-90	PF08934	Met	Ile	141.0	904.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs1461167778	ENST00000267163	P06400	RB_HUMAN	p.Met904Ile								1.31461324078e-05	0.0
-91	PF08934	Met	Ile	141.0	904.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs1461167778	ENST00000267163	P06400	RB_HUMAN	p.Met904Ile									1.5942708283e-06
-98	PF08934	Phe	Leu	74.0	839.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']		ENST00000267163	P06400	RB_HUMAN	p.Phe839Leu									7.074617404690754e-07
-99	PF08934	Phe	Leu	74.0	839.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']	rs759188465	ENST00000267163	P06400	RB_HUMAN	p.Phe839Leu								6.5788608044e-06	
-100	PF08934	Phe	Leu	74.0	839.0	True	gnomAD	RB1	['NM_001407165', 'NM_000321']		ENST00000267163	P06400	RB_HUMAN	p.Phe839Leu									7.091434114903925e-07

@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00784	R	Gln	47.0	1190.0	True	gnomAD	MYO7A	['NM_000260']	rs200870793	ENST00000409709	Q13402	MYO7A_HUMAN	p.Arg1190Gln								2.62867357131e-05	5.81566397777e-05	R	True
-PF00784	R	Gln	47.0	1832.0	True	gnomAD	MYO7A	['NM_000260']	rs372768607	ENST00000409709	Q13402	MYO7A_HUMAN	p.Arg1832Gln								0.000249514104113	4.20834683511e-05	R	True
-PF00784	R	Trp	47.0	1190.0	True	gnomAD	MYO7A	['NM_000260']	rs782011801	ENST00000409709	Q13402	MYO7A_HUMAN	p.Arg1190Trp								3.28536697549e-05	2.1209778392e-05	R	True
-PF00784	R	Trp	47.0	1832.0	True	gnomAD	MYO7A	['NM_000260']	rs748080151	ENST00000409709	Q13402	MYO7A_HUMAN	p.Arg1832Trp								6.5711657247e-06	1.05353651136e-05	R	True

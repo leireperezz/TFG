@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-49	PF12775	Met	Leu	143.0	2686.0	True	gnomAD	DYNC1H1	['NM_001376']	rs767469923	ENST00000360184	Q14204	DYHC1_HUMAN	p.Met2686Leu								6.5714248163e-06	3.4202206179e-06
-50	PF12775	Met	Leu	143.0	2686.0	True	gnomAD	DYNC1H1	['NM_001376']	rs767469923	ENST00000360184	Q14204	DYHC1_HUMAN	p.Met2686Leu								6.5714248163e-06	1.84691913367e-05
-78	PF12775	Val	Leu	160.0	2701.0	True	gnomAD	DYNC1H1	['NM_001376']		ENST00000360184	Q14204	DYHC1_HUMAN	p.Val2701Leu									1.5903712562e-06
-79	PF12775	Val	Leu	160.0	2701.0	True	gnomAD	DYNC1H1	['NM_001376']	rs776652737	ENST00000360184	Q14204	DYHC1_HUMAN	p.Val2701Leu									1.5903712562e-06

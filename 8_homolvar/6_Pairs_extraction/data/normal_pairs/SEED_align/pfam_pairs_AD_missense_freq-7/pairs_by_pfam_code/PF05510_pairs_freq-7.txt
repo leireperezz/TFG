@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-25	PF05510	Glu	Asp	34.0	79.0	True	gnomAD	SGCE	['NM_003919']	rs144527028	ENST00000648936	O43556	SGCE_HUMAN	p.Glu79Asp									1.5968624845e-06
-26	PF05510	Glu	Asp	34.0	79.0	True	gnomAD	SGCE	['NM_003919']	rs144527028	ENST00000648936	O43556	SGCE_HUMAN	p.Glu79Asp								6.5839719786e-06	

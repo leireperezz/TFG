@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-50	PF00899	Gln	His	625.0	412.0	True	gnomAD	UBA2	['NM_001411139', 'NM_005499']		ENST00000246548	Q9UBT2	SAE2_HUMAN	p.Gln412His									7.15988744656934e-07
-51	PF00899	Gln	His	625.0	412.0	True	gnomAD	UBA2	['NM_001411139', 'NM_005499']		ENST00000246548	Q9UBT2	SAE2_HUMAN	p.Gln412His									1.4319774893e-06
-52	PF00899	Gln	His	634.0	421.0	True	gnomAD	UBA2	['NM_001411139', 'NM_005499']		ENST00000246548	Q9UBT2	SAE2_HUMAN	p.Gln421His									2.7431154659e-06
-53	PF00899	Gln	His	634.0	421.0	True	gnomAD	UBA2	['NM_001411139', 'NM_005499']	rs1599928217	ENST00000246548	Q9UBT2	SAE2_HUMAN	p.Gln421His									6.857788664898271e-07

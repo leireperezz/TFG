@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-140	PF12297	Val	Leu	298.0	289.0	True	gnomAD	EVC2	['NM_147127']	rs560409382	ENST00000344408	Q86UK5	LBN_HUMAN	p.Val289Leu								7.22021660649e-05	8.68740791005e-05
-141	PF12297	Val	Leu	298.0	289.0	True	gnomAD	EVC2	['NM_147127']	rs560409382	ENST00000344408	Q86UK5	LBN_HUMAN	p.Val289Leu								1.31378422407e-05	2.0521436008e-06

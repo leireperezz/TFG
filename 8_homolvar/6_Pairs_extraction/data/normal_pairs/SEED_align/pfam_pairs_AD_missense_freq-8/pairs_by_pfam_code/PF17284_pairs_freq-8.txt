@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-10	PF17284	Gly	Arg	12.0	129.0	True	gnomAD	SMS	['NM_004595']	rs1405277671	ENST00000404933	P52788	SPSY_HUMAN	p.Gly129Arg									9.130135472950148e-07
-11	PF17284	Gly	Arg	12.0	129.0	True	gnomAD	SMS	['NM_004595']	rs1405277671	ENST00000404933	P52788	SPSY_HUMAN	p.Gly129Arg									9.130143808895134e-07

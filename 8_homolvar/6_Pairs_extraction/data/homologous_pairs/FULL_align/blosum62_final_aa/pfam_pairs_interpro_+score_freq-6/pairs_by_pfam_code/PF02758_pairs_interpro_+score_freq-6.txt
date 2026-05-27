@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02758	Ala	V	157.0	69.0	True	gnomAD	NLRP12	['NM_144687']	rs372898890	ENST00000324134	P59046	NAL12_HUMAN	p.Ala69Val								2.62964131692e-05	1.29969094717e-05	V	True
-PF02758	Ala	V	157.0	66.0	True	ClinVar	NLRP1	NM_033004	rs1057519493			NLRP1_HUMAN	p.Ala66Val	Likely pathogenic(Last reviewed: Feb 27, 2017)	not provided	criteria provided, single submitter	VCV000375414	375414.0	362181.0	NC_000017.11:5583760:G:A			V	True
-PF02758	Glu	Q	177.0	84.0	True	gnomAD	MEFV	['NM_000243']	rs150819742	ENST00000219596	O15553	MEFV_HUMAN	p.Glu84Gln								1.31390505722e-05	2.25781511915e-05	QK	True
-PF02758	Glu	K	177.0	84.0	True	gnomAD	MEFV	['NM_000243']	rs150819742	ENST00000219596	O15553	MEFV_HUMAN	p.Glu84Lys								0.000111595420649	0.0002640959503006	QK	True
-PF02758	Pro	S	127.0	50.0	True	gnomAD	MEFV	['NM_000243']	rs1243710109	ENST00000219596	O15553	MEFV_HUMAN	p.Pro50Ser								1.31376696401e-05		S	True
-PF02758	Pro	S	127.0	53.0	True	gnomAD	NLRP12	['NM_144687']	rs752350185	ENST00000324134	P59046	NAL12_HUMAN	p.Pro53Ser								1.31452683606e-05	7.524516242e-06	S	True

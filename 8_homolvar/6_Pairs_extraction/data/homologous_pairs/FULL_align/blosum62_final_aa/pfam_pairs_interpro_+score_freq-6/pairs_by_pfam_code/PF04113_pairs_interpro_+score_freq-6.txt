@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF04113	Asn	S	2030.0	516.0	True	gnomAD	PIGT	['NM_015937']	rs763644595	ENST00000279036	Q969N2	PIGT_HUMAN	p.Asn516Ser								1.31572022525e-05	3.1837298668e-06	ST	True
-PF04113	Asn	T	2030.0	516.0	True	gnomAD	PIGT	['NM_015937']	rs763644595	ENST00000279036	Q969N2	PIGT_HUMAN	p.Asn516Thr									4.77559480033e-05	ST	True
-PF04113	Val	L	1434.0	358.0	True	gnomAD	PIGT	['NM_015937']	rs370184382	ENST00000279036	Q969N2	PIGT_HUMAN	p.Val358Leu								1.97137562591e-05	5.81448641667e-05	LM	True
-PF04113	Val	M	1434.0	358.0	True	gnomAD	PIGT	['NM_015937']	rs370184382	ENST00000279036	Q969N2	PIGT_HUMAN	p.Val358Met								3.93969638073e-05	1.50492589608e-05	LM	True

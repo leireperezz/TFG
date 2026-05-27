@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02453	Val	L	221.0	379.0	True	gnomAD	RTN2	['NM_005619']	rs532500975	ENST00000245923	O75298	RTN2_HUMAN	p.Val379Leu								2.63459486517e-05	1.3693977936e-06	LM	True
-PF02453	Val	M	221.0	379.0	True	gnomAD	RTN2	['NM_005619']	rs532500975	ENST00000245923	O75298	RTN2_HUMAN	p.Val379Met								7.23950929289e-05	9.92813400379e-05	LM	True

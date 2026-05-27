@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00184	Ser	F	101.0	87.0	True	ClinVar	AVP	NM_000490	rs121964890			NEU2_HUMAN	p.Ser87Phe	Pathogenic(Last reviewed: Mar 27, 2022)	not provided	criteria provided, single submitter	VCV000012216	12216.0	27255.0	NC_000020.11:3083038:G:A			FY	True
-PF00184	Ser	Y	101.0	87.0	True	ClinVar	AVP	NM_000490				NEU2_HUMAN	p.Ser87Tyr	Pathogenic/Likely pathogenic	not provided	no assertion criteria provided	VCV001285212	1285212.0	1275059.0	NC_000020.11:3083038:G:T			FY	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-7	PF01296	Asn	Lys	18.0	50.0	True	gnomAD	GAL	['NM_015973']	rs1274350976	ENST00000265643	P22466	GALA_HUMAN	p.Asn50Lys									2.0563297256e-06
-8	PF01296	Asn	Lys	18.0	50.0	True	gnomAD	GAL	['NM_015973']		ENST00000265643	P22466	GALA_HUMAN	p.Asn50Lys									2.7417729674e-06

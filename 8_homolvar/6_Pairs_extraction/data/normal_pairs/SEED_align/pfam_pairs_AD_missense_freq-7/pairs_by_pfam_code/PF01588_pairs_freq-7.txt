@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-46	PF01588	Lys	Asn	5.0	374.0	True	gnomAD	YARS1	['NM_003680']		ENST00000373477	P54577	SYYC_HUMAN	p.Lys374Asn									1.3680938621e-06
-47	PF01588	Lys	Asn	5.0	374.0	True	gnomAD	YARS1	['NM_003680']	rs907395067	ENST00000373477	P54577	SYYC_HUMAN	p.Lys374Asn									4.7883285176e-06
-54	PF01588	Phe	Leu	40.0	409.0	True	gnomAD	YARS1	['NM_003680']		ENST00000373477	P54577	SYYC_HUMAN	p.Phe409Leu									1.2003216862e-06
-55	PF01588	Phe	Leu	40.0	409.0	True	gnomAD	YARS1	['NM_003680']	rs763636325	ENST00000373477	P54577	SYYC_HUMAN	p.Phe409Leu								2.62946845295e-05	3.35183913361e-05

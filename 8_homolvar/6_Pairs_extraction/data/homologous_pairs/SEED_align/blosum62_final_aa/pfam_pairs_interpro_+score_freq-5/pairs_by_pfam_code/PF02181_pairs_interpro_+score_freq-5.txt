@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02181	Arg	W	196.0	797.0	True	gnomAD	DIAPH3	['NM_001042517']	rs200291290	ENST00000400324	Q9NSV4	DIAP3_HUMAN	p.Arg797Trp								0.0003350237801192	0.0002415544886708	W	True
-PF02181	Arg	W	196.0	934.0	True	gnomAD	DIAPH1	['NM_005219']	rs200688040	ENST00000389054	O60610	DIAP1_HUMAN	p.Arg934Trp								5.90907897155e-05	0.0001005815942524	W	True

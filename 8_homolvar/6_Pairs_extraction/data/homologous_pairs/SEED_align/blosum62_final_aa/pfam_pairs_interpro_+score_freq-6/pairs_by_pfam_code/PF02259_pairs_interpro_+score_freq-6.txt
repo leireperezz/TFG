@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02259	Pro	A	251.0	1914.0	True	gnomAD	ATR	['NM_001184']	rs368559821	ENST00000350721	Q13535	ATR_HUMAN	p.Pro1914Ala									1.09765568187e-05	AS	True
-PF02259	Pro	S	251.0	1914.0	True	gnomAD	ATR	['NM_001184']	rs368559821	ENST00000350721	Q13535	ATR_HUMAN	p.Pro1914Ser								6.63869562908e-05	0.0001413231690417	AS	True

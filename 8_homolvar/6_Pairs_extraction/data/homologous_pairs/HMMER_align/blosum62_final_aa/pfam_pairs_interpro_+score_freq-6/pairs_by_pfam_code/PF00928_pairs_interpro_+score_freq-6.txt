@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00928	Met	L	48.0	302.0	True	gnomAD	ARCN1	['NM_001655']	rs782775362	ENST00000264028	P48444	COPD_HUMAN	p.Met302Leu								1.97041746578e-05	6.49852586071e-05	LV	True
-PF00928	Met	V	48.0	302.0	True	gnomAD	ARCN1	['NM_001655']	rs782775362	ENST00000264028	P48444	COPD_HUMAN	p.Met302Val								1.31361164385e-05	1.77854148653e-05	LV	True

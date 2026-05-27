@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00112	G	Arg	1623.0	315.0	True	gnomAD	CTSB	['NM_001908']	rs1306169388	ENST00000353047	P07858	CATB_HUMAN	p.Gly315Arg									1.779339947e-05	G	True
-PF00112	G	Arg	1623.0	315.0	True	gnomAD	CTSB	['NM_001908']	rs1306169388	ENST00000353047	P07858	CATB_HUMAN	p.Gly315Arg								1.31445772046e-05	2.053078934e-06	G	True

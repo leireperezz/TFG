@@ -1,6 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00927	V	Met	63.0	553.0	True	gnomAD	TGM6	['NM_198994']	rs74338361	ENST00000202625	O95932	TGM3L_HUMAN	p.Val553Met								0.005226183441665	0.0005487422359177	V	True
-PF00927	V	Met	63.0	576.0	True	gnomAD	F13A1	['NM_000129']	rs61734486	ENST00000264870	P00488	F13A_HUMAN	p.Val576Met								0.0001380253177868	7.25091730944e-05	V	True
-PF00927	N	Ser	27.0	519.0	True	gnomAD	TGM6	['NM_198994']	rs374219808	ENST00000202625	O95932	TGM3L_HUMAN	p.Asn519Ser								3.28536697549e-05	6.166123591e-06	N	True
-PF00927	N	Ser	27.0	630.0	True	gnomAD	TGM6	['NM_198994']	rs1172305876	ENST00000202625	O95932	TGM3L_HUMAN	p.Asn630Ser								1.31597994446e-05	6.361485025e-06	N	True
-PF00927	N	Ser	27.0	542.0	True	gnomAD	F13A1	['NM_000129']	rs760408760	ENST00000264870	P00488	F13A_HUMAN	p.Asn542Ser								1.31321488135e-05	1.71012200694e-05	N	True

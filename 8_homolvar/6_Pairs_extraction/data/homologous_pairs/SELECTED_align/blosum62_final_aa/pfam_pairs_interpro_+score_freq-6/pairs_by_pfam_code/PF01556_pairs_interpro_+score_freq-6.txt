@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01556	Gly	A	89.0	219.0	True	gnomAD	DNAJB11	['NM_016306', 'NM_001378451']	rs370808915	ENST00000265028	Q9UBS4	DJB11_HUMAN	p.Gly219Ala								1.31463052309e-05	6.84297828312412e-07	AS	True
-PF01556	Gly	S	89.0	219.0	True	gnomAD	DNAJB11	['NM_016306', 'NM_001378451']	rs751024041	ENST00000265028	Q9UBS4	DJB11_HUMAN	p.Gly219Ser								1.31504543481e-05	2.0528850562e-06	AS	True

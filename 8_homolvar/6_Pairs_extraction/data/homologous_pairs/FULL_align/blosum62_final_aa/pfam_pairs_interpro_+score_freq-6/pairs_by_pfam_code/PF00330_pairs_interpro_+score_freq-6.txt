@@ -1,6 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00330	Gly	A	878.0	240.0	True	gnomAD	ACO2	['NM_001098']	rs141878785	ENST00000216254	Q99798	ACON_HUMAN	p.Gly240Ala								0.0009321744610456	0.0008195487693086	AS	True
-PF00330	Gly	S	878.0	240.0	True	gnomAD	ACO2	['NM_001098']	rs764138297	ENST00000216254	Q99798	ACON_HUMAN	p.Gly240Ser								3.94202593853e-05	1.77868992645e-05	AS	True
-PF00330	Val	L	522.0	163.0	True	gnomAD	ACO2	['NM_001098']	rs759920667	ENST00000216254	Q99798	ACON_HUMAN	p.Val163Leu								7.88570977959e-05	5.75713130371e-05	LM	True
-PF00330	Val	L	522.0	163.0	True	gnomAD	ACO2	['NM_001098']	rs759920667	ENST00000216254	Q99798	ACON_HUMAN	p.Val163Leu								2.62860447388e-05	4.1122310086e-06	LM	True
-PF00330	Val	M	522.0	163.0	True	gnomAD	ACO2	['NM_001098']	rs759920667	ENST00000216254	Q99798	ACON_HUMAN	p.Val163Met								1.31428496326e-05	2.7414873391e-06	LM	True

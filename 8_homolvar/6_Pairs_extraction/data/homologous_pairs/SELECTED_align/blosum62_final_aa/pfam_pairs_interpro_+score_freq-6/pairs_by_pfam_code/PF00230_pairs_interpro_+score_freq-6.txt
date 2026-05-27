@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00230	Asn	S	109.0	68.0	True	ClinVar	AQP2	NM_000486	rs104894331			AQP2_HUMAN	p.Asn68Ser	Pathogenic(Last reviewed: Feb 1, 1997)	Diabetes insipidus, nephrogenic, autosomal	no assertion criteria provided	VCV000017834	17834.0	32873.0	NC_000012.12:49951032:A:G			ST	True
-PF00230	Asn	T	109.0	68.0	True	gnomAD	AQP2	['NM_000486']	rs104894331	ENST00000199280	P41181	AQP2_HUMAN	p.Asn68Thr								1.97607630289e-05	0.0054428234095295	ST	True
-PF00230	Val	L	139.0	98.0	True	gnomAD	AQP2	['NM_000486']	rs759525877	ENST00000199280	P41181	AQP2_HUMAN	p.Val98Leu								2.62705074148e-05	4.46835510911e-05	LM	True
-PF00230	Val	M	139.0	98.0	True	gnomAD	AQP2	['NM_000486']	rs759525877	ENST00000199280	P41181	AQP2_HUMAN	p.Val98Met								1.31352537074e-05	1.44362241986e-05	LM	True

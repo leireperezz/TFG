@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF19914	Lys	R	42.0	193.0	True	gnomAD	WFS1	['NM_006005', 'NM_001145853']	rs1005714777	ENST00000226760	O76024	WFS1_HUMAN	p.Lys193Arg								1.31577216089e-05	4.1058150658e-06	RQ	True
-PF19914	Lys	Q	42.0	193.0	True	gnomAD	WFS1	['NM_006005', 'NM_001145853']	rs41264699	ENST00000226760	O76024	WFS1_HUMAN	p.Lys193Gln								0.0026530612244897	0.0038170446302708	RQ	True

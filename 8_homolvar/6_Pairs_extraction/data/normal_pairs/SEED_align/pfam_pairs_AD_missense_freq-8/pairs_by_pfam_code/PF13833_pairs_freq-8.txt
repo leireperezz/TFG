@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-31	PF13833	Gly	Ser	70.0	708.0	True	gnomAD	CAPN3	['NM_000070']		ENST00000397163	P20807	CAN3_HUMAN	p.Gly708Ser									1.5904066669e-06
-32	PF13833	Gly	Ser	70.0	68.0	True	gnomAD	TNNC1	['NM_003280']	rs1267940563	ENST00000232975	P63316	TNNC1_HUMAN	p.Gly68Ser									4.7894686426e-06
-40	PF13833	Ile	Met	63.0	61.0	True	gnomAD	TNNC1	['NM_003280']		ENST00000232975	P63316	TNNC1_HUMAN	p.Ile61Met									6.84165803477478e-07
-41	PF13833	Ile	Met	63.0	701.0	True	gnomAD	CAPN3	['NM_000070']	rs1019046029	ENST00000397163	P20807	CAN3_HUMAN	p.Ile701Met								1.31494168233e-05	

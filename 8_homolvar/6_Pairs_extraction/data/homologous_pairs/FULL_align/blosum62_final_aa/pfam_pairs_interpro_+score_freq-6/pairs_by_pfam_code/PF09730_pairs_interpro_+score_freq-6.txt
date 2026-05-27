@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09730	Val	L	1762.0	665.0	True	gnomAD	BICD2	['NM_001003800']	rs587777885	ENST00000356884	Q8TD16	BICD2_HUMAN	p.Val665Leu								1.97101296926e-05	8.8940945948e-06	LM	True
-PF09730	Val	M	1762.0	665.0	True	gnomAD	BICD2	['NM_001003800']	rs587777885	ENST00000356884	Q8TD16	BICD2_HUMAN	p.Val665Met								1.97101296926e-05	1.09465779628e-05	LM	True

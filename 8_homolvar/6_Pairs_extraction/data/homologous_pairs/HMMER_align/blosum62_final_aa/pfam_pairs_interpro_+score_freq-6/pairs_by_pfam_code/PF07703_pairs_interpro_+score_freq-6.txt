@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF07703	Glu	D	16.0	469.0	True	gnomAD	C3	['NM_000064']	rs11569422	ENST00000245907	P01024	CO3_HUMAN	p.Glu469Asp								1.31457867753e-05		D	True
-PF07703	Glu	D	16.0	469.0	True	gnomAD	C3	['NM_000064']	rs11569422	ENST00000245907	P01024	CO3_HUMAN	p.Glu469Asp								0.0128993274485077	0.0013954576485444	D	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-29	PF01335	Met	Ile	191.0	53.0	True	gnomAD	CASP8	['NM_001400653', 'NM_001400648', 'NM_001400654', 'NM_001400680', 'NM_001400657', 'NM_001372051']	rs200261147	ENST00000673742	Q14790	CASP8_HUMAN	p.Met53Ile								5.25700166909e-05	3.693863535e-05
-30	PF01335	Met	Ile	191.0	53.0	True	gnomAD	CASP8	['NM_001400653', 'NM_001400648', 'NM_001400654', 'NM_001400680', 'NM_001400657', 'NM_001372051']	rs200261147	ENST00000673742	Q14790	CASP8_HUMAN	p.Met53Ile								1.31323212691e-05	4.1042928166e-06

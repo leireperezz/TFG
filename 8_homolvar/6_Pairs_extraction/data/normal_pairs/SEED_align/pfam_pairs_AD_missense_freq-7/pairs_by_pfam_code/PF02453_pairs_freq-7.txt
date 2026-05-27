@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-52	PF02453	Gln	His	687.0	501.0	True	gnomAD	RTN2	['NM_005619']		ENST00000245923	O75298	RTN2_HUMAN	p.Gln501His									1.5905331467e-06
-53	PF02453	Gln	His	687.0	501.0	True	gnomAD	RTN2	['NM_005619']		ENST00000245923	O75298	RTN2_HUMAN	p.Gln501His									1.5905331467e-06

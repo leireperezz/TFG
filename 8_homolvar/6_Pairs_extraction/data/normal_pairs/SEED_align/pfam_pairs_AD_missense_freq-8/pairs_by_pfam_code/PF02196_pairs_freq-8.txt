@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-20	PF02196	Gln	His	37.0	92.0	True	gnomAD	RAF1	['NM_001354694', 'NM_001354689']	rs876657568	ENST00000442415	P04049	RAF1_HUMAN	p.Gln92His									2.0521548309e-06
-21	PF02196	Gln	His	37.0	92.0	True	gnomAD	RAF1	['NM_001354694', 'NM_001354689']	rs876657568	ENST00000442415	P04049	RAF1_HUMAN	p.Gln92His									6.840516103258959e-07

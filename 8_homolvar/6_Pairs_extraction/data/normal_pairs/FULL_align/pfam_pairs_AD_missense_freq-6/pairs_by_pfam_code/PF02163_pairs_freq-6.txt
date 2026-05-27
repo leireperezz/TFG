@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-21	PF02163	Gly	Arg	1970.0	413.0	True	gnomAD	HTRA3	['NM_053044']	rs780990475	ENST00000307358	P83110	HTRA3_HUMAN	p.Gly413Arg								6.6255880209e-06	1.77890654719e-05
-22	PF02163	Gly	Arg	1970.0	413.0	True	gnomAD	HTRA3	['NM_053044']	rs780990475	ENST00000307358	P83110	HTRA3_HUMAN	p.Gly413Arg								1.32613683079e-05	2.0525844775e-06

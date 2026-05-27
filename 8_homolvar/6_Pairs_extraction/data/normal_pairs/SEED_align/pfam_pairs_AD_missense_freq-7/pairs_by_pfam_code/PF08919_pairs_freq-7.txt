@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-31	PF08919	Asn	Lys	75.0	1092.0	True	gnomAD	ABL1	['NM_005157']	rs781095816	ENST00000318560	P00519	ABL1_HUMAN	p.Asn1092Lys									1.5909278927e-06
-32	PF08919	Asn	Lys	75.0	1092.0	True	gnomAD	ABL1	['NM_005157']		ENST00000318560	P00519	ABL1_HUMAN	p.Asn1092Lys									1.5909278927e-06
-79	PF08919	Met	Leu	27.0	1050.0	True	gnomAD	ABL1	['NM_005157']	rs921620792	ENST00000318560	P00519	ABL1_HUMAN	p.Met1050Leu								6.5681444991e-06	
-80	PF08919	Met	Leu	27.0	1050.0	True	gnomAD	ABL1	['NM_005157']		ENST00000318560	P00519	ABL1_HUMAN	p.Met1050Leu									1.2003216862e-06
-105	PF08919	Thr	Ser	13.0	1036.0	True	gnomAD	ABL1	['NM_005157']	rs753386838	ENST00000318560	P00519	ABL1_HUMAN	p.Thr1036Ser									2.7373074475e-06
-106	PF08919	Thr	Ser	13.0	1036.0	True	gnomAD	ABL1	['NM_005157']	rs1378100091	ENST00000318560	P00519	ABL1_HUMAN	p.Thr1036Ser								6.5700432308e-06	

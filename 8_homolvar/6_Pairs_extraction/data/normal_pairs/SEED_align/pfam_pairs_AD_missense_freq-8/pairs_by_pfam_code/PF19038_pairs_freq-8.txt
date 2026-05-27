@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-48	PF19038	Gly	Arg	4.0	298.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs765007508	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Gly298Arg								6.5695252861e-06	2.0818008965e-06
-49	PF19038	Gly	Arg	4.0	298.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs765007508	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Gly298Arg									6.939336321874176e-07
-99	PF19038	Phe	Leu	53.0	333.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs2073527036	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Phe333Leu									6.847204628710329e-07
-100	PF19038	Phe	Leu	53.0	333.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs762368062	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Phe333Leu									6.847448435289558e-07

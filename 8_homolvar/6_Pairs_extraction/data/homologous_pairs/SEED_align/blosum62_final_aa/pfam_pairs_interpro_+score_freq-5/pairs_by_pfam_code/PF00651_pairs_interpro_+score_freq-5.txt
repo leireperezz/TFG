@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00651	Val	I	107.0	73.0	True	gnomAD	IVNS1ABP	['NM_006469']	rs146352011	ENST00000367498	Q9Y6Y0	NS1BP_HUMAN	p.Val73Ile								0.0001182328135468	0.0001320922592567	IM	True
-PF00651	Val	M	107.0	511.0	True	gnomAD	LZTR1	['NM_006767']	rs200062851	ENST00000646124	Q8N653	LZTR1_HUMAN	p.Val511Met								0.0004333267677762	7.03127261898e-05	IM	True

@@ -1,4 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-146	PF02373	Val	Met	132.0	1674.0	True	gnomAD	KDM3B	['NM_016604']	rs767214985	ENST00000314358	Q7LBC6	KDM3B_HUMAN	p.Val1674Met									1.5903965494e-06
-147	PF02373	Val	Met	132.0	1001.0	True	gnomAD	JARID2	['NM_004973']	rs140223161	ENST00000341776	Q92833	JARD2_HUMAN	p.Val1001Met								2.62867357131e-05	3.83068377705e-05
-148	PF02373	Val	Met	132.0	1455.0	True	gnomAD	KDM6B	['NM_001348716']	rs2078711933	ENST00000448097	O15054	KDM6B_HUMAN	p.Val1455Met									2.7363973686e-06

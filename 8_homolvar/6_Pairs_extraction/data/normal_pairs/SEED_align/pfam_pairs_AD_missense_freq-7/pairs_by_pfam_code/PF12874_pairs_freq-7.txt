@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-8	PF12874	Asn	Ser	22.0	461.0	True	gnomAD	BNC2	['NM_017637']	rs1563782786	ENST00000380672	Q6ZN30	BNC2_HUMAN	p.Asn461Ser								6.5696116045e-06	8.8926222701e-06
-9	PF12874	Asn	Ser	22.0	377.0	True	gnomAD	BNC1	['NM_001717']	rs1015095182	ENST00000345382	Q01954	BNC1_HUMAN	p.Asn377Ser								6.5728933876e-06	1.02606758912e-05
-43	PF12874	Thr	Ile	10.0	449.0	True	gnomAD	BNC2	['NM_017637']		ENST00000380672	Q6ZN30	BNC2_HUMAN	p.Thr449Ile									1.2003360941e-06
-44	PF12874	Thr	Ile	10.0	1009.0	True	gnomAD	SALL1	['NM_002968']		ENST00000251020	Q9NSC2	SALL1_HUMAN	p.Thr1009Ile									3.4202299762e-06
-50	PF12874	Tyr	His	21.0	1020.0	True	gnomAD	SALL1	['NM_002968']		ENST00000251020	Q9NSC2	SALL1_HUMAN	p.Tyr1020His									1.590386432e-06
-51	PF12874	Tyr	His	21.0	376.0	True	gnomAD	BNC1	['NM_001717']		ENST00000345382	Q01954	BNC1_HUMAN	p.Tyr376His									4.8012867448e-06

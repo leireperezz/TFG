@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-84	PF09279	Met	Ile	69.0	270.0	True	gnomAD	PLCD1	['NM_006225']	rs1235854690	ENST00000334661	P51178	PLCD1_HUMAN	p.Met270Ile									1.5914190683e-06
-85	PF09279	Met	Ile	69.0	270.0	True	gnomAD	PLCD1	['NM_006225']		ENST00000334661	P51178	PLCD1_HUMAN	p.Met270Ile									4.7742572051e-06

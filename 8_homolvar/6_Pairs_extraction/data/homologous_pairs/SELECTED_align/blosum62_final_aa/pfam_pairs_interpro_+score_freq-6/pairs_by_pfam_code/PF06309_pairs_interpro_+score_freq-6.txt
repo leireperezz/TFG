@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF06309	Val	I	73.0	111.0	True	gnomAD	TOR1A	['NM_000113']	rs755593280	ENST00000351698	O14656	TOR1A_HUMAN	p.Val111Ile								1.31437133618e-05	5.4723604753e-06	IL	True
-PF06309	Val	L	73.0	111.0	True	gnomAD	TOR1A	['NM_000113']	rs755593280	ENST00000351698	O14656	TOR1A_HUMAN	p.Val111Leu								6.5718566809e-06	3.83065233273e-05	IL	True

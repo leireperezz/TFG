@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-90	PF06954	Met	Ile	79.0	96.0	True	gnomAD	RETN	['NM_001385725', 'NM_001385726', 'NM_020415', 'NM_001193374']	rs747537613	ENST00000221515	Q9HD89	RETN_HUMAN	p.Met96Ile									1.4026465134e-06
-91	PF06954	Met	Ile	79.0	96.0	True	gnomAD	RETN	['NM_001385725', 'NM_001385726', 'NM_020415', 'NM_001193374']	rs747537613	ENST00000221515	Q9HD89	RETN_HUMAN	p.Met96Ile									1.4026465134e-06

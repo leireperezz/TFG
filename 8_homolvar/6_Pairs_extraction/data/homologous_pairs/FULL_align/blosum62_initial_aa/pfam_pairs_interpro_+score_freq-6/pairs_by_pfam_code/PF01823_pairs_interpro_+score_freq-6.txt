@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF01823	P	Leu	877.0	309.0	True	gnomAD	MPEG1	['NM_001039396']	rs367733685	ENST00000361050	Q2M385	MPEG1_HUMAN	p.Pro309Leu								1.31402591259e-05	5.74923480422e-05	P	True
-PF01823	P	Leu	877.0	475.0	True	gnomAD	C9	['NM_001737']	rs2111836531	ENST00000263408	P02748	CO9_HUMAN	p.Pro475Leu									1.19130376283e-05	P	True

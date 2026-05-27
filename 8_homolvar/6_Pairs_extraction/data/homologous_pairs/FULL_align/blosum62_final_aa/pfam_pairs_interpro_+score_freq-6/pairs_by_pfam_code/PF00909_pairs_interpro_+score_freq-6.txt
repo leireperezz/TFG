@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00909	Gln	R	591.0	102.0	True	gnomAD	RHAG	['NM_000324']	rs1472966427	ENST00000371175	Q02094	RHAG_HUMAN	p.Gln102Arg								1.31421587309e-05	1.5905837442e-06	RK	True
-PF00909	Gln	K	591.0	102.0	True	gnomAD	RHAG	['NM_000324']	rs890327240	ENST00000371175	Q02094	RHAG_HUMAN	p.Gln102Lys									1.3681706054e-05	RK	True
-PF00909	Val	L	1929.0	340.0	True	gnomAD	RHAG	['NM_000324']	rs749005033	ENST00000371175	Q02094	RHAG_HUMAN	p.Val340Leu								1.97142744489e-05	6.841751652625111e-07	LM	True
-PF00909	Val	M	1929.0	340.0	True	gnomAD	RHAG	['NM_000324']	rs749005033	ENST00000371175	Q02094	RHAG_HUMAN	p.Val340Met								2.62856992653e-05	7.18383923525e-05	LM	True

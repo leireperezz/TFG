@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00754	Asp	N	86.0	90.0	True	gnomAD	DDR2	['NM_001354982', 'NM_006182']	rs777147820	ENST00000367921	Q16832	DDR2_HUMAN	p.Asp90Asn								2.6290882322e-05	4.10436019865e-05	N	True
-PF00754	Asp	N	86.0	1966.0	True	gnomAD	F5	['NM_000130']	rs1659355806	ENST00000367797	P12259	FA5_HUMAN	p.Asp1966Asn								1.31435406069e-05	1.5909127066e-06	N	True
-PF00754	Gln	E	9.0	2081.0	True	gnomAD	F5	['NM_000130']	rs201142225	ENST00000367797	P12259	FA5_HUMAN	p.Gln2081Glu								3.28718130777e-05	6.8416018652e-06	EK	True
-PF00754	Gln	K	9.0	2081.0	True	gnomAD	F5	['NM_000130']	rs201142225	ENST00000367797	P12259	FA5_HUMAN	p.Gln2081Lys									1.09465629844e-05	EK	True
-PF00754	Ile	L	172.0	2036.0	True	gnomAD	F5	['NM_000130']	rs774169591	ENST00000367797	P12259	FA5_HUMAN	p.Ile2036Leu								1.31483794622e-05	1.29990257572e-05	LV	True
-PF00754	Ile	V	172.0	2036.0	True	gnomAD	F5	['NM_000130']	rs774169591	ENST00000367797	P12259	FA5_HUMAN	p.Ile2036Val								1.31483794622e-05		LV	True

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-57	PF01979	Asn	Lys	1881.0	237.0	True	gnomAD	DPYSL5	['NM_001253724', 'NM_001253723', 'NM_020134']		ENST00000288699	Q9BPU6	DPYL5_HUMAN	p.Asn237Lys									1.3682922891e-06
-58	PF01979	Asn	Lys	1881.0	237.0	True	gnomAD	DPYSL5	['NM_001253724', 'NM_001253723', 'NM_020134']	rs756667382	ENST00000288699	Q9BPU6	DPYL5_HUMAN	p.Asn237Lys									1.23146306021e-05
-235	PF01979	Ser	Arg	2259.0	312.0	True	gnomAD	DPYSL5	['NM_001253724', 'NM_001253723', 'NM_020134']	rs753873507	ENST00000288699	Q9BPU6	DPYL5_HUMAN	p.Ser312Arg									1.5905129086e-06
-236	PF01979	Ser	Arg	2259.0	312.0	True	gnomAD	DPYSL5	['NM_001253724', 'NM_001253723', 'NM_020134']	rs1364290714	ENST00000288699	Q9BPU6	DPYL5_HUMAN	p.Ser312Arg								6.5746219592e-06	

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02784	Ile	L	176.0	212.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']	rs772740739	ENST00000234111	P11926	DCOR_HUMAN	p.Ile212Leu								1.31402591259e-05		LV	True
-PF02784	Ile	V	176.0	212.0	True	gnomAD	ODC1	['NM_001287188', 'NM_002539']	rs772740739	ENST00000234111	P11926	DCOR_HUMAN	p.Ile212Val									1.27258034754e-05	LV	True

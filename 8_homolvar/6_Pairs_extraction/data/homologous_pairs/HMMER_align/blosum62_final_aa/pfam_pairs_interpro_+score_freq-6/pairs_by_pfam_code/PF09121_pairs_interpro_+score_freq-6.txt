@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF09121	Gln	R	28.0	2858.0	True	gnomAD	BRCA2	['NM_000059']	rs80359114	ENST00000380152	P51587	BRCA2_HUMAN	p.Gln2858Arg	Benign							1.97049511974e-05	2.05219975291e-05	RK	True
-PF09121	Gln	K	28.0	2858.0	True	gnomAD	BRCA2	['NM_000059']	rs80359112	ENST00000380152	P51587	BRCA2_HUMAN	p.Gln2858Lys	Likely benign							6.5795533799e-06	1.98382566413e-05	RK	True

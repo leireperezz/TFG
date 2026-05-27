@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-112	PF01222	Gly	Arg	384.0	531.0	True	gnomAD	LBR	['NM_002296']		ENST00000272163	Q14739	LBR_HUMAN	p.Gly531Arg									1.5912063571e-06
-113	PF01222	Gly	Arg	384.0	531.0	True	gnomAD	LBR	['NM_002296']		ENST00000272163	Q14739	LBR_HUMAN	p.Gly531Arg									1.5912063571e-06
-234	PF01222	Met	Ile	55.0	232.0	True	gnomAD	LBR	['NM_002296']	rs1164798368	ENST00000272163	Q14739	LBR_HUMAN	p.Met232Ile									1.5905331467e-06
-235	PF01222	Met	Ile	55.0	232.0	True	gnomAD	LBR	['NM_002296']	rs1164798368	ENST00000272163	Q14739	LBR_HUMAN	p.Met232Ile								6.5711657247e-06	1.5905331467e-06
-261	PF01222	Phe	Leu	133.0	299.0	True	gnomAD	LBR	['NM_002296']	rs1163102510	ENST00000272163	Q14739	LBR_HUMAN	p.Phe299Leu									7.6130889762e-06
-262	PF01222	Phe	Leu	133.0	299.0	True	gnomAD	LBR	['NM_002296']	rs2150950385	ENST00000272163	Q14739	LBR_HUMAN	p.Phe299Leu									1.55376469787e-05

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-18	PF04960	Asn	Lys	55.0	298.0	True	gnomAD	GLS	['NM_014905']		ENST00000320717	O94925	GLSK_HUMAN	p.Asn298Lys									6.900196931620428e-07
-19	PF04960	Asn	Lys	55.0	298.0	True	gnomAD	GLS	['NM_014905']		ENST00000320717	O94925	GLSK_HUMAN	p.Asn298Lys									1.86317402045e-05
-154	PF04960	Val	Leu	62.0	305.0	True	gnomAD	GLS	['NM_014905']		ENST00000320717	O94925	GLSK_HUMAN	p.Val305Leu									6.889462704582595e-07
-155	PF04960	Val	Leu	62.0	305.0	True	gnomAD	GLS	['NM_014905']		ENST00000320717	O94925	GLSK_HUMAN	p.Val305Leu									6.889462704582595e-07

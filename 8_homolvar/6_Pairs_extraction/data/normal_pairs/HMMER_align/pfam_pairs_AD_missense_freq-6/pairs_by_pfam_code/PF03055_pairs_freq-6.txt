@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-102	PF03055	Gly	Arg	524.0	472.0	True	gnomAD	BCO1	['NM_017429']	rs529606533	ENST00000258168	Q9HAY6	BCDO1_HUMAN	p.Gly472Arg								1.9719976336e-05	1.3696209847e-06
-103	PF03055	Gly	Arg	524.0	472.0	True	gnomAD	BCO1	['NM_017429']	rs529606533	ENST00000258168	Q9HAY6	BCDO1_HUMAN	p.Gly472Arg								1.9704692344e-05	3.76645770815e-05
-231	PF03055	Val	Ile	189.0	189.0	True	gnomAD	RPE65	['NM_001406857', 'NM_000329']	rs752990312	ENST00000262340	Q16518	RPE65_HUMAN	p.Val189Ile								5.25914433721e-05	8.55175659921e-05
-232	PF03055	Val	Ile	189.0	181.0	True	gnomAD	BCO1	['NM_017429']	rs776579175	ENST00000258168	Q9HAY6	BCDO1_HUMAN	p.Val181Ile								1.31407771455e-05	3.35189874803e-05

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-103	PF00853	Ser	Arg	24.0	73.0	True	gnomAD	RUNX1	['NM_001754']	rs1157495777	ENST00000675419	Q01196	RUNX1_HUMAN	p.Ser73Arg									1.3725780859e-06
-104	PF00853	Ser	Arg	24.0	73.0	True	gnomAD	RUNX1	['NM_001754']		ENST00000675419	Q01196	RUNX1_HUMAN	p.Ser73Arg									6.862899849702493e-07

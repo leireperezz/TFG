@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-47	PF01423	Leu	Phe	36.0	56.0	True	gnomAD	SNRPE	['NM_001304464', 'NM_003094', 'NM_001328637']	rs778860513	ENST00000414487	P62304	RUXE_HUMAN	p.Leu56Phe									1.5942301621e-06
-48	PF01423	Leu	Phe	36.0	40.0	True	gnomAD	SNRPB	['NM_003091']		ENST00000381342	P14678	RSMB_HUMAN	p.Leu40Phe									1.2003303309e-06
-65	PF01423	Phe	Leu	27.0	31.0	True	gnomAD	SNRPB	['NM_003091']		ENST00000381342	P14678	RSMB_HUMAN	p.Phe31Leu									1.5903763148e-06
-66	PF01423	Phe	Leu	27.0	31.0	True	gnomAD	SNRPB	['NM_003091']	rs988462835	ENST00000381342	P14678	RSMB_HUMAN	p.Phe31Leu									1.5903763148e-06

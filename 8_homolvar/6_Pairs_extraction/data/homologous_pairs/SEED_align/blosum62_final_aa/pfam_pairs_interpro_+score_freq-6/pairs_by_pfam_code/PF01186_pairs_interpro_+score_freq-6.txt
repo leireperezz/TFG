@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01186	Asp	N	161.0	525.0	True	gnomAD	LOXL1	['NM_005576']	rs772638560	ENST00000261921	Q08397	LOXL1_HUMAN	p.Asp525Asn								1.97109067017e-05	2.0527895357e-05	N	True
-PF01186	Asp	N	161.0	368.0	True	gnomAD	LOX	['NM_002317']	rs775459586	ENST00000231004	P28300	LYOX_HUMAN	p.Asp368Asn								2.63088660878e-05	1.64948907076e-05	N	True

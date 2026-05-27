@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00535	Ile	L	140.0	192.0	True	gnomAD	ALG5	['NM_013338']	rs145953194	ENST00000239891	Q9Y673	ALG5_HUMAN	p.Ile192Leu								3.93959290873e-05	4.1526169792e-06	LV	True
-PF00535	Ile	V	140.0	192.0	True	gnomAD	ALG5	['NM_013338']	rs145953194	ENST00000239891	Q9Y673	ALG5_HUMAN	p.Ile192Val								6.5710793654e-06	1.31499537675e-05	LV	True

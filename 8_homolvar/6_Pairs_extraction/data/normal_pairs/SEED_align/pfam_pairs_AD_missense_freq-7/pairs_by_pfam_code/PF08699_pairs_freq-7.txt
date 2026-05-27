@@ -1,7 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-2	PF08699	Ala	Val	49.0	221.0	True	gnomAD	AGO1	['NM_012199']		ENST00000373204	Q9UL18	AGO1_HUMAN	p.Ala221Val									1.7578090667e-06
-3	PF08699	Ala	Val	49.0	223.0	True	gnomAD	AGO2	['NM_012154']	rs2073161217	ENST00000220592	Q9UKV8	AGO2_HUMAN	p.Ala223Val								6.5711657247e-06	
-4	PF08699	Arg	Cys	4.0	179.0	True	gnomAD	AGO2	['NM_012154']	rs755867103	ENST00000220592	Q9UKV8	AGO2_HUMAN	p.Arg179Cys									1.5915102477e-06
-5	PF08699	Arg	Cys	4.0	177.0	True	gnomAD	AGO1	['NM_012199']	rs369913779	ENST00000373204	Q9UL18	AGO1_HUMAN	p.Arg177Cys								6.5689211203e-06	4.1072484721e-06
-36	PF08699	Pro	Leu	16.0	191.0	True	gnomAD	AGO2	['NM_012154']		ENST00000220592	Q9UKV8	AGO2_HUMAN	p.Pro191Leu									1.2003216862e-06
-37	PF08699	Pro	Leu	16.0	189.0	True	gnomAD	AGO1	['NM_012199']	rs1553154069	ENST00000373204	Q9UL18	AGO1_HUMAN	p.Pro189Leu									1.3682848002e-06

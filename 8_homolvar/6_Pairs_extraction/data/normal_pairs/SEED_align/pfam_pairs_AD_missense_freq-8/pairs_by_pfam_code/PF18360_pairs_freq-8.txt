@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-13	PF18360	Gln	His	15.0	51.0	True	gnomAD	HNRNPR	['NM_005826']	rs1433002376	ENST00000302271	O43390	HNRPR_HUMAN	p.Gln51His								6.5700432308e-06	
-14	PF18360	Gln	His	15.0	51.0	True	gnomAD	HNRNPR	['NM_005826']		ENST00000302271	O43390	HNRPR_HUMAN	p.Gln51His									1.2005954953e-06

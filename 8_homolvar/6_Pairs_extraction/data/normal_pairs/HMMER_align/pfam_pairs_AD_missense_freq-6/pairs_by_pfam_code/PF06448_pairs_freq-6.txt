@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-15	PF06448	Met	Ile	90.0	1049.0	True	gnomAD	APOB	['NM_000384']	rs556469321	ENST00000233242	P04114	APOB_HUMAN	p.Met1049Ile								1.31466508906e-05	2.26348005256e-05
-16	PF06448	Met	Ile	90.0	1049.0	True	gnomAD	APOB	['NM_000384']	rs556469321	ENST00000233242	P04114	APOB_HUMAN	p.Met1049Ile									1.16603517859e-05

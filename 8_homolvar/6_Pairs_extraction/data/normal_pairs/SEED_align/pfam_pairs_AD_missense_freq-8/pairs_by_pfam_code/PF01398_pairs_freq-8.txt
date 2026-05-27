@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-21	PF01398	His	Gln	88.0	2154.0	True	gnomAD	PRPF8	['NM_006445']		ENST00000304992	Q6P2Q9	PRP8_HUMAN	p.His2154Gln	Likely benign								1.3681088357e-06
-22	PF01398	His	Gln	88.0	2154.0	True	gnomAD	PRPF8	['NM_006445']	rs1472301974	ENST00000304992	Q6P2Q9	PRP8_HUMAN	p.His2154Gln	Benign							6.5712520863e-06	

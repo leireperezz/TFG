@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF02198	Q	His	32.0	68.0	True	gnomAD	ETV6	['NM_001987']	rs202004830	ENST00000396373	P41212	ETV6_HUMAN	p.Gln68His								1.96873646493e-05	7.5246088913e-06	Q	True
-PF02198	Q	His	32.0	68.0	True	gnomAD	ETV6	['NM_001987']	rs202004830	ENST00000396373	P41212	ETV6_HUMAN	p.Gln68His								1.31350811748e-05	1.3681107075e-06	Q	True

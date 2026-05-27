@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-15	PF10559	Met	Ile	26.0	65.0	True	gnomAD	SEC61A1	['NM_001400328', 'NM_013336']		ENST00000243253	P61619	S61A1_HUMAN	p.Met65Ile									1.3681949404e-06
-16	PF10559	Met	Ile	26.0	65.0	True	gnomAD	SEC61A1	['NM_001400328', 'NM_013336']		ENST00000243253	P61619	S61A1_HUMAN	p.Met65Ile									6.840974702075551e-07

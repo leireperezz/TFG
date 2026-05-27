@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF10644	Pro	S	36.0	41.0	True	gnomAD	MSTO1	['NM_001350776', 'NM_001256532', 'NM_001350772', 'NM_001256533', 'NM_018116']	rs553985742	ENST00000245564	Q9BUK6	MSTO1_HUMAN	p.Pro41Ser								1.52930921102e-05	4.3813913546e-06	ST	True
-PF10644	Pro	T	36.0	41.0	True	gnomAD	MSTO1	['NM_001350776', 'NM_001256532', 'NM_001350772', 'NM_001256533', 'NM_018116']	rs553985742	ENST00000245564	Q9BUK6	MSTO1_HUMAN	p.Pro41Thr								0.0167578554835554	0.0023762439863647	ST	True

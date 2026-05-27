@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02803	Val	I	249.0	301.0	True	gnomAD	SCP2	['NM_002979']	rs374102289	ENST00000371514	P22307	SCP2_HUMAN	p.Val301Ile								5.25707076017e-05	2.39498339934e-05	IL	True
-PF02803	Val	L	249.0	301.0	True	gnomAD	SCP2	['NM_002979']	rs374102289	ENST00000371514	P22307	SCP2_HUMAN	p.Val301Leu								0.0001641561716154	7.5270906836e-06	IL	True

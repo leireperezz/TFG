@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-63	PF04969	Phe	Leu	58.0	44.0	True	gnomAD	DNAAF4	['NM_130810']	rs937339192	ENST00000321149	Q8WXU2	DAAF4_HUMAN	p.Phe44Leu								1.31407771455e-05	5.4863663795e-06
-64	PF04969	Phe	Leu	58.0	44.0	True	gnomAD	DNAAF4	['NM_130810']	rs760302245	ENST00000321149	Q8WXU2	DAAF4_HUMAN	p.Phe44Leu								6.5716839282e-06	8.2300688308e-06
-85	PF04969	Ser	Arg	84.0	62.0	True	gnomAD	DNAAF4	['NM_130810']	rs142108738	ENST00000321149	Q8WXU2	DAAF4_HUMAN	p.Ser62Arg								7.90941088071e-05	1.47816746651e-05
-86	PF04969	Ser	Arg	84.0	62.0	True	gnomAD	DNAAF4	['NM_130810']		ENST00000321149	Q8WXU2	DAAF4_HUMAN	p.Ser62Arg									2.4006548986e-06

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF07894	Gln	H	236.0	201.0	True	gnomAD	FAM83H	['NM_198488']	rs9969600	ENST00000388913	Q6ZRV2	FA83H_HUMAN	p.Gln201His								0.0007158149125917	0.0011372142766236	H	True
-PF07894	Gln	H	236.0	201.0	True	gnomAD	FAM83H	['NM_198488']	rs9969600	ENST00000388913	Q6ZRV2	FA83H_HUMAN	p.Gln201His								0.9981677524429968	0.9987416761776516	H	True

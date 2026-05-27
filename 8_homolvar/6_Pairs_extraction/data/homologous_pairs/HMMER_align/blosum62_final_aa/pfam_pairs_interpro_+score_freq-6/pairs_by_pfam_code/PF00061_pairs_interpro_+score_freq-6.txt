@@ -1,7 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00061	Asp	H	93.0	120.0	True	ClinVar	RBP4	NM_006744				RET4_HUMAN	p.Asp120His	Likely pathogenic(Last reviewed: Dec 6, 2022)	Congenital ocular coloboma	criteria provided, single submitter	VCV002430200	2430200.0	2403703.0	NC_000010.11:93594032:C:G			HY	True
-PF00061	Asp	Y	93.0	120.0	True	ClinVar	RBP4	NM_006744				RET4_HUMAN	p.Asp120Tyr	Likely pathogenic(Last reviewed: Dec 6, 2022)	Bilateral microphthalmos	criteria provided, single submitter	VCV002430197	2430197.0	2403700.0	NC_000010.11:93594032:C:A			HY	True
-PF00061	Glu	K	72.0	62.0	True	gnomAD	PMP2	['NM_002677']	rs747636616	ENST00000256103	P02689	MYP2_HUMAN	p.Glu62Lys								1.9711683772e-05	1.77909400322e-05	K	True
-PF00061	Glu	K	72.0	99.0	True	gnomAD	RBP4	['NM_006744']	rs201407285	ENST00000371464	P02753	RET4_HUMAN	p.Glu99Lys								2.62667121956e-05	2.32583911486e-05	K	True
-PF00061	Thr	I	7.0	41.0	True	gnomAD	RBP4	['NM_006744']	rs367834906	ENST00000371464	P02753	RET4_HUMAN	p.Thr41Ile								3.94960306489e-05	8.9093819904e-06	I	True
-PF00061	Thr	I	7.0	8.0	True	gnomAD	PMP2	['NM_002677']	rs745538413	ENST00000256103	P02689	MYP2_HUMAN	p.Thr8Ile								6.5740168557e-06	4.72065361212e-05	I	True

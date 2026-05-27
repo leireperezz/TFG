@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF07140	Ile	M	59.0	183.0	True	gnomAD	IFNGR1	['NM_000416']	rs377718783	ENST00000367739	P15260	INGR1_HUMAN	p.Ile183Met								3.32217083931e-05	4.112253556e-06	MV	True
-PF07140	Ile	V	59.0	183.0	True	gnomAD	IFNGR1	['NM_000416']	rs752756474	ENST00000367739	P15260	INGR1_HUMAN	p.Ile183Val								3.30565399058e-05	2.39759856527e-05	MV	True

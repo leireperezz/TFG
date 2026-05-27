@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF18913	V	Leu	469.0	306.0	True	gnomAD	FBP2	['NM_003837']	rs763789175	ENST00000375337	O00757	F16P2_HUMAN	p.Val306Leu								6.5728933876e-06	1.77854391977e-05	V	True
-PF18913	V	Leu	469.0	306.0	True	gnomAD	FBP2	['NM_003837']	rs763789175	ENST00000375337	O00757	F16P2_HUMAN	p.Val306Leu								1.9718680163e-05	2.73622141503e-05	V	True

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF02259	R	Gln	174.0	1640.0	True	gnomAD	MTOR	['NM_001386501', 'NM_004958', 'NM_001386500']	rs573705289	ENST00000361445	P42345	MTOR_HUMAN	p.Arg1640Gln								1.97002928776e-05	2.80458090668e-05	R	True
-PF02259	R	Gln	174.0	1904.0	True	gnomAD	ATR	['NM_001184']	rs777679157	ENST00000350721	Q13535	ATR_HUMAN	p.Arg1904Gln								1.31511461223e-05	1.3690978193e-06	R	True

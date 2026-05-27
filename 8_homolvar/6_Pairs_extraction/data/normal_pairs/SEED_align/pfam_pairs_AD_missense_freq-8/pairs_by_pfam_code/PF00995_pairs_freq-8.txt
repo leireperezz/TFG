@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-199	PF00995	His	Asn	743.0	571.0	True	gnomAD	STXBP1	['NM_003165', 'NM_001374315']		ENST00000373302	P61764	STXB1_HUMAN	p.His571Asn									1.5905888041e-06
-200	PF00995	His	Asn	743.0	571.0	True	gnomAD	STXBP1	['NM_001032221', 'NM_001374306']	rs943029638	ENST00000373299	P61764	STXB1_HUMAN	p.His571Asn									6.840993421700726e-07
-315	PF00995	Phe	Leu	79.0	91.0	True	gnomAD	STXBP1	['NM_001032221', 'NM_001374306']	rs908566696	ENST00000373299	P61764	STXB1_HUMAN	p.Phe91Leu									3.6009650586e-06
-316	PF00995	Phe	Leu	79.0	91.0	True	gnomAD	STXBP1	['NM_001032221', 'NM_001374306']	rs1490338912	ENST00000373299	P61764	STXB1_HUMAN	p.Phe91Leu									3.1808639226e-06

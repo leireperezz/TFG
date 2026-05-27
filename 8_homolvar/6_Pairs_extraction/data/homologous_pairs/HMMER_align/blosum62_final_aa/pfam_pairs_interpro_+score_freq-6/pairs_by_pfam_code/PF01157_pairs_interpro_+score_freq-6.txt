@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01157	Gln	E	79.0	79.0	True	gnomAD	RPL21	['NM_000982']	rs749600972	ENST00000311549	P46778	RL21_HUMAN	p.Gln79Glu								1.96984819036e-05	4.4369115546e-06	EK	True
-PF01157	Gln	K	79.0	79.0	True	gnomAD	RPL21	['NM_000982']	rs749600972	ENST00000311549	P46778	RL21_HUMAN	p.Gln79Lys								1.31425041727e-05	5.3243222137e-06	EK	True

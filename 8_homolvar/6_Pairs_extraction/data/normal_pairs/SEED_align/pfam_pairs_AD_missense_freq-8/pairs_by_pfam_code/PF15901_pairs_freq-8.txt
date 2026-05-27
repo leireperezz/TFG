@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-110	PF15901	Phe	Leu	65.0	588.0	True	gnomAD	SORT1	['NM_002959']	rs1224400776	ENST00000256637	Q99523	SORT_HUMAN	p.Phe588Leu									7.2041611234e-06
-111	PF15901	Phe	Leu	65.0	588.0	True	gnomAD	SORT1	['NM_002959']	rs768651616	ENST00000256637	Q99523	SORT_HUMAN	p.Phe588Leu									1.5905027897e-06

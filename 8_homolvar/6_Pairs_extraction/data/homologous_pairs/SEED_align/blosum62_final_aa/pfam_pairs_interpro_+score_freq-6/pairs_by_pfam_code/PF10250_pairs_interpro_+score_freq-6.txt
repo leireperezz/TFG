@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF10250	Val	I	389.0	308.0	True	gnomAD	POFUT1	['NM_015352']	rs565027162	ENST00000375749	Q9H488	OFUT1_HUMAN	p.Val308Ile								3.94228494835e-05	1.91533140705e-05	IL	True
-PF10250	Val	L	389.0	308.0	True	gnomAD	POFUT1	['NM_015352']	rs565027162	ENST00000375749	Q9H488	OFUT1_HUMAN	p.Val308Leu								1.96961539976e-05	1.09447508974e-05	IL	True

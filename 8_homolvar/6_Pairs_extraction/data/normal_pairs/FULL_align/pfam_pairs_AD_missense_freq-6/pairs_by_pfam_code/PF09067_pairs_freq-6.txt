@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-6	PF09067	Arg	Cys	48.0	57.0	True	gnomAD	GHR	['NM_000163', 'NM_001242401', 'NM_001242406']	rs200503849	ENST00000230882	P10912	GHR_HUMAN	p.Arg57Cys								1.31399138021e-05	1.16334929631e-05
-7	PF09067	Arg	Cys	48.0	37.0	True	gnomAD	PRLR	['NM_000949']	rs1196114381	ENST00000618457	P16471	PRLR_HUMAN	p.Arg37Cys								1.31466508906e-05	2.0524215838e-06
-12	PF09067	Arg	His	48.0	57.0	True	gnomAD	GHR	['NM_000163', 'NM_001242401', 'NM_001242406']	rs373412197	ENST00000230882	P10912	GHR_HUMAN	p.Arg57His								5.92058521695e-05	5.54326001174e-05
-13	PF09067	Arg	His	48.0	37.0	True	gnomAD	PRLR	['NM_000949']	rs754923118	ENST00000618457	P16471	PRLR_HUMAN	p.Arg37His								4.60229588817e-05	3.3522289586e-05

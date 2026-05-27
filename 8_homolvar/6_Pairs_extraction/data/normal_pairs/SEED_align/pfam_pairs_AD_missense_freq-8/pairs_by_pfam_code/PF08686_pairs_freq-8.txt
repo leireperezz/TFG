@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-8	PF08686	Asn	Lys	44.0	981.0	True	gnomAD	THSD4	['NM_024817']		ENST00000261862	Q6ZMP0	THSD4_HUMAN	p.Asn981Lys									1.2003245677e-06
-9	PF08686	Asn	Lys	44.0	981.0	True	gnomAD	THSD4	['NM_024817']		ENST00000261862	Q6ZMP0	THSD4_HUMAN	p.Asn981Lys									1.2003245677e-06
-37	PF08686	Val	Leu	47.0	984.0	True	gnomAD	THSD4	['NM_024817']		ENST00000261862	Q6ZMP0	THSD4_HUMAN	p.Val984Leu									6.840459952527208e-07
-38	PF08686	Val	Leu	47.0	984.0	True	gnomAD	THSD4	['NM_024817']	rs145303415	ENST00000261862	Q6ZMP0	THSD4_HUMAN	p.Val984Leu								0.0001838138753216	1.57330578908e-05

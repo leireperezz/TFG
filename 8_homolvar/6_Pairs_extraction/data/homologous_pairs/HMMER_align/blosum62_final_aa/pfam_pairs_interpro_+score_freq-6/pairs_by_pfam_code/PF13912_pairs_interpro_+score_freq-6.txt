@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF13912	Asp	N	9.0	236.0	True	gnomAD	PRDM16	['NM_022114']	rs185041492	ENST00000270722	Q9HAZ2	PRD16_HUMAN	p.Asp236Asn								9.19129715463e-05	9.6547965166e-05	N	True
-PF13912	Asp	N	9.0	269.0	True	gnomAD	MECOM	['NM_004991']	rs765907926	ENST00000651503	Q03112	MECOM_HUMAN	p.Asp269Asn								1.31445772046e-05	1.09462634245e-05	N	True
-PF13912	His	P	26.0	172.0	True	gnomAD	PLAG1	['NM_001114634', 'NM_002655']	rs2129224598	ENST00000316981	Q6DJT9	PLAG1_HUMAN	p.His172Pro								0.0	0.0001735513266043	P	True
-PF13912	His	P	26.0	56.0	True	gnomAD	PLAG1	['NM_001114634', 'NM_002655']		ENST00000316981	Q6DJT9	PLAG1_HUMAN	p.His56Pro									2.64576989498e-05	P	True

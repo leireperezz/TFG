@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF07993	Glu	Q	83.0	96.0	True	gnomAD	FAR1	['NM_032228']	rs12793516	ENST00000354817	Q8WVX9	FACR1_HUMAN	p.Glu96Gln								7.23408173197e-05	9.87597706563e-05	QK	True
-PF07993	Glu	K	83.0	96.0	True	gnomAD	FAR1	['NM_032228']	rs12793516	ENST00000354817	Q8WVX9	FACR1_HUMAN	p.Glu96Lys								0.0031542424561034	0.0043055102796302	QK	True

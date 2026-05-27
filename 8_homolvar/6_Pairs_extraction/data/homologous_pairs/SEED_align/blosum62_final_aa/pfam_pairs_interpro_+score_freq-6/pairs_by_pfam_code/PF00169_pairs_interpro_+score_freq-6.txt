@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00169	Ala	S	136.0	487.0	True	gnomAD	PRKD1	['NM_002742']	rs1228532129	ENST00000331968	Q15139	KPCD1_HUMAN	p.Ala487Ser									2.12079210901e-05	ST	True
-PF00169	Ala	T	136.0	487.0	True	gnomAD	PRKD1	['NM_002742']	rs1228532129	ENST00000331968	Q15139	KPCD1_HUMAN	p.Ala487Thr								1.31552982963e-05	2.0523794603e-06	ST	True

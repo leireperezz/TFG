@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF05536	Ala	S	357.0	374.0	True	gnomAD	NCDN	['NM_014284']	rs200105021	ENST00000373243	Q9UBB6	NCDN_HUMAN	p.Ala374Ser								4.5991511281e-05	0.0001215372249184	ST	True
-PF05536	Ala	T	357.0	374.0	True	gnomAD	NCDN	['NM_014284']	rs200105021	ENST00000373243	Q9UBB6	NCDN_HUMAN	p.Ala374Thr								1.31404317945e-05	7.5960765574e-06	ST	True
-PF05536	Val	L	225.0	253.0	True	gnomAD	NCDN	['NM_014284']	rs138767615	ENST00000373243	Q9UBB6	NCDN_HUMAN	p.Val253Leu								2.62801729235e-05	8.00377614053e-05	LM	True
-PF05536	Val	M	225.0	253.0	True	gnomAD	NCDN	['NM_014284']	rs138767615	ENST00000373243	Q9UBB6	NCDN_HUMAN	p.Val253Met								0.0002363383314513	0.0001860706931817	LM	True

@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-48	PF12423	Ser	Arg	21.0	865.0	True	gnomAD	KIF1B	['NM_001365951']		ENST00000676179	O60333	KIF1B_HUMAN	p.Ser865Arg									5.4724278562e-06
-49	PF12423	Ser	Arg	21.0	865.0	True	gnomAD	KIF1B	['NM_001365951']	rs140015591	ENST00000676179	O60333	KIF1B_HUMAN	p.Ser865Arg								0.0001772630583786	0.0002195994943054

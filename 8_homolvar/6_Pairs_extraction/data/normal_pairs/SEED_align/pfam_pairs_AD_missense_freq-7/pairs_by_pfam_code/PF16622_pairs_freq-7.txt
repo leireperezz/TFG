@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-18	PF16622	Leu	Phe	13.0	1142.0	True	gnomAD	ZNF687	['NM_001304764', 'NM_020832']	rs77014701	ENST00000336715	Q8N1G0	ZN687_HUMAN	p.Leu1142Phe									2.750040563e-06
-19	PF16622	Leu	Phe	13.0	1142.0	True	gnomAD	ZNF687	['NM_001304764', 'NM_020832']	rs77014701	ENST00000336715	Q8N1G0	ZN687_HUMAN	p.Leu1142Phe									0.0004175471615047

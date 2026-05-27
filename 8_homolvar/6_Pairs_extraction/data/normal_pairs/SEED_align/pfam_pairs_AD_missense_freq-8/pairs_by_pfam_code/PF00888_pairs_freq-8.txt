@@ -1,6 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-236	PF00888	Phe	Leu	422.0	374.0	True	gnomAD	CUL3	['NM_003590']		ENST00000264414	Q13618	CUL3_HUMAN	p.Phe374Leu									6.847476567935184e-07
-237	PF00888	Phe	Leu	422.0	374.0	True	gnomAD	CUL3	['NM_003590']	rs1377640121	ENST00000264414	Q13618	CUL3_HUMAN	p.Phe374Leu								6.5690937278e-06	
-238	PF00888	Phe	Leu	422.0	374.0	True	gnomAD	CUL3	['NM_003590']		ENST00000264414	Q13618	CUL3_HUMAN	p.Phe374Leu									1.5932243355e-06
-280	PF00888	Thr	Ser	417.0	369.0	True	gnomAD	CUL3	['NM_003590']	rs1692588686	ENST00000264414	Q13618	CUL3_HUMAN	p.Thr369Ser								6.5715975553e-06	
-281	PF00888	Thr	Ser	417.0	369.0	True	gnomAD	CUL3	['NM_003590']	rs2106203392	ENST00000264414	Q13618	CUL3_HUMAN	p.Thr369Ser									1.2005090158e-06

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF10409	Met	I	98.0	270.0	True	gnomAD	PTEN	['NM_000314']	rs1195369834	ENST00000371953	P60484	PTEN_HUMAN	p.Met270Ile								7.45334207858e-05	7.22899387158e-05	IL	True
-PF10409	Met	L	98.0	270.0	True	gnomAD	PTEN	['NM_000314']	rs1554825502	ENST00000371953	P60484	PTEN_HUMAN	p.Met270Leu								1.33802534219e-05	0.0	IL	True

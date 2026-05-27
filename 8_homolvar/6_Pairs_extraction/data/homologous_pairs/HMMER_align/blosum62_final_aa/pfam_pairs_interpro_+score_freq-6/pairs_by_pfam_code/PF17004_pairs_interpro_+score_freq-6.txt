@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF17004	Val	I	17.0	45.0	True	gnomAD	SRP72	['NM_006947']	rs201940585	ENST00000642900	O76094	SRP72_HUMAN	p.Val45Ile								7.88405187706e-05	0.0001162186175348	IL	True
-PF17004	Val	L	17.0	45.0	True	gnomAD	SRP72	['NM_006947']	rs201940585	ENST00000642900	O76094	SRP72_HUMAN	p.Val45Leu								3.94202593853e-05	9.6275910254e-06	IL	True

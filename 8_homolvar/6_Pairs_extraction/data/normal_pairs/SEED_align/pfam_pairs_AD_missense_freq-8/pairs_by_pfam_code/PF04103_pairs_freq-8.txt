@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-80	PF04103	Leu	Phe	104.0	156.0	True	gnomAD	MS4A2	['NM_000139']		ENST00000278888	Q01362	FCERB_HUMAN	p.Leu156Phe									1.3680919905e-06
-81	PF04103	Leu	Phe	104.0	156.0	True	gnomAD	MS4A2	['NM_000139']	rs755318005	ENST00000278888	Q01362	FCERB_HUMAN	p.Leu156Phe									4.7883219667e-06
-118	PF04103	Ser	Arg	78.0	130.0	True	gnomAD	MS4A2	['NM_000139']		ENST00000278888	Q01362	FCERB_HUMAN	p.Ser130Arg									1.3681032206e-06
-119	PF04103	Ser	Arg	78.0	130.0	True	gnomAD	MS4A2	['NM_000139']	rs1188063911	ENST00000278888	Q01362	FCERB_HUMAN	p.Ser130Arg									4.1043096619e-06

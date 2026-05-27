@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-13	PF13640	Asp	Val	36.0	432.0	True	gnomAD	P4HA2	['NM_001365681', 'NM_001017974', 'NM_001142598', 'NM_001365680', 'NM_001365678', 'NM_001365679']	rs1215615327	ENST00000360568	O15460	P4HA2_HUMAN	p.Asp432Val									1.5903914907e-06
-14	PF13640	Asp	Val	36.0	315.0	True	gnomAD	EGLN1	['NM_022051']		ENST00000366641	Q9GZT9	EGLN1_HUMAN	p.Asp315Val	Likely benign								1.5906596465e-06
-33	PF13640	Lys	Arg	60.0	443.0	True	gnomAD	P4HA2	['NM_001365681', 'NM_001017974', 'NM_001142598', 'NM_001365680', 'NM_001365678', 'NM_001365679']	rs1580654492	ENST00000360568	O15460	P4HA2_HUMAN	p.Lys443Arg								1.97142744489e-05	3.1832535397e-06
-34	PF13640	Lys	Arg	60.0	443.0	True	gnomAD	P4HA2	['NM_001142599']	rs1327607177	ENST00000166534	O15460	P4HA2_HUMAN	p.Lys443Arg								6.5690937278e-06	1.5903763148e-06

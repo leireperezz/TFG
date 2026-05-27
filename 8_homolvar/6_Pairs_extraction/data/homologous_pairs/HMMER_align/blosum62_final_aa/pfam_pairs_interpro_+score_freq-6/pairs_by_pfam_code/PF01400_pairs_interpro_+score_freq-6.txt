@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01400	Met	L	36.0	182.0	True	ClinVar	TLL1	NM_012464	rs137852951			TLL1_HUMAN	p.Met182Leu	Pathogenic(Last reviewed: Mar 1, 2009)	Atrial septal defect 6	no assertion criteria provided	VCV000004074	4074.0	19113.0	NC_000004.12:165995089:A:C			LV	True
-PF01400	Met	V	36.0	182.0	True	gnomAD	TLL1	['NM_012464']	rs137852951	ENST00000061240	O43897	TLL1_HUMAN	p.Met182Val								1.97075401048e-05	1.77865828964e-05	LV	True

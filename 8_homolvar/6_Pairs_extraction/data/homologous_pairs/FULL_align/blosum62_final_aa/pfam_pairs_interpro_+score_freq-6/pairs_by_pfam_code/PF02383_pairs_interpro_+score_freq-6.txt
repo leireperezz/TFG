@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF02383	Ile	M	2454.0	374.0	True	gnomAD	FIG4	['NM_014845']	rs1376239309	ENST00000230124	Q92562	FIG4_HUMAN	p.Ile374Met								1.31527028804e-05	4.7970439244e-06	MV	True
-PF02383	Ile	V	2454.0	374.0	True	gnomAD	FIG4	['NM_014845']	rs753971119	ENST00000230124	Q92562	FIG4_HUMAN	p.Ile374Val								5.26184243412e-05	6.849709161349009e-07	MV	True

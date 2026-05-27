@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF04053	Ile	M	102.0	405.0	True	gnomAD	COPB2	['NM_004766']	rs1484081962	ENST00000333188	P35606	COPB2_HUMAN	p.Ile405Met									1.44616944147e-05	MV	True
-PF04053	Ile	V	102.0	405.0	True	gnomAD	COPB2	['NM_004766']	rs1941584654	ENST00000333188	P35606	COPB2_HUMAN	p.Ile405Val									1.93012931866e-05	MV	True

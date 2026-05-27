@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-31	PF18118	Asp	Asn	298.0	234.0	True	gnomAD	EZH1	['NM_001321079', 'NM_001991']		ENST00000428826	Q92800	EZH1_HUMAN	p.Asp234Asn									1.5909025826e-06
-32	PF18118	Asp	Asn	298.0	221.0	True	gnomAD	EZH2	['NM_004456']	rs374699518	ENST00000320356	Q15910	EZH2_HUMAN	p.Asp221Asn									1.5915305112e-06
-138	PF18118	Thr	Ile	328.0	261.0	True	gnomAD	EZH1	['NM_001321079', 'NM_001991']	rs537354614	ENST00000428826	Q92800	EZH1_HUMAN	p.Thr261Ile									1.5904521973e-06
-139	PF18118	Thr	Ile	328.0	248.0	True	gnomAD	EZH2	['NM_004456']	rs1164182968	ENST00000320356	Q15910	EZH2_HUMAN	p.Thr248Ile								6.5711657247e-06	0.0

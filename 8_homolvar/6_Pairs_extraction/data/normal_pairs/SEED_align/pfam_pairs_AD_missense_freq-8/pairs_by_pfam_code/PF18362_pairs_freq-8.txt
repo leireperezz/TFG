@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-25	PF18362	Glu	Lys	15.0	223.0	True	gnomAD	MYBPC1	['NM_002465']		ENST00000361466	Q00872	MYPC1_HUMAN	p.Glu223Lys									1.2003245677e-06
-26	PF18362	Glu	Lys	15.0	334.0	True	gnomAD	MYBPC3	['NM_000256']	rs573916965	ENST00000545968	Q14896	MYPC3_HUMAN	p.Glu334Lys								8.53556045803e-05	0.0001211474097041

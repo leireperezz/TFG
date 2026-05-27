@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-74	PF16608	Val	Ile	155.0	1500.0	True	gnomAD	TNRC6B	['NM_001162501']	rs2071198908	ENST00000454349	Q9UPQ9	TNR6B_HUMAN	p.Val1500Ile								1.31608386086e-05	
-75	PF16608	Val	Ile	155.0	1632.0	True	gnomAD	TNRC6A	['NM_014494']	rs142941291	ENST00000395799	Q8NDV7	TNR6A_HUMAN	p.Val1632Ile								1.97181617415e-05	5.0621342779e-05

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-21	PF02191	Asn	Lys	284.0	480.0	True	ClinVar	MYOC	NM_000261	rs74315332			MYOC_HUMAN	p.Asn480Lys	Pathogenic(Last reviewed: May 9, 2022)	Glaucoma of childhood	reviewed by expert panel	VCV000007951	7951.0	22990.0	NC_000001.11:171635999:G:T		
-22	PF02191	Asn	Lys	284.0	480.0	True	ClinVar	MYOC	NM_000261				MYOC_HUMAN	p.Asn480Lys	Likely pathogenic(Last reviewed: May 9, 2022)	Glaucoma of childhood	reviewed by expert panel	VCV001686785	1686785.0	1678899.0	NC_000001.11:171635999:G:C		
-56	PF02191	Gly	Arg	7.0	244.0	True	gnomAD	MYOC	['NM_000261']	rs757751695	ENST00000037502	Q99972	MYOC_HUMAN	p.Gly244Arg								6.5708203012e-06	2.7364198324e-06
-57	PF02191	Gly	Arg	7.0	244.0	True	gnomAD	MYOC	['NM_000261']		ENST00000037502	Q99972	MYOC_HUMAN	p.Gly244Arg									7.5251545393e-06

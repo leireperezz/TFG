@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF08568	Ala	S	364.0	287.0	True	gnomAD	GLMN	['NM_001319683', 'NM_053274']	rs745627489	ENST00000370360	Q92990	GLMN_HUMAN	p.Ala287Ser									1.50632932193e-05	ST	True
-PF08568	Ala	T	364.0	287.0	True	gnomAD	GLMN	['NM_001319683', 'NM_053274']	rs745627489	ENST00000370360	Q92990	GLMN_HUMAN	p.Ala287Thr									1.36939216789e-05	ST	True

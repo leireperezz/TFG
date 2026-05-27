@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-99	PF16545	Val	Leu	88.0	374.0	True	gnomAD	CCM2	['NM_001363458', 'NM_031443']	rs200669376	ENST00000258781	Q9BSQ5	CCM2_HUMAN	p.Val374Leu									6.842491323721002e-07
-100	PF16545	Val	Leu	88.0	374.0	True	gnomAD	CCM2	['NM_001363458', 'NM_031443']	rs200669376	ENST00000258781	Q9BSQ5	CCM2_HUMAN	p.Val374Leu								2.62829358039e-05	2.32644705006e-05

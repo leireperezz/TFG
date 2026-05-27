@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-85	PF05649	Ile	Val	864.0	191.0	True	gnomAD	ECE1	['NM_001397']	rs142988424	ENST00000374893	P42892	ECE1_HUMAN	p.Ile191Val								9.18876345497e-05	6.8404505941e-06
-86	PF05649	Ile	Val	864.0	149.0	True	gnomAD	MME	['NM_007289']	rs200157166	ENST00000360490	P08473	NEP_HUMAN	p.Ile149Val								0.000427434734004	7.39637878773e-05

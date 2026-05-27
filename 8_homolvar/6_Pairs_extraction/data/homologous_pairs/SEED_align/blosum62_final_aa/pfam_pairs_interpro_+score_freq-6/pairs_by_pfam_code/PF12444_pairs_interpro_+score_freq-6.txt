@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF12444	Asp	N	73.0	85.0	True	gnomAD	SOX9	['NM_000346']	rs368623884	ENST00000245479	P48436	SOX9_HUMAN	p.Asp85Asn								1.31343910896e-05	6.905667204848331e-07	NH	True
-PF12444	Asp	H	73.0	85.0	True	gnomAD	SOX9	['NM_000346']	rs368623884	ENST00000245479	P48436	SOX9_HUMAN	p.Asp85His								1.31343910896e-05	4.8339670433e-06	NH	True

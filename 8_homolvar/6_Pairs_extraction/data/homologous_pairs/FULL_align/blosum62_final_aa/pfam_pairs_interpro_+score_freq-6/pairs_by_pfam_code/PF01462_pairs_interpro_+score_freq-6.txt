@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF01462	Val	A	46.0	31.0	True	gnomAD	GP1BA	['NM_000173']	rs201827537	ENST00000329125	P07359	GP1BA_HUMAN	p.Val31Ala								0.0007379976542217	0.0008743256130883	A	True
-PF01462	Val	A	46.0	41.0	True	gnomAD	LGR4	['NM_018490']		ENST00000379214	Q9BXB1	LGR4_HUMAN	p.Val41Ala									1.9245044401e-05	A	True
-PF01462	Val	L	60.0	51.0	True	gnomAD	LGR4	['NM_018490']	rs201925650	ENST00000379214	Q9BXB1	LGR4_HUMAN	p.Val51Leu								0.0004979616768693	0.0003472154617965	LM	True
-PF01462	Val	M	60.0	51.0	True	gnomAD	LGR4	['NM_018490']	rs201925650	ENST00000379214	Q9BXB1	LGR4_HUMAN	p.Val51Met								2.65579560996e-05	7.3012478643e-06	LM	True

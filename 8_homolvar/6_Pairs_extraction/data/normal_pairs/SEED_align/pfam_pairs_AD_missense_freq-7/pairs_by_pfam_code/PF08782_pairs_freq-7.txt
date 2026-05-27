@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-24	PF08782	Asp	Glu	93.0	305.0	True	gnomAD	SKI	['NM_003036']	rs900879745	ENST00000378536	P12755	SKI_HUMAN	p.Asp305Glu								2.62711975725e-05	2.7545401708e-06
-25	PF08782	Asp	Glu	93.0	305.0	True	gnomAD	SKI	['NM_003036']		ENST00000378536	P12755	SKI_HUMAN	p.Asp305Glu									4.1318102562e-06
-63	PF08782	Met	Leu	38.0	253.0	True	gnomAD	SKI	['NM_003036']	rs767352419	ENST00000378536	P12755	SKI_HUMAN	p.Met253Leu								6.5710793654e-06	1.370888363e-06
-64	PF08782	Met	Leu	38.0	253.0	True	gnomAD	SKI	['NM_003036']	rs767352419	ENST00000378536	P12755	SKI_HUMAN	p.Met253Leu								1.31421587309e-05	2.0563353636e-06

@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF01853	R	His	649.0	899.0	True	gnomAD	KAT6B	['NM_001370137', 'NM_012330']	rs761702778	ENST00000287239	Q8WYB5	KAT6B_HUMAN	p.Arg899His								1.31399138021e-05	1.16289410139e-05	R	True
-PF01853	R	His	649.0	688.0	True	gnomAD	KAT6A	['NM_006766']	rs368565180	ENST00000265713	Q92794	KAT6A_HUMAN	p.Arg688His								1.31592799242e-05	5.4725401616e-06	R	True

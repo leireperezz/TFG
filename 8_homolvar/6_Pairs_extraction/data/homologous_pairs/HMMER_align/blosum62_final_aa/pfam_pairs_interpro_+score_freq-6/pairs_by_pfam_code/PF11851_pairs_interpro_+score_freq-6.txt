@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF11851	Gly	R	166.0	506.0	True	gnomAD	MITF	['NM_001354604', 'NM_001354605']	rs531830542	ENST00000352241	O75030	MITF_HUMAN	p.Gly506Arg								6.5695252861e-05	2.0527502063e-05	R	True
-PF11851	Gly	R	166.0	506.0	True	gnomAD	MITF	['NM_001354604', 'NM_001354605']	rs531830542	ENST00000352241	O75030	MITF_HUMAN	p.Gly506Arg								3.94477317554e-05	1.57377515816e-05	R	True
-PF11851	Val	I	152.0	493.0	True	gnomAD	MITF	['NM_001354604', 'NM_001354605']	rs756044021	ENST00000352241	O75030	MITF_HUMAN	p.Val493Ile								6.575227174e-06	2.46269361218e-05	IL	True
-PF11851	Val	L	152.0	493.0	True	gnomAD	MITF	['NM_001354604', 'NM_001354605']	rs756044021	ENST00000352241	O75030	MITF_HUMAN	p.Val493Leu								1.97256815222e-05	8.2089787072e-06	IL	True

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-103	PF00136	Asp	Glu	159.0	644.0	True	gnomAD	POLD1	['NM_002691']	rs80214209	ENST00000440232	P28340	DPOD1_HUMAN	p.Asp644Glu									1.3686406113e-06
-104	PF00136	Asp	Glu	159.0	644.0	True	gnomAD	POLD1	['NM_002691']	rs80214209	ENST00000440232	P28340	DPOD1_HUMAN	p.Asp644Glu								0.0004070057505973	0.000238828113559
-251	PF00136	Phe	Leu	321.0	794.0	True	gnomAD	POLD1	['NM_002691']		ENST00000440232	P28340	DPOD1_HUMAN	p.Phe794Leu									1.6238353041e-06
-252	PF00136	Phe	Leu	321.0	794.0	True	gnomAD	POLD1	['NM_002691']	rs2122451694	ENST00000440232	P28340	DPOD1_HUMAN	p.Phe794Leu									9.6117571012e-06

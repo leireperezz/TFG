@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF14604	Ala	S	96.0	382.0	True	gnomAD	PSTPIP1	['NM_001321137', 'NM_001321136', 'NM_003978']	rs145344175	ENST00000558012	O43586	PPIP1_HUMAN	p.Ala382Ser								1.31428496326e-05	7.5344323558e-06	ST	True
-PF14604	Ala	T	96.0	382.0	True	gnomAD	PSTPIP1	['NM_001321137', 'NM_001321136', 'NM_003978']	rs145344175	ENST00000558012	O43586	PPIP1_HUMAN	p.Ala382Thr								0.0044323912586677	0.0004671348060637	ST	True
-PF14604	Gly	R	215.0	403.0	True	gnomAD	PSTPIP1	['NM_001321137', 'NM_001321136', 'NM_003978']	rs369113632	ENST00000558012	O43586	PPIP1_HUMAN	p.Gly403Arg								7.22505385949e-05	0.0001870052580672	R	True
-PF14604	Gly	R	215.0	403.0	True	gnomAD	PSTPIP1	['NM_001321137', 'NM_001321136', 'NM_003978']	rs369113632	ENST00000558012	O43586	PPIP1_HUMAN	p.Gly403Arg								2.62933017813e-05	1.78100245778e-05	R	True

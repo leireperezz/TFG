@@ -1,4 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00176	Arg	C	930.0	666.0	True	gnomAD	ERCC6	['NM_001346440', 'NM_000124']	rs61760163	ENST00000355832	Q03468	ERCC6_HUMAN	p.Arg666Cys								0.0017551009676062	0.0022423948065096	C	True
-PF00176	Ser	C	1151.0	797.0	True	gnomAD	ERCC6	['NM_001346440', 'NM_000124']	rs146043988	ENST00000355832	Q03468	ERCC6_HUMAN	p.Ser797Cys								0.0008012504761529	0.0015882683016957	C	True
-PF00176	Thr	M	968.0	699.0	True	gnomAD	ERCC6	['NM_001346440', 'NM_000124']	rs55698015	ENST00000355832	Q03468	ERCC6_HUMAN	p.Thr699Met								0.0013031116727215	0.0001689635216649	M	True

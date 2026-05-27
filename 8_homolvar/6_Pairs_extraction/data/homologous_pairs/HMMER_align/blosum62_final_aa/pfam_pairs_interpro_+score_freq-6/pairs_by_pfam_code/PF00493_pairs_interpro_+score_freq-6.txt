@@ -1,5 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF00493	Ala	S	171.0	495.0	True	gnomAD	MCM6	['NM_005915']	rs759786957	ENST00000264156	Q14566	MCM6_HUMAN	p.Ala495Ser								1.31456139659e-05	1.3685600695e-06	ST	True
-PF00493	Ala	T	171.0	495.0	True	gnomAD	MCM6	['NM_005915']	rs759786957	ENST00000264156	Q14566	MCM6_HUMAN	p.Ala495Thr								7.88736837954e-05	4.92681625028e-05	ST	True
-PF00493	Val	L	85.0	409.0	True	gnomAD	MCM6	['NM_005915']	rs765614539	ENST00000264156	Q14566	MCM6_HUMAN	p.Val409Leu								4.60181179904e-05	3.29788111138e-05	LM	True
-PF00493	Val	M	85.0	409.0	True	gnomAD	MCM6	['NM_005915']	rs765614539	ENST00000264156	Q14566	MCM6_HUMAN	p.Val409Met								6.5740168557e-06	1.16799956028e-05	LM	True

@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-43	PF02862	Asp	Glu	1943.0	532.0	True	gnomAD	PITPNM3	['NM_031220']	rs954237971	ENST00000262483	Q9BZ71	PITM3_HUMAN	p.Asp532Glu									1.3692627889e-06
-44	PF02862	Asp	Glu	1943.0	532.0	True	gnomAD	PITPNM3	['NM_031220']	rs954237971	ENST00000262483	Q9BZ71	PITM3_HUMAN	p.Asp532Glu								6.5696116045e-06	
-97	PF02862	Phe	Leu	2068.0	587.0	True	gnomAD	PITPNM3	['NM_031220']	rs899908498	ENST00000262483	Q9BZ71	PITM3_HUMAN	p.Phe587Leu									1.6020454916e-06
-98	PF02862	Phe	Leu	2068.0	587.0	True	gnomAD	PITPNM3	['NM_031220']		ENST00000262483	Q9BZ71	PITM3_HUMAN	p.Phe587Leu									1.6031344484e-06

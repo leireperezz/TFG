@@ -1,3 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-58	PF02793	Val	Leu	24.0	126.0	True	gnomAD	PTH1R	['NM_000316']		ENST00000449590	Q03431	PTH1R_HUMAN	p.Val126Leu									6.84081558939783e-07
-59	PF02793	Val	Leu	24.0	126.0	True	gnomAD	PTH1R	['NM_000316']		ENST00000449590	Q03431	PTH1R_HUMAN	p.Val126Leu									6.84081558939783e-07

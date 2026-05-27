@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-104	PF01148	Met	Ile	193.0	110.0	True	gnomAD	CDS1	['NM_001263']		ENST00000295887	Q92903	CDS1_HUMAN	p.Met110Ile									1.3882005727e-06
-105	PF01148	Met	Ile	193.0	110.0	True	gnomAD	CDS1	['NM_001263']	rs1297924369	ENST00000295887	Q92903	CDS1_HUMAN	p.Met110Ile								6.5730662039e-06	6.941002863857781e-07
-120	PF01148	Phe	Leu	416.0	149.0	True	gnomAD	CDS1	['NM_001263']		ENST00000295887	Q92903	CDS1_HUMAN	p.Phe149Leu									2.9449269216e-06
-121	PF01148	Phe	Leu	416.0	149.0	True	gnomAD	CDS1	['NM_001263']	rs1723602709	ENST00000295887	Q92903	CDS1_HUMAN	p.Phe149Leu									4.4374825274e-06

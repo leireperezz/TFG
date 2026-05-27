@@ -1,5 +1,0 @@
-index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
-97	PF04799	Met	Leu	7.0	600.0	True	gnomAD	MFN2	['NM_014874']		ENST00000235329	O95140	MFN2_HUMAN	p.Met600Leu									1.2003216862e-06
-98	PF04799	Met	Leu	7.0	600.0	True	gnomAD	MFN2	['NM_014874']		ENST00000235329	O95140	MFN2_HUMAN	p.Met600Leu									1.2003216862e-06
-106	PF04799	Phe	Leu	68.0	661.0	True	gnomAD	MFN2	['NM_014874']	rs1204925465	ENST00000235329	O95140	MFN2_HUMAN	p.Phe661Leu								6.5684033525e-06	
-107	PF04799	Phe	Leu	68.0	661.0	True	gnomAD	MFN2	['NM_014874']		ENST00000235329	O95140	MFN2_HUMAN	p.Phe661Leu									1.5905129086e-06

@@ -1,9 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF00531	E	Gln	97.0	438.0	True	gnomAD	TNFRSF1A	['NM_001065']	rs745814061	ENST00000162749	P19438	TNR1A_HUMAN	p.Glu438Gln	Likely benign							6.5691800349e-06	1.1086146751e-05	E	True
-PF00531	E	Gln	97.0	3650.0	True	gnomAD	ANK2	['NM_001148']	rs746987182	ENST00000357077	Q01484	ANK2_HUMAN	p.Glu3650Gln								5.91871629619e-05	2.80479579034e-05	E	True
-PF00531	R	His	64.0	279.0	True	gnomAD	FAS	['NM_000043']	rs563211901	ENST00000652046	P25445	TNR6_HUMAN	p.Arg279His								1.31407771455e-05	9.5779673911e-06	R	True
-PF00531	R	His	64.0	819.0	True	gnomAD	NFKB2	['NM_001322934']	rs761531554	ENST00000661543	Q00653	NFKB2_HUMAN	p.Arg819His									1.5075617929e-05	R	True
-PF00531	E	Lys	45.0	157.0	True	ClinVar	EDARADD	NM_145861				EDAD_HUMAN	p.Glu157Lys	Pathogenic(Last reviewed: Jan 15, 2020)	Ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive	no assertion criteria provided	VCV002428490	2428490.0	2401932.0	NC_000001.11:236482469:G:A			E	True
-PF00531	E	Lys	45.0	603.0	True	gnomAD	THOC1	['NM_005131']	rs778910404	ENST00000261600	Q96FV9	THOC1_HUMAN	p.Glu603Lys								1.31437133618e-05	1.98402653396e-05	E	True
-PF00531	T	Met	76.0	645.0	True	gnomAD	RIPK1	['NM_003804', 'NM_001354930']	rs116040763	ENST00000259808	Q13546	RIPK1_HUMAN	p.Thr645Met								0.0001116364591541	0.0001176617061768	T	True
-PF00531	T	Met	76.0	175.0	True	gnomAD	EDARADD	['NM_145861']	rs1307926920	ENST00000334232	Q8WWZ3	EDAD_HUMAN	p.Thr175Met									1.23237025879e-05	T	True

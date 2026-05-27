@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
-PF04053	A	Thr	187.0	510.0	True	gnomAD	COPA	['NM_004371']	rs759621411	ENST00000241704	P53621	COPA_HUMAN	p.Ala510Thr								1.31482065846e-05	1.36813878399e-05	AS	True
-PF04053	S	Thr	187.0	484.0	True	gnomAD	COPB2	['NM_004766']	rs377228965	ENST00000333188	P35606	COPB2_HUMAN	p.Ser484Thr								1.97067633611e-05	2.73694034701e-05	AS	True

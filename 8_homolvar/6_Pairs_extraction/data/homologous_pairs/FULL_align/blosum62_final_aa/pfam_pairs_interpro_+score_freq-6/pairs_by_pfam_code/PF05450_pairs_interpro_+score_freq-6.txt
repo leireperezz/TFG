@@ -1,3 +1,0 @@
-Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
-PF05450	Val	I	749.0	439.0	True	gnomAD	NCSTN	['NM_001290184', 'NM_015331', 'NM_001349729']	rs144264818	ENST00000294785	Q92542	NICA_HUMAN	p.Val439Ile								8.54408749145e-05	6.22481855679e-05	IL	True
-PF05450	Val	L	749.0	439.0	True	gnomAD	NCSTN	['NM_001290184', 'NM_015331', 'NM_001349729']	rs144264818	ENST00000294785	Q92542	NICA_HUMAN	p.Val439Leu								1.97171249802e-05		IL	True
