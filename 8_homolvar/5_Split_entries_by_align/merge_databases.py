@@ -13,7 +13,7 @@ version_pattern = '' if version_files == 'no_freq' else '_' + version_files
 
 # Set data path
 data_path = "../4_Align_pos/data/REC"
-#data_path = r"C:\Users\34618\Desktop\TFG_2_0\9_homolvar\homolvar_code\4_Align_pos\data\HMMER"
+
 
 ##### ClinVar #####
 # Set ClinVar file path
