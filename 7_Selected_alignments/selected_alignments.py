@@ -17,7 +17,7 @@ input_full_original = "../5_Blosum_no_filtered/results/full_blosum.csv"
 ##### OUTPUT PATHS #####
 
 output_dir = "./results"
-output_file = os.path.join(output_dir, "selected_alignments_2.csv")
+output_file = os.path.join(output_dir, "selected_alignments.csv")
 os.makedirs(output_dir, exist_ok=True)
 
 ##### ALIGNMENT SOURCE DIRECTORIES #####
