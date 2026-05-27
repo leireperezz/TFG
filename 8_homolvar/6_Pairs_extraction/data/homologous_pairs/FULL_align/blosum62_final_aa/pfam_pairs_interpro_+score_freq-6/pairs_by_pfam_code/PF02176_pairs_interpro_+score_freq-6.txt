@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02176	Val	L	43.0	200.0	True	gnomAD	TRAF3	['NM_145725', 'NM_001385142', 'NM_001385143']	rs540563941	ENST00000392745	Q13114	TRAF3_HUMAN	p.Val200Leu								1.97298328225e-05	2.053404956e-06	LM	True
+PF02176	Val	M	43.0	200.0	True	gnomAD	TRAF3	['NM_145725', 'NM_001385142', 'NM_001385143']	rs540563941	ENST00000392745	Q13114	TRAF3_HUMAN	p.Val200Met								1.31430223694e-05	6.1602148682e-06	LM	True

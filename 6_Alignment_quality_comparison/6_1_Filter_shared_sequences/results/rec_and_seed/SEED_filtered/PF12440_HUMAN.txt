@@ -1,0 +1,8 @@
+MAGB3_HUMAN/5-95                     QKSTLHAREKRQQ.TRGQTQD....HQGAQITAT..NKKK...........................VSFSS.........PLILGATIQKKS.AG..R.SRS.....ALKKPQR..........ALSTTT.SV.DVSYKK..S....................Y.KGANSK....IEKKQS
+MAGA5_HUMAN/5-96                     QKSQHCKPEEGLD.TQEEALG....LVGVQAATT..EEQEA.........................VSSS...........SPLVPGTLGEVP.AA..G.SPG.....PLKSPQG..........ASAIPTAID.FTLWRQ.S.....................I.KGSSNQ....EEEGPS
+MAGA1_HUMAN/5-89                     QRSLHCKPEEALE.AQQEALG....LVCVQAATS..................................SS...........SPLVLGTLEEVP.TA..G.STD.....PPQSPQG..........ASAFPTTIN.FTRQRQ.P.....................S.EGSSSR....EEEGPS
+MA13P_HUMAN/5-98                     QKSRHCELEQGLQ.APKEAQG....LVGVQVAEA..EKVNT........................TASSSP..........STLIQGTLEKVS.AS..G.TPG.....TPQSSQR..........VCSPCTTIK.ATPWNQ.S.....................D.ESSRSQ....EKKDPG
+MAGBG_HUMAN/5-96                     QESPRCTHDQHLQ.TFSETQS....LEVAQVSKA..LEKTL........................LSSS............HPLVPGKLKEAP.AA..K.AES.....PLEVPQS..........FCSSSIAVT.TTSSSE.S.....................D.EASSNQ....EEEDSP
+MAGBA_HUMAN/5-95                     QKSKLRAREKRRQ.ARGGLED....LIDALDILE..EEEE...........................SPPSA.........SACLKDVFQSS..LD..G.ASN.....NPHGLRE..........AQSTSTSAT.AASHTR..H....................P.EGVNDQ....MEERPI
+MAGBH_HUMAN/5-93                     QASKRRAREKRRQ.ARGEDQC....LGGAQATAA..EKEK...........................LPSSS.........SPACQSPPQSFP.NA..G.IPQ.....ESQR.............ASYPSSPAS.AVSLTS..S....................D.EGAKGQ....KGESPN
+MAGB6_HUMAN/5-95                     HKSKLRTCEKRQE.TNGQPQG....LTGPQATAE..KQEES.........................HSSSSS.........SRACLGDCRRSS.DA..S.IPQ.....ESQG.............VSPTGSPDA.VVSYSK..S....................D.VAANGQ....DEKSPS

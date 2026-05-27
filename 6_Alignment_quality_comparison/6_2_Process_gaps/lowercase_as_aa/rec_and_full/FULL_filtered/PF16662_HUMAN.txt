@@ -1,0 +1,5 @@
+FWCH1_HUMAN/480532                  PPDLGGLEALRQREK----RPNTAQrGS---PGGPEFLK-------------------------------tplggsflvyesflyrrekaa
+FWCH1_HUMAN/659684                  QPDLAGLEALRQRER----LPTT-----------------------------------------------aqqedpe--------------
+FWCH1_HUMAN/568586                  PPDLGGLEALRQREH-------------------------------------------------------fpnl-----------------
+FWCH1_HUMAN/332393                  QPDMEGLEARRQQEK----AVETLQ-AG---QDGPGSQVDTLLRGVDSLLYRRGPGPLTLTRPRPRKRAK---------------------
+FWCH1_HUMAN/175224                  APDEQGLEARRQREKlpslALPEGL-GEpqgPEGPGGRVEEPLEGV------------------------gpwqc----------------

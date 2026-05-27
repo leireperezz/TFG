@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+11	PF02201	Asp	Glu	13.0	298.0	True	gnomAD	SMARCD1	['NM_003076']		ENST00000394963	Q96GM5	SMRD1_HUMAN	p.Asp298Glu									5.4757015742e-06
+12	PF02201	Asp	Glu	13.0	298.0	True	gnomAD	SMARCD1	['NM_003076']	rs771405936	ENST00000394963	Q96GM5	SMRD1_HUMAN	p.Asp298Glu									4.1067761806e-06

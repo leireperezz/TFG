@@ -1,0 +1,4 @@
+NFIP1_HUMAN/110-165            .LRIGNDGIFMLTFFMAFLFNWIGFFLSFCLTTSAAGRYGAISGFGLSLIKWILIVR-----------------------------------------------------------------------------..
+NFIP1_HUMAN/176-209            g-------------------------------------------------------------------------------------------------QYWLWWVFLVLGFLLFLRGFINYAKVRKMPE-----tf
+NFIP2_HUMAN/225-281            .LRVGNDGIFMLAFFMAFIFNWLGFCLSFCITNTIAGRYGAICGFGLSLIKWILIVR-----------------------------------------------------------------------------f.
+NFIP2_HUMAN/291-325            g-------------------------------------------------------------------------------------------------QYWLWWIFLVLGLLLFFRGFVNYLKVRNMSESM---a.

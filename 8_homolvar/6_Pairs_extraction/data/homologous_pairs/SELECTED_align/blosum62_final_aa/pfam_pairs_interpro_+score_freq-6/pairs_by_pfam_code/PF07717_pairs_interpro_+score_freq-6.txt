@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07717	Glu	Q	92.0	978.0	True	gnomAD	DHX37	['NM_032656']	rs376940167	ENST00000308736	Q8IY37	DHX37_HUMAN	p.Glu978Gln								1.97015866344e-05	9.6035121415e-06	QK	True
+PF07717	Glu	K	92.0	978.0	True	gnomAD	DHX37	['NM_032656']	rs376940167	ENST00000308736	Q8IY37	DHX37_HUMAN	p.Glu978Lys								1.31445772046e-05	1.71491288242e-05	QK	True
+PF07717	Val	I	138.0	996.0	True	gnomAD	DHX37	['NM_032656']	rs781579759	ENST00000308736	Q8IY37	DHX37_HUMAN	p.Val996Ile								3.94171517166e-05	1.86179468414e-05	I	True
+PF07717	Val	I	138.0	1000.0	True	gnomAD	DHX16	['NM_001164239', 'NM_003587']	rs754833325	ENST00000376442	O60231	DHX16_HUMAN	p.Val1000Ile								1.3145441161e-05	1.03702740932e-05	I	True

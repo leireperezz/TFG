@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF04598	Asp	E	29.0	29.0	True	gnomAD	GSDME	['NM_001127453']	rs148370267	ENST00000645220	O60443	GSDME_HUMAN	p.Asp29Glu								0.0003347906573713	0.000617718886601	E	True
+PF04598	Asp	E	29.0	29.0	True	gnomAD	GSDME	['NM_001127453']	rs148370267	ENST00000645220	O60443	GSDME_HUMAN	p.Asp29Glu								1.31392232091e-05	1.36814814308e-05	E	True
+PF04598	Val	I	118.0	109.0	True	gnomAD	GSDME	['NM_001127453']	rs202227661	ENST00000645220	O60443	GSDME_HUMAN	p.Val109Ile								0.0001444536369486	8.27694521893e-05	IL	True
+PF04598	Val	L	118.0	109.0	True	gnomAD	GSDME	['NM_001127453']	rs202227661	ENST00000645220	O60443	GSDME_HUMAN	p.Val109Leu								6.5711657247e-06	3.14660727331e-05	IL	True

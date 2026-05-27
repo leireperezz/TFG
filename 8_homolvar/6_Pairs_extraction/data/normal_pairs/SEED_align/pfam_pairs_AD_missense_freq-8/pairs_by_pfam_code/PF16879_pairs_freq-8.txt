@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+106	PF16879	Gln	His	247.0	1121.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Gln1121His									6.842472595897254e-07
+107	PF16879	Gln	His	247.0	1121.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Gln1121His									6.842472595897254e-07
+108	PF16879	Gln	His	263.0	1137.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Gln1137His									6.84070327902271e-07
+109	PF16879	Gln	His	263.0	1137.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']	rs141700684	ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Gln1137His									2.0522109837e-06

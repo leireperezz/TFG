@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF02816	A	Thr	283.0	1088.0	True	gnomAD	ALPK1	['NM_025144', 'NM_001102406']	rs551402838	ENST00000650871	Q96QP1	ALPK1_HUMAN	p.Ala1088Thr								1.31390505722e-05	1.23154900128e-05	A	True
+PF02816	A	Thr	283.0	1681.0	True	gnomAD	TRPM7	['NM_017672']	rs770806232	ENST00000646667	Q96QT4	TRPM7_HUMAN	p.Ala1681Thr									1.09469823958e-05	A	True

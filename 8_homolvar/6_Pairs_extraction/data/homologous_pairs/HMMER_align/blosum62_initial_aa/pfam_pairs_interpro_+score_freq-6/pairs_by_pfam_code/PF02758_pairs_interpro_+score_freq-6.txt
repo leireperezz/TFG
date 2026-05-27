@@ -1,0 +1,7 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF02758	P	Ser	55.0	50.0	True	gnomAD	MEFV	['NM_000243']	rs1243710109	ENST00000219596	O15553	MEFV_HUMAN	p.Pro50Ser								1.31376696401e-05		P	True
+PF02758	P	Ser	55.0	53.0	True	gnomAD	NLRP12	['NM_144687']	rs752350185	ENST00000324134	P59046	NAL12_HUMAN	p.Pro53Ser								1.31452683606e-05	7.524516242e-06	P	True
+PF02758	I	Thr	82.0	77.0	True	gnomAD	MEFV	['NM_000243']	rs756665512	ENST00000219596	O15553	MEFV_HUMAN	p.Ile77Thr									1.68045036069e-05	IM	True
+PF02758	M	Thr	82.0	77.0	True	ClinVar	NLRP1	NM_033004	rs397514692			NLRP1_HUMAN	p.Met77Thr	Pathogenic(Last reviewed: Apr 1, 2013)	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	no assertion criteria provided	VCV000050316	50316.0	59457.0	NC_000017.11:5583727:A:G			IM	True
+PF02758	A	Val	71.0	66.0	True	ClinVar	NLRP1	NM_033004	rs1057519493			NLRP1_HUMAN	p.Ala66Val	Likely pathogenic(Last reviewed: Feb 27, 2017)	not provided	criteria provided, single submitter	VCV000375414	375414.0	362181.0	NC_000017.11:5583760:G:A			A	True
+PF02758	A	Val	71.0	69.0	True	gnomAD	NLRP12	['NM_144687']	rs372898890	ENST00000324134	P59046	NAL12_HUMAN	p.Ala69Val								2.62964131692e-05	1.29969094717e-05	A	True

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+5	PF10427	Arg	Cys	103.0	1008.0	True	gnomAD	TNRC6B	['NM_001162501']	rs780005995	ENST00000454349	Q9UPQ9	TNR6B_HUMAN	p.Arg1008Cys								6.5748813233e-06	1.30441468853e-05
+6	PF10427	Arg	Cys	103.0	1137.0	True	gnomAD	TNRC6A	['NM_014494']	rs1490423614	ENST00000395799	Q8NDV7	TNR6A_HUMAN	p.Arg1137Cys								2.6295721686e-05	5.4729669638e-06
+7	PF10427	Arg	His	103.0	1008.0	True	gnomAD	TNRC6B	['NM_001162501']	rs940813954	ENST00000454349	Q9UPQ9	TNR6B_HUMAN	p.Arg1008His								1.31492439184e-05	1.23609564084e-05
+8	PF10427	Arg	His	103.0	1137.0	True	gnomAD	TNRC6A	['NM_014494']	rs771133343	ENST00000395799	Q8NDV7	TNR6A_HUMAN	p.Arg1137His								1.31475151196e-05	2.39450822958e-05

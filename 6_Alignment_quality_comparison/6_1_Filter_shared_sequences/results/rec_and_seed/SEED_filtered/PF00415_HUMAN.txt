@@ -1,0 +1,2 @@
+IBTK_HUMAN/247-299                   DGCVYTFG..LNIFHQLGI..........IPPPSSCNV....................P....RQIQ....AKYLKGR...........TIIG.VAAGRFHTVLW
+HERC2_HUMAN/4163-4212                DDTVWSWG..DGDYGKLGR..........GGS...DGC..........KV........P....MKI......DSLTGL...........GVVK.VECGSQFSVAL

@@ -1,0 +1,6 @@
+YG024_HUMAN/74-124                   ----TGPGLAGEQPLQAPL-LPPRGISRPSSGLTAASRDQVPACLPAA---------CV-RPSSSV-
+YG024_HUMAN/2-38                     asgr----------------WASPGPAWASRRPLQAQVV----LKSAS---------PGPAPASQ-q
+YJ013_HUMAN/20-54                    --gp-----------------PQVGLSRPTCSLPASSPG--PAL-PPG---------CVSRPDSGL-
+YJ013_HUMAN/162-194                  qqvs---------------------LSGPSSILSAASPG---AKLPRV---------SLSRPSSS-c
+YJ013_HUMAN/92-141                   ----PGSAPALRWHLQAPNgLRSVGSSRPSLGLPAASAG--PKR-PEV---------GLSRPSSGL-
+YJ013_HUMAN/38-87                    --pg-------------PA-LPPGCVSRPDSGLPTTSLDSAPAQLPAAlvdpqlpeaKLPRPSSGL-

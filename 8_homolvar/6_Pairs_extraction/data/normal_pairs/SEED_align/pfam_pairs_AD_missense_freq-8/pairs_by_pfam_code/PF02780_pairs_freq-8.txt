@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+52	PF02780	His	Gln	90.0	513.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']	rs200391494	ENST00000462138	P29401	TKT_HUMAN	p.His513Gln								0.0001378513568512	6.29659135395e-05
+53	PF02780	His	Gln	90.0	513.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']		ENST00000462138	P29401	TKT_HUMAN	p.His513Gln									6.844111668525984e-07
+117	PF02780	Thr	Ser	70.0	504.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']	rs199652864	ENST00000462138	P29401	TKT_HUMAN	p.Thr504Ser								2.62687821792e-05	2.32601414216e-05
+118	PF02780	Thr	Ser	70.0	504.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']		ENST00000462138	P29401	TKT_HUMAN	p.Thr504Ser									1.5908064115e-06

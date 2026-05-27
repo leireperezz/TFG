@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF12372	Met	I	569.0	1306.0	True	gnomAD	HTT	['NM_002111', 'NM_001388492']	rs374335589	ENST00000355072	P42858	HD_HUMAN	p.Met1306Ile								6.57099300846e-05	0.0001200170629972	IV	True
+PF12372	Met	V	569.0	1306.0	True	gnomAD	HTT	['NM_002111', 'NM_001388492']	rs775713671	ENST00000355072	P42858	HD_HUMAN	p.Met1306Val								1.97083169097e-05	2.0568993202e-06	IV	True
+PF12372	Pro	A	765.0	1495.0	True	gnomAD	HTT	['NM_002111', 'NM_001388492']	rs757721942	ENST00000355072	P42858	HD_HUMAN	p.Pro1495Ala									1.99059068376e-05	AS	True
+PF12372	Pro	S	765.0	1495.0	True	gnomAD	HTT	['NM_002111', 'NM_001388492']	rs757721942	ENST00000355072	P42858	HD_HUMAN	p.Pro1495Ser								3.28605791348e-05	5.07944526966e-05	AS	True

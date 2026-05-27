@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF13330	Arg	H	169.0	2345.0	True	gnomAD	MUC5B	['NM_002458']	rs200113620	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Arg2345His								0.0032827664953918	0.0002433513193568	H	True
+PF13330	Arg	H	169.0	4159.0	True	gnomAD	MUC5B	['NM_002458']	rs201712842	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Arg4159His								0.0066759425253525	0.0093896613797111	H	True
+PF13330	Pro	S	135.0	2333.0	True	gnomAD	MUC5B	['NM_002458']	rs200657721	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Pro2333Ser								0.0219140216733593	0.0395483011982839	S	True
+PF13330	Pro	S	135.0	2890.0	True	gnomAD	MUC5B	['NM_002458']	rs201287529	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Pro2890Ser								0.0276077292661388	0.0298813012067058	S	True

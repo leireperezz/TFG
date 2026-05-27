@@ -1,0 +1,5 @@
+DGKB_HUMAN/6-113                       KWAHLSPSEFSQLQKYAEYSTKKLKDVLEEFHGNGVLAKYNPEGTIDFEGFKLFMKTFLEAELPDDFTAHLFMSFSNKFPHSSPMVKSKPA---------------------------------------------------------------------------
+DGKB_HUMAN/108-149                     ---------------------------------------------------------------------------------------------------------------------------------------TSPANT---CSPEVIHLKDIVCYLSLLERGR
+DGKG_HUMAN/5-175                       RWVSLTPEEFDQLQKYSEYSSKKIKDALTEFNEGGSLKQYDPHEPISYDVFKLFMRAYLEVDLPQPLSTHLFLAFSQKPRHETSDHPTEGASNSEADTNIQNADNATKADEACAPDTESNMAEKQAEDQVAATPLEPPVPRSSSSESPVVYLKDVVCYLSLLETGR
+DGKA_HUMAN/4-91                        --GLISPSDFAQLQKYMEYSTKKVSDVLKLF-EDGEMAKYVQGDAIGYEGFQQFLKIYLEVNVPRHLSLALFQSFETGHCLNETN---------------------------------------------------------------------------------
+DGKA_HUMAN/84-110                      -----------------------------------------------------------------------------------------------------------------------------------------------NVTKDVVCLNDVSCYFSLLEGGR

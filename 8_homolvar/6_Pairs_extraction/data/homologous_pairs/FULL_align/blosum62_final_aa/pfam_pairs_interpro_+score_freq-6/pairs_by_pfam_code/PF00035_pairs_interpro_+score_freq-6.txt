@@ -1,0 +1,9 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00035	Ala	S	69.0	515.0	True	gnomAD	ADAR	['NM_001111']	rs200830156	ENST00000368474	P55265	DSRAD_HUMAN	p.Ala515Ser								9.20132499079e-05	0.0002708814729385	ST	True
+PF00035	Ala	T	69.0	515.0	True	gnomAD	ADAR	['NM_001111']	rs200830156	ENST00000368474	P55265	DSRAD_HUMAN	p.Ala515Thr								2.62894999737e-05	1.09447059773e-05	ST	True
+PF00035	Ala	S	308.0	67.0	True	gnomAD	EIF2AK2	['NM_001135651', 'NM_002759']	rs367990775	ENST00000233057	P19525	E2AK2_HUMAN	p.Ala67Ser								2.62853538008e-05	1.368342841e-06	ST	True
+PF00035	Ala	T	308.0	67.0	True	gnomAD	EIF2AK2	['NM_001135651', 'NM_002759']	rs367990775	ENST00000233057	P19525	E2AK2_HUMAN	p.Ala67Thr								6.5713384502e-06	2.25776877711e-05	ST	True
+PF00035	Glu	Q	96.0	631.0	True	gnomAD	ADAR	['NM_001111']	rs756241513	ENST00000368474	P55265	DSRAD_HUMAN	p.Glu631Gln								2.62846628991e-05	4.7883481703e-06	QK	True
+PF00035	Glu	K	96.0	631.0	True	gnomAD	ADAR	['NM_001111']	rs756241513	ENST00000368474	P55265	DSRAD_HUMAN	p.Glu631Lys								5.91404915231e-05	3.83067853629e-05	QK	True
+PF00035	Gly	R	183.0	130.0	True	ClinVar	EIF2AK2	NM_001135651				E2AK2_HUMAN	p.Gly130Arg	Pathogenic/Likely pathogenic(Last reviewed: Jun 10, 2022)	Dystonia 33	criteria provided, multiple submitters, no conflicts	VCV001332908	1332908.0	1323638.0	NC_000002.12:37141553:C:T			R	True
+PF00035	Gly	R	183.0	130.0	True	ClinVar	EIF2AK2	NM_001135651				E2AK2_HUMAN	p.Gly130Arg	Likely pathogenic(Last reviewed: Jun 10, 2022)	Dystonia 33	criteria provided, single submitter	VCV001332910	1332910.0	1323640.0	NC_000002.12:37141553:C:G			R	True

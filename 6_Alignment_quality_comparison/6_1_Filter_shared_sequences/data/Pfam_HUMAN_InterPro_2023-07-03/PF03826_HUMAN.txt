@@ -1,0 +1,17 @@
+ARX_HUMAN/526-544                      .....DRRASSIAALRLKAKEHAA..
+SHOX_HUMAN/270-288                     ....n-SKNSSIADLRLKARKHAE..
+D6RFI4_HUMAN/275-290                   .....DTCNSSLASLRLKAKQ---..
+VSX2_HUMAN/300-318                     .....ELRENSIAVLRAKAQEHST..
+PITX2_HUMAN/275-293                    .....DTCNSSLASLRLKAKQHS-s.
+ALX1_HUMAN/302-320                     .....ERRSSSIAVLRMKAKEHTA..
+RX_HUMAN/319-337                       .....DPRNSSIAALRLKAKEH--iq
+DMBX1_HUMAN/355-373                    ....n-SKTTSIENLRLRAKQHAA..
+PITX1_HUMAN/276-294                    .....DTCNSSLASLRLKSKQHS-s.
+PRRX1_HUMAN/219-236                    .....-NMANSIANLRLKAKEYS-l.
+DRGX_HUMAN/200-218                     ....s-NRTASVATLRMKAREHSE..
+A6NLG4_HUMAN/168-186                   ....t-SKNSSIADLRLKAKKHAA..
+SHOX2_HUMAN/309-327                    ....t-SKNSSIADLRLKAKKHAA..
+PITX3_HUMAN/258-276                    .....DPCNSSLASLRLKAKQHA-s.
+ALX4_HUMAN/387-405                     .....DRKTSSIAALRMKAKEHSA..
+OTP_HUMAN/302-320                      ....v-WRGTSIASLRRKALEHT-v.
+PRRX2_HUMAN/226-244                    ....v-NMANSIASLRLKAKEFS-l.

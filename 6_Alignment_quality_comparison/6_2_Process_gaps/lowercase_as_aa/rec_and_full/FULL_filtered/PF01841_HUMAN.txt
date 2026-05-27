@@ -1,0 +1,11 @@
+TGM4_HUMAN/229-351                     ------lignwtgdyeggtapykwtgsa---------------------------------------P--iLQQYYNTKQavcfGQCWVFAGILTTVLRALGIPARSVTGFDSAHDTERNltvdtyvnengekitsmtHDSVWNFHVWTDAWMkrpdlpkGYDGWQAVDA--
+TGM3L_HUMAN/252-357                    ----------rgsvailqkwlkgrykpv--------------------------------------------------KY----GQCWVFAGVLCTVLRCLGIATRVVSNFNSAHDTDQNlsvdkyvdsfgrtledltEDSMWNFHVWNESWFarqdlgpSYNGWQVLDA--
+F13A_HUMAN/284-398                     -yaygvppsawtgsvdilleyrssenpv--------------------------------------------------RY----GQCWVFAGVFNTFLRCLGIPARIVTNYFSAHDNDANlqmdifleedgnvnskltKDSVWNYHCWNEAWMtrpdlpvGFGGWQAVD-s-
+TGM2_HUMAN/255-359                     -----------igsvdilrrwknhgcqr-------------------------------------------------VKY----GQCWVFAAVACTVLRCLGIPTRVVTNYNSAHDQNSNllieyfrn-efgeiqgdkSEMIWNFHCWVESWMtrpdlqpGYEGWQALDP--
+TGM5_HUMAN/245-361                     ----nytdganpaewtgsvailkqwnat---------------------------------------------GCQPVRY----GQCWVFAAVMCTVMRCLGIPTRVITNFDSGHDTDGNliideyydntgrilgnkkKDTIWNFHVWNECWMarkdlppAYGGWQVLDA--
+TGM1_HUMAN/341-460                     ---nwsgdysrgtnpsawvgsveillsy-----------------------------------------------LRTGYsvpyGQCWVFAGVTTTVLRCLGLATRTVTNFNSAHDTDTSltmdiyfdenmkplehlnHDSVWNFHVWNDCWMkrpdlpsGFDGWQVVDA--
+TGM7_HUMAN/256-362                     ---------wkgsvailqqwsarggqpv--------------------------------------------------KY----GQCWVFASVMCTVMRCLGVPTRVVSNFRSAHNVDRNltidtyydrnaemlstqkRDKIWNFHVWNECWMirkdlppGYNGWQVLDP--
+NGLY1_HUMAN/258-354                    ------------------rsrdrsllps--------DDELKWGAKEVEDHYCDACQFS--NRFPRYNN---PEKLLETRC----GRCGEWANCFTLCCRAVGFEARYVWDYTD--------------------------------HVWTEVYS------pSQQRWLHCDA--
+EPB42_HUMAN/224-351                    ----------------------eqrvlp-------TPQTQATQEGALLNKRRGSVPIL---RQWLTGR---GRPVYD-------GQAWVLAAVACTVLRCLGIPARVVTTFASAQGTGGRllideyyneeglqngegqRGRIWIFQTSTECWMtrpalpqGYDGWQIL--hp
+TGM3_HUMAN/240-355                     tytggrdprswngsveilknwkksgfsp-------------------------------------------------VRY----GQCWVFAGTLNTALRSLGIPSRVITNFNSAHDTDRNlsvdvyyd-pmgnpldkgSDSVWNFHVWNEGWFvrsdlgpSYGGWQVLDA--
+KY_HUMAN/169-283                       --------------------------deLVSDLLQEAHTDLERVRAIWIWICHHIEYDIAAAQEKDRQafkPTDILRTQK----TNCDGYAGLFERMCRLAGVQCMTVPGYSKGFGY-QTg----------------qSFSGEFDHAWNAVYL--------EGRWHLVD-s-

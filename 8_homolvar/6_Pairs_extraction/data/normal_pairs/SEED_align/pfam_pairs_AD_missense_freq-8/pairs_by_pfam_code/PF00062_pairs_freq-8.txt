@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+69	PF00062	Gly	Arg	74.0	90.0	True	gnomAD	LYZ	['NM_000239']	rs1460171634	ENST00000261267	P61626	LYSC_HUMAN	p.Gly90Arg									6.840721997162468e-07
+70	PF00062	Gly	Arg	74.0	90.0	True	gnomAD	LYZ	['NM_000239']	rs1460171634	ENST00000261267	P61626	LYSC_HUMAN	p.Gly90Arg									1.3681443994e-06
+78	PF00062	Ile	Leu	58.0	74.0	True	gnomAD	LYZ	['NM_000239']		ENST00000261267	P61626	LYSC_HUMAN	p.Ile74Leu									1.2003649109e-06
+79	PF00062	Ile	Leu	58.0	74.0	True	gnomAD	LYZ	['NM_000239']		ENST00000261267	P61626	LYSC_HUMAN	p.Ile74Leu									1.2003649109e-06

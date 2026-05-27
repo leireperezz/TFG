@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00413	Glu	Q	30.0	135.0	True	gnomAD	MMP13	['NM_002427']	rs759134930	ENST00000260302	P45452	MMP13_HUMAN	p.Glu135Gln								6.57782221462e-05	0.0001053815771105	QK	True
+PF00413	Glu	K	30.0	135.0	True	gnomAD	MMP13	['NM_002427']	rs759134930	ENST00000260302	P45452	MMP13_HUMAN	p.Glu135Lys								2.63112888584e-05	6.1586635973e-06	QK	True
+PF00413	Glu	K	115.0	205.0	True	gnomAD	MMP13	['NM_002427']	rs773554450	ENST00000260302	P45452	MMP13_HUMAN	p.Glu205Lys								6.5736711323e-06	1.91028049285e-05	K	True
+PF00413	Glu	K	115.0	194.0	True	gnomAD	MMP19	['NM_002429']	rs536616162	ENST00000322569	Q99542	MMP19_HUMAN	p.Glu194Lys								2.62477525361e-05	1.36815750229e-05	K	True

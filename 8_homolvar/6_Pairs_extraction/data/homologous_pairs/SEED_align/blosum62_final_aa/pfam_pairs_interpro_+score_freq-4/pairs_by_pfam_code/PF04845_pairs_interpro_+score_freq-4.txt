@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF04845	Lys	Q	132.0	160.0	True	ClinVar	PURA	NM_005859				PURA_HUMAN	p.Lys160Gln	Pathogenic(Last reviewed: Jun 5, 2023)	not provided	criteria provided, single submitter	VCV002504912	2504912.0	2669879.0	NC_000005.10:140114658:A:C			QE	True
+PF04845	Lys	E	132.0	160.0	True	ClinVar	PURA	NM_005859				PURA_HUMAN	p.Lys160Glu	Likely pathogenic(Last reviewed: Oct 7, 2022)	not provided	criteria provided, single submitter	VCV001313493	1313493.0	1303754.0	NC_000005.10:140114658:A:G			QE	True

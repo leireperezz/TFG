@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00023	Arg	C	345.0	385.0	True	gnomAD	ANK1	['NM_000037']	rs142626656	ENST00000289734	P16157	ANK1_HUMAN	p.Arg385Cys								0.0006961684464935	0.0010384699055799	C	True
+PF00023	Arg	C	345.0	379.0	True	gnomAD	ANK2	['NM_001148']	rs143043717	ENST00000357077	Q01484	ANK2_HUMAN	p.Arg379Cys								0.0002692302641083	0.0003536556502133	C	True
+PF00023	Val	I	348.0	114.0	True	gnomAD	TRPA1	['NM_007332']	rs150139289	ENST00000262209	O75762	TRPA1_HUMAN	p.Val114Ile								0.0004267668146124	6.56693139608e-05	IM	True
+PF00023	Val	M	348.0	254.0	True	gnomAD	TRPV4	['NM_021625']	rs143548402	ENST00000261740	Q9HBA0	TRPV4_HUMAN	p.Val254Met								0.0001247439466358	0.0002189054998638	IM	True

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+230	PF03155	Leu	Pro	1651.0	455.0	True	gnomAD	ALG8	['NM_024079']		ENST00000299626	Q9BVK2	ALG8_HUMAN	p.Leu455Pro									2.7366819373e-06
+231	PF03155	Leu	Pro	1651.0	455.0	True	gnomAD	ALG8	['NM_001007027']	rs960314751	ENST00000376156	Q9BVK2	ALG8_HUMAN	p.Leu455Pro								1.36780194227e-05	0.0
+294	PF03155	Phe	Leu	951.0	266.0	True	gnomAD	ALG8	['NM_024079']	rs1860357164	ENST00000299626	Q9BVK2	ALG8_HUMAN	p.Phe266Leu									1.5911810382e-06
+295	PF03155	Phe	Leu	951.0	266.0	True	gnomAD	ALG8	['NM_024079']		ENST00000299626	Q9BVK2	ALG8_HUMAN	p.Phe266Leu									1.5911810382e-06

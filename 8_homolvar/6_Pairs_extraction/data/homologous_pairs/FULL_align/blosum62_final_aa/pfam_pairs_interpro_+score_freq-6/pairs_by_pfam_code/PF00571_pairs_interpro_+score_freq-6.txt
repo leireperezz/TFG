@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00571	Asp	N	362.0	464.0	True	gnomAD	PRKAG2	['NM_001407023', 'NM_016203']	rs397517264	ENST00000287878	Q9UGJ0	AAKG2_HUMAN	p.Asp464Asn	Likely benign							1.31428496326e-05	3.55804192741e-05	N	True
+PF00571	Asp	N	362.0	668.0	True	gnomAD	CLCN7	['NM_001287']	rs142186742	ENST00000382745	P51798	CLCN7_HUMAN	p.Asp668Asn								0.0001379618436958	8.28553742323e-05	N	True
+PF00571	Val	I	180.0	646.0	True	gnomAD	CLCN7	['NM_001287']	rs375096271	ENST00000382745	P51798	CLCN7_HUMAN	p.Val646Ile								0.0001115983509702	7.0544949461e-05	IL	True
+PF00571	Val	L	180.0	646.0	True	gnomAD	CLCN7	['NM_001287']	rs375096271	ENST00000382745	P51798	CLCN7_HUMAN	p.Val646Leu								1.97090937758e-05	1.84923653927e-05	IL	True

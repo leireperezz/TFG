@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07047	Ala	T	398.0	81.0	True	gnomAD	OPA3	['NM_001017989']	rs200304633	ENST00000323060	Q9H6K4	OPA3_HUMAN	p.Ala81Thr								1.96912413358e-05	3.62554793658e-05	T	True
+PF07047	Ala	T	398.0	81.0	True	gnomAD	OPA3	['NM_025136']	rs186796646	ENST00000263275	Q9H6K4	OPA3_HUMAN	p.Ala81Thr								1.96917583427e-05	1.30054321636e-05	T	True
+PF07047	Ile	M	114.0	41.0	True	gnomAD	OPA3	['NM_025136']	rs763083098	ENST00000263275	Q9H6K4	OPA3_HUMAN	p.Ile41Met								1.96920168563e-05	1.77852202083e-05	MV	True
+PF07047	Ile	V	114.0	41.0	True	gnomAD	OPA3	['NM_025136']	rs766584469	ENST00000263275	Q9H6K4	OPA3_HUMAN	p.Ile41Val								1.31468237273e-05	4.7883481703e-06	MV	True

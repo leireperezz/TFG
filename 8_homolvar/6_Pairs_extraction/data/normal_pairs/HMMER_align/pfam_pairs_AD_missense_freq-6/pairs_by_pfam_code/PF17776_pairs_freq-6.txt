@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+35	PF17776	Phe	Ser	4.0	626.0	True	gnomAD	NLRP1	['NM_033004']	rs1241421772	ENST00000572272	Q9C000	NLRP1_HUMAN	p.Phe626Ser								6.5690937278e-06	1.231287845e-05
+36	PF17776	Phe	Ser	4.0	517.0	True	gnomAD	NLRP12	['NM_144687']	rs746890522	ENST00000324134	P59046	NAL12_HUMAN	p.Phe517Ser								5.25769266157e-05	2.1889471848e-05

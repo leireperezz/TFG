@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+28	PF07910	Asp	Glu	68.0	336.0	True	gnomAD	UFSP2	['NM_018359']	rs747123689	ENST00000264689	Q9NUQ7	UFSP2_HUMAN	p.Asp336Glu								6.5703022339e-06	
+29	PF07910	Asp	Glu	68.0	336.0	True	gnomAD	UFSP2	['NM_018359']		ENST00000264689	Q9NUQ7	UFSP2_HUMAN	p.Asp336Glu									1.200583964e-06
+131	PF07910	Phe	Leu	41.0	314.0	True	gnomAD	UFSP2	['NM_018359']	rs1428387677	ENST00000264689	Q9NUQ7	UFSP2_HUMAN	p.Phe314Leu									1.5904117257e-06
+132	PF07910	Phe	Leu	41.0	314.0	True	gnomAD	UFSP2	['NM_018359']	rs1426496886	ENST00000264689	Q9NUQ7	UFSP2_HUMAN	p.Phe314Leu								6.5732390292e-06	2.4006606618e-06

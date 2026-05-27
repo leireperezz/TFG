@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+99	PF19036	Lys	Asn	148.0	126.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']		ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Lys126Asn									6.840750074564176e-07
+100	PF19036	Lys	Asn	148.0	126.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']		ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Lys126Asn									1.3681500149e-06
+143	PF19036	Val	Leu	121.0	110.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs1172071034	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Val110Leu									1.3684139944e-06
+144	PF19036	Val	Leu	121.0	110.0	True	gnomAD	FUZ	['NM_025129', 'NM_001352262']	rs1172071034	ENST00000313777	Q9BT04	FUZZY_HUMAN	p.Val110Leu								6.5722886023e-06	

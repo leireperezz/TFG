@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+44	PF04997	Asn	Lys	367.0	44.0	True	gnomAD	POLR1A	['NM_015425']		ENST00000263857	O95602	RPA1_HUMAN	p.Asn44Lys									2.400706768e-06
+45	PF04997	Asn	Lys	367.0	44.0	True	gnomAD	POLR1A	['NM_015425']		ENST00000263857	O95602	RPA1_HUMAN	p.Asn44Lys									1.200353384e-06
+84	PF04997	Gly	Arg	192.0	18.0	True	gnomAD	POLR1A	['NM_015425']	rs1232027466	ENST00000263857	O95602	RPA1_HUMAN	p.Gly18Arg								1.31385326886e-05	3.4207494451e-06
+85	PF04997	Gly	Arg	192.0	18.0	True	gnomAD	POLR1A	['NM_015425']	rs1232027466	ENST00000263857	O95602	RPA1_HUMAN	p.Gly18Arg								1.31385326886e-05	6.1573490012e-06

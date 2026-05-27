@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+207	PF06008	Met	Ile	133.0	1976.0	True	gnomAD	LAMA3	['NM_198129']	rs764867291	ENST00000313654	Q16787	LAMA3_HUMAN	p.Met1976Ile									1.43137510616e-05
+208	PF06008	Met	Ile	133.0	1976.0	True	gnomAD	LAMA3	['NM_198129']	rs764867291	ENST00000313654	Q16787	LAMA3_HUMAN	p.Met1976Ile									4.7712503538e-06
+229	PF06008	Ser	Arg	83.0	1929.0	True	gnomAD	LAMA3	['NM_198129']		ENST00000313654	Q16787	LAMA3_HUMAN	p.Ser1929Arg									2.052373844e-06
+230	PF06008	Ser	Arg	83.0	1929.0	True	gnomAD	LAMA3	['NM_198129']	rs2080973806	ENST00000313654	Q16787	LAMA3_HUMAN	p.Ser1929Arg									1.2003793198e-06

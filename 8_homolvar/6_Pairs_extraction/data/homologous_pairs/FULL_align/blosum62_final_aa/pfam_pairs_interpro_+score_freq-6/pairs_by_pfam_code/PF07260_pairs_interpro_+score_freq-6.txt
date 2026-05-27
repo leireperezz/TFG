@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07260	Ala	S	303.0	201.0	True	gnomAD	ANKH	['NM_054027']	rs1190164920	ENST00000284268	Q9HCJ1	ANKH_HUMAN	p.Ala201Ser								3.28528062867e-05	3.4202486931e-06	ST	True
+PF07260	Ala	T	303.0	201.0	True	gnomAD	ANKH	['NM_054027']	rs1190164920	ENST00000284268	Q9HCJ1	ANKH_HUMAN	p.Ala201Thr								1.31411225146e-05	1.09447958179e-05	ST	True
+PF07260	Pro	S	40.0	5.0	True	ClinVar	ANKH	NM_054027	rs121908410			ANKH_HUMAN	p.Pro5Ser	Likely pathogenic	Chondrocalcinosis 2	criteria provided, single submitter	VCV000974898	974898.0	963138.0	NC_000005.10:14871434:G:A			ST	True
+PF07260	Pro	T	40.0	5.0	True	ClinVar	ANKH	NM_054027	rs121908410			ANKH_HUMAN	p.Pro5Thr	Pathogenic(Last reviewed: Sep 1, 2003)	Chondrocalcinosis 2	no assertion criteria provided	VCV000005199	5199.0	20238.0	NC_000005.10:14871434:G:T			ST	True

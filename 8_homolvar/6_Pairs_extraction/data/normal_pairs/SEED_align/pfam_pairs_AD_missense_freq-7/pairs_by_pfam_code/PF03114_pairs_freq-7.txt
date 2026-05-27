@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+65	PF03114	Gln	His	262.0	214.0	True	gnomAD	SH3GL1	['NM_003025']	rs1164476544	ENST00000269886	Q99961	SH3G1_HUMAN	p.Gln214His									3.1888365211e-06
+66	PF03114	Gln	His	262.0	214.0	True	gnomAD	SH3GL1	['NM_003025']		ENST00000269886	Q99961	SH3G1_HUMAN	p.Gln214His									1.5944182605e-06
+71	PF03114	Glu	Asp	36.0	35.0	True	gnomAD	SH3GL1	['NM_003025']		ENST00000269886	Q99961	SH3G1_HUMAN	p.Glu35Asp									1.3683671821e-06
+72	PF03114	Glu	Asp	36.0	35.0	True	gnomAD	SH3GL1	['NM_003025']	rs1972794535	ENST00000269886	Q99961	SH3G1_HUMAN	p.Glu35Asp								6.5696979252e-06	

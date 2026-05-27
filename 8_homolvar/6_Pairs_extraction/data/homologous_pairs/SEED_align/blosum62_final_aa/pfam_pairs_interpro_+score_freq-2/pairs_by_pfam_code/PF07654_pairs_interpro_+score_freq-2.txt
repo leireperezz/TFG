@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07654	Leu	R	49.0	162.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs707954	ENST00000360004	P01911	DRB1_HUMAN	p.Leu162Arg								0.5490313653136532	0.5162992120325822	RQ	True
+PF07654	Leu	Q	49.0	162.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs707954	ENST00000360004	P01911	DRB1_HUMAN	p.Leu162Gln								0.2266086857662574	0.2730618329115317	RQ	True

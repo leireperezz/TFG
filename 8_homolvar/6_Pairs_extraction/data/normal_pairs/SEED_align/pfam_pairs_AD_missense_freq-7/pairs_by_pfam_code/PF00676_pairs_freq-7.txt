@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+73	PF00676	Gln	His	209.0	367.0	True	gnomAD	DHTKD1	['NM_018706']	rs777534408	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Gln367His									1.3681799649e-06
+74	PF00676	Gln	His	209.0	367.0	True	gnomAD	DHTKD1	['NM_018706']	rs777534408	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Gln367His								6.5839719786e-06	2.0522699473e-06
+80	PF00676	Glu	Asp	318.0	475.0	True	gnomAD	DHTKD1	['NM_018706']		ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Glu475Asp									1.5904117257e-06
+81	PF00676	Glu	Asp	318.0	475.0	True	gnomAD	DHTKD1	['NM_018706']	rs773172105	ENST00000263035	Q96HY7	DHTK1_HUMAN	p.Glu475Asp									1.5904117257e-06

@@ -1,0 +1,3 @@
+E9PNM6_HUMAN/28-93               RMSTY.S.T.......................FP..AG...VP.VSE.RS.LARAGFYYTGV...............NDKVKCFCCGLMLDNW.KLGD.....SPIQKHKQLYP....S.CS...FIQ
+B1AKU2_HUMAN/29-94               RLKTF.A.N.......................FP..SGSPV.S.AS...T.LARAGFLYTGE...............GDTVRCFSCHAAVDRW.QYGD.....SAVGRHRKVSP....N.CR...FIN
+BIRC1_HUMAN/63-128               RLKTFVT.........................YE.....PYSS.WIP.QE.MAAAGFYFTGV...............KSGIQCFCCSLILFGA.GLTR.....LPIEDHKRFHP....D.CG...FLL

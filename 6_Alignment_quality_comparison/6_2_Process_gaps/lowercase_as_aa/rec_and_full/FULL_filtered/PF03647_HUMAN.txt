@@ -1,0 +1,5 @@
+TM14E_HUMAN/14-122                     l-GFVYAALAALGGISGYAKVGSVQSPSAGFFFSELAGLDASQPS-----------------------------------------------rnpkehlsspvyiwdlaryyankiltlwniyacgfscrcllivsklgsmygeqilsvvamsqlgl
+TM14B_HUMAN/14-105                     -FGFGYTALVVSGGIVGYVKTGSVPSLAAGLLFGSLAGLGAYQLYQDPR-NVWGFlAATSVTFVGVMGMRSYYYGKFMPVGLIAGASLLMAAkv---------------------------------------------------------------
+TM14C_HUMAN/13-103                     -FGFGYAALVASGGIIGYVKAGSVPSLAAGLLFGSLAGLGAYQLSQDPR-NVWVF-LATSGTLAGIMGMRFYHSGKFMPAGLIAGASLLMVAkv---------------------------------------------------------------
+TM14D_HUMAN/14-105                     -FGFGYTALVVSGGIVGYVKTGRAPSLAAGLLFGSLAGVGAYQLYQDPRnVWDFL-AATSVTFVGIMGMRSYYYGKFMPVGLIAGASLLMAAkv---------------------------------------------------------------
+TM14A_HUMAN/4-94                       -IGFGYAALVTFGSIFGYKRRGGVPSLIAGLFVGCLAGYGAYRVSNDKR-DVKVS-LFTAFFLATIMGVRFKRSKKIMPAGLVAGLSLMMILrl---------------------------------------------------------------

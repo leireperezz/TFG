@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00758	Arg	Q	222.0	157.0	True	gnomAD	THPO	['NM_001290028', 'NM_001289998', 'NM_000460']	rs750080820	ENST00000647395	P40225	TPO_HUMAN	p.Arg157Gln									1.09469973754e-05	Q	True
+PF00758	Arg	Q	222.0	177.0	True	ClinVar	EPO	NM_000799	rs1358275550			EPO_HUMAN	p.Arg177Gln	Pathogenic(Last reviewed: Mar 16, 2018)	Diamond-Blackfan anemia-like	no assertion criteria provided	VCV000496595	496595.0	488087.0	NC_000007.14:100723080:G:A			Q	True
+PF00758	Gly	R	94.0	84.0	True	gnomAD	EPO	['NM_000799']	rs137953994	ENST00000252723	P01588	EPO_HUMAN	p.Gly84Arg								6.575486586e-06	2.36522068204e-05	R	True
+PF00758	Gly	R	94.0	84.0	True	gnomAD	EPO	['NM_000799']	rs137953994	ENST00000252723	P01588	EPO_HUMAN	p.Gly84Arg								0.0016031958789981	0.001138787361895	R	True

@@ -1,0 +1,4 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00004	Pro	A	6.0	350.0	True	gnomAD	SPG7	['NM_003119']	rs199789849	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Pro350Ala								2.62594698213e-05	4.03668318741e-05	AS	True
+PF00004	Pro	S	6.0	350.0	True	gnomAD	SPG7	['NM_003119']	rs199789849	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Pro350Ser								3.94197414064e-05	2.46306092791e-05	AST	True
+PF00004	Pro	T	6.0	350.0	True	gnomAD	SPG7	['NM_003119']	rs199789849	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Pro350Thr								0.0001511090087249	0.0001826770188205	ST	True

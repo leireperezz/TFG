@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+81	PF01740	Phe	Leu	841.0	774.0	True	gnomAD	SLC26A8	['NM_052961']	rs1196653127	ENST00000490799	Q96RN1	S26A8_HUMAN	p.Phe774Leu								6.5748813233e-06	1.5903712562e-06
+82	PF01740	Phe	Leu	841.0	774.0	True	gnomAD	SLC26A8	['NM_052961']	rs953043420	ENST00000490799	Q96RN1	S26A8_HUMAN	p.Phe774Leu								1.97217912645e-05	5.4723604753e-06
+118	PF01740	Val	Leu	597.0	734.0	True	gnomAD	SLC26A8	['NM_052961']	rs138344479	ENST00000490799	Q96RN1	S26A8_HUMAN	p.Val734Leu								6.5684033525e-06	4.1042759715e-06
+119	PF01740	Val	Leu	597.0	734.0	True	gnomAD	SLC26A8	['NM_052961']	rs138344479	ENST00000490799	Q96RN1	S26A8_HUMAN	p.Val734Leu								6.5734982843e-06	1.16287819192e-05

@@ -1,0 +1,4 @@
+ERLEC_HUMAN/111-199                  SSCS.YRIE.S........YWTYEVCH....GKHIRQYHEE......................KETGQKINIHEYYLG...NML..................AKNLLFEKEREAEEKEKSN....................EIPTKNIEGQMTPYYPVGMGNGTP.C
+Q6FHE1_HUMAN/30-88                   GNCW.LRQA............KNGRCQ....VLYKTELSK............................EECCSTGRLS..TSW.............................................................TEEDVNDNTLFKWMIFNGGAPNC
+A2VDJ4_HUMAN/56-116                  GKCF.SLVE.S........TYKYEFCP....FHNVTQHEQ..........................TFRWNAYSGILG...IW..........................HEWEIAN....................................NTFTGMWMRDGDA.C
+OS9_HUMAN/108-181                    APCL.LKTK.D........WWTYEFCY....GRHIQQYHM.........................EDSEIKGEVLYLG...YY.......................QSAFDWDDETAKAS...........................KQHRLKRYHSQTYGNGSK.C

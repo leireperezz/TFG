@@ -1,0 +1,4 @@
+LDB2_HUMAN/30-183                      YRIYEMNKRLQSRTEDSDNLWWDAFATEFFEDDATLTLSFCLEDGPKRYTIGRTLIPRYFSTVFEGGVTDLYYILKHS-KESYHNSSITVDCDQCTMVTQHGKPTKVCTEGRLILEFDDLMRIKTWHFTIRQYRELVPRSILAMHAQ------------------------------------------------------
+LDB1_HUMAN/69-223                      YRIFELNKRLQNWTEECDNLWWDAFTTEFFEDDAMLTITFCLEDGPKRYTIGRTLIPRYFRSIFEGGATELYYVLKHPKEAFHSNFV-SLDCDQGSMVTQHGKPTQVCVEGRLYLEFDDMMRIKTWHFSIRQHRELIPRSILAMHAQ------------------------------------------------------
+LDB2_HUMAN/175-232                     ---------------------------------------------------------------------------------------------------------------------------------------------------DPQV-LDQLSKNITRMGLTNFTLNYLRLCVILEPMQELMSRHKTYNLSPRDCLK
+LDB1_HUMAN/215-271                     ---------------------------------------------------------------------------------------------------------------------------------------------------DPQMLDQL-SKNITRCGLSNSTLNYLRLCVILEPMQELMSRHKTYSLSPRDCLK

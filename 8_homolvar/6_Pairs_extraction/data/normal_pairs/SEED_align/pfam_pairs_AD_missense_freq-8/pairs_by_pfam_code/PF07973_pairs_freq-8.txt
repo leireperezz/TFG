@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+19	PF07973	Gly	Arg	128.0	724.0	True	gnomAD	AARS1	['NM_001605']	rs1191814735	ENST00000261772	P49588	SYAC_HUMAN	p.Gly724Arg									6.840572254912557e-07
+20	PF07973	Gly	Arg	128.0	724.0	True	gnomAD	AARS1	['NM_001605']		ENST00000261772	P49588	SYAC_HUMAN	p.Gly724Arg									6.840572254912557e-07
+38	PF07973	Phe	Leu	126.0	722.0	True	gnomAD	AARS1	['NM_001605']	rs115882953	ENST00000261772	P49588	SYAC_HUMAN	p.Phe722Leu								0.0010902690205968	9.98718083774e-05
+39	PF07973	Phe	Leu	126.0	722.0	True	gnomAD	AARS1	['NM_001605']	rs115882953	ENST00000261772	P49588	SYAC_HUMAN	p.Phe722Leu								6.5729797946e-06	6.840534820374396e-07

@@ -1,0 +1,4 @@
+PAPOB_HUMAN/366434                    ---SFFQKYKHYIVLLASASTEKQHLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKENPDMEE------------------------------------------------------------------------------------fr
+PAPOA_HUMAN/366435                    ---NFFQKYKHYIVLLASAPTEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAPKENPDKEEFR----------------------------------------------------------------------------------t-
+PAPOG_HUMAN/365432                    ---NFFQKYRHYIVLTASASTEENHLEWVGLVESKIRVLVGNLERNEFITLAHVNPQSFPGNKEHHKDN-------------------------------------------------------------------------------------ny
+PAPOG_HUMAN/421506                    pgn---------------------------------------------------------------------KEHHKDNNYVSMWFLGIIFRRVENAesVNIDLTYDIQSFTdTVYRQANNinMLKEGMKIEATHVKKKQLHHYLPAEILQKKKk-

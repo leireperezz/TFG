@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+38	PF03045	His	Gln	71.0	109.0	True	gnomAD	GREM2	['NM_022469']	rs748927834	ENST00000318160	Q9H772	GREM2_HUMAN	p.His109Gln									1.5904420792e-06
+39	PF03045	His	Gln	71.0	109.0	True	gnomAD	GREM2	['NM_022469']	rs748927834	ENST00000318160	Q9H772	GREM2_HUMAN	p.His109Gln									3.1808841585e-06
+96	PF03045	Val	Leu	96.0	133.0	True	gnomAD	GREM2	['NM_022469']		ENST00000318160	Q9H772	GREM2_HUMAN	p.Val133Leu									2.7377121213e-06
+97	PF03045	Val	Leu	96.0	133.0	True	gnomAD	GREM2	['NM_022469']	rs746431512	ENST00000318160	Q9H772	GREM2_HUMAN	p.Val133Leu									6.159852273e-06

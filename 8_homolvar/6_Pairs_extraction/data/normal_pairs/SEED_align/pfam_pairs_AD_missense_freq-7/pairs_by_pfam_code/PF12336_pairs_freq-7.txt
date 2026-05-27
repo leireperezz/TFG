@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+57	PF12336	Met	Ile	127.0	174.0	True	gnomAD	SOX2	['NM_003106']		ENST00000325404	P48431	SOX2_HUMAN	p.Met174Ile									1.5974542968e-06
+58	PF12336	Met	Ile	127.0	174.0	True	gnomAD	SOX2	['NM_003106']		ENST00000325404	P48431	SOX2_HUMAN	p.Met174Ile									1.5974542968e-06
+59	PF12336	Met	Leu	11.0	120.0	True	gnomAD	SOX2	['NM_003106']	rs772120284	ENST00000325404	P48431	SOX2_HUMAN	p.Met120Leu									6.368311283e-06
+60	PF12336	Met	Leu	11.0	120.0	True	gnomAD	SOX2	['NM_003106']	rs772120284	ENST00000325404	P48431	SOX2_HUMAN	p.Met120Leu									1.5920778207e-06
+62	PF12336	Met	Leu	86.0	157.0	True	gnomAD	SOX2	['NM_003106']		ENST00000325404	P48431	SOX2_HUMAN	p.Met157Leu									1.2003216862e-06
+63	PF12336	Met	Leu	86.0	157.0	True	gnomAD	SOX2	['NM_003106']		ENST00000325404	P48431	SOX2_HUMAN	p.Met157Leu									1.2003216862e-06

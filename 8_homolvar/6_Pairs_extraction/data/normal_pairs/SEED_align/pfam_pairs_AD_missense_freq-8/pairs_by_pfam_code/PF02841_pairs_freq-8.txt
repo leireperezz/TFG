@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+23	PF02841	Asp	Glu	85.0	396.0	True	gnomAD	ATL3	['NM_015459']		ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Asp396Glu									6.840478669335365e-07
+24	PF02841	Asp	Glu	85.0	396.0	True	gnomAD	ATL3	['NM_015459']		ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Asp396Glu									5.4723829354e-06
+104	PF02841	Phe	Leu	79.0	390.0	True	gnomAD	ATL3	['NM_015459']		ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Phe390Leu									6.840534820374396e-07
+105	PF02841	Phe	Leu	79.0	390.0	True	gnomAD	ATL3	['NM_015459']	rs752427656	ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Phe390Leu									1.368106964e-06
+108	PF02841	Phe	Leu	120.0	428.0	True	gnomAD	ATL3	['NM_015459']		ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Phe428Leu									6.840441235821475e-07
+109	PF02841	Phe	Leu	120.0	428.0	True	gnomAD	ATL3	['NM_015459']	rs777811140	ENST00000398868	Q6DD88	ATLA3_HUMAN	p.Phe428Leu									6.840441235821475e-07

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF01384	Ala	S	471.0	480.0	True	gnomAD	SLC20A2	['NM_001257180']	rs79577461	ENST00000520262	Q08357	S20A2_HUMAN	p.Ala480Ser								1.31402591259e-05	6.841180623587296e-07	ST	True
+PF01384	Ala	T	471.0	480.0	True	gnomAD	SLC20A2	['NM_001257180']	rs79577461	ENST00000520262	Q08357	S20A2_HUMAN	p.Ala480Thr								0.0136027625687687	0.0180423197170476	ST	True
+PF01384	Lys	Q	466.0	475.0	True	gnomAD	SLC20A2	['NM_001257180']	rs759413136	ENST00000520262	Q08357	S20A2_HUMAN	p.Lys475Gln								6.5673680615e-06	1.43662434325e-05	QE	True
+PF01384	Lys	E	466.0	475.0	True	gnomAD	SLC20A2	['NM_001257180']	rs759413136	ENST00000520262	Q08357	S20A2_HUMAN	p.Lys475Glu								1.31449227735e-05	5.4728546409e-06	QE	True

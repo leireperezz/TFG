@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF01138	T	Ala	225.0	78.0	True	gnomAD	PNPT1	['NM_033109']	rs768510266	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Thr78Ala								1.31383600698e-05	2.327249629e-05	T	True
+PF01138	T	Ala	225.0	391.0	True	gnomAD	PNPT1	['NM_033109']	rs1244275589	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Thr391Ala								1.31357713324e-05		T	True

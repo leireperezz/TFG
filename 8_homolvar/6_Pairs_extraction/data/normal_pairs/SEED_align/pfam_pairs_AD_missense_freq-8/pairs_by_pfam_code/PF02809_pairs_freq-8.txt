@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+45	PF02809	Met	Ile	6.0	339.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']	rs199942851	ENST00000644486	P54252	ATX3_HUMAN	p.Met339Ile								3.93923079953e-05	8.2151380348e-06
+46	PF02809	Met	Ile	6.0	339.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']		ENST00000644486	P54252	ATX3_HUMAN	p.Met339Ile									6.84593898899173e-07
+47	PF02809	Met	Ile	15.0	257.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']	rs773301187	ENST00000644486	P54252	ATX3_HUMAN	p.Met257Ile									2.0537592008e-06
+48	PF02809	Met	Ile	15.0	257.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']		ENST00000644486	P54252	ATX3_HUMAN	p.Met257Ile									6.845864002804066e-07
+52	PF02809	Met	Val	6.0	339.0	True	gnomAD	ATXN3			ENST00000532032	P54252	ATX3_HUMAN	p.Met339Val									1.5904521973e-06
+53	PF02809	Met	Val	6.0	339.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']		ENST00000644486	P54252	ATX3_HUMAN	p.Met339Val									3.6019681153e-06

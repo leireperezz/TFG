@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+102	PF17069	Asn	Lys	29.0	1914.0	True	gnomAD	SON	['NM_138927']	rs1258738609	ENST00000356577	P18583	SON_HUMAN	p.Asn1914Lys								1.3145441161e-05	3.4210771192e-06
+103	PF17069	Asn	Lys	29.0	1914.0	True	gnomAD	SON	['NM_138927']		ENST00000356577	P18583	SON_HUMAN	p.Asn1914Lys									6.842154238577708e-07
+167	PF17069	Ser	Arg	50.0	1935.0	True	gnomAD	SON	['NM_138927']		ENST00000356577	P18583	SON_HUMAN	p.Ser1935Arg									1.5929959155e-06
+168	PF17069	Ser	Arg	50.0	1935.0	True	gnomAD	SON	['NM_138927']	rs758080055	ENST00000356577	P18583	SON_HUMAN	p.Ser1935Arg									6.845189201029517e-07
+169	PF17069	Ser	Arg	71.0	1954.0	True	gnomAD	SON	['NM_138927']		ENST00000356577	P18583	SON_HUMAN	p.Ser1954Arg									1.7865692867e-06
+170	PF17069	Ser	Arg	71.0	1954.0	True	gnomAD	SON	['NM_138927']		ENST00000356577	P18583	SON_HUMAN	p.Ser1954Arg									5.3597078601e-06

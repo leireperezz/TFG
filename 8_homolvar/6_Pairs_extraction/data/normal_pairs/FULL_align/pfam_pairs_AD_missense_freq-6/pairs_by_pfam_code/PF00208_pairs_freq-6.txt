@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+6	PF00208	Arg	His	425.0	322.0	True	ClinVar	GLUD1	NM_005271	rs121909737			DHE3_HUMAN	p.Arg322His	Pathogenic/Likely pathogenic(Last reviewed: Jun 23, 2023)	not provided|Hyperinsulinism-hyperammonemia syndrome	criteria provided, multiple submitters, no conflicts	VCV000016129	16129.0	31168.0	NC_000010.11:87061008:C:T		
+7	PF00208	Arg	His	425.0	322.0	True	gnomAD	GLUD2	['NM_012084']	rs1213668649	ENST00000328078	P49448	DHE4_HUMAN	p.Arg322His								2.67706557918e-05	1.8226074404e-06
+24	PF00208	His	Tyr	602.0	355.0	True	gnomAD	GLUD2	['NM_012084']	rs756544884	ENST00000328078	P49448	DHE4_HUMAN	p.His355Tyr								0.0001078903833704	0.0001848617361704
+25	PF00208	His	Tyr	602.0	355.0	True	gnomAD	GLUD1	['NM_005271']	rs752866323	ENST00000277865	P00367	DHE3_HUMAN	p.His355Tyr								5.91397142894e-05	1.02606899287e-05
+36	PF00208	Met	Arg	391.0	317.0	True	gnomAD	GLUD1	['NM_005271']		ENST00000277865	P00367	DHE3_HUMAN	p.Met317Arg									3.77240982911e-05
+37	PF00208	Met	Arg	391.0	317.0	True	gnomAD	GLUD2	['NM_012084']	rs2147396494	ENST00000328078	P49448	DHE4_HUMAN	p.Met317Arg								0.0	0.0001245643707146

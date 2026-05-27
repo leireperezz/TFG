@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF01833	Ala	S	151.0	756.0	True	gnomAD	MST1R	['NM_002447']	rs375227799	ENST00000296474	Q04912	RON_HUMAN	p.Ala756Ser									1.13631198581e-05	ST	True
+PF01833	Ala	T	151.0	756.0	True	gnomAD	MST1R	['NM_002447']	rs375227799	ENST00000296474	Q04912	RON_HUMAN	p.Ala756Thr								7.22239731064e-05	4.9713649379e-06	ST	True
+PF01833	Asn	S	17.0	778.0	True	gnomAD	MST1R	['NM_002447']	rs149428633	ENST00000296474	Q04912	RON_HUMAN	p.Asn778Ser								1.97166066405e-05	4.1639658721e-06	ST	True
+PF01833	Asn	T	17.0	778.0	True	gnomAD	MST1R	['NM_002447']	rs149428633	ENST00000296474	Q04912	RON_HUMAN	p.Asn778Thr								0.0009259624098664	0.0013609266237776	ST	True

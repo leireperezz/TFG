@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+35	PF00335	Asp	Glu	513.0	197.0	True	gnomAD	TSPAN12	['NM_012338']		ENST00000222747	O95859	TSN12_HUMAN	p.Asp197Glu									1.2003274493e-06
+36	PF00335	Asp	Glu	513.0	197.0	True	gnomAD	TSPAN12	['NM_012338']		ENST00000222747	O95859	TSN12_HUMAN	p.Asp197Glu									1.2003274493e-06
+118	PF00335	Met	Ile	16.0	24.0	True	gnomAD	TSPAN12	['NM_012338']	rs767700187	ENST00000222747	O95859	TSN12_HUMAN	p.Met24Ile									1.3689741181e-06
+119	PF00335	Met	Ile	16.0	24.0	True	gnomAD	TSPAN12	['NM_012338']	rs767700187	ENST00000222747	O95859	TSN12_HUMAN	p.Met24Ile								6.5731526154e-06	
+216	PF00335	Val	Leu	559.0	232.0	True	gnomAD	TSPAN12	['NM_012338']		ENST00000222747	O95859	TSN12_HUMAN	p.Val232Leu									1.5904724339e-06
+217	PF00335	Val	Leu	559.0	232.0	True	gnomAD	TSPAN12	['NM_012338']	rs1268181887	ENST00000222747	O95859	TSN12_HUMAN	p.Val232Leu									1.5904724339e-06

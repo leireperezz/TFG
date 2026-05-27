@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+48	PF03725	Met	Ile	49.0	228.0	True	gnomAD	PNPT1	['NM_033109']	rs1282915678	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Met228Ile									7.06474128917399e-07
+49	PF03725	Met	Ile	49.0	228.0	True	gnomAD	PNPT1	['NM_033109']	rs1282915678	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Met228Ile								6.597785783e-06	7.064771235642619e-07
+76	PF03725	Val	Leu	68.0	247.0	True	gnomAD	PNPT1	['NM_033109']	rs574988767	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Val247Leu								6.56892112039e-05	0.0001348904853592
+77	PF03725	Val	Leu	68.0	247.0	True	gnomAD	PNPT1	['NM_033109']	rs574988767	ENST00000447944	Q8TCS8	PNPT1_HUMAN	p.Val247Leu									5.4777787059e-06

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+119	PF18397	Gly	Arg	169.0	557.0	True	gnomAD	IKBKB	['NM_001556', 'NM_001242778']	rs149701177	ENST00000520810	O14920	IKKB_HUMAN	p.Gly557Arg								6.5689211203e-06	1.3816200323e-06
+120	PF18397	Gly	Arg	169.0	557.0	True	gnomAD	IKBKB	['NM_001556', 'NM_001242778']	rs149701177	ENST00000520810	O14920	IKKB_HUMAN	p.Gly557Arg								5.2510666229e-05	7.46074817487e-05
+170	PF18397	Met	Ile	164.0	552.0	True	gnomAD	IKBKB	['NM_001556', 'NM_001242778']		ENST00000520810	O14920	IKKB_HUMAN	p.Met552Ile									1.6112607793e-06
+171	PF18397	Met	Ile	164.0	552.0	True	gnomAD	IKBKB	['NM_001556', 'NM_001242778']	rs1396231445	ENST00000520810	O14920	IKKB_HUMAN	p.Met552Ile									3.2225215586e-06

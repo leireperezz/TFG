@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+12	PF00352	Asp	Glu	3.0	252.0	True	gnomAD	TBP	['NM_003194']	rs759710446	ENST00000392092	P20226	TBP_HUMAN	p.Asp252Glu									3.1810258172e-06
+13	PF00352	Asp	Glu	3.0	252.0	True	gnomAD	TBP	['NM_003194']	rs759710446	ENST00000392092	P20226	TBP_HUMAN	p.Asp252Glu									1.5905129086e-06
+21	PF00352	Gly	Glu	60.0	308.0	True	gnomAD	TBP	['NM_003194']	rs533679967	ENST00000392092	P20226	TBP_HUMAN	p.Gly308Glu								6.5679719416e-06	
+22	PF00352	Gly	Glu	60.0	217.0	True	gnomAD	TBP	['NM_003194']		ENST00000392092	P20226	TBP_HUMAN	p.Gly217Glu									1.2003245677e-06
+68	PF00352	Val	Leu	25.0	274.0	True	gnomAD	TBP	['NM_003194']		ENST00000392092	P20226	TBP_HUMAN	p.Val274Leu									1.2003418573e-06
+69	PF00352	Val	Leu	25.0	274.0	True	gnomAD	TBP	['NM_003194']		ENST00000392092	P20226	TBP_HUMAN	p.Val274Leu									1.2003418573e-06

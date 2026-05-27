@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+16	PF00969	Asp	Glu	17.0	57.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs1059575	ENST00000360004	P01911	DRB1_HUMAN	p.Asp57Glu								0.2359353797630835	0.2098507645404859
+17	PF00969	Asp	Glu	17.0	57.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs1059575	ENST00000360004	P01911	DRB1_HUMAN	p.Asp57Glu								0.1690561421812883	0.0971729680948706
+29	PF00969	Phe	Leu	15.0	55.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs1059572	ENST00000360004	P01911	DRB1_HUMAN	p.Phe55Leu								0.0081154751579729	0.0056037763048937
+30	PF00969	Phe	Leu	15.0	55.0	True	gnomAD	HLA-DRB1	['NM_002124']	rs1059572	ENST00000360004	P01911	DRB1_HUMAN	p.Phe55Leu								0.0993578859630167	0.1036387502923188

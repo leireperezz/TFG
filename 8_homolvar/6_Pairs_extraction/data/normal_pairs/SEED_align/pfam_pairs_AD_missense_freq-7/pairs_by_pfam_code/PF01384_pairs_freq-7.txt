@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+73	PF01384	Gly	Arg	517.0	525.0	True	gnomAD	SLC20A2	['NM_001257180']	rs112198681	ENST00000520262	Q08357	S20A2_HUMAN	p.Gly525Arg								6.5725477824e-06	6.1577534326e-06
+74	PF01384	Gly	Arg	517.0	525.0	True	gnomAD	SLC20A2	['NM_001257180']		ENST00000520262	Q08357	S20A2_HUMAN	p.Gly525Arg									3.4209741292e-06
+240	PF01384	Val	Leu	518.0	526.0	True	gnomAD	SLC20A2	['NM_001257180']	rs1420760497	ENST00000520262	Q08357	S20A2_HUMAN	p.Val526Leu									3.4208571025e-06
+241	PF01384	Val	Leu	518.0	526.0	True	gnomAD	SLC20A2	['NM_001257180']		ENST00000520262	Q08357	S20A2_HUMAN	p.Val526Leu									3.4208524216e-06

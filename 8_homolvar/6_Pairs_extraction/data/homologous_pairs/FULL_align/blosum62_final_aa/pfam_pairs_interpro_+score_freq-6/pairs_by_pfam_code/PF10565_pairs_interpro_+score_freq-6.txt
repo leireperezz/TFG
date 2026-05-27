@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF10565	Ala	S	101.0	889.0	True	gnomAD	GRIN2B	['NM_000834']	rs756224637	ENST00000609686	Q13224	NMDE2_HUMAN	p.Ala889Ser								1.31483794622e-05	2.0523345305e-06	ST	True
+PF10565	Ala	T	101.0	889.0	True	gnomAD	GRIN2B	['NM_000834']	rs756224637	ENST00000609686	Q13224	NMDE2_HUMAN	p.Ala889Thr								1.97225691933e-05	1.5734564734e-05	ST	True
+PF10565	Met	I	1165.0	1339.0	True	gnomAD	GRIN2B	['NM_000834']	rs752473485	ENST00000609686	Q13224	NMDE2_HUMAN	p.Met1339Ile	Likely benign							1.97085758583e-05	1.3680882471e-06	IL	True
+PF10565	Met	L	1165.0	1339.0	True	gnomAD	GRIN2B	['NM_000834']	rs200604023	ENST00000609686	Q13224	NMDE2_HUMAN	p.Met1339Leu	Likely benign							1.97137562591e-05	1.2003245677e-06	IL	True

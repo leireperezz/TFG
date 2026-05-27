@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+4	PF00322	Pro	His	29.0	77.0	True	ClinVar	EDN1	NM_001955	rs587777232			EDN1_HUMAN	p.Pro77His	Pathogenic(Last reviewed: Dec 5, 2013)	Auriculocondylar syndrome 3	no assertion criteria provided	VCV000120213	120213.0	125810.0	NC_000006.12:12292505:C:A		
+5	PF00322	Pro	His	29.0	121.0	True	gnomAD	EDN3	['NM_001302455', 'NM_207034']	rs267606028	ENST00000337938	P14138	EDN3_HUMAN	p.Pro121His								1.97122018529e-05	3.4204499122e-06

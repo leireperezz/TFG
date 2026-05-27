@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00536	Ala	S	42.0	940.0	True	gnomAD	EPHA10	['NM_001099439']	rs373108334	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Ala940Ser								1.31390505722e-05	2.73827436687e-05	ST	True
+PF00536	Ala	T	42.0	940.0	True	gnomAD	EPHA10	['NM_001099439']	rs373108334	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Ala940Thr								3.94171517166e-05	4.31278212783e-05	ST	True
+PF00536	Leu	M	248.0	912.0	True	gnomAD	BICC1	['NM_001080512']	rs749430284	ENST00000373886	Q9H694	BICC1_HUMAN	p.Leu912Met									2.71203313147e-05	MV	True
+PF00536	Leu	V	248.0	973.0	True	gnomAD	EPHA10	['NM_001099439']	rs748503258	ENST00000373048	Q5JZY3	EPHAA_HUMAN	p.Leu973Val								6.5683170658e-06	1.50572929998e-05	MV	True

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00135	Ala	S	2440.0	272.0	True	gnomAD	CEL	['NM_001807']	rs540843348	ENST00000372080	P19835	CEL_HUMAN	p.Ala272Ser								1.31352537074e-05	6.84070327902271e-07	ST	True
+PF00135	Ala	T	2440.0	272.0	True	gnomAD	CEL	['NM_001807']	rs540843348	ENST00000372080	P19835	CEL_HUMAN	p.Ala272Thr								2.6290882322e-05	1.43654768859e-05	ST	True
+PF00135	Thr	N	3323.0	409.0	True	gnomAD	CEL	['NM_001807']	rs62576769	ENST00000372080	P19835	CEL_HUMAN	p.Thr409Asn								1.08646052888e-05	0.0	NS	True
+PF00135	Thr	S	3323.0	409.0	True	gnomAD	CEL	['NM_001807']	rs62576769	ENST00000372080	P19835	CEL_HUMAN	p.Thr409Ser								2.17296827466e-05	2.11574964032e-05	NS	True

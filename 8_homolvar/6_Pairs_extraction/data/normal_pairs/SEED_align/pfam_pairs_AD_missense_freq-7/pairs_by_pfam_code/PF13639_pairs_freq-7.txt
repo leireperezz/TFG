@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+22	PF13639	Cys	Tyr	54.0	312.0	True	gnomAD	RNF43	['NM_017763']	rs2143438698	ENST00000407977	Q68DV7	RNF43_HUMAN	p.Cys312Tyr									1.2006445059e-06
+23	PF13639	Cys	Tyr	54.0	281.0	True	gnomAD	RNF13	['NM_001378286', 'NM_001378285', 'NM_183381']	rs1559980629	ENST00000392894	O43567	RNF13_HUMAN	p.Cys281Tyr								6.5720294426e-06	
+50	PF13639	Pro	Ser	52.0	310.0	True	gnomAD	RNF43	['NM_017763']	rs1972801645	ENST00000407977	Q68DV7	RNF43_HUMAN	p.Pro310Ser									1.5907557998e-06
+51	PF13639	Pro	Ser	52.0	279.0	True	gnomAD	RNF13	['NM_001378286', 'NM_001378285', 'NM_183381']		ENST00000392894	O43567	RNF13_HUMAN	p.Pro279Ser									1.2003706744e-06

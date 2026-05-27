@@ -1,0 +1,6 @@
+LSHR_HUMAN/141-267                     vtkvfssesnfileicdnl---------H-ITT--IPGNAFQGM-NNESV--TLklyGN--G--FEEVQSHAFNGT-TLTSLELKEnvHLEKMHNGAFRGATGPKTLDISST--kLQALPSYGLE--------------siqrliatssyslkklpsretfvn
+FSHR_HUMAN/46-147                      --------rnaielrfvlt---------K-LRV--IQKGAFSGFGDLEKI--EI---SQ--NdvLEVIEADVFSNLPKLHEIRIEKanNLLYINPEAFQNLPNLQYLLISNT---------------------------gikhlpdvhkihslqkv-------
+FSHR_HUMAN/139-257                     --hkihslqkvlldiqdni---------N-IHT--IERNSFVGL-SFESV--ILwlnKN--G--IQEIHNCAFNGT-QLDELNLSDnnNLEELPNDVFHGASGPVILDISRT--rIHSLPSYGLENL------------kklrarstynlkklpt--------
+LSHR_HUMAN/49-149                      -------agltrlslaylp-----------VKV--IPSQAFRGLNEVIKI--EI---SQidS--LERIEANAFDNLLNLSEILIQNtkNLRYIEPGAFINLPRLKYLSICNT---------------------------girkfpdvtkvfsses--------
+PODN_HUMAN/109-234                     -------ekiypeelsrlhRLETLNLQNNrLTSrgLPEKAFEHLTNLNYL--YL---AN--N--KLTLAPRFLPNA--LISVDFAA-nYLTKIYGLTFGQKPNLRSVYLHNNklaDAGLPDNMFNGSsNVEVLILSSNFlrhvpk------------------
+TSHR_HUMAN/53-143                      ------------stqtlkl------IETH-LRT--IPSHAFSNLPNISRIyvSI---DV--T--LQQLESHSFYNLSKVTHIEIRNtrNLTYIDPDALKELP-------------------------------------llkflgifntglkmfpd-------

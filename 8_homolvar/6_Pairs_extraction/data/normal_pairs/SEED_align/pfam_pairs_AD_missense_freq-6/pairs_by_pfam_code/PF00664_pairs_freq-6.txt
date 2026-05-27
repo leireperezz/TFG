@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+149	PF00664	Val	Ile	197.0	1129.0	True	gnomAD	ABCC1	['NM_004996']	rs74985930	ENST00000399410	P33527	MRP1_HUMAN	p.Val1129Ile								0.0008470792183231	0.0011340056611314
+150	PF00664	Val	Ile	197.0	479.0	True	gnomAD	ABCC1	['NM_004996']	rs756700064	ENST00000399410	P33527	MRP1_HUMAN	p.Val479Ile								6.5748813233e-06	2.05216606127e-05
+161	PF00664	Val	Met	89.0	380.0	True	gnomAD	ABCC1	['NM_004996']	rs764026024	ENST00000399410	P33527	MRP1_HUMAN	p.Val380Met								2.62867357131e-05	7.5246809535e-06
+162	PF00664	Val	Met	89.0	1030.0	True	gnomAD	ABCC1	['NM_004996']	rs778463333	ENST00000399410	P33527	MRP1_HUMAN	p.Val1030Met								2.62881177707e-05	9.6997914544e-06

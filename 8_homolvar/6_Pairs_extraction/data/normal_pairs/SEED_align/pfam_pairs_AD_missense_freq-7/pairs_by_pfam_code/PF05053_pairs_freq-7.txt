@@ -1,0 +1,8 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+186	PF05053	Phe	Leu	13.0	11.0	True	gnomAD	MEN1	['NM_001370260', 'NM_001370259']		ENST00000450708	O00255	MEN1_HUMAN	p.Phe11Leu									2.9532631342e-06
+187	PF05053	Phe	Leu	13.0	11.0	True	gnomAD	MEN1	['NM_001370260', 'NM_001370259']		ENST00000450708	O00255	MEN1_HUMAN	p.Phe11Leu									2.2149473507e-06
+189	PF05053	Phe	Leu	155.0	134.0	True	gnomAD	MEN1	['NM_001370260', 'NM_001370259']	rs2136179803	ENST00000450708	O00255	MEN1_HUMAN	p.Phe134Leu									1.5903813734e-06
+190	PF05053	Phe	Leu	155.0	134.0	True	gnomAD	MEN1	['NM_001370260', 'NM_001370259']	rs1244702530	ENST00000450708	O00255	MEN1_HUMAN	p.Phe134Leu								6.5696979252e-06	
+191	PF05053	Phe	Leu	155.0	134.0	True	gnomAD	MEN1	['NM_001370260', 'NM_001370259']	rs1244702530	ENST00000450708	O00255	MEN1_HUMAN	p.Phe134Leu								6.5696979252e-06	
+243	PF05053	Trp	Arg	458.0	436.0	True	ClinVar	MEN1	NM_001370259	rs104894259			MEN1_HUMAN	p.Trp436Arg	Pathogenic(Last reviewed: Jul 27, 2022)	Hereditary cancer-predisposing syndrome|Multiple endocrine neoplasia, type 1	criteria provided, multiple submitters, no conflicts	VCV000428003	428003.0	419793.0	NC_000011.10:64805077:A:G		
+244	PF05053	Trp	Arg	458.0	436.0	True	ClinVar	MEN1	NM_001370259	rs104894259			MEN1_HUMAN	p.Trp436Arg	Pathogenic/Likely pathogenic(Last reviewed: Jul 26, 2023)	Multiple endocrine neoplasia, type 1|not provided	criteria provided, multiple submitters, no conflicts	VCV000016686	16686.0	31725.0	NC_000011.10:64805077:A:T		

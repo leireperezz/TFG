@@ -1,0 +1,4 @@
+ZO1_HUMAN/520-582                  YIRTHFEYEK..ESPYG.................LSFNKGE...VFRVV..........................DT..LYNG......KLGS.WLA.IRIGK.......NHKEV..ERGIIPNKNRAEQ
+STAC3_HUMAN/310-364                VHRVTRSFVG..NREIG................QITLKKDQ....IVVQ.........................KGD..EAG.........GY.VKV.YT..G.......RKV......GLFPTDFLEEI
+E9PEA7_HUMAN/287-341               IFRCVRTFIG..CKEQG................QITLKENQ....ICVS.........................SEE..EQD.........GF.IRV.LS..G.......KKK......GLIPLDVLENI
+CRKL_HUMAN/239-294                 FAKAIQKRVPCAYDKTA.................LALEVGD...IVKVT...........................R..MNI.........NGQWEG.EV..N.......GRK......GLFPFTHVKIF

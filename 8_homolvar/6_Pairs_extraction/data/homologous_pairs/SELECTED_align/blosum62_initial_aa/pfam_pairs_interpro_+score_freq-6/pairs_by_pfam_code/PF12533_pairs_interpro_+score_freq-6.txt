@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF12533	Y	Cys	244.0	249.0	True	gnomAD	NEUROD1	['NM_002500']	rs780520468	ENST00000295108	Q13562	NDF1_HUMAN	p.Tyr249Cys								3.28640349147e-05	3.42022529708e-05	Y	True
+PF12533	Y	Cys	244.0	270.0	True	gnomAD	NEUROD2	['NM_006160']	rs945800296	ENST00000302584	Q15784	NDF2_HUMAN	p.Tyr270Cys								1.31721067467e-05	2.3741690408e-06	Y	True
+PF12533	H	Gln	224.0	241.0	True	gnomAD	NEUROD1	['NM_002500']	rs561017686	ENST00000295108	Q13562	NDF1_HUMAN	p.His241Gln								0.0002757823683139	0.0004740432261753	H	True
+PF12533	H	Gln	224.0	263.0	True	gnomAD	NEUROD2	['NM_006160']	rs1041348649	ENST00000302584	Q15784	NDF2_HUMAN	p.His263Gln								2.63376219761e-05	4.19436179084e-05	H	True

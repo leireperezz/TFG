@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+27	PF00149	Asn	Ser	470.0	272.0	True	gnomAD	PPP3CA	['NM_000944']	rs1355122946	ENST00000394854	Q08209	PP2BA_HUMAN	p.Asn272Ser									1.6032372566e-06
+28	PF00149	Asn	Ser	470.0	232.0	True	gnomAD	PPP2CA	['NM_002715']	rs1371502482	ENST00000481195	P67775	PP2AA_HUMAN	p.Asn232Ser									1.3681275532e-06
+33	PF00149	Asp	Gly	361.0	216.0	True	gnomAD	PPP3CA	['NM_000944']		ENST00000394854	Q08209	PP2BA_HUMAN	p.Asp216Gly									1.6343928557e-06
+34	PF00149	Asp	Gly	361.0	184.0	True	gnomAD	PPP2CA	['NM_002715']		ENST00000481195	P67775	PP2AA_HUMAN	p.Asp184Gly									1.2033086173e-06
+82	PF00149	Ile	Val	477.0	277.0	True	gnomAD	PPP3CA	['NM_000944']	rs540250871	ENST00000394854	Q08209	PP2BA_HUMAN	p.Ile277Val								1.31431951107e-05	2.33840583996e-05
+83	PF00149	Ile	Val	477.0	243.0	True	gnomAD	PPP1CB	['NM_002709']		ENST00000395366	P62140	PP1B_HUMAN	p.Ile243Val									1.6005890167e-06

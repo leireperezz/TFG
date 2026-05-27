@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+11	PF00030	Arg	Ser	69.0	141.0	True	gnomAD	CRYGB	['NM_005210']	rs1029515377	ENST00000260988	P07316	CRGB_HUMAN	p.Arg141Ser									1.3681032206e-06
+12	PF00030	Arg	Ser	69.0	141.0	True	gnomAD	CRYGB	['NM_005210']	rs1029515377	ENST00000260988	P07316	CRGB_HUMAN	p.Arg141Ser									4.7883612722e-06
+78	PF00030	Trp	Arg	90.0	158.0	True	gnomAD	CRYGB	['NM_005210']	rs200378287	ENST00000260988	P07316	CRGB_HUMAN	p.Trp158Arg									1.6301619076e-06
+79	PF00030	Trp	Arg	90.0	158.0	True	gnomAD	CRYGB	['NM_005210']	rs200378287	ENST00000260988	P07316	CRGB_HUMAN	p.Trp158Arg								6.5696116045e-06	3.2603238153e-06
+80	PF00030	Trp	Cys	90.0	158.0	True	gnomAD	CRYGB	['NM_005210']	rs142007191	ENST00000260988	P07316	CRGB_HUMAN	p.Trp158Cys								1.3145441161e-05	
+81	PF00030	Trp	Cys	90.0	158.0	True	gnomAD	CRYGB	['NM_005210']	rs142007191	ENST00000260988	P07316	CRGB_HUMAN	p.Trp158Cys								6.5676268537e-06	

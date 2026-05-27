@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07707	Arg	H	530.0	239.0	True	gnomAD	KLHL24	['NM_001349428', 'NM_001349413', 'NM_017644', 'NM_001349415', 'NM_001349423', 'NM_001349419', 'NM_001349429', 'NM_001349421', 'NM_001349416', 'NM_001349425', 'NM_001349426']	rs145675649	ENST00000242810	Q6TFL4	KLH24_HUMAN	p.Arg239His								3.94301035697e-05	8.2086305541e-06	H	True
+PF07707	Arg	H	530.0	204.0	True	gnomAD	IVNS1ABP	['NM_006469']	rs186662950	ENST00000367498	Q9Y6Y0	NS1BP_HUMAN	p.Arg204His								4.59516588548e-05	4.85900668216e-05	H	True
+PF07707	Thr	R	767.0	252.0	True	gnomAD	KLHL3	['NM_017415']	rs377302959	ENST00000309755	Q9UH77	KLHL3_HUMAN	p.Thr252Arg								1.31471694144e-05	1.0947761388e-05	RK	True
+PF07707	Thr	K	767.0	252.0	True	gnomAD	KLHL3	['NM_017415']	rs377302959	ENST00000309755	Q9UH77	KLHL3_HUMAN	p.Thr252Lys									1.16319964748e-05	RK	True

@@ -1,0 +1,8 @@
+CAN11_HUMAN/571-609                  DFL..HLFKIV.A.GE....GK.EIGVYEL.QR.LLNRMAIK....FKSFKTKG
+CAN8_HUMAN/536-564                   QFR..RLFEKL...AG...KDS.EITANAL.KI.LLN..............EAF
+A4FU16_HUMAN/38-67                   HWK..VLFDQF.D.PG...NTG.YISTGKF.RS.LLE..............SHS
+EFC13_HUMAN/456-485                  TLE..NFCEAI.S.KL...QEN.YIAAEEL.QS.ILP..............STG
+EFCB9_HUMAN/28-56                    ALA..EYFHIL.D.VH...GKN.TLNDVLF.YH.FLH...............HV
+CPNS2_HUMAN/153-182                  KWQ..CVYKQY.D.RD...HSG.SLGSSQL.RG.ALQ..............AAG
+MYL6B_HUMAN/145-174                  DYL..EGFRVF.D.KE...GNG.KVMGAEL.RH.VLT..............TLG
+EFCB7_HUMAN/106-135                  ELL..KSFKQL.D.VN...DDG.CILHTDL.YK.FLT..............KRG

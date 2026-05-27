@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF03530	Glu	Q	115.0	381.0	True	gnomAD	KCNN3	['NM_002249']	rs76610518	ENST00000271915	Q9UGI6	KCNN3_HUMAN	p.Glu381Gln								0.0004072731094645	0.0004555883451471	QK	True
+PF03530	Glu	K	115.0	381.0	True	gnomAD	KCNN3	['NM_002249']	rs76610518	ENST00000271915	Q9UGI6	KCNN3_HUMAN	p.Glu381Lys								1.97067633611e-05	2.12060641134e-05	QK	True
+PF03530	Val	L	106.0	114.0	True	gnomAD	KCNN4	['NM_002250']	rs200491983	ENST00000648319	O15554	KCNN4_HUMAN	p.Val114Leu								1.31274942239e-05	2.98342602768e-05	L	True
+PF03530	Val	L	106.0	114.0	True	gnomAD	KCNN4	['NM_002250']	rs200491983	ENST00000648319	O15554	KCNN4_HUMAN	p.Val114Leu								6.56874852203e-05	4.85674004507e-05	L	True

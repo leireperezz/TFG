@@ -1,0 +1,4 @@
+IMP2L_HUMAN/14-103             ...afc-----KGFFVAVPVAVTFLDRVACVARVEGASMQPSLNpggsqSSDVVLLNHWKVRNFEVHRGDIVSLVSPKNPEQKIIKRVIALEGDIVR----------------------------------------------------------------------------------t
+IMP2L_HUMAN/107-151            ..knry--------------------------------------.....-----------------------------------------------------------------------------------------VKVPRGHIWVEGDHHGHSFDSNSFGPVSLGLLHAHATHILW.
+IMP1L_HUMAN/17-93              iqygci--------------AHCAFEYVGGVVMCSGPSMEPTIQ.....NSDIVFAENLSRHFYGIQRGDIVIAKSPSDPKSNICKRVIGLEGDKI-----------------------------------------------------------------------------------.
+IMP1L_HUMAN/102-146            ...fks--------------------------------------.....----------------------------------------------------------------------------------------HSYVPMGHVWLEGDNLQNSTDSRCYGPIPYGLIRGRIFFKIW.

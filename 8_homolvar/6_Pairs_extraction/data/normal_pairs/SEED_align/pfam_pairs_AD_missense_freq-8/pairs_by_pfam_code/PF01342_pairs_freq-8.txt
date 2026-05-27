@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+45	PF01342	Glu	Lys	49.0	241.0	True	ClinVar	DEAF1	NM_021008	rs1860618696			DEAF1_HUMAN	p.Glu241Lys	Likely pathogenic(Last reviewed: Feb 5, 2019)	not provided	criteria provided, single submitter	VCV000988426	988426.0	976357.0	NC_000011.10:686940:C:T		
+46	PF01342	Glu	Lys	49.0	237.0	True	gnomAD	AIRE	['NM_000383']	rs778067704	ENST00000291582	O43918	AIRE_HUMAN	p.Glu237Lys								6.5698705735e-06	5.4775911745e-06
+58	PF01342	Gly	Ser	30.0	223.0	True	gnomAD	DEAF1	['NM_001293634', 'NM_021008']	rs1057518811	ENST00000382409	O75398	DEAF1_HUMAN	p.Gly223Ser								2.62705074148e-05	1.50507209295e-05
+59	PF01342	Gly	Ser	30.0	219.0	True	gnomAD	AIRE	['NM_000383']	rs139620961	ENST00000291582	O43918	AIRE_HUMAN	p.Gly219Ser								1.31316314738e-05	2.53343101878e-05
+82	PF01342	Phe	Leu	48.0	236.0	True	gnomAD	AIRE	['NM_000383']	rs772104934	ENST00000291582	O43918	AIRE_HUMAN	p.Phe236Leu									1.5938845836e-06
+83	PF01342	Phe	Leu	48.0	236.0	True	gnomAD	AIRE	['NM_000383']	rs908180454	ENST00000291582	O43918	AIRE_HUMAN	p.Phe236Leu								1.31393958505e-05	

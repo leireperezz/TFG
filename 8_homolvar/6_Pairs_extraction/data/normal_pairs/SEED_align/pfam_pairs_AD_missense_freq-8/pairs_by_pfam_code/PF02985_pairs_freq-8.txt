@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+13	PF02985	Arg	Gln	38.0	221.0	True	gnomAD	PPP2R1A	['NM_014225']	rs1405455410	ENST00000322088	P30153	2AAA_HUMAN	p.Arg221Gln									4.8897683227e-06
+14	PF02985	Arg	Gln	38.0	182.0	True	gnomAD	PPP2R1A	['NM_014225']	rs2122334757	ENST00000322088	P30153	2AAA_HUMAN	p.Arg182Gln									1.2003216862e-06
+25	PF02985	Asn	Ser	20.0	289.0	True	gnomAD	PPP2R1A	['NM_014225']		ENST00000322088	P30153	2AAA_HUMAN	p.Asn289Ser									6.840993421700726e-07
+26	PF02985	Asn	Ser	20.0	211.0	True	gnomAD	PPP2R1A	['NM_014225']	rs201263415	ENST00000322088	P30153	2AAA_HUMAN	p.Asn211Ser									1.2003216862e-06
+58	PF02985	Phe	Leu	17.0	170.0	True	gnomAD	PPP2R1A	['NM_014225']	rs2089681840	ENST00000322088	P30153	2AAA_HUMAN	p.Phe170Leu								6.5700432308e-06	
+59	PF02985	Phe	Leu	17.0	209.0	True	gnomAD	PPP2R1A	['NM_014225']	rs778270058	ENST00000322088	P30153	2AAA_HUMAN	p.Phe209Leu									1.6037926488e-06

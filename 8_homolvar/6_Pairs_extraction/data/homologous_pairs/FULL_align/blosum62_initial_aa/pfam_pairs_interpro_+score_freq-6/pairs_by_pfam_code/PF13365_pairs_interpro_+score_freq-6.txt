@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF13365	R	Gln	223.0	489.0	True	gnomAD	FAM111B	['NM_198947']	rs767471589	ENST00000343597	Q6SJ93	F111B_HUMAN	p.Arg489Gln								2.63123273253e-05	1.43672459631e-05	R	True
+PF13365	R	Gln	223.0	384.0	True	gnomAD	FAM111A	['NM_001374866', 'NM_001374865', 'NM_001374849', 'NM_001312909', 'NM_001374848', 'NM_001374851']	rs781634622	ENST00000675163	Q96PZ2	F111A_HUMAN	p.Arg384Gln								2.62732682632e-05	6.1565824126e-06	R	True
+PF13365	R	Trp	768.0	251.0	True	gnomAD	HTRA3	['NM_053044']	rs745448154	ENST00000307358	P83110	HTRA3_HUMAN	p.Arg251Trp									1.50563243406e-05	R	True
+PF13365	R	Trp	768.0	274.0	True	gnomAD	HTRA1	['NM_002775']	rs748074236	ENST00000368984	Q92743	HTRA1_HUMAN	p.Arg274Trp								2.62856992653e-05	6.3671759346e-06	R	True

@@ -1,0 +1,6 @@
+CARM1_HUMAN/172-286                    yqrailqnhtdf---KDKIVLDVGCGSGILSFFAAQAGARKIYAVEASTMA-QHAEVLVKSNNLTD-RIVV-----I--PGKVEEvs-lpEQVDI-IISEP--mgymlfnermlesylhakkylkpsgnmf
+ANM7_HUMAN/54-149                      -aavsrvkdrgq----KALVLDIGTGTGLLSMMAVTAGADFCYAIEVFKPMADAAVKIVEKNGFSD-KIKVI----NkhSTEVTV----gPEGDMpCRANILVtelfdte---------------------
+ANM9_HUMAN/167-257                     ----naaiqkav-CLGSKSVLDIGAGTGILSMFAKKAGAHSVYACELSKTMYELACDVVAANKMEA-GIKLL----H--TK----------------------sldieipkhipervslvvtetv------
+ETKMT_HUMAN/101-191                    qalsrylldnpd-VVRGKSVLDLGSGCGATAIAAKMSGASRILANDIDPIAGMAITLNCELNRLNPfPILIQ----N--ILNLEQ-----DKWDL-VV-----lgdmfy----------------------
+ANM8_HUMAN/101-202                     -----nsmyhnkHVFKDKVVLDVGSGTGILSMFAAKAGAKKVFGIECSSIS-DYSEKIIKANHLDN-IITIFkgkvE--EVELPV-----EKVDI-IISE---wmgyclfyesmlntvif-----------
+ANM3_HUMAN/248-347                     -----yqnphif---KDKVVLDVGCGTGILSMFAAKAGAKKVLGVDQSEI-LYQAMDIIRLNKLED-TITLI----KgkIE---EvhlpvEKVDV-IISE---wmgyfllfesmldsvlya----------

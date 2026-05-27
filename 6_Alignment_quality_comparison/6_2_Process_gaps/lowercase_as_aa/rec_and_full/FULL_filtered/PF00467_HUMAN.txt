@@ -1,0 +1,9 @@
+RS4Y1_HUMAN/177-211                    t-GNLCMVIGGANLG-RVGVITNRERHPgsfDVVHVK--------------
+RM24_HUMAN/58-88                       c-GDTVEILEGKDAG-KQGKVVQVIRQR---NWVVV---------------
+RL27_HUMAN/7-40                        -PGKVVLVLAGRYSG-RKAVIVKNIDDGt-sDR----pysh----------
+RL26_HUMAN/51-97                       -KDDEVQVVRGHYKGqQIGKVVQVYRKK---YVIYIErvqrekangttvhv
+SPT5H_HUMAN/474-505                    m-GDHVKVIAGRFEG-DTGLIVRVEENF---VIL---fsd-----------
+GPKOW_HUMAN/243-274                    -PGGAVVVLSGPHRG-LYGKVEGLDPDN---VRAMV-r-------------
+RL26L_HUMAN/51-97                      -KDDEVQVVRGHYKGqQIGKVVQVYRKK---YVIYIErvqrekangttvhv
+RS4X_HUMAN/177-211                     t-GNLCMVTGGANLG-RIGVITNRERHPgsfDVVHVK--------------
+RS4Y2_HUMAN/177-211                    t-GNVCMVIAGANLG-RVGVITNRERHPgscDVVHVK--------------

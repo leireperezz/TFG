@@ -1,0 +1,15 @@
+CAN1_HUMAN/557-616             ------------------------EDMEISVKELRTILnRIISKHKdlrtkgFSLES-CRSMVNLMDRDGNGKLGLVEFNILWN--r-
+CAN2_HUMAN/545-603             -----------------------d--AEISAFELQTILrRVLAKRQdiksdgFSIET-CKIMVDMLDSDGSGKLGLKEFYILWT--k-
+SORCN_HUMAN/45-100             ------------------------QDGQIDADELQRCLtQS-GIAGgy--kpFNLET-CRLMVSMLDRDMSGTMGFNEFKELW---a-
+RECO_HUMAN/41-90               -------------------------TGRITQQQFQSIY-AK-FFPD------TDPKAyAQHVFRSFDSNLDGTLDFKEYVI-----al
+TNNC1_HUMAN/32-84              ------------------------EDGCISTKELGKVM-RMLGQN-------PTPEE-LQEMIDEVDEDGSGTVDFDEFLVMMVRC--
+EFCB6_HUMAN/419-470            ------------------------PDGPITREEFRYIL-NCMAVK-------LSDSE-FKELMQMLDPGDTGVVNTSMFIDLIE--e-
+SCMC2_HUMAN/55-78              -------------------------------------------------------------IVQAGDKDLDGQLDFEEFVHYLQD---
+KCIP4_HUMAN/125-146            ---------------------ahf-------------------------------------LFNAFDTDHNGAVSFEDFI--------
+PCAT1_HUMAN/432-483            ------------------------EDGSVGEGDLSCILkTALG---------VAELT-VTDLFRAIDQEEKGKITFADFHRFAEMY--
+CPNS2_HUMAN/92-149             -----------------------d--MEVGATDLMNILnKVLSKHKdlktdgFSLDT-CRSIVSVMDSDTTGKLGFEEFKYLW---n-
+KCIP2_HUMAN/141-166            -------------------sstya-----------------------------------TFLFNAFDTNHDGSVSFEDFV--------
+KCIP1_HUMAN/78-126             gvvnedtfkqiyaqffphgdasty----------------------------------AHYLFNAFDTTQTGSVKFEDFVTA----l-
+CSEN_HUMAN/133-153             -----------------------f-------------------------------------LFNAFDADGNGAIHFEDFVV-------
+EFCB3_HUMAN/64-114             -------------------------TGCIDFHGLMCTV-AKLGMN-------LTKHD-VYNELKCADIDRDGKVNFSDFIKVLT--d-
+EFC11_HUMAN/25-49              -----------------------e-------------------------------------VFKACDEDHKGYLSREDFKTAVV--m-

@@ -1,0 +1,8 @@
+SERA_HUMAN/9-111               ..VLISDSL.DPCCRKILQDGGL.QVVEKQ...NLSKEELIAELQD..CEGLIVRSATKVTADVINAA.EKLQVVGRAGTGVDNVDLEAATRKGILVMNTPNGNSLSAAELT------------------------...--------c.
+SERA_HUMAN/286-317             ..-------.-------------.------...-------------..--------------------.-------------------------------------------ASTKEAQSRCGEEIAVQFVDMVKG...KSLTGVVN..
+CTBP2_HUMAN/44-140             ct-------.--VEMPILKD--LaTVAFCD...AQSTQEIHEKVLNeaVGAMMYHTIT-LTREDLEKF.KALRVIVRIGSGYDNVDIKAAGELGIAVCNIPSAAVEETADST------------------------...--------ic
+CTBP2_HUMAN/324-358            ..-------.-------------.------...-------------..--------------------.-------------------------------------------WYSEQASLEMREAAATEIRRAITGripESLRNCVN..
+CTBP1_HUMAN/38-134             ct-------.--VEMPILKD--VaTVAFCD...AQSTQEIHEKVLNeaVGALMYHTIT-LTREDLEKF.KALRIIVRIGSGFDNIDIKSAGDLGIAVCNVPAASVEETADST------------------------...--------lc
+CTBP1_HUMAN/318-352            ..-------.-------------.------...-------------..--------------------.-------------------------------------------WYSEQASIEMREEAAREIRRAITGripDSLKNCVN..
+GRHPR_HUMAN/9-116              ..VFVTRRIpAEGRVALARAADC.EVEQWDsdePIPAKELERGVAG..AHGLLCLLSDHVDKRILDAAgANLKVISTMSVGIDHLALDEIKKRGIRVGYTPDVLTDTTAELA------------------------...--------v.
+GRHPR_HUMAN/296-326            .s-------.-------------.------...-------------..--------------------.--------------------------------------------ATHRTRNTMSLLAANNLLAGLRG...EPMPSE--l.

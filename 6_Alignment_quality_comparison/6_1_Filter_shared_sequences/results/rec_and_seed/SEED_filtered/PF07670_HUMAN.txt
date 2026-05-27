@@ -1,0 +1,2 @@
+S28A1_HUMAN/263-364                  AFQVLPIIVFFSCVISVL..YH................................................VGLM.QWVILKIAWL.MQV.TMGTTATETLSVAGNIFVSQT.....EAPLL....IRP.Y.........................................................................LADMTLS.EV..HVVMTGGYAT....IAGSL.....LGA..YISFGIDA
+S28A2_HUMAN/258-359                  AFQALPIIIFFGCVVSIL..YY................................................LGLV.QWVVQKVAWF.LQI.TMGTTATETLAVAGNIFVGMT.....EAPLL....IRP.Y.........................................................................LGDMTLS.EI..HAVMTGGFAT....ISGTV.....LGA..FIAFGVDA

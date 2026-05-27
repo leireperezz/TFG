@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF08365	Glu	Q	36.0	147.0	True	gnomAD	IGF2	['NM_000612']	rs150866176	ENST00000416167	P01344	IGF2_HUMAN	p.Glu147Gln								0.0001182732111176	0.0001476922231457	QK	True
+PF08365	Glu	K	36.0	147.0	True	gnomAD	IGF2	['NM_000612']	rs150866176	ENST00000416167	P01344	IGF2_HUMAN	p.Glu147Lys								0.0001772723691467	0.0001518140751568	QK	True
+PF08365	Val	L	30.0	141.0	True	gnomAD	IGF2	['NM_000612']	rs375129654	ENST00000416167	P01344	IGF2_HUMAN	p.Val141Leu								6.5694389699e-06	1.71823431492e-05	LM	True
+PF08365	Val	M	30.0	141.0	True	gnomAD	IGF2	['NM_000612']	rs375129654	ENST00000416167	P01344	IGF2_HUMAN	p.Val141Met								1.97083169097e-05	3.16155113946e-05	LM	True

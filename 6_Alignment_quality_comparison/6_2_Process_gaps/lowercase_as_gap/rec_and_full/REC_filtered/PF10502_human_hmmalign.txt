@@ -1,0 +1,4 @@
+IMP2L_HUMAN/14-103             KGFFVAVPVAVTFLDRVACVARVEGASMQPSLNSSDVVLLNHWKVRNFEVHRGDIVSLVSPKNPEQKIIKRVIALEGDIVR------------------------------------------
+IMP2L_HUMAN/107-151            ----------------------------------------------------------------------------------VKVPRGHIWVEGDHHGHSFDSNSFGPVSLGLLHAHATHILW
+IMP1L_HUMAN/17-93              ---------AHCAFEYVGGVVMCSGPSMEPTIQNSDIVFAENLSRHFYGIQRGDIVIAKSPSDPKSNICKRVIGLEGDKI-------------------------------------------
+IMP1L_HUMAN/102-146            ---------------------------------------------------------------------------------HSYVPMGHVWLEGDNLQNSTDSRCYGPIPYGLIRGRIFFKIW

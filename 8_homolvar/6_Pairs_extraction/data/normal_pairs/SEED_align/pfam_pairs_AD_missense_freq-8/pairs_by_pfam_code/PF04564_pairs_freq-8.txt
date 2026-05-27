@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+65	PF04564	Leu	Phe	66.0	284.0	True	gnomAD	STUB1	['NM_005861']	rs756840635	ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Leu284Phe								6.568748522e-06	1.3688242073e-06
+66	PF04564	Leu	Phe	66.0	284.0	True	gnomAD	STUB1	['NM_005861']	rs756840635	ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Leu284Phe									6.844121036911714e-07
+98	PF04564	Thr	Ser	58.0	276.0	True	gnomAD	STUB1	['NM_005861']		ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Thr276Ser									3.6009650586e-06
+99	PF04564	Thr	Ser	58.0	276.0	True	gnomAD	STUB1	['NM_005861']	rs760147998	ENST00000219548	Q9UNE7	CHIP_HUMAN	p.Thr276Ser								6.5696116045e-06	1.5925494168e-06

@@ -1,0 +1,7 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF00031	E	Gly	72.0	157.0	True	gnomAD	KNG1	['NM_001102416']	rs754347642	ENST00000644859	P01042	KNG1_HUMAN	p.Glu157Gly									1.27230914567e-05	E	True
+PF00031	E	Gly	72.0	279.0	True	gnomAD	KNG1	['NM_001102416']	rs762734229	ENST00000644859	P01042	KNG1_HUMAN	p.Glu279Gly								1.97067633611e-05		E	True
+PF00031	T	Ile	326.0	326.0	True	gnomAD	KNG1	['NM_001102416']	rs376870012	ENST00000644859	P01042	KNG1_HUMAN	p.Thr326Ile								1.31452683606e-05	2.12058030021e-05	T	True
+PF00031	T	Ile	326.0	97.0	True	gnomAD	CST3	['NM_000099']	rs1355608117	ENST00000376925	P01034	CYTC_HUMAN	p.Thr97Ile									3.48928856826e-05	T	True
+PF00031	A	Val	232.0	56.0	True	gnomAD	HRG	['NM_000412']	rs149992908	ENST00000232003	P04196	HRG_HUMAN	p.Ala56Val								0.0008010715974155	0.0014545842666801	A	True
+PF00031	A	Val	232.0	78.0	True	gnomAD	CST3	['NM_000099']	rs1286819311	ENST00000376925	P01034	CYTC_HUMAN	p.Ala78Val								2.62801729235e-05	0.0	A	True

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF17862	Ala	L	11.0	510.0	True	ClinVar	SPG7	NM_003119				SPG7_HUMAN	p.Ala510Leu	Pathogenic	Hereditary spastic paraplegia 7	criteria provided, single submitter	VCV000989124	989124.0	977146.0	NC_000016.10:89546735:GC:TT			LV	True
+PF17862	Ala	V	11.0	510.0	True	gnomAD	SPG7	['NM_003119']	rs61755320	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala510Val								0.003591595535128	0.006025417052033	LV	True
+PF17862	Ala	V	32.0	557.0	True	ClinVar	SPAST	NM_014946	rs1057518873			SPAST_HUMAN	p.Ala557Val	Likely pathogenic(Last reviewed: Apr 1, 2019)	not provided	criteria provided, single submitter	VCV000808723	808723.0	795225.0	NC_000002.12:32144989:C:T			V	True
+PF17862	Ala	V	32.0	529.0	True	gnomAD	SPG7	['NM_003119']	rs748600162	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala529Val								0.0001051068805591	1.64375455456e-05	V	True

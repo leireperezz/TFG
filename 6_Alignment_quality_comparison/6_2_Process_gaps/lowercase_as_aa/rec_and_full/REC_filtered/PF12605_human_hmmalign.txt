@@ -1,0 +1,4 @@
+KC1G2_HUMAN/361385            n-------------------------------------------------------------------QALNSTNGELNADDPTAGHSNAPI---
+KC1G1_HUMAN/331362            -RPIPTPVGSVHVDSGASAiTRESHTHRDR--------------------------------------------------------------psq
+KC1G1_HUMAN/369392            --------------------------------------------------------------------QVVSSTNGELNVDDPTGAHSNAPI---
+KC1G3_HUMAN/328417            -KQLPTPVGAVQQDPALSS-NREAHQHRDKmqqSKNQSADHRAAWDSQQANPHHLRAHLAADRHGGSVQVVSSTNGELNTDDPTAGRSNAPI---

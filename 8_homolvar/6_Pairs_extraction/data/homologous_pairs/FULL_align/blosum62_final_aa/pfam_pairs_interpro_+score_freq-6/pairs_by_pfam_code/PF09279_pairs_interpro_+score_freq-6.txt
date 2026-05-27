@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF09279	Ala	S	109.0	222.0	True	gnomAD	PLCD1	['NM_006225']	rs781388779	ENST00000334661	P51178	PLCD1_HUMAN	p.Ala222Ser								1.96902074035e-05	2.0545468491e-06	ST	True
+PF09279	Ala	T	109.0	222.0	True	gnomAD	PLCD1	['NM_006225']	rs781388779	ENST00000334661	P51178	PLCD1_HUMAN	p.Ala222Thr								6.5634024678e-06	1.02727342457e-05	ST	True
+PF09279	Thr	N	78.0	217.0	True	gnomAD	PLCD1	['NM_006225']	rs116413867	ENST00000334661	P51178	PLCD1_HUMAN	p.Thr217Asn								0.0008992215498116	6.91526946271e-05	NS	True
+PF09279	Thr	S	78.0	217.0	True	gnomAD	PLCD1	['NM_006225']	rs116413867	ENST00000334661	P51178	PLCD1_HUMAN	p.Thr217Ser								1.3137497044e-05	6.846801448235443e-07	NS	True

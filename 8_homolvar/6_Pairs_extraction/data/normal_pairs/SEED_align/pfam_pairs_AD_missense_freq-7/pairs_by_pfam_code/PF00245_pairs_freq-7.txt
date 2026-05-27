@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+64	PF00245	Asn	Lys	253.0	302.0	True	gnomAD	ALPL	['NM_001369805', 'NM_001369804', 'NM_000478']	rs560308330	ENST00000374840	P05186	PPBT_HUMAN	p.Asn302Lys									1.3681443994e-06
+65	PF00245	Asn	Lys	253.0	302.0	True	gnomAD	ALPL	['NM_001369805', 'NM_001369804', 'NM_000478']	rs560308330	ENST00000374840	P05186	PPBT_HUMAN	p.Asn302Lys								1.97052100575e-05	2.05221659914e-05
+355	PF00245	Val	Leu	71.0	121.0	True	gnomAD	ALPL	['NM_001369805', 'NM_001369804', 'NM_000478']	rs1476072388	ENST00000374840	P05186	PPBT_HUMAN	p.Val121Leu								6.5694389699e-06	
+356	PF00245	Val	Leu	71.0	121.0	True	gnomAD	ALPL	['NM_001369805', 'NM_001369804', 'NM_000478']		ENST00000374840	P05186	PPBT_HUMAN	p.Val121Leu									1.5910898965e-06

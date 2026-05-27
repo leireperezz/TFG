@@ -1,0 +1,17 @@
+B1B0D4_HUMAN/1025-1056                 ......................C.QDQ.............pGTNCALAIKVN..LC.GHWYYSKACCRSCR..
+ATL1_HUMAN/1730-1760                   ......................C.RDT..............TRYCEKVKQLK..LC.QLSQFKSRCCGTC-g.
+THSD4_HUMAN/975-1005                   ......................C.KDK..............YYNCNVVVQAR..LC.VYNYYKTACCASCT..
+A0A0J9YW51_HUMAN/273-305               .................tcsna-.-DE..............-TFCEMVKSNR..LC.ERKLFIQFCCRTC-l.
+ATL4_HUMAN/1033-1063                   ......................C.KDS..............SPHCPLVVQAR..LC.VYPYYTATCCRSC-a.
+A0A7P0T9B9_HUMAN/1778-1808             ......................C.RDT..............TRYCEKVKQLK..LC.QLSQFKSRCCGTC-g.
+A0A0A0MQW6_HUMAN/1069-1101             ......................C.KDVn............kVAYCPLVLKFQ..FC.SRAYFRQMCCKTC-h.
+A0A669KBE7_HUMAN/994-1024              ......................C.KDS..............SPHCPLVVQAR..LC.VYPYYTATCCRSC-a.
+ATS18_HUMAN/1188-1218                  ......................C.VDF..............FNWCHLVPQHG..VC.NHKFYGKQCCKSCT..
+PCSK6_HUMAN/935-966                    ..................csna-.-DE..............-TFCEMVKSNR..LC.ERKLFIQFCCRTC-l.
+H0Y3Q0_HUMAN/763-794                   ..................csna-.-DE..............-TFCEMVKSNR..LC.ERKLFIQFCCRTC-l.
+ATS10_HUMAN/1069-1101                  ......................C.KDVn............kVAYCPLVLKFQ..FC.SRAYFRQMCCKTC-h.
+ATS16_HUMAN/1190-1220                  ......................C.KDY..............FHWCYLVPQHG..MC.SHKFYGKQCCKTCS..
+ATS6_HUMAN/1083-1115                   ......................C.KDVn............kVAYCPLVLKFK..FC.SRAYFRQMCCKTCQ..
+ATL2_HUMAN/916-947                     ......................C.QDQ.............pGTNCALAIKVN..LC.GHWYYSKACCRSCR..
+ATL3_HUMAN/1659-1689                   ......................C.TDT..............THYCMFVKHLN..LC.SLDRYKQRCCQSCQ..
+PPN_HUMAN/1235-1267                    ......................C.VDQp............eLANCDLILQAQ..LC.GNEYYSSFCCASCS..

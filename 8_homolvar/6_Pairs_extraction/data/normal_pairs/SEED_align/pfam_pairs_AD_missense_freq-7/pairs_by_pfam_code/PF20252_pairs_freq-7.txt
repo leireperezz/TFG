@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+76	PF20252	Phe	Leu	75.0	1673.0	True	gnomAD	ARFGEF1	['NM_006421']	rs1838394610	ENST00000262215	Q9Y6D6	BIG1_HUMAN	p.Phe1673Leu									1.590386432e-06
+77	PF20252	Phe	Leu	75.0	1673.0	True	gnomAD	ARFGEF1	['NM_006421']	rs753932107	ENST00000262215	Q9Y6D6	BIG1_HUMAN	p.Phe1673Leu									1.2003216862e-06
+86	PF20252	Ser	Arg	197.0	1792.0	True	gnomAD	ARFGEF1	['NM_006421']		ENST00000262215	Q9Y6D6	BIG1_HUMAN	p.Ser1792Arg									3.8586003056e-06
+87	PF20252	Ser	Arg	197.0	1792.0	True	gnomAD	ARFGEF1	['NM_006421']	rs771042710	ENST00000262215	Q9Y6D6	BIG1_HUMAN	p.Ser1792Arg								1.3145441161e-05	4.2507488402e-06

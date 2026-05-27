@@ -1,0 +1,3 @@
+C9JDA1_HUMAN/223-278                 .......................l----SELHPI.........CNK.S..I.LRQEVDYMTQ.ARGQ..RSSLAEDNESSYS....RGFDMTY.T..E..F..DY...DLCNE---------.
+A0A1D5RMN4_HUMAN/282-349             ........................RRQISELHPI.........CNK.S..I.LRQEVDYMTQ.ARGQ..RSSLAEDNESSYS....RGFDMTY.T..E..F..DY...DLCNEVVDVTCSPK.
+FSHR_HUMAN/282-349                   ........................RRQISELHPI.........CNK.S..I.LRQEVDYMTQ.ARGQ..RSSLAEDNESSYS....RGFDMTY.T..E..F..DY...DLCNEVVDVTCSPK.

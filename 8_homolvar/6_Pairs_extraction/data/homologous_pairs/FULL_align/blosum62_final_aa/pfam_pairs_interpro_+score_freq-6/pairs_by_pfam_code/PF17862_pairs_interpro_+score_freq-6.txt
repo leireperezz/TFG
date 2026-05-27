@@ -1,0 +1,13 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF17862	Ala	L	40.0	510.0	True	ClinVar	SPG7	NM_003119				SPG7_HUMAN	p.Ala510Leu	Pathogenic	Hereditary spastic paraplegia 7	criteria provided, single submitter	VCV000989124	989124.0	977146.0	NC_000016.10:89546735:GC:TT			LV	True
+PF17862	Ala	V	40.0	510.0	True	gnomAD	SPG7	['NM_003119']	rs61755320	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala510Val								0.003591595535128	0.006025417052033	LV	True
+PF17862	Ala	S	97.0	522.0	True	gnomAD	SPG7	['NM_003119']	rs540602203	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala522Ser								1.97083169097e-05	0.0	ST	True
+PF17862	Ala	T	97.0	522.0	True	gnomAD	SPG7	['NM_003119']	rs540602203	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala522Thr								1.31287006524e-05	9.5871368015e-06	ST	True
+PF17862	Ala	V	124.0	529.0	True	gnomAD	SPG7	['NM_003119']	rs748600162	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ala529Val								0.0001051068805591	1.64375455456e-05	V	True
+PF17862	Ala	V	124.0	557.0	True	ClinVar	SPAST	NM_014946	rs1057518873			SPAST_HUMAN	p.Ala557Val	Likely pathogenic(Last reviewed: Apr 1, 2019)	not provided	criteria provided, single submitter	VCV000808723	808723.0	795225.0	NC_000002.12:32144989:C:T			V	True
+PF17862	Arg	Q	187.0	534.0	True	gnomAD	SPG7	['NM_003119']	rs757160836	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Arg534Gln								9.19576469351e-05	5.2080977697e-05	Q	True
+PF17862	Arg	Q	187.0	562.0	True	ClinVar	SPAST	NM_014946	rs863224923			SPAST_HUMAN	p.Arg562Gln	Pathogenic/Likely pathogenic(Last reviewed: Sep 27, 2022)	Hereditary spastic paraplegia 4|not provided|Hereditary spastic paraplegia	criteria provided, multiple submitters, no conflicts	VCV000217004	217004.0	213539.0	NC_000002.12:32145004:G:A			Q	True
+PF17862	Ile	M	95.0	521.0	True	gnomAD	SPG7	['NM_003119']	rs202123044	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ile521Met								1.31352537074e-05	7.5326574941e-06	MV	True
+PF17862	Ile	V	95.0	521.0	True	gnomAD	SPG7	['NM_003119']	rs772248078	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Ile521Val									1.78032927874e-05	MV	True
+PF17862	Val	L	239.0	540.0	True	gnomAD	SPG7	['NM_003119']	rs149437163	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Val540Leu								1.9707799033e-05		LM	True
+PF17862	Val	M	239.0	540.0	True	gnomAD	SPG7	['NM_003119']	rs149437163	ENST00000645818	Q9UQ90	SPG7_HUMAN	p.Val540Met								7.22619297876e-05	8.9148318114e-06	LM	True

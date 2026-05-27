@@ -1,0 +1,4 @@
+CLCN7_HUMAN/737-793                  L........S.E...F........MNP........SP.........Y.......TVPQE....AS.LPRVF....KL..F................RALGL.....R..HL...VVV...........DNRN....Q......VV.GLVTRKDLARYRLG
+CLCN7_HUMAN/627-690                  A........R.E...V........MST........PV.........T.......CLRRR....EK.VGVIV....DV..L.....S....D.....TASNH.....N..GF.P.V.V..........EHADDTQPAR......LQ.GLILRSQLIVLLKH
+CNNM2_HUMAN/514-569                  I........T.K...F........YNH........PL.........H.......FVFND....TK.LDAML....EE..F..........K.....KGKSH.....L..AIVQRVNN...........EGEGDPFYE......VL.GIVTL.........
+CNNM2_HUMAN/446-506                  V........E.D...VM......TPLR........DC.........F.......MITGEAILDFNTMSEIM....ES.GY..........................T..RI.P.V.F.............EG...ERS....NIV.DLLFVKDLAFVDPD

@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+33	PF01279	Gln	Arg	8.0	37.0	True	gnomAD	PTH	['NM_000315']		ENST00000282091	P01270	PTHY_HUMAN	p.Gln37Arg									1.590517968e-06
+34	PF01279	Gln	Arg	8.0	42.0	True	gnomAD	PTHLH	['NM_198965']		ENST00000545234	P12272	PTHR_HUMAN	p.Gln42Arg									1.2003303309e-06
+50	PF01279	Gly	Arg	14.0	43.0	True	gnomAD	PTH	['NM_000315']	rs142613980	ENST00000282091	P01270	PTHY_HUMAN	p.Gly43Arg								1.3147687979e-05	1.36813316861e-05
+51	PF01279	Gly	Arg	14.0	43.0	True	gnomAD	PTH	['NM_000315']		ENST00000282091	P01270	PTHY_HUMAN	p.Gly43Arg									6.840665843050499e-07
+61	PF01279	His	Gln	34.0	68.0	True	gnomAD	PTHLH	['NM_198965']	rs763783691	ENST00000545234	P12272	PTHR_HUMAN	p.His68Gln									1.5914393295e-06
+62	PF01279	His	Gln	34.0	63.0	True	gnomAD	PTH	['NM_000315']		ENST00000282091	P01270	PTHY_HUMAN	p.His63Gln									1.5904521973e-06

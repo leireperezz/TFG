@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF08736	Arg	Q	11.0	318.0	True	gnomAD	FRMD5	['NM_001322950', 'NM_032892']	rs906897784	ENST00000417257	Q7Z6J6	FRMD5_HUMAN	p.Arg318Gln								1.3144404427e-05	2.737363645e-06	Q	True
+PF08736	Arg	Q	11.0	508.0	True	gnomAD	EPB41	['NM_001166005', 'NM_001376013']	rs749013479	ENST00000343067	P11171	EPB41_HUMAN	p.Arg508Gln									1.36809386218e-05	Q	True
+PF08736	Ser	G	13.0	510.0	True	gnomAD	EPB41	['NM_001166005', 'NM_001376013']	rs148913273	ENST00000343067	P11171	EPB41_HUMAN	p.Ser510Gly								3.28592834047e-05	4.1042872016e-06	G	True
+PF08736	Ser	G	13.0	396.0	True	gnomAD	EPB41L1	['NM_012156']	rs202155923	ENST00000338074	Q9H4G0	E41L1_HUMAN	p.Ser396Gly								1.31532218816e-05	7.31930216268e-05	G	True

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+218	PF01237	Met	Ile	1595.0	297.0	True	gnomAD	OSBPL2	['NM_144498']		ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Met297Ile									6.843240520743231e-07
+219	PF01237	Met	Ile	1595.0	297.0	True	gnomAD	OSBPL2	['NM_144498']		ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Met297Ile									6.843231154767884e-07
+266	PF01237	Ser	Arg	109.0	75.0	True	gnomAD	OSBPL2	['NM_144498']	rs1981464121	ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Ser75Arg									1.5904269023e-06
+267	PF01237	Ser	Arg	109.0	75.0	True	gnomAD	OSBPL2	['NM_144498']	rs146206209	ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Ser75Arg									1.3681425276e-06

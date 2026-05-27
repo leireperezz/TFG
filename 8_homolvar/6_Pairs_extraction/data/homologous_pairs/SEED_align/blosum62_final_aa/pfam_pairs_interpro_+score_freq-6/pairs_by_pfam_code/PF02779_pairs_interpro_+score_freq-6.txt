@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02779	Met	I	172.0	436.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']	rs1553676284	ENST00000462138	P29401	TKT_HUMAN	p.Met436Ile								1.31406044678e-05		IV	True
+PF02779	Met	V	172.0	436.0	True	gnomAD	TKT	['NM_001135055', 'NM_001064']	rs141784567	ENST00000462138	P29401	TKT_HUMAN	p.Met436Val								0.0008538363524111	0.0008509648600764	IV	True

@@ -1,0 +1,17 @@
+DHX32_HUMAN/616-696                    ---IKKALLSGYFMQIA-----------------R-DVD----GSGN---------YLMLT-HKQVAQLHPLSGYSI-------TKKMPE-----------------------WVLFHKFSISEN-NYIRITSEISPE-LFMQLVPQY--
+DHX8_HUMAN/1103-1180                   ---VQKAICSGFFRNAA-----------------K-KDP----QEG----------YRTLI-DQQVVYIHPSSALFN---------RQPE-----------------------WVVYHELVLTTK-EYMREVTTIDPR-WLVEFAPA-f-
+DHX35_HUMAN/606-685                    -vl--RCIVSGFFANAA-----------------R-FH-----STGA---------YRTIR-DDHELHIHPASVLYA--------EKPPR-----------------------WVIYNEVIQTSK-YYMRDVTAIESA-WLLELAPH-fy
+DHX9_HUMAN/991-1074                    vis---LLAFGVYPNVC-----------------Y-HKE----KRKI---------LTTE---GRNALIHKSSVNCPf--ssQDMKYPSP-----------------------FFVFGEKIRTRA-ISAKGMTLVTPL-QLLLFASK-k-
+DHX15_HUMAN/689-765                    ---IRKALVTGYFMQVA-----------------H-LER----TG-H---------YLTVK-DNQVVQLHPSTVLD----------HKPE-----------------------WVLYNEFVLTTK-NYIRTCTDIKPE-WLVKIAPQY--
+DHX37_HUMAN/925-1011                   ---LRQIVTAGLGDHLA-----------------R-RVQ----SEEMledk-wrnaYKTPL-LDDPVFIHPSSVLFK---------ELPE-----------------------FVVYQEIVETTK-MYMKGVSSVEVQ-WIPALLPS-y-
+DHX29_HUMAN/1216-1302                  ---LKAVLVAGLYDNVGki------------iytK-SVD----VTEKla-----ciVETA---QGKAQVHPSSVNRD--------LQTHG-----------------------WLLYQEKIRYAR-VYLRETTLITPF-PVLLFGGDI--
+DHX34_HUMAN/800-911                    ---LKLVLGRGLYPQLA-----------------V-PDAf-nsSRKDsd----qifHTQA---KQGAVLHPTCVFAGspevlH------AqeleasncdgsrddkdkmsskhqLLSFVSLLETNK-PYLVNCVRIPALqSLLLFSRS-l-
+DHX40_HUMAN/619-699                    ---LRRCLCAGYFKNVA-----------------R-R-S----VGRT---------FCTMDgRGSPVHIHPSSALHE-------QETKLE-----------------------WIIFHEVLVTTK-VYARIVCPIRYE-WVRDLLPK-l-
+DHX36_HUMAN/831-917                    ---IKAVICAGLYPKVA-----------------KiRLNl--gKKRKmv-----kvYTKT---DGLVAVHPKSVNV------EQTDFHYN-----------------------WLIYHLKMRTSS-IYLYDCTEVSPY-CLLFFGGDI--
+YTDC2_HUMAN/971-1067                   ---VKAALVAGMYPNLV-----------------H-VDR----ENLV---------LTGPK--EKKVRFHPASVLSQ----pQYKKIPPAngqaaa----------ikalptdWLIYDEMTRAHRiANIRCCSAVTPV-TILVFCG--pa
+DHX57_HUMAN/1213-1312                  ---ISAMLCAALYPNVVqvkspegkfqktstgavR-MQP----KSAE---------LKFVTkNDGYVHIHPSSVNY------QVRHFDSP-----------------------YLLYHEKIKTSR-VFIRDCSMVSVY-PLVLFGG--gq
+DHX30_HUMAN/1015-1105                  --v-KGVLMAGLYPNLI-----------------Q-VRQgkvtR--QgkfkpnsvtYRTK---SGNILLHKSTINR------EATRLRSR-----------------------WLTYFMAVKSNGsVFVRDSSQVHPL-AVLLLT---dg
+DHX33_HUMAN/620-697                    ---VRRCLAHSLFMSTA-----------------E-LQP----DGT----------YATTD-THQPVAIHPSSVLFH---------CKPA-----------------------CVVYTELLYTNK-CYMRDLCVIDAQ-WLYEAAPE-y-
+DHX16_HUMAN/939-1015                   ---VRKAITAGYFYHTA-----------------R-LTR----SG-----------YRTVK-QQQTVFIHPNSSLFE---------QQPR-----------------------WLLYHELVLTTK-EFMRQVLEIESS-WLLEVAPHY--
+PRP16_HUMAN/1069-1148                  ---VRKCICAAYFHQAA-----------------K-LKG----IGE----------YVNIR-TGMPCHLHPTSSLFG-------MGYTPD-----------------------YIVYHELVMTTK-EYMQCVTAVDGE-WLAELGP--mf
+DQX1_HUMAN/591-674                     ---LQKALVSGYFLKVA-----------------R-DTD----GTGN---------YLLLT-HKHVAQLSSYCCYRS----rRAPARPPP-----------------------WVLYHNFTISKD-NCLSIVSEIQPQ-MLVELAPP-y-

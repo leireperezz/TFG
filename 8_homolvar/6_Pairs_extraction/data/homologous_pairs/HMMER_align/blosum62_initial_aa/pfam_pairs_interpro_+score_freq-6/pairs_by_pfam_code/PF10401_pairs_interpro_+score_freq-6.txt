@@ -1,0 +1,11 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF10401	D	Asn	40.0	261.0	True	gnomAD	IRF6	['NM_006147']	rs201017955	ENST00000367021	O14896	IRF6_HUMAN	p.Asp261Asn								2.62598146057e-05	4.92518507066e-05	D	True
+PF10401	D	Asn	40.0	235.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs1306643767	ENST00000377139	Q14653	IRF3_HUMAN	p.Asp235Asn								1.31323212691e-05		D	True
+PF10401	R	Gln	29.0	227.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs1172652095	ENST00000377139	Q14653	IRF3_HUMAN	p.Arg227Gln									1.5052306766e-05	R	True
+PF10401	R	Gln	29.0	250.0	True	ClinVar	IRF6	NM_006147	rs1553247774			IRF6_HUMAN	p.Arg250Gln	Pathogenic(Last reviewed: Aug 19, 2022)	Popliteal pterygium syndrome|Van der Woude syndrome|Orofacial cleft 6, susceptibility to	criteria provided, single submitter	VCV000458684	458684.0	447730.0	NC_000001.11:209790805:C:T			R	True
+PF10401	R	Gln	184.0	400.0	True	ClinVar	IRF6	NM_006147	rs200166664			IRF6_HUMAN	p.Arg400Gln	Pathogenic(Last reviewed: Sep 1, 2010)	Van der Woude syndrome 1	no assertion criteria provided	VCV000101515	101515.0	107258.0	NC_000001.11:209788624:C:T			R	True
+PF10401	R	Gln	184.0	375.0	True	gnomAD	IRF8	['NM_002163']	rs372592381	ENST00000268638	Q02556	IRF8_HUMAN	p.Arg375Gln								4.59896983075e-05	2.12134939719e-05	R	True
+PF10401	V	Met	174.0	363.0	True	gnomAD	IRF3	['NM_001197122']	rs779856294	ENST00000601291	Q14653	IRF3_HUMAN	p.Val363Met								2.62977962446e-05	1.44188978194e-05	V	True
+PF10401	V	Met	174.0	363.0	True	gnomAD	IRF3	['NM_001197123', 'NM_001571']	rs148672096	ENST00000377139	Q14653	IRF3_HUMAN	p.Val363Met								0.0039812369427253	0.0005153280784126	V	True
+PF10401	R	Trp	184.0	400.0	True	ClinVar	IRF6	NM_006147	rs28942095			IRF6_HUMAN	p.Arg400Trp	Pathogenic(Last reviewed: Aug 30, 2021)	Popliteal pterygium syndrome|Van der Woude syndrome|Orofacial cleft 6, susceptibility to	criteria provided, single submitter	VCV000003419	3419.0	18458.0	NC_000001.11:209788625:G:A			R	True
+PF10401	R	Trp	184.0	375.0	True	gnomAD	IRF8	['NM_002163']	rs774733201	ENST00000268638	Q02556	IRF8_HUMAN	p.Arg375Trp								1.31419860169e-05	4.7903077019e-06	R	True

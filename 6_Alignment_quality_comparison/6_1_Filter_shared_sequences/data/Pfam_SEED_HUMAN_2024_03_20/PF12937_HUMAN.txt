@@ -1,0 +1,4 @@
+FBXW5_HUMAN/6-52                     TPLLPDS....LVYQIF.................L....S.....L.G..PA..D.........VLA.A.G.....LVCRQWQAVS..RDE..FLWREQFYR
+FBXL8_HUMAN/5-51                     GEGLPEE....VLALIF.................R....H..........LSLRD.........RAA.A.A.....RVCRAWAAAA..TCS..AVWHDTKIS
+D6R9R7_HUMAN/97-143                  WDSLPDE....LLLGIF.................S....C.....L.C..LP..E.........LLK.V.S.....GVCKRWYRLA..SDE..SLWQTLDLT
+C9IYF0_HUMAN/72-118                  QEKLPDE....VVLKIF.................S....Y.....L.L..EQ..D.........LCR.A.A.....CVCKRFSELA..NDP..ILWKRLYME

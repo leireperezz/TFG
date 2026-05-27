@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+115	PF01852	Met	Ile	187.0	271.0	True	gnomAD	STARD7	['NM_001385622', 'NM_020151']	rs1558734320	ENST00000337288	Q9NQZ5	STAR7_HUMAN	p.Met271Ile								1.31513190773e-05	4.7728444243e-06
+116	PF01852	Met	Ile	187.0	271.0	True	gnomAD	STARD7	['NM_001385622', 'NM_020151']	rs1558734320	ENST00000337288	Q9NQZ5	STAR7_HUMAN	p.Met271Ile								6.5756595386e-06	
+146	PF01852	Ser	Arg	236.0	309.0	True	gnomAD	STARD7	['NM_001385622', 'NM_020151']	rs141727167	ENST00000337288	Q9NQZ5	STAR7_HUMAN	p.Ser309Arg								6.5722886023e-06	6.017006467e-06
+147	PF01852	Ser	Arg	236.0	309.0	True	gnomAD	STARD7	['NM_001385622', 'NM_020151']		ENST00000337288	Q9NQZ5	STAR7_HUMAN	p.Ser309Arg									1.2034012934e-06

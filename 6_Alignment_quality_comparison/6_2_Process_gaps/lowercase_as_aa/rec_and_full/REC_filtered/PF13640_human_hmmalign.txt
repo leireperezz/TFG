@@ -1,0 +1,11 @@
+P4HA2_HUMAN/416-519            ------------------LQVANY-GVGGQYEPHFDFSRnde-------------rdtfKHLGTGNRVATFLNYMS----DV-EAGGA--------------------TVF----P---------DLGAAIWPKKGTAVFWYNL-LRSgegd------yrtrHAACPVLV-GCKWVSNKWFH-
+P4HA1_HUMAN/415-518            ------------------LQVANY-GVGGQYEPHFDFARkde-------------pdafKELGTGNRIATWLFYMSD----V-SAGGA--------------------TVF----P---------EVGASVWPKKGTAVFWYNL--FAsgeg-----dystrHAACPVLV-GNKWVSNKWLH-
+P3H1_HUMAN/584-676             ----------------hp--------------VHVDNCIlnaet----------lvcvkEPPAYTFRDYSAILYLN----GD-FDGGN--------------------FYFTELDA--------kTVTAEVQPQCGRAVGFSSGTENP--------------HGVKAVTRG-QRCAIALWF--
+P4HA3_HUMAN/426-528            ------------------LQVVNY-GIGGHYEPHFDHATsps--------------splYRMKSGNRVATFMIYLS----SV-EAGGA--------------------TAFIYA-------------NLSVPVVRNAALFWWNLH--Rsgeg-----dsdtlHAGCPVLV-GDKWVANKWIH-
+P3H2_HUMAN/580-669             hadnclldpeanecwkep-------------------------------------------PAYTFRDYSALLYMN----DD-FEGGE--------------------FIFTEMDA--------kTVTASIKPKCGRMISFSSGGENP--------------HGVKAVTKG-KRCAVALWF--
+P3H3_HUMAN/583-672             -----------------v---------------HADNCVldpdt----------gecwrEPPAYTYRDYSGLLYLN----DD-FQGGD--------------------LFFTEPNA--------lTVTARVRPRCGRLVAFSSGVENP--------------HGVWAVTRG-RRCALALW---
+EGLN2_HUMAN/283-374            -----------------m--VACYpGNGLGYVRHVDNP------------------------HGDGRCITCIYYLNQnWDVK-VHGGL--------------------LQIFPEGR---------PVVANIEPLFDRLLIFWSDRRNP--------------HEVKPAYA--TRYAITVWY--
+EGLN1_HUMAN/299-390            -----------------m--VACYpGNGTGYVRHVDNP-----------------------NG-DGRCVTCIYYLNKdWDAK-VSGGI--------------------LRIFPEGK---------AQFADIEPKFDRLLFFWSDRRNP--------------HEVQPAYA--TRYAITVWY--
+EGLN3_HUMAN/121-212            -----------------m--VACYpGNGTGYVRHVDNP-----------------------NG-DGRCITCIYYLNKnWDAK-LHGGI--------------------LRIFPEGK---------SFIADVEPIFDRLLFFWSDRRNP--------------HEVQPSYA--TRYAMTVWY--
+P4HTM_HUMAN/314-458            ------------------LQVVRY-GEGGHYHAHVDSGPvypeticshtklvanesvpfET---SCRYMTVLFYLN-----NvTGGGEtvfpvadnrtydemsliqddV------DlrdtrrhcdKGNLRVKPQQGTAVFWYNY--LPdgqgwvgdvddyslHGGCLVTRG-TKWIANNWI--
+OGFD3_HUMAN/223-303            ---------------hde-----------YWHAHVDKV------------------------TYGSFDYTSLLYLSN-YLED-FGGGR--------------------FMFMEE-----------GANKTVEPRAGRVSFFTSGSENL--------------HRVEKVH-WGTRYAIT----i

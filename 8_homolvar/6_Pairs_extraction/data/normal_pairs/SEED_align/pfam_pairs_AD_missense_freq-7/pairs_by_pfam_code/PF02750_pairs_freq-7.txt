@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+43	PF02750	Gln	His	86.0	299.0	True	gnomAD	SYN2	['NM_133625']	rs767020841	ENST00000621198	Q92777	SYN2_HUMAN	p.Gln299His									3.1813901402e-06
+44	PF02750	Gln	His	86.0	299.0	True	gnomAD	SYN2	['NM_133625']		ENST00000621198	Q92777	SYN2_HUMAN	p.Gln299His									1.5906950701e-06
+118	PF02750	Met	Ile	136.0	349.0	True	gnomAD	SYN2	['NM_133625']	rs375170939	ENST00000621198	Q92777	SYN2_HUMAN	p.Met349Ile								6.5683170658e-06	1.3700713396e-06
+119	PF02750	Met	Ile	136.0	349.0	True	gnomAD	SYN2	['NM_133625']	rs375170939	ENST00000621198	Q92777	SYN2_HUMAN	p.Met349Ile								0.000164207926645	9.86451364522e-05

@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+39	PF00835	Val	Leu	38.0	121.0	True	gnomAD	SNAP25	['NM_001322906', 'NM_001322909', 'NM_130811']	rs767613001	ENST00000254976	P60880	SNP25_HUMAN	p.Val121Leu								6.5691800349e-06	1.595171098e-06
+40	PF00835	Val	Leu	38.0	121.0	True	gnomAD	SNAP25	['NM_001322906', 'NM_001322909', 'NM_130811']	rs767613001	ENST00000254976	P60880	SNP25_HUMAN	p.Val121Leu									1.595171098e-06

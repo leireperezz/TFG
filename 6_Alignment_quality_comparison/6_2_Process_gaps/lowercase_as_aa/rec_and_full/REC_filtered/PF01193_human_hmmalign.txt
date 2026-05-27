@@ -1,0 +1,4 @@
+RPAC1_HUMAN/62-102             -------------------------------------------------EFDMVGIDAAIANAFRRILLAEVPTMAVEK----------------------------------------------------------------------vlvynntsivq
+RPAC1_HUMAN/225-333            fspvatasyrllpditllepvegeaaeelsrcfspgvievqevqgkkva-----------------------------Rvanprld-----------tfsreifrNEKLKKVVRLARVRDHYIFSVESTGVLPPDVLVSEAIKVLMGKC-----------
+RPB3_HUMAN/20-49               -------------------------------------------------KFIIENTDLAVANSIRRVFIAEVPIIAID-----------------------------------------------------------------------w----------
+RPB3_HUMAN/176-256             --------------------------------------------wnpta------------------------GVAFEYdpdnalrhtvypkpeewpkseyseldEDESQAPYDPNGKPERFYYNVESCGSLRPETIVLSALSGLKKKL-----------

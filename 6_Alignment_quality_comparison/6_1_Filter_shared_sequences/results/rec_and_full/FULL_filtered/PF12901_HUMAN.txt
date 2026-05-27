@@ -1,0 +1,3 @@
+CSDE1_HUMAN/756-788                    ......................RLKNITLDDASAPR.L.MVLRQPRGP..D....N.S.MGFG--ae..
+LARP6_HUMAN/452-484                    ......................PLLSRKMQTADGLP.V.GVLRLPRGP..D....N.T.RGFH--gh..
+SZRD1_HUMAN/119-151                    ......................RPTRISQPEDSRQP.N.NVIRQPLGP..D....G.S.QGFKQR....

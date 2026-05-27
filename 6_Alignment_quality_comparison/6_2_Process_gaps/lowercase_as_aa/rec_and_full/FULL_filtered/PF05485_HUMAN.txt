@@ -1,0 +1,12 @@
+THAP7_HUMAN/5-93                       CSAAGCCTRDTRETRNR-gISFHRLPkKDNPRRGLW---LANCQRLDPSGQGLWDpaseyIYFCSKHFEEDcf-------elV------GISG-YHRLKEGAVPTIF---------------------------------------------------------
+P52K_HUMAN/5-86                        CAAPNCTRKSTQSD-----LAFFRFP-RDPARCQKW---VENCRRADLEDKTPDQln-khYRLCAKHFE---------------TSMICRTSPYRTVLRDNAIPTIF---------------------------------------------------------
+THAP3_HUMAN/5-82                       CAARQCCNRYSSRRK-Q--LTFHRFPfSRPELLKEW---VLNIGRGNFKPKQHT-------VICSEHF----------------RPECFSAFGNRKNLKHNAVPTVF---------------------------------------------------------
+THAP8_HUMAN/5-85                       CRAPNCSNTAGRLGADNrpVSFYKFPlKDGPRLQAW---LQHMGCEHWVPSCHQ-------HLCSEHF----------------TPSCFQWRWGVRYLRPDAVPSIF---------------------------------------------------------
+THAP5_HUMAN/5-84                       CAAICCKNRRGRNNKDR-kLSFYPFPlHDKERLEKW---LKNMKRDSWVPSKYQ-------FLCSDHF----------------TPDSLDIRWGIRYLKQTAVPTIF---------------------------------------------------------
+THAP4_HUMAN/5-85                       CAAVNCSNRQGKGEKRA--VSFHRFPlKDSKRLIQW---LKAVQRDNWTPTKYS-------FLCSEHFTKD--------------SFSKRLEDQHRLLKPTAVPSIF---------------------------------------------------------
+THAP9_HUMAN/5-89                       CSAVGCSTRDTVLSRER-gLSFHQFP-TDTIQRSKW---IRAVNRVDPRSKKIWIpg-pgAILCSKHF----------------QESDFESYGIRRKLKKGAVPSV-s--------------------------------------------------------
+THA11_HUMAN/6-137                      CCVPGCYNNSHRD--KA--LHFYTFP-KDAELRRLW---LKNVSRAGVSGCFSTFqpttgHRLCSVHFQGGrktytvrvptiF------------------------plrgvnerkvarrpagaaaarrrqqqqqqqqqqqqqqqqqqqqqqqqqqqqqsspsa
+THAP1_HUMAN/5-81                       CSAYGCKNRYDKD--KP--VSFHKFPlTRPSLCKEW---EAAVRRKNFKPTKYS-------SICSEHF----------------TPDCFKRECNNKLLKENAVPTIF---------------------------------------------------------
+THAP6_HUMAN/5-89                       CSAIGCASRCLPNSKLK-gLTFHVFP-TDENIKRKW---VLAMKRLDVNAAGIWEpk-kgDVLCSRHF---------------K-KTDFDRSAPNIKLKPGVIPSIF---------------------------------------------------------
+THA10_HUMAN/5-90                       CVAAHCGNTTKSGK------SLFRFP-KDRAVRLLWdrfVRGCR-ADWYGGNDR------SVICSDHFAPAcfd----vssvI---QKNLRFSQRLRLVAGAVPTLH---------------------------------------------------------
+THAP2_HUMAN/5-80                       CAAAGCATTYNKHI--N--ISFHRFP-LDPKRRKEW---VRLVRRKNFVPGKHT-------FLCSKHF----------------EASCFDLTGQTRRLKMDAVPTIF---------------------------------------------------------

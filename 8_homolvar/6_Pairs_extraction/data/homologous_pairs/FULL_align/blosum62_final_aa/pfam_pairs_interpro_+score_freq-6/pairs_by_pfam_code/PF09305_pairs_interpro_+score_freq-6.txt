@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF09305	Asp	N	19.0	41.0	True	gnomAD	TNFRSF13B	['NM_012452']	rs67951770	ENST00000261652	O14836	TR13B_HUMAN	p.Asp41Asn								1.31314590364e-05	2.0521604461e-06	NH	True
+PF09305	Asp	H	19.0	41.0	True	gnomAD	TNFRSF13B	['NM_012452']	rs67951770	ENST00000261652	O14836	TR13B_HUMAN	p.Asp41His								1.31314590364e-05	5.4724278562e-06	NH	True
+PF09305	Glu	Q	12.0	37.0	True	gnomAD	TNFRSF13B	['NM_012452']	rs752740455	ENST00000261652	O14836	TR13B_HUMAN	p.Glu37Gln								3.94176696273e-05	2.12056579431e-05	QK	True
+PF09305	Glu	K	12.0	74.0	True	gnomAD	TNFRSF13B	['NM_012452']	rs764542734	ENST00000261652	O14836	TR13B_HUMAN	p.Glu74Lys								1.31459595893e-05	6.3618290258e-06	QK	True

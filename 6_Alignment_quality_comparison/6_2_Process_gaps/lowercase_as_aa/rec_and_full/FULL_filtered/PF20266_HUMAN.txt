@@ -1,0 +1,11 @@
+MB213_HUMAN/255-352                    -----------------------------CRRKCFQVMRHLke-----diwC--PGNRPV--ITSHHLQTVLFWTCEKY-PHFKDW--QVFSKAFLRLVRKLHKCV-SQHFLKHYFVRNSNLF--QCTNPTELDTVAQKLAt----------------------------
+MB214_HUMAN/267-358                    ---------hrldslsildrvnheswrds--------------------------GQTDG--LTFGHLKMVLLWASVLF-LAPEDW--AELQGAVYRLLVVLLCCL-ATRKLPHFLHPQRNLL--QG--------------sgldlgai---------------------
+IPIL2_HUMAN/371-454                    -----------------------------CYLKCLQLLKALrdlgargldsAAATQWGRI--LSSYVLKTVLLAVLLRKgAPGQGWDEEHLGRCLEELVQFLRDCLlRRHTLF----------------------------hc---------------------------
+CGAS_HUMAN/405-510                     -----------------------------CRKDCLKLMKYLleq---lkerFKDKKHLDK--FSSYHVKTAFFHVCTQN-PQDSQWDRKDLGLCFDNCVTYFLQCL-RTEKLENYFIPEFNLFssNLIDKRSKEFLTKQIEy----------------------------
+IPIL1_HUMAN/418-525                    ---------------------------ch--LKCLQIILSLrq-----hqsLPHGASRPI--LTSYHFKTALMHLLLRL--PLTDWAHNMLSQRLQDILWFLGRGL-QQRSLHHFLIG-----------------------nnflpltipipktfrnaepvnlfqhlvln
+MID49_HUMAN/357-443                    llllcavcrgcsalgqlgrghltqvvlrl----------------------------------------------GED----NVDWTEEALGERFLQALELLIGSL-EQASLPCHFNPSVNLF--SSLREEEIDDI-----gyal-------------------------
+MB211_HUMAN/246-344                    -----------------------------CRKKCLSILKTL----------RDRHLELPGqpLNNYHMKTLVSYECEKH-PRESDWDESCLGDRLNGILLQLISCL-QCRRCPHYFLPNLDLF--QGKPHSALENAAKQTWr----------------------------
+MB212_HUMAN/246-344                    -----------------------------CRNKCLSVLKTL----------RDRHLELPGqpLNNYHMKTLLLYECEKH-PRETDWDESCLGDRLNGILLQLISCL-QCRRCPHYFLPNLDLF--QGKPHSALESAAKQTWr----------------------------
+IPRI_HUMAN/404-487                     -------chlsclqiasfllskqsrltgp-----------------------------SG--LSSYHLKTALLHLLLLR--QAADWKAGQLDARLHELLCFLEKSL-LQKKLHHFFIG-----------------------nrkvpea----------------------
+MID51_HUMAN/359-451                    -----------------------------CRSLCLKILKAI----------CKSTPALGH--LTASQLTNVILHLAQEE----ADWSPDMLADRFLQALRGLISYL-EAGVLPSALNPKVNLF--AELTPEEIDEL-----gytly------------------------
+M21D2_HUMAN/297-402                    ---qlkkcissslmqayqackaiiiklls---------------------------RPKA--ISPYHLRSMMLWACDRL-PANYLAQEDYAAHFLLGLIDDLQHCL-VNKMCPNYFIPQCNML--EHLSEETVMLHARKL-ss---------------------------

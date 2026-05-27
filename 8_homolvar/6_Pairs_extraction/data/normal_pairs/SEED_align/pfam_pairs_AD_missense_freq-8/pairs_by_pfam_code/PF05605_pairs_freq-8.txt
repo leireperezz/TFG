@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+24	PF05605	Cys	Arg	39.0	173.0	True	gnomAD	RNF125	['NM_017831']	rs761991417	ENST00000217740	Q96EQ8	RN125_HUMAN	p.Cys173Arg									6.85424449090099e-07
+25	PF05605	Cys	Arg	39.0	246.0	True	gnomAD	ZEB2	['NM_014795']	rs762142093	ENST00000627532	O60315	ZEB2_HUMAN	p.Cys246Arg									6.840478669335365e-07
+46	PF05605	His	Tyr	22.0	229.0	True	ClinVar	ZEB2	NM_014795				ZEB2_HUMAN	p.His229Tyr	Likely pathogenic(Last reviewed: Feb 21, 2022)	not provided	criteria provided, single submitter	VCV001702633	1702633.0	1695020.0	NC_000002.12:144404037:G:A		
+47	PF05605	His	Tyr	22.0	156.0	True	gnomAD	RNF125	['NM_017831']		ENST00000217740	Q96EQ8	RN125_HUMAN	p.His156Tyr									1.5912569975e-06
+62	PF05605	Pro	Leu	37.0	171.0	True	gnomAD	RNF125	['NM_017831']	rs2039480699	ENST00000217740	Q96EQ8	RN125_HUMAN	p.Pro171Leu								6.5732390292e-06	6.863832544450179e-07
+63	PF05605	Pro	Leu	37.0	244.0	True	gnomAD	ZEB2	['NM_014795']		ENST00000627532	O60315	ZEB2_HUMAN	p.Pro244Leu									1.3680976055e-06

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+126	PF00001	Phe	Leu	28.0	66.0	True	gnomAD	TBXA2R	['NM_001060']	rs200164976	ENST00000375190	P21731	TA2R_HUMAN	p.Phe66Leu								0.0002234666246023	0.000184132060335
+127	PF00001	Phe	Leu	28.0	66.0	True	gnomAD	TBXA2R	['NM_001060']	rs201977565	ENST00000375190	P21731	TA2R_HUMAN	p.Phe66Leu								0.0005776628287098	0.000744729056891
+202	PF00001	Val	Met	668.0	256.0	True	gnomAD	TBXA2R	['NM_001060']	rs768214380	ENST00000375190	P21731	TA2R_HUMAN	p.Val256Met								6.5700432308e-06	2.21930451291e-05
+203	PF00001	Val	Met	668.0	260.0	True	gnomAD	OPN1SW	['NM_001385125']	rs751647679	ENST00000249389	P03999	OPSB_HUMAN	p.Val260Met								1.97176433472e-05	3.4202767687e-06

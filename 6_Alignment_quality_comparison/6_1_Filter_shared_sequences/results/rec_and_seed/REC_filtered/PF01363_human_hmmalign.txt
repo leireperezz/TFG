@@ -1,0 +1,4 @@
+MTMR3_HUMAN/1115-1178          ...RWLPDHLAAHCYA.CDS.AF.WL...........ASRKHHCRNCGNVFCSSCC..........................................NQKVP-V.....PSQQLFEPSRVCKSCYSS---l.
+ZFY26_HUMAN/1808-1872          ...QWVPDETESICMVcCRE.HF.TM...........FNRRHHCRRCGRLVCSSCS..........................................TKKM-VV.....-EGCRENPARVCDQCYSYC--n.
+FGD6_HUMAN/1219-1282           ...-WIPDTRATMCMI.CTS.EF.TL...........TWRRHHCRACGKIVCQACS..........................................SNKYGLD.....--YLKNQPARVCEHCFQELQK..
+FGD4_HUMAN/555-618             ...RWIRDNEVTMCMK.CKE.PFnAL...........TRRRHHCRACGYVVCWKCS..........................................DYKAQ-L.....-EYDGGKLSKVCKDCYQI---i.

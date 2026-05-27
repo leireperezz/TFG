@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+5	PF07686	Arg	Cys	82.0	98.0	True	gnomAD	SCN2B	['NM_004588']	rs771234231	ENST00000278947	O60939	SCN2B_HUMAN	p.Arg98Cys								1.9714792666e-05	6.1564729156e-06
+6	PF07686	Arg	Cys	82.0	89.0	True	gnomAD	SCN1B	['NM_001037']	rs766910280	ENST00000262631	Q07699	SCN1B_HUMAN	p.Arg89Cys								3.28821896907e-05	1.29974429241e-05
+42	PF07686	Val	Met	83.0	99.0	True	gnomAD	SCN2B	['NM_004588']	rs772817742	ENST00000278947	O60939	SCN2B_HUMAN	p.Val99Met								1.97111657183e-05	2.12056579431e-05
+43	PF07686	Val	Met	83.0	90.0	True	gnomAD	SCN1B	['NM_001037']	rs778461222	ENST00000262631	Q07699	SCN1B_HUMAN	p.Val90Met								3.28657630772e-05	7.5248044918e-06

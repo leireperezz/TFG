@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+16	PF13857	Asp	Glu	23.0	174.0	True	gnomAD	RNASEL	['NM_021133']	rs771198323	ENST00000367559	Q05823	RN5A_HUMAN	p.Asp174Glu									4.7883350685e-06
+17	PF13857	Asp	Glu	23.0	174.0	True	gnomAD	RNASEL	['NM_021133']		ENST00000367559	Q05823	RN5A_HUMAN	p.Asp174Glu									4.7883350685e-06
+29	PF13857	Gly	Arg	28.0	179.0	True	gnomAD	RNASEL	['NM_021133']	rs1306736211	ENST00000367559	Q05823	RN5A_HUMAN	p.Gly179Arg								6.570647603e-06	
+30	PF13857	Gly	Arg	28.0	179.0	True	gnomAD	RNASEL	['NM_021133']	rs1306736211	ENST00000367559	Q05823	RN5A_HUMAN	p.Gly179Arg								1.3141295206e-05	

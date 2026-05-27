@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+76	PF18584	Lys	Asn	109.0	386.0	True	gnomAD	SYCP2	['NM_014258']		ENST00000357552	Q9BX26	SYCP2_HUMAN	p.Lys386Asn									6.985406089597613e-07
+77	PF18584	Lys	Asn	109.0	386.0	True	gnomAD	SYCP2	['NM_014258']	rs750779924	ENST00000357552	Q9BX26	SYCP2_HUMAN	p.Lys386Asn									6.985406089597613e-07

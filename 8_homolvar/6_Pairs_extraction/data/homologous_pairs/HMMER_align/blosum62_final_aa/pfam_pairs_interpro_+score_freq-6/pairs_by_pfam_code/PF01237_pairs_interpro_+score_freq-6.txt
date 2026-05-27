@@ -1,0 +1,4 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF01237	Lys	R	285.0	294.0	True	gnomAD	OSBPL2	['NM_144498']	rs151042102	ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Lys294Arg									2.74190452688e-05	RQ	True
+PF01237	Lys	Q	285.0	294.0	True	gnomAD	OSBPL2	['NM_144498']	rs545890696	ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Lys294Gln								1.96907243561e-05	1.3708902424e-06	RQE	True
+PF01237	Lys	E	285.0	294.0	True	gnomAD	OSBPL2	['NM_144498']	rs545890696	ENST00000313733	Q9H1P3	OSBL2_HUMAN	p.Lys294Glu									1.43943475453e-05	QE	True

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF16746	Ala	S	526.0	110.0	True	gnomAD	APPL1	['NM_012096']	rs369970448	ENST00000288266	Q9UKG1	DP13A_HUMAN	p.Ala110Ser								2.63009086963e-05	9.5785440613e-06	ST	True
+PF16746	Ala	T	526.0	110.0	True	gnomAD	APPL1	['NM_012096']	rs369970448	ENST00000288266	Q9UKG1	DP13A_HUMAN	p.Ala110Thr								2.63009086963e-05	1.64203612479e-05	ST	True
+PF16746	Gln	H	647.0	134.0	True	gnomAD	APPL1	['NM_012096']	rs201150623	ENST00000288266	Q9UKG1	DP13A_HUMAN	p.Gln134His								1.31523569023e-05	1.11022447351e-05	H	True
+PF16746	Gln	H	647.0	134.0	True	gnomAD	APPL1	['NM_012096']	rs201150623	ENST00000288266	Q9UKG1	DP13A_HUMAN	p.Gln134His								1.97285353535e-05	7.9797827001e-05	H	True

@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+11	PF10417	Phe	Leu	2.0	219.0	True	gnomAD	PRDX3	['NM_001302272', 'NM_006793']	rs554314600	ENST00000298510	P30048	PRDX3_HUMAN	p.Phe219Leu								1.31387053119e-05	
+12	PF10417	Phe	Leu	2.0	219.0	True	gnomAD	PRDX3	['NM_001302272', 'NM_006793']	rs1847845491	ENST00000298510	P30048	PRDX3_HUMAN	p.Phe219Leu									3.6010082823e-06

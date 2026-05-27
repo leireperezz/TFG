@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+91	PF14749	Met	Thr	94.0	106.0	True	gnomAD	ACOX1	['NM_004035', 'NM_001185039']	rs192681738	ENST00000293217	Q15067	ACOX1_HUMAN	p.Met106Thr								6.5639194475e-06	3.1808538047e-06
+92	PF14749	Met	Thr	94.0	106.0	True	gnomAD	ACOX1	['NM_007292']	rs1455408092	ENST00000301608	Q15067	ACOX1_HUMAN	p.Met106Thr									1.3681013489e-06
+105	PF14749	Pro	Leu	87.0	99.0	True	gnomAD	ACOX1	['NM_007292']		ENST00000301608	Q15067	ACOX1_HUMAN	p.Pro99Leu									1.2003303309e-06
+106	PF14749	Pro	Leu	87.0	99.0	True	gnomAD	ACOX1	['NM_004035', 'NM_001185039']		ENST00000293217	Q15067	ACOX1_HUMAN	p.Pro99Leu									1.5905837442e-06

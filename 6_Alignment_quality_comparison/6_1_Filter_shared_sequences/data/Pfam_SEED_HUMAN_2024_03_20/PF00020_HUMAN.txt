@@ -1,0 +1,4 @@
+TNR3_HUMAN/83-124                      CAEN..S.Y...NEHW.NYLTI......CQLC...RP..C..DPV..MGLEE.IAP...C.T..SKRKTQC
+F6UPZ7_HUMAN/78-119                    CPPG..T.YI.AHLNG.LSK........CLQC...QM..CDPAM....GLRA.SRN...C.S..RTENAVC
+TNR3_HUMAN/43-80                       CRDQ.EKEY...YEPQ.HRI........C..C...SR..C..PP....GTYV.SAK...C.S..RIRDTVC
+F5H061_HUMAN/44-82                     CPQG..K.YI.HPQNN............SICC...TK..CHKEM....GQVE.ISS...C.T..VDRDTVC

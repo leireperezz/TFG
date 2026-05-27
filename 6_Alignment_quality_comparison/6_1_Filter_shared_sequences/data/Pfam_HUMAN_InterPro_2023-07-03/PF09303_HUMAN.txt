@@ -1,0 +1,5 @@
+F8WE19_HUMAN/1-20                    ................MFIWTS..G.R....TS.SS..yR..H.DEK........--------------sr
+B5BNW5_HUMAN/1-29                    ................MFIWTS..G.R....TS.SS..yR..H.DEK........RNIYQKIRDHD---..
+E7ETM2_HUMAN/1-32                    ................MFIWTS..G.R....TS.SS..yR..H.DEK........RNIYQKIRDHDLLD..
+E7EM81_HUMAN/1-32                    ................MFIWTS..G.R....TS.SS..yR..H.DEK........RNIYQKIRDHDLLD..
+KCMB2_HUMAN/1-32                     ................MFIWTS..G.R....TS.SS..yR..H.DEK........RNIYQKIRDHDLLD..

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF04732	Tyr	H	37.0	14.0	True	gnomAD	NEFL	['NM_006158']	rs769903378	ENST00000610854	P07196	NFL_HUMAN	p.Tyr14His									2.54823042614e-05	H	True
+PF04732	Tyr	H	37.0	17.0	True	gnomAD	PRPH	['NM_006262']	rs376678474	ENST00000257860	P41219	PERI_HUMAN	p.Tyr17His								1.31421587309e-05	8.36174269684e-05	H	True
+PF04732	Val	I	110.0	15.0	True	gnomAD	GFAP	['NM_002055']	rs146698039	ENST00000588735	P14136	GFAP_HUMAN	p.Val15Ile								0.0001314146790196	0.0001483365701838	IL	True
+PF04732	Val	L	110.0	15.0	True	gnomAD	GFAP	['NM_002055']	rs146698039	ENST00000588735	P14136	GFAP_HUMAN	p.Val15Leu									1.85420712729e-05	IL	True

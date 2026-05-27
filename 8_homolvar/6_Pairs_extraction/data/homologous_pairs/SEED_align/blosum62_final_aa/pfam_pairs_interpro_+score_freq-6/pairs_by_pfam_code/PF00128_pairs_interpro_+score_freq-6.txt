@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00128	Val	L	2294.0	424.0	True	gnomAD	SLC3A1	['NM_000341']	rs142790819	ENST00000260649	Q07837	SLC31_HUMAN	p.Val424Leu								6.5650398497e-06	1.77856581924e-05	LM	True
+PF00128	Val	M	2294.0	424.0	True	gnomAD	SLC3A1	['NM_000341']	rs142790819	ENST00000260649	Q07837	SLC31_HUMAN	p.Val424Met								1.97103886888e-05	1.50494236754e-05	LM	True

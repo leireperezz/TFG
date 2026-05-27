@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+19	PF13086	Asn	Ser	7.0	627.0	True	gnomAD	DNA2	['NM_001080449']	rs376585293	ENST00000358410	P51530	DNA2_HUMAN	p.Asn627Ser								7.88384468825e-05	1.1721227833e-05
+20	PF13086	Asn	Ser	7.0	1935.0	True	gnomAD	SETX	['NM_015046', 'NM_001351528', 'NM_001351527']	rs762791927	ENST00000224140	Q7Z333	SETX_HUMAN	p.Asn1935Ser								1.31385326886e-05	3.01132257287e-05
+43	PF13086	Ile	Val	291.0	2150.0	True	gnomAD	SETX	['NM_015046', 'NM_001351528', 'NM_001351527']	rs767271082	ENST00000224140	Q7Z333	SETX_HUMAN	p.Ile2150Val								1.97166066405e-05	1.09447958179e-05
+44	PF13086	Ile	Val	291.0	738.0	True	gnomAD	DNA2	['NM_001080449']	rs149606167	ENST00000358410	P51530	DNA2_HUMAN	p.Ile738Val								0.0016348881184998	0.0001195092906098

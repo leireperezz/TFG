@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+63	PF01596	Glu	Asp	153.0	206.0	True	gnomAD	COMT	['NM_001362828', 'NM_000754', 'NM_001135161']		ENST00000361682	P21964	COMT_HUMAN	p.Glu206Asp									6.863964461137606e-07
+64	PF01596	Glu	Asp	153.0	206.0	True	gnomAD	COMT	['NM_001362828', 'NM_000754', 'NM_001135161']	rs550339713	ENST00000361682	P21964	COMT_HUMAN	p.Glu206Asp								4.6045967031e-05	7.68758742914e-05
+132	PF01596	Met	Ile	134.0	187.0	True	gnomAD	COMT	['NM_001362828', 'NM_000754', 'NM_001135161']	rs1460479393	ENST00000361682	P21964	COMT_HUMAN	p.Met187Ile									7.5250927638e-06
+133	PF01596	Met	Ile	134.0	187.0	True	gnomAD	COMT	['NM_001362828', 'NM_000754', 'NM_001135161']		ENST00000361682	P21964	COMT_HUMAN	p.Met187Ile									6.840993421700726e-07

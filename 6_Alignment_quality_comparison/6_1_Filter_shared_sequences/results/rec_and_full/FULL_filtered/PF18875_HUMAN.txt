@@ -1,0 +1,4 @@
+AFF3_HUMAN/766-779                     ..LWVKIDLTLLSRIP-
+AFF2_HUMAN/801-815                     ..LWVKIDLDLLSRVPG
+AFF1_HUMAN/761-775                     ..LMVKITLDLLSRIPQ
+AFF4_HUMAN/714-728                     ..LIVKIDLNLLTRIPG

@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF13926	E	Asp	88.0	1823.0	True	gnomAD	PRR12	['NM_020719']	rs765641811	ENST00000418929	Q9ULL5	PRR12_HUMAN	p.Glu1823Asp								6.5726341803e-06	1.073967738e-05	E	True
+PF13926	E	Asp	88.0	1823.0	True	gnomAD	PRR12	['NM_020719']	rs765641811	ENST00000418929	Q9ULL5	PRR12_HUMAN	p.Glu1823Asp								1.31452683606e-05	1.431956984e-06	E	True

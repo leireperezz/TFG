@@ -1,0 +1,3 @@
+CRTC1_HUMAN/6-66                     NPRKFSEKIALHNQKQAEETAAFEEVMKDLSLTRAARLQLQKSQ-----------YLQLGPSRGQYYGGSLP------------------
+CRTC2_HUMAN/18-75                    NPRKFSEKIALQKQRQAEETAAFEEVMMDIGSTRLQAQKL--------------------------------rlaytrsshyggslpnvn
+CRTC3_HUMAN/11-81                    NPRKFSEKIALHTQRQAEETRAFEQLMTDLTLSRVQFQKLQQLRltQYHGGSLPN-----------------vsqlrssasefqpsfh--

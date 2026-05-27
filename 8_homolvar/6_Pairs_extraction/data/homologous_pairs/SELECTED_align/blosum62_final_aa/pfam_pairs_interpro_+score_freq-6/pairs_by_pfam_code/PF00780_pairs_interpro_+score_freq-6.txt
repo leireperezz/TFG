@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00780	Lys	Q	151.0	1337.0	True	gnomAD	CDC42BPB	['NM_006035']	rs767751908	ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Lys1337Gln								2.62798276043e-05	4.7919735811e-06	QE	True
+PF00780	Lys	E	151.0	1337.0	True	gnomAD	CDC42BPB	['NM_006035']	rs767751908	ENST00000361246	Q9Y5S2	MRCKB_HUMAN	p.Lys1337Glu									1.02685148167e-05	QE	True

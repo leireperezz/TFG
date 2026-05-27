@@ -1,0 +1,14 @@
+TSP1_HUMAN/383-428             .SPWSEWTSC......ST...SC.....G..NG.....IQQRGRSCDSL......---NNRCEG......SS....VQ......TRTC.HIQEC..
+TSP1_HUMAN/439-489             .SHWSPWSSC......SV...TC.....G..DG.....VITRIRLCNSPs....pQMNGKPCEG......EA....RE......TKAC.KKDAC..
+TSP1_HUMAN/496-546             .GPWSPWDIC......SV...TC.....G..GG.....VQKRSRLCNNPt....pQFGGKDCVG......DV....TE......NQIC.NKQDC..
+CO6_HUMAN/29-78                .--WTQWTSC......SK...TC.....N..SG.....TQSRHRQIVVD.....kYYQENFCEQi....cSK....QE......TREC.NWQRC..
+CO6_HUMAN/86-133               d--FGPWSDC......D-...PC.....I.eKQ.....SKVRSVLRPSQ......-FGGQPCTA......PL....VA......FQPCiPSKLC..
+CO6_HUMAN/571-612              .--WSSWSTC......DA...T-.....-..-Y.....KRSRTRECNNPa....pQRGGKRCEG......EK....RQ......EEDC.T----..
+PROP_HUMAN/81-132              .SLWSTWAPC......SV...TC.....S..EG.....SQLRYRRCVGW......---NGQCSG......KV....APgtlewqLQAC.EDQQC..
+PROP_HUMAN/140-190             .SGWGPWEPC......SV...TC.....S..KG.....TRTRRRACNHP.....aPKCGGHCPG......QA....QE......SEACdTQQVC..
+PROP_HUMAN/198-254             t--WGPWTPC......SA...SC.....H..GGph.epKETRSRKCSAPep..sqKPPGKPCPG......LA....YE......QRRCtGLPPC..
+PROP_HUMAN/261-312             .GPWGPVSPC......PV...TC.....G..LG.....QTMEQRTCNHPv....pQHGGPFCAG......DA....TR......THICnTAVPC..
+PROP_HUMAN/320-376             s--WGEWSPCirrnmkSI...SC.....QeiPG.....QQSRGRTCRGR......KFDGHRCAG......QQ....QD......IRHCySIQHC..
+TSP2_HUMAN/385-430             .SPWAEWTQC......SV...TC.....G..SG.....TQQRGRSCDVT......---SNTCLG......PS....IQ......TRAC.SLSKC..
+TSP2_HUMAN/441-491             .SHWSPWSSC......SV...TC.....G..VG.....NITRIRLCNSPv....pQMGGKNCKG......SG....RE......TKAC.QGAPC..
+TSP2_HUMAN/498-548             .SPWSPWSAC......TV...TC.....A..GG.....IRERTRVCNSPe....pQYGGKACVG......DV....QE......RQMC.NKRSC..

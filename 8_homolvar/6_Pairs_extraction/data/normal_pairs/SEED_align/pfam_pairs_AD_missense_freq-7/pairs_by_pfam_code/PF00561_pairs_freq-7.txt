@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+178	PF00561	Met	Leu	2476.0	528.0	True	gnomAD	EPHX2	['NM_001979']	rs745587412	ENST00000521400	P34913	HYES_HUMAN	p.Met528Leu								1.31345636041e-05	4.93016657601e-05
+179	PF00561	Met	Leu	2476.0	528.0	True	gnomAD	EPHX2	['NM_001979']	rs745587412	ENST00000521400	P34913	HYES_HUMAN	p.Met528Leu									4.7711289445e-06
+195	PF00561	Phe	Leu	1241.0	381.0	True	gnomAD	EPHX2	['NM_001979']		ENST00000521400	P34913	HYES_HUMAN	p.Phe381Leu									1.2003591474e-06
+196	PF00561	Phe	Leu	1241.0	381.0	True	gnomAD	EPHX2	['NM_001979']		ENST00000521400	P34913	HYES_HUMAN	p.Phe381Leu									3.4202627309e-06
+278	PF00561	Val	Leu	189.0	261.0	True	gnomAD	EPHX2	['NM_001979']	rs375423583	ENST00000521400	P34913	HYES_HUMAN	p.Val261Leu									2.7363449545e-06
+279	PF00561	Val	Leu	189.0	261.0	True	gnomAD	EPHX2	['NM_001979']	rs375423583	ENST00000521400	P34913	HYES_HUMAN	p.Val261Leu									4.1045174318e-06

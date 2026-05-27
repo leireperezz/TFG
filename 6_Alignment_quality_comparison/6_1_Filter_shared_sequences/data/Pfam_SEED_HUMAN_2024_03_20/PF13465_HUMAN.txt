@@ -1,0 +1,4 @@
+Z518A_HUMAN/248-273               ELQKHL...H.I.HS.....GT.F.....P...F.......TCQ..Y.CS..YGATR
+Z518B_HUMAN/176-201               EFQRHL...V.K.HT.....GI.F.....P...Y.......QCE..Y.CD..YGAIR
+C9JV94_HUMAN/189-214              SVRRHM...V.M.HS.....GD.G.....P...Y.......KCK..F.CG..KAFHC
+ZN486_HUMAN/168-193               NSKRHK...R.R.HT.....EK.K.....P...L.......KYI..E.GD..KAFNQ

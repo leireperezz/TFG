@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+39	PF05507	Asp	Glu	66.0	33.0	True	gnomAD	MFAP5	['NM_003480']	rs143508503	ENST00000359478	Q13361	MFAP5_HUMAN	p.Asp33Glu								1.97070222689e-05	
+40	PF05507	Asp	Glu	66.0	33.0	True	gnomAD	MFAP5	['NM_003480']		ENST00000359478	Q13361	MFAP5_HUMAN	p.Asp33Glu									6.853981409260826e-07
+97	PF05507	Leu	Phe	105.0	72.0	True	gnomAD	MFAP5	['NM_003480']	rs1388476509	ENST00000359478	Q13361	MFAP5_HUMAN	p.Leu72Phe									1.6253291291e-06
+98	PF05507	Leu	Phe	105.0	72.0	True	gnomAD	MFAP5	['NM_003480']		ENST00000359478	Q13361	MFAP5_HUMAN	p.Leu72Phe									1.6253291291e-06

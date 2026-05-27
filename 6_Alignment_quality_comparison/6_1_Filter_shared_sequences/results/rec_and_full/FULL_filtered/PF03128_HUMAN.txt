@@ -1,0 +1,4 @@
+VEGFC_HUMAN/283-295                  ...NKELDEETCQCVC.
+VEGFC_HUMAN/331-343                  ...NREFDENTCQCVC.
+VEGFC_HUMAN/307-319                  ...HKELDRNSCQCVC.
+VEGFD_HUMAN/261-273                  ...HMMFDEDRCECVC.

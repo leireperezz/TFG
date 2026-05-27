@@ -1,0 +1,3 @@
+RFA2_HUMAN/74-149                    VTIV.GIIRHA................EKA.PTNIVYK.....IDDMT..AA......PMDVRQWVD....................TDDTSSENTV..VP.....PETYVKVA..GHLRSF.........QNK..........................KSLVAFK......IMPL
+RFA4_HUMAN/74-148                    VSIV.GVIRGA................EKA.SNHICYK.....IDDMT..AK......PIEARQWF.....................GREKVKQVTP..LS.....VGVYVKVF..GILKCP............T.......................GTKSLEVLK......IHVL
+H3BVA8_HUMAN/155-234                 .KVA.GRIHAKR...............ASG.GKLIFYD.....LRGEG...V......KLQVMANSRNY................KSEEEFIHINNK..LR.....RGDIIGVQ..GNPGKT.........KKG.........................ELSIIPYE......ITLL

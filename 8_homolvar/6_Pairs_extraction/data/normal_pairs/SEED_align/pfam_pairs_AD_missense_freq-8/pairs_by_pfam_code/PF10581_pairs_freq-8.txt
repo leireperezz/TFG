@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+25	PF10581	Met	Ile	22.0	23.0	True	gnomAD	SYN2	['NM_133625']		ENST00000621198	Q92777	SYN2_HUMAN	p.Met23Ile									2.1605271686e-06
+26	PF10581	Met	Ile	22.0	23.0	True	gnomAD	SYN2	['NM_133625']		ENST00000621198	Q92777	SYN2_HUMAN	p.Met23Ile									2.1605271686e-06
+27	PF10581	Met	Leu	22.0	23.0	True	gnomAD	SYN2	['NM_133625']	rs777130919	ENST00000621198	Q92777	SYN2_HUMAN	p.Met23Leu									4.3267005014e-06
+28	PF10581	Met	Leu	22.0	23.0	True	gnomAD	SYN2	['NM_133625']	rs777130919	ENST00000621198	Q92777	SYN2_HUMAN	p.Met23Leu								6.6700461567e-06	8.6534758849e-06

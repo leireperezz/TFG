@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+15	PF05741	Asn	Lys	99.0	258.0	True	gnomAD	NANOS1	['NM_199461']		ENST00000425699	Q8WY41	NANO1_HUMAN	p.Asn258Lys									7.262396184046549e-07
+16	PF05741	Asn	Lys	99.0	258.0	True	gnomAD	NANOS1	['NM_199461']	rs774022234	ENST00000425699	Q8WY41	NANO1_HUMAN	p.Asn258Lys								6.6017930469e-06	1.4524792368e-05
+40	PF05741	Gly	Arg	66.0	237.0	True	gnomAD	NANOS1	['NM_199461']		ENST00000425699	Q8WY41	NANO1_HUMAN	p.Gly237Arg									7.333421334389346e-07
+41	PF05741	Gly	Arg	66.0	237.0	True	gnomAD	NANOS1	['NM_199461']		ENST00000425699	Q8WY41	NANO1_HUMAN	p.Gly237Arg									1.4666842668e-06
+66	PF05741	Lys	Asn	32.0	221.0	True	gnomAD	NANOS1	['NM_199461']		ENST00000425699	Q8WY41	NANO1_HUMAN	p.Lys221Asn									7.555814803956829e-07
+67	PF05741	Lys	Asn	32.0	221.0	True	gnomAD	NANOS1	['NM_199461']		ENST00000425699	Q8WY41	NANO1_HUMAN	p.Lys221Asn									7.555814803956829e-07

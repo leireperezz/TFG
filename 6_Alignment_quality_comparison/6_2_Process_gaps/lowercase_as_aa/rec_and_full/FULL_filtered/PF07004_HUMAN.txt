@@ -1,0 +1,8 @@
+STPG1_HUMAN/225-258                    -GPGPGYYNPSDc-----tKVPKK--------------------------tlfpknpilnfsaqps--
+STPG2_HUMAN/157-206                    -GPGPGQYDIVQkktsyyeNVNIKrDQQQNYCsfiprlyeiiVLQEKKK-rf----------------
+STPG2_HUMAN/62-99                      v-PGPGHYNVSE---------AQKiSRSPT--------------------ltrsvdvpsipscgksyg
+STPG1_HUMAN/306-329                    -LPGPATYKPEL---------P----------------------------gkqsflynedkk------
+STPG4_HUMAN/210-239                    -TPGPGAYTTLR-------QFPKQ---SPTIA---------kMGQEHS--lf----------------
+STPG1_HUMAN/187-217                    -GPPPGHYDINE-------SLVK---QSPNT-------------------lmscfksktnr-------
+STPG1_HUMAN/266-298                    f-PGPGQYEIVDylg-prkHFISS--------------------------asfvsntsrwt-------
+STPG4_HUMAN/176-203                    -GPGPGHYNVKM---------PPT--SSVTSC----------FQSRVPRF------------------

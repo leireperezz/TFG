@@ -1,0 +1,8 @@
+SERA_HUMAN/9-111               VLISDSLDPCCRKILQDGGLQVVEKQNLSKEELIAELQDCEGLIVRSATKVTADVINAAEKLQVVGRAGTGVDNVDLEAATRKGILVMNTPNGNSLSAAELT--------------------------------
+SERA_HUMAN/286-317             ------------------------------------------------------------------------------------------------------ASTKEAQSRCGEEIAVQFVDMVKGKSLTGVVN
+CTBP2_HUMAN/44-140             ---------VEMPILKD--LTVAFCDAQSTQEIHEKVLNVGAMMYHTIT-LTREDLEKFKALRVIVRIGSGYDNVDIKAAGELGIAVCNIPSAAVEETADST--------------------------------
+CTBP2_HUMAN/324-358            ------------------------------------------------------------------------------------------------------WYSEQASLEMREAAATEIRRAITGESLRNCVN
+CTBP1_HUMAN/38-134             ---------VEMPILKD--VTVAFCDAQSTQEIHEKVLNVGALMYHTIT-LTREDLEKFKALRIIVRIGSGFDNIDIKSAGDLGIAVCNVPAASVEETADST--------------------------------
+CTBP1_HUMAN/318-352            ------------------------------------------------------------------------------------------------------WYSEQASIEMREEAAREIRRAITGDSLKNCVN
+GRHPR_HUMAN/9-116              VFVTRRIAEGRVALARAADCEVEQWDPIPAKELERGVAGAHGLLCLLSDHVDKRILDAAANLKVISTMSVGIDHLALDEIKKRGIRVGYTPDVLTDTTAELA--------------------------------
+GRHPR_HUMAN/296-326            -------------------------------------------------------------------------------------------------------ATHRTRNTMSLLAANNLLAGLRGEPMPSE--

@@ -1,0 +1,4 @@
+UROL1_HUMAN/117-157                    RPGAC...PA......................E.G......PEP..........STS...PCSL.DIDC....PG.....L.E.KC.C.....PWSGG.R..Y..CMAP
+WFDC8_HUMAN/197-239                    KKGFC...PR......................K.P......LLCTKI....DKPK......CLQ.DEEC....PL.....V.E.KC.C......SHCG.L..K..CMDP
+WFDC8_HUMAN/150-193                    KDGQC...PLFP...................FT.E.....RKEC..........PPS....CHS.DIDC....PQ.....T.D.KC.C.....ESRCG.F..V..CARA
+WFDC8_HUMAN/47-90                      KPGLC...PK......................E.R......LTCTTE....LPDS......CNT.DFDC....KE.....Y.Q.KC.C.....FFACQ.K..K..CMDP

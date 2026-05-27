@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+6	PF13330	Pro	Ser	135.0	2890.0	True	gnomAD	MUC5B	['NM_002458']	rs201287529	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Pro2890Ser								0.0276077292661388	0.0298813012067058
+7	PF13330	Pro	Ser	135.0	2333.0	True	gnomAD	MUC5B	['NM_002458']	rs200657721	ENST00000529681	Q9HC84	MUC5B_HUMAN	p.Pro2333Ser								0.0219140216733593	0.0395483011982839

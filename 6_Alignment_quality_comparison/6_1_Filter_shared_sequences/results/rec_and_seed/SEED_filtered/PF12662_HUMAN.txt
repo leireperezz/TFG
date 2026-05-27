@@ -1,0 +1,15 @@
+TRBM_HUMAN/422-444                   QASC.E....CP.EGYI...............L.DDGFI.........CT.DIDE
+SCUB3_HUMAN/257-280                  GVHC.T....CP.VGFM.....LQ........P.DR.KT.........CK.DIDE
+C1QR1_HUMAN/406-430                  SFHC.S....CE.EGYV.....LA........G.EDGTQ.........CQ.DVDE
+FBLN2_HUMAN/923-946                  SYRC.S....CA.SGFL.....LA........A.DG.KR.........CE.DVNE
+NID2_HUMAN/783-804                   DYTC.E....CA.SGYQ...............G.DG.RN.........CV.DENE
+C1QR1_HUMAN/325-348                  NYTC.R....CP.QGYQ.....LD........S.SQ.LD.........CV.DVDE
+LTBP3_HUMAN/596-619                  DYSC.H....CN.PGYR...............S.HP.QHR.......YCV.DVNE
+LRP1_HUMAN/2962-2985                 GFKC.R....CR.PGFR.....LK........D.DG.RT.........CA.DVDE
+FBN3_HUMAN/1176-1199                 SYRC.S....CG.QGYS.....LM........P.DG.RA.........CA.DVDE
+FBN2_HUMAN/1263-1286                 SYEC.S....CS.EGYA.....LM........P.DG.RS.........CA.DIDE
+HMCN2_HUMAN/4883-4906                SYQC.L....CP.AGYR.....LL........P.SG.KN.........CQ.DINE
+FBN1_HUMAN/593-616                   SFKC.I....CK.PGFQ.....LA........S.DG.RY.........CK.DINE
+FBN3_HUMAN/1093-1116                 SYKC.Q....CP.PGHE.....LT........A.KG.TA.........CE.DIDE
+LTBP3_HUMAN/847-869                  SYRC.L....CP.QGHR.....L.........V.GG.RK.........CQ.DIDE
+LTBP1_HUMAN/1059-1082                SYMC.S....CH.KGYT.....RT........P.DH.KH.........CR.DIDE

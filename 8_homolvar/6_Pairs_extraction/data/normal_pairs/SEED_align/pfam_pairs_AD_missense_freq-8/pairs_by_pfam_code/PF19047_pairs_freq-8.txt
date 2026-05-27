@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+43	PF19047	Gln	His	644.0	146.0	True	gnomAD	CCDC88C	['NM_001080414']		ENST00000389857	Q9P219	DAPLE_HUMAN	p.Gln146His									1.6295190637e-06
+44	PF19047	Gln	His	644.0	146.0	True	gnomAD	CCDC88C	['NM_001080414']	rs781153917	ENST00000389857	Q9P219	DAPLE_HUMAN	p.Gln146His									1.629513753e-06
+144	PF19047	Val	Leu	678.0	162.0	True	gnomAD	CCDC88C	['NM_001080414']	rs960425024	ENST00000389857	Q9P219	DAPLE_HUMAN	p.Val162Leu								1.31371518654e-05	0.0
+145	PF19047	Val	Leu	678.0	162.0	True	gnomAD	CCDC88C	['NM_001080414']		ENST00000389857	Q9P219	DAPLE_HUMAN	p.Val162Leu									9.6073872573e-06

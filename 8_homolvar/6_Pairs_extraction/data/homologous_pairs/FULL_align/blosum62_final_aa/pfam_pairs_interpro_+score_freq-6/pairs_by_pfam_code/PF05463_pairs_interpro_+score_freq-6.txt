@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF05463	Glu	Q	517.0	208.0	True	gnomAD	SOST	['NM_025237']	rs754855270	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Glu208Gln									1.46444535875e-05	QK	True
+PF05463	Glu	K	517.0	208.0	True	gnomAD	SOST	['NM_025237']	rs754855270	ENST00000301691	Q9BQB4	SOST_HUMAN	p.Glu208Lys								3.28459001747e-05	6.62487186103e-05	QK	True

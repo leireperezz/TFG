@@ -1,0 +1,4 @@
+FUBP1_HUMAN/602626                    --gaPPGGQPDYSAAWAEYYRQQ---aayy
+FUBP2_HUMAN/609635                    --qpPPTGQSDYTKAWEEYYKKIGQQpqq-
+FUBP2_HUMAN/665688                    gapp--GSQPDYSAAWAEYYRQQ---aay-
+FUBP1_HUMAN/572599                    qnpa-PAGQVDYTKAWEEYYKKMGQ-avpa

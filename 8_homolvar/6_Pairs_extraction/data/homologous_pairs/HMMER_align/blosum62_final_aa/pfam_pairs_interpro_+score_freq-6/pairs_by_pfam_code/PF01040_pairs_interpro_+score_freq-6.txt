@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF01040	Thr	A	136.0	193.0	True	gnomAD	UBIAD1	['NM_013319']	rs1281286162	ENST00000376810	Q9Y5Z9	UBIA1_HUMAN	p.Thr193Ala									2.59936766961e-05	AS	True
+PF01040	Thr	S	136.0	193.0	True	gnomAD	UBIAD1	['NM_013319']	rs966657540	ENST00000376810	Q9Y5Z9	UBIA1_HUMAN	p.Thr193Ser								1.97127199611e-05	7.5244853594e-06	AS	True

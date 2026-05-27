@@ -1,0 +1,6 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF13516	Asp	H	65.0	898.0	True	gnomAD	NLRP12	['NM_144687']	rs138514430	ENST00000324134	P59046	NAL12_HUMAN	p.Asp898His								1.31559905803e-05		HY	True
+PF13516	Asp	Y	65.0	898.0	True	gnomAD	NLRP12	['NM_144687']	rs138514430	ENST00000324134	P59046	NAL12_HUMAN	p.Asp898Tyr								0.0011116812040362	7.04572194708e-05	HY	True
+PF13516	Val	L	72.0	939.0	True	gnomAD	NLRP1	['NM_033004']	rs61754791	ENST00000572272	Q9C000	NLRP1_HUMAN	p.Val939Leu								3.93923079953e-05	3.62563722284e-05	LM	True
+PF13516	Val	L	72.0	901.0	True	gnomAD	NLRP12	['NM_144687']	rs104895568	ENST00000324134	P59046	NAL12_HUMAN	p.Val901Leu								0.0025145806179812	0.0002729369659259	LM	True
+PF13516	Val	M	72.0	939.0	True	gnomAD	NLRP1	['NM_033004']	rs61754791	ENST00000572272	Q9C000	NLRP1_HUMAN	p.Val939Met								0.0171560259474223	0.0131940254399034	LM	True

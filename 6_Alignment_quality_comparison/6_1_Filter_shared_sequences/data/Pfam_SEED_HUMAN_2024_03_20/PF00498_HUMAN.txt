@@ -1,0 +1,12 @@
+MDC1_HUMAN/54-124                NVVGRM...........PD.CSVA...LP..............F...PS.ISKQHAE...I...EILAW..........................DKAPILRD.....CG......SLNGT.QIL...RPP......KVLSP..............GVSHRLRDQEL.ILFA
+CHK2_HUMAN/113-192               YWFGRD...........KS.CEYC...FDEPLL.....KRTDKY...RT.YSKKHFR...I...FREVGPK.......................NSYIAYIED.....H.......SGNGT.FV.....NT......ELVGK..............GKRRPLNNNSE.IALS
+PHLB1_HUMAN/64-125               TVIGSA............A.RDIS...LQ..............G...PG.LAPEHCY...I...ENLRG............................TLTLYP.............CGNAC.TI.....DG......LPVR................QPTRLTQGCM.LCLG
+KI13B_HUMAN/471-535              TLIGSA...........NS.QDIQ...LC..............G...MG.ILPEHCI...I...DITSE...........................GQVMLTP......Q......KNTRT.FV.....NG......SSVSS................PIQLHHGDR.ILWG
+KIF1B_HUMAN/556-627              TRVGQAD........AERR.QDIV...LS..............G...AH.IKEEHCI...FRSERSNSG..........................EVIVTLEP............CERSET.YV.....NG......KRVS................QPVQLRSGNR.IIMG
+KIF14_HUMAN/825-891              TTVGKYK........PNSS.HDIQ...LS..............G...VL.IADDHCT...I...KNFGG............................TVSIIP.....VG.......EAKT.YV.....NG......KHIL................EITVLRHGDR.VILG
+MCRS1_HUMAN/363-436              ITLGRAT........KDNQ.IDVD...LSLE..........GPA...WK.ISRKQGV...I...KLKNN...........................GDFFIAN.....EG.......RRPI.YI.....DG......RPVLC..............GSKWRLSNNSV.VEIA
+TIFA_HUMAN/47-120                VKFGRN..........SNI.CHYT...FQ..............D...KQ.VSRVQFS...L...QLFKKFN......................SSVLSFEIKN.....MS......KKTNL.IV.....DS......RELGY..............LNKMDLPYRCM.VRFG
+CE170_HUMAN/23-90                IFVGRD............D.CELM...LQS............R......SVDKQHAV...I...NYDAS..........................TDEHLVKD.....LG......SLNGT.FV.....ND......VRIPE..............QTYITLKLEDK.LRFG
+NBN_HUMAN/24-100                 YVVGRK............N.CAIL...IE.............ND...QS.ISRNHAV...L...TANFSVTNLS.................QTDEIPVLTLKD......N......SKYGT.FV.....NE......EKMQN..............GFSRTLKSGDG.ITFG
+RNF8_HUMAN/38-109                VTVGRG...........FG.VTYQ...LVSK..........ICP...LM.ISRNHCV...L...KQNPE...........................GQWTIMD.....NK......SLNGV.WL.....NR......ARLEP..............LRVYSIHQGDY.IQLG
+NADAP_HUMAN/189-266              CLFGRL...........SG.CDVC...LE..............H...PS.VSRYHAV...L...QHRASGPDGE.................CDSNGPGFYLYD.....LG......STHGT.FL.....NK......TRIPP..............RTYCRVHVGHV.VRFG

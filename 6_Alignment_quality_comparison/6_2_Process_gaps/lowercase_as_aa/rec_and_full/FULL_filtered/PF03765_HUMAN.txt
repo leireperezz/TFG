@@ -1,0 +1,6 @@
+TTPA_HUMAN/38-72                       -------------------------------------agvplaplpl--------------------------------TDSFLLRFLRARDFDLDLAWRLLKN---
+CLVS2_HUMAN/3-74                       ----------hlqaglspetlekarlelnenpdtlhqdiqevrdmvi----------------------TRPdigflRTDDAFILRFLRARKFHHFEAFRLL--aq-
+CLVS1_HUMAN/23-96                      mthlqaglspetiekarlelnenpdvlhqdiqqvrdmiitrpdigfl------------------------------RTDDAFILRFLRARKFHQADAFRLL--aq-
+S14L5_HUMAN/241-287                    ---------------------------mqescliqlrhwlqethkgk------------------------------IPKDEHILRFLRAHDFHLDKAREMLR-q--
+S14L1_HUMAN/251-299                    ------------------------ltplqesclirlrqwlqethkgk------------------------------IPKDEHILRFLRARDFNIDKARE----imc
+RLBP1_HUMAN/16-116                     -qelraqleqlttkdhgpvfgpcsqlprhtlqkakdelnereetreeAvrelqemvqaqaASGEELAVAVAEr--vqEKDSGFFLRFIRARKFNVGRAYELL--rg-

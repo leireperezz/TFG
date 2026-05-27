@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF08033	Y	Cys	230.0	460.0	True	gnomAD	SEC23A	['NM_006364']	rs1419685119	ENST00000307712	Q15436	SC23A_HUMAN	p.Tyr460Cys									1.09826295984e-05	Y	True
+PF08033	Y	Cys	230.0	462.0	True	gnomAD	SEC23B	['NM_032985', 'NM_006363']	rs780978419	ENST00000650089	Q15437	SC23B_HUMAN	p.Tyr462Cys								6.5722022135e-06	1.23153720473e-05	Y	True
+PF08033	R	Cys	354.0	495.0	True	gnomAD	SEC23B	['NM_032985', 'NM_006363']	rs768018657	ENST00000650089	Q15437	SC23B_HUMAN	p.Arg495Cys								6.5681444991e-06	1.57334453372e-05	R	True
+PF08033	R	Cys	354.0	493.0	True	gnomAD	SEC23A	['NM_006364']	rs201813965	ENST00000307712	Q15436	SC23A_HUMAN	p.Arg493Cys								2.62943388288e-05	1.98532774338e-05	R	True

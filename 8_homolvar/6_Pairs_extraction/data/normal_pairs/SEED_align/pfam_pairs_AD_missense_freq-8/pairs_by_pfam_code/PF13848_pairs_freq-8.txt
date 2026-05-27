@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+40	PF13848	Asp	Glu	45.0	199.0	True	gnomAD	P4HB	['NM_000918']	rs762917538	ENST00000331483	P07237	PDIA1_HUMAN	p.Asp199Glu									2.7363486983e-06
+41	PF13848	Asp	Glu	45.0	199.0	True	gnomAD	P4HB	['NM_000918']	rs762917538	ENST00000331483	P07237	PDIA1_HUMAN	p.Asp199Glu								6.5717703034e-06	1.3681743491e-06
+105	PF13848	Ile	Leu	24.0	182.0	True	gnomAD	P4HB	['NM_000918']		ENST00000331483	P07237	PDIA1_HUMAN	p.Ile182Leu									6.841049581190945e-07
+106	PF13848	Ile	Leu	24.0	182.0	True	gnomAD	P4HB	['NM_000918']	rs1239069610	ENST00000331483	P07237	PDIA1_HUMAN	p.Ile182Leu									1.3682099162e-06
+151	PF13848	Phe	Leu	2.0	161.0	True	gnomAD	P4HB	['NM_000918']	rs961406090	ENST00000331483	P07237	PDIA1_HUMAN	p.Phe161Leu									1.59628130307e-05
+152	PF13848	Phe	Leu	2.0	161.0	True	gnomAD	P4HB	['NM_000918']	rs2038899000	ENST00000331483	P07237	PDIA1_HUMAN	p.Phe161Leu									2.0555801463e-06

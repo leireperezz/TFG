@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF04408	Thr	I	214.0	869.0	True	gnomAD	DHX30	['NM_138615']	rs747249055	ENST00000445061	Q7L2E3	DHX30_HUMAN	p.Thr869Ile								3.94352866945e-05	1.02611531894e-05	IM	True
+PF04408	Thr	M	214.0	810.0	True	gnomAD	DHX16	['NM_001164239', 'NM_003587']	rs375251870	ENST00000376442	O60231	DHX16_HUMAN	p.Thr810Met								9.19600630583e-05	5.40654479356e-05	IM	True
+PF04408	Thr	A	469.0	802.0	True	gnomAD	DHX37	['NM_032656']	rs1372440731	ENST00000308736	Q8IY37	DHX37_HUMAN	p.Thr802Ala								1.31380148459e-05	6.4762225489e-06	AS	True
+PF04408	Thr	S	469.0	842.0	True	gnomAD	DHX16	['NM_001164239', 'NM_003587']	rs762543794	ENST00000376442	O60231	DHX16_HUMAN	p.Thr842Ser									1.7524741749e-05	AS	True

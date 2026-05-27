@@ -1,0 +1,4 @@
+KCNE4_HUMAN/44-136                   -----------------apaveaasmlkmeplns------------------THPGTAASSSPLESRAAGGgSGNGNEYFYILVVMSFYGIFLIGIMLGYMKSKRREKKSS--------------------------------------------------llllykdeerlwgeamk
+KCNE1_HUMAN/1-126                    ----------------------------------MILSNTTAVTPFLTKLWQETVQQGGNMSGLARRSPRS-SDGKLEALYVLMVLGFFGFFTLGIMLSYIRSKKLEHSNDPFNVYIESDAWQEKDKAYVQARVLESYRSCYVVENHLAIEQPNTHLPETK-----------------
+KCNE3_HUMAN/9-101                    twyeslhavlkalnatlhsnllcrpgpglgpdnq----------------------------TEERRASLP-GRDDNSYMYILFVMFLFAVTVGSLILGYTRSRKVDKRSDPYHVYIKN------------------------------------------rvs--------------
+KCNE2_HUMAN/5-116                    --------------snftqtledvfrrifitymd------------------NWRQNTTAEQEALQAKVDA-ENFYYVILYLMVMIGMFSFIIVAILVSTVKSKRREHSNDPYHQYIVE-DWQEKYKSQI-------------------------------lnleeskatiheniga-

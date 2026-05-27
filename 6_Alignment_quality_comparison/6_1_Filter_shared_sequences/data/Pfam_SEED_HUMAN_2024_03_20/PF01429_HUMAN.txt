@@ -1,0 +1,4 @@
+BAZ2A_HUMAN/546-620              IATPEEVRLPLQHGWRREVRIKK.GSHR....................WQGETWYYG...........P.CGKRMKQFPEVIKYLSRNV............................................VHSVRREHFSFSPRMPVGD
+BAZ2B_HUMAN/739-813              VTDERELRIPLEYGWQRETRIRNFGGR.....................LQGEVAYYA...........P.CGKKLRQYPEVIKYLSRNG............................................IMDISRDNFSFSAKIRVGD
+SETB1_HUMAN/594-668              YRGKNPLLVPLLYDFRRMTARRRVNRKM.....................GFHVIYKT...........P.CGLCLRTMQEIERYLFETG............................................CDFLFLEMFCLDPYVLVDR
+MBD4_HUMAN/76-151                ATAGTECRKSVPCGWERVVKQRLFGKTA....................GRFDVYFIS...........P.QGLKFRSKSSLANYLHKNGE............................................TSLKPEDFDFTVLSKRGI

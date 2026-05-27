@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+49	PF00487	Arg	Ser	73.0	129.0	True	gnomAD	SCD5	['NM_001037582']	rs1164324637	ENST00000319540	Q86SK9	SCD5_HUMAN	p.Arg129Ser								3.450560371e-05	
+50	PF00487	Arg	Ser	73.0	129.0	True	gnomAD	SCD5	['NM_001037582']		ENST00000319540	Q86SK9	SCD5_HUMAN	p.Arg129Ser									1.5926508718e-06

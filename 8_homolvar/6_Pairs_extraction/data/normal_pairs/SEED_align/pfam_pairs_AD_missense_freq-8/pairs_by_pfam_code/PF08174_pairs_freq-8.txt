@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+32	PF08174	Asn	Lys	123.0	919.0	True	gnomAD	ANLN	['NM_018685']	rs145003274	ENST00000265748	Q9NQW6	ANLN_HUMAN	p.Asn919Lys								4.19257913493e-05	3.004893469e-06
+33	PF08174	Asn	Lys	123.0	919.0	True	gnomAD	ANLN	['NM_018685']	rs145003274	ENST00000265748	Q9NQW6	ANLN_HUMAN	p.Asn919Lys								6.9915402363e-06	3.7560209015e-06
+102	PF08174	Phe	Leu	163.0	939.0	True	gnomAD	ANLN	['NM_018685']	rs148635845	ENST00000265748	Q9NQW6	ANLN_HUMAN	p.Phe939Leu								1.97212726794e-05	6.8438493641e-06
+103	PF08174	Phe	Leu	163.0	939.0	True	gnomAD	ANLN	['NM_018685']		ENST00000265748	Q9NQW6	ANLN_HUMAN	p.Phe939Leu									6.843849364137956e-07

@@ -1,0 +1,6 @@
+KR202_HUMAN/1-59              MC..YYSNY.YGGLRYGY..........G.VLGGGYGCGC...............GYGHG........................YGGLGCG..YGRGYG.GY..GYGC........CRPSCYGRY
+KR212_HUMAN/1-78              MCCNYYRNC.CGGCGYGS....G..WSSGCGYGCGYGCGYGSG.........CRYGSGYG.........................TGCGY....GCGYGSGC..GYGCGYSSSCCGYRPLCYRRC
+KR192_HUMAN/1-46              MC...........YGYGC........GCGSFCRLGYGCGYE...............................................GCR..YGCGHR.GC..GDGC........CCPSCYRRY
+KR201_HUMAN/1-50              MI..YYSNY.YGGYGYG.............GLGCGYGCGYR.............................................GYGCG..YG.GYG.GY..GNGY........YCPSCYGRY
+KR221_HUMAN/1-42              MS..FDNNY.HGGQGYAK..........G.GLGCSYGCGLS...........................................................GY..GYAC........YCPWCYERS
+KRA81_HUMAN/1-57              MLCDNFPGAVFPGCYWGS.........YGYPLGYSVGCGYG............................................STYSP.....VGYGFGY..GYNG........CGAFGYRRY

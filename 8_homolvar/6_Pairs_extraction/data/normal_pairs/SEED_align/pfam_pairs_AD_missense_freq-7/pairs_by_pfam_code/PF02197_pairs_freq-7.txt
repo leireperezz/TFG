@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+13	PF02197	Asp	Gly	9.0	33.0	True	gnomAD	PRKAR1A	['NM_001278433', 'NM_002734']	rs2085404026	ENST00000589228	P10644	KAP0_HUMAN	p.Asp33Gly	Likely benign							6.5708203012e-06	4.1064332752e-06
+14	PF02197	Asp	Gly	9.0	33.0	True	gnomAD	PRKAR1B	['NM_001164760']		ENST00000537384	P31321	KAP1_HUMAN	p.Asp33Gly									2.4006491355e-06
+54	PF02197	Phe	Leu	30.0	54.0	True	gnomAD	PRKAR1B	['NM_001164760']		ENST00000537384	P31321	KAP1_HUMAN	p.Phe54Leu									1.368161246e-06
+55	PF02197	Phe	Leu	30.0	54.0	True	gnomAD	PRKAR1B	['NM_001164760']	rs770164934	ENST00000537384	P31321	KAP1_HUMAN	p.Phe54Leu								0.0001182436871009	1.43656341196e-05

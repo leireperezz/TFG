@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+17	PF00184	Asn	Lys	69.0	106.0	True	gnomAD	AVP	['NM_000490']		ENST00000380293	P01185	NEU2_HUMAN	p.Asn106Lys									8.000563239652071e-07
+18	PF00184	Asn	Lys	69.0	106.0	True	gnomAD	AVP	['NM_000490']	rs2066118845	ENST00000380293	P01185	NEU2_HUMAN	p.Asn106Lys									8.000563239652071e-07
+22	PF00184	Asp	Glu	70.0	107.0	True	gnomAD	AVP	['NM_000490']		ENST00000380293	P01185	NEU2_HUMAN	p.Asp107Glu									3.6467336206e-06
+23	PF00184	Asp	Glu	70.0	107.0	True	gnomAD	AVP	['NM_000490']		ENST00000380293	P01185	NEU2_HUMAN	p.Asp107Glu									3.6467336206e-06

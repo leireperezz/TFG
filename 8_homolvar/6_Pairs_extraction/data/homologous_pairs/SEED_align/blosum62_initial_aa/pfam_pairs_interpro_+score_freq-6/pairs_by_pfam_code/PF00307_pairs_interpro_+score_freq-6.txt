@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF00307	R	Gln	9.0	274.0	True	gnomAD	PLS1	['NM_001145319']	rs747027537	ENST00000457734	Q14651	PLSI_HUMAN	p.Arg274Gln								1.97129790253e-05	2.60013602816e-05	RK	True
+PF00307	K	Gln	9.0	65.0	True	ClinVar	SPTBN2	NM_006946				SPTN2_HUMAN	p.Lys65Gln	Likely pathogenic(Last reviewed: Oct 1, 2021)	Spinocerebellar ataxia type 5	criteria provided, single submitter	VCV001676238	1676238.0	1667649.0	NC_000011.10:66715945:T:G			RK	True

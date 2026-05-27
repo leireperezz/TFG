@@ -1,0 +1,15 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+22	PF00178	Arg	Gly	50.0	324.0	True	gnomAD	FLI1	['NM_002017']		ENST00000527786	Q01543	FLI1_HUMAN	p.Arg324Gly									6.842725430167934e-07
+23	PF00178	Arg	Gly	50.0	70.0	True	gnomAD	ERF	['NM_006494']		ENST00000222329	P50548	ERF_HUMAN	p.Arg70Gly									6.841545696736172e-07
+38	PF00178	Arg	Trp	64.0	83.0	True	gnomAD	ERF	['NM_006494']	rs766762597	ENST00000222329	P50548	ERF_HUMAN	p.Arg83Trp								6.5697842482e-06	2.7365621117e-06
+39	PF00178	Arg	Trp	64.0	337.0	True	ClinVar	FLI1	NM_002017	rs1064797083			FLI1_HUMAN	p.Arg337Trp	Likely pathogenic(Last reviewed: Jan 3, 2017)	Bleeding disorder, platelet-type, 21	criteria provided, single submitter	VCV000424632	424632.0	411533.0	NC_000011.10:128810637:C:T		
+53	PF00178	Asp	Asn	37.0	313.0	True	gnomAD	FLI1	['NM_002017']		ENST00000527786	Q01543	FLI1_HUMAN	p.Asp313Asn									6.844336516862392e-07
+54	PF00178	Asp	Asn	37.0	59.0	True	gnomAD	ERF	['NM_006494']		ENST00000222329	P50548	ERF_HUMAN	p.Asp59Asn									1.3684982647e-06
+56	PF00178	Asp	Asn	60.0	333.0	True	gnomAD	FLI1	['NM_002017']		ENST00000527786	Q01543	FLI1_HUMAN	p.Asp333Asn									1.2003216862e-06
+57	PF00178	Asp	Asn	60.0	79.0	True	gnomAD	ERF	['NM_006494']	rs1174086151	ENST00000222329	P50548	ERF_HUMAN	p.Asp79Asn									1.5907001307e-06
+72	PF00178	Gln	His	50.0	216.0	True	gnomAD	SPI1	['NM_003120']		ENST00000378538	P17947	SPI1_HUMAN	p.Gln216His									6.841957620914496e-07
+73	PF00178	Gln	His	50.0	216.0	True	gnomAD	SPI1	['NM_003120']		ENST00000378538	P17947	SPI1_HUMAN	p.Gln216His									2.0525872862e-06
+130	PF00178	Met	Ile	57.0	76.0	True	ClinVar	ERF	NM_006494	rs1599824091			ERF_HUMAN	p.Met76Ile	Likely pathogenic(Last reviewed: Aug 31, 2019)	Multiple myeloma	no assertion criteria provided	VCV000800327	800327.0	788715.0	NC_000019.10:42250359:C:T		
+131	PF00178	Met	Ile	57.0	389.0	True	gnomAD	ETV6	['NM_001987']		ENST00000396373	P41212	ETV6_HUMAN	p.Met389Ile									1.5909025826e-06
+157	PF00178	Trp	Cys	6.0	284.0	True	ClinVar	FLI1	NM_002017	rs1942909159			FLI1_HUMAN	p.Trp284Cys	Likely pathogenic(Last reviewed: Jul 1, 2019)	Bleeding disorder, platelet-type, 21	criteria provided, single submitter	VCV000986337	986337.0	974492.0	NC_000011.10:128810480:G:T		
+158	PF00178	Trp	Cys	6.0	30.0	True	gnomAD	ERF	['NM_006494']		ENST00000222329	P50548	ERF_HUMAN	p.Trp30Cys									1.2003216862e-06

@@ -1,0 +1,15 @@
+FS2P1_HUMAN/60-132                     -TWLEIQRHN---HEA---DQLV-INCKVYNVSSWADRHPGG--HQVLNHCAGEDAMDVFRAM---HPELDI--------------------------vQLYLKPLLIGELA----------------
+PGRC1_HUMAN/74-171                     -TPAELRRFDg-vQDP---RILMAINGKVFDVTKGRKFY-GP--EGPYGVFAGRDASRGLATF---CLDKEAlkdeyddlsdltaaqqetlsdwesqftFKY---HHVGKL-l---------------
+CYB5_HUMAN/13-85                       -TLEEIQKHN---HSK---STWLILHHKVYDLTKFLEEHPGG--EEVLREQAGGDATENFEDV--GHSTD-A---------------------------REMSKTFIIGEL-h---------------
+FADS3_HUMAN/24-97                      c-WEQIRAHD---QPG---DKWLVIERRVYDISRWAQRHPGG--SRLIGHHGAEDATDAFRAF---HQDLNF--------------------------vRKFLQPLLIGELA----------------
+FA2H_HUMAN/12-86                       -SPSEVQRRL---AAG---ACWVRRGARLYDLSSFVRHHPGG--EQLLRARAGQDISADLDGPPhRHSAN-A---------------------------RRWLEQYYVGEL-r---------------
+HERC2_HUMAN/1211-1283                  r-KADLENHN---KDG---GFWTVIDGKVYDIKDFQTQSLTG--NSILAQFAGEDPVVALEAA---LQFEDT---------------------------RESMHAFCVGQY-l---------------
+CB5D1_HUMAN/21-90                      -TPAEVAQHN---RPE---DLWVSYLGRVYDLTSLAQEYKGNllLKPIVEVAGQDISHWFD---------------------------------------------------pktrdirkhidpltgc
+NB5R4_HUMAN/58-130                     -TEEELKKHN---KKD---DCWICIRGFVYNVSPYMEYHPGG--EDELMRAAGSDGTELFDQV---HRWVNY---------------------------ESMLKECLVGRM-a---------------
+NENF_HUMAN/48-144                      -TEEELARYG---GEEedqPIYLAVKGVVFDVTSGKEFY-GR--GAPYNALTGKDSTRGVAKM--SLDPADLthdttgltakel---ealdevftkvykAKY---PIVGY--ta--------------
+NEUFC_HUMAN/39-134                     i-PEELSRYRggpGDP---GLYLALLGRVYDVSSGRRHY-EP--GSHYSGFAGRDASRAFVTG--DCSEAGLvddvsdlsaae----mltlhnwlsfyeKNY---VCVGR--vt--------------
+FADS2_HUMAN/22-95                      -SWEEIQKHN---LRT---DRWLVIDRKVYNITKWSIQHPGG--QRVIGHYAGEDATDAFRAFH--PDLEFV---------------------------GKFLKPLLIGELA----------------
+CYB5B_HUMAN/28-100                     r-LEEVAKRN---SLK---ELWLVIHGRVYDVTRFLNEHPGG--EEVLLEQAGVDASESFEDV--GHSSD-A---------------------------REMLKQYYIGDI-h---------------
+PGRC2_HUMAN/104-201                    -SLEQLRQYD---GSRn-pRILLAVNGKVFDVTKGSKFY-GP--AGPYGIFAGRDASRGLATF---CLDKDAlrdeyddlsdlnavqmesvrewemqfkEKY---DYVGR--ll--------------
+FADS1_HUMAN/21-94                      -TWDEVAQRS---GCE---ERWLVIDRKVYNISEFTRRHPGG--SRVISHYAGQDATDPFVAFH--INKGLV---------------------------KKYMNSLLIGEL-s---------------
+SUOX_HUMAN/86-161                      -TKEEVSSHT---SPE--tGIWVTLGSEVFDVTEFVDLHPGG--PSKLMLAAGG-PLEPFWALYaVHNQSHV---------------------------RELLAQYKIGEL-n---------------

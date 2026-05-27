@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02166	Asp	E	383.0	354.0	True	gnomAD	AR	['NM_000044', 'NM_001011645']	rs759716252	ENST00000374690	P10275	ANDR_HUMAN	p.Asp354Glu									1.63986101266e-05	E	True
+PF02166	Asp	E	383.0	354.0	True	gnomAD	AR	['NM_000044', 'NM_001011645']	rs759716252	ENST00000374690	P10275	ANDR_HUMAN	p.Asp354Glu									1.73096440226e-05	E	True
+PF02166	Gly	R	237.0	216.0	True	gnomAD	AR	['NM_000044', 'NM_001011645']	rs199554641	ENST00000374690	P10275	ANDR_HUMAN	p.Gly216Arg								0.0003461958403238	0.0006611624437875	R	True
+PF02166	Gly	R	237.0	216.0	True	gnomAD	AR	['NM_000044', 'NM_001011645']	rs199554641	ENST00000374690	P10275	ANDR_HUMAN	p.Gly216Arg								1.77621470883e-05	1.73031493553e-05	R	True

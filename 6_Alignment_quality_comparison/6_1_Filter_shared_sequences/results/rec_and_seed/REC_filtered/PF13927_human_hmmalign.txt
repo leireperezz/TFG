@@ -1,0 +1,9 @@
+CEAM5_HUMAN/146-219            ..............KPSIS...SNNSKP-.....VEDKD.AVA.FTCEP....-ETQDA..TYLWWVNNQ-.......--SLPVSPR......................lQLSNGNRTLTLFN..........VT....RND.TASYKCETQN..
+CEAM5_HUMAN/324-397            ..............KPFIT...SNNSNP-.....VEDED.AVA.LTCEP....-EIQNT..TYLWWVNNQ-.......--SLPVSPR......................lQLSNDNRTLTLLS..........VT....RND.VGPYECGIQN..
+CEAM5_HUMAN/502-575            ..............KPSIS...SNNSKP-.....VEDKD.AVA.FTCEP....EAQNT-..TYLWWVNGQ-.......--SLPVSPR......................lQLSNGNRTLTLFN..........VT....RND.ARAYVCGIQN..
+CEAM5_HUMAN/597-659            .............i----I...SPPDSS-.....YLSGA.NLN.LSCHS....ASNPSP..QYSWRINGI-.......--PQ-----.......................---QHTQVLFIAK..........IT....PNN.NGTYACFVSN..
+WFKN1_HUMAN/185-267            ..............PPALY...SSPSPQA.....VQVGG.TAS.LHCDV....SGRPPP..AVTWEKQSHQ.......RENLIMRPDqm..................ygnVVVTSIGQLVLYN..........AR....PED.AGLYTCTARN..
+TUTLA_HUMAN/135-209            ..............PPQFQ...ETPPAVL....eVQELE.PVT.LRCVA....RGSPLP..HVTWKLRGKD.......LGQGQGQ--.......................-VQVQNGTLRIRR..........VE....RGS.SGVYTCQAS-..
+TUTLA_HUMAN/226-305            ..............PPVIV...VPPKNST.....VNASQ.DVS.LACHA....EAYPAN.lTYSWFQDNIN.......---VFHISRlq...................prVRILVDGSLRLLA..........TQ....PDD.AGCYTCVPSN..
+TUTLA_HUMAN/417-490            ..............PPAFI...ERPKEEY....fQEVGR.ELL.IPCSA....QGDPPP..VVSWTKVGR-.......--GLQGQ--.......................AQVDSNSSLILRP..........LT....KEA.HGHWECSASN..
+LRC24_HUMAN/259-349            ..............PPSVH...VQPLELT.....ANLGE.DLR.VACQA....SGYPQP..LVTWRKVPQP.......REGRP---Raqaqlegg.......llglgghsASDTGSGMLFLSN..........IT....LAH.AGKYECEASN..

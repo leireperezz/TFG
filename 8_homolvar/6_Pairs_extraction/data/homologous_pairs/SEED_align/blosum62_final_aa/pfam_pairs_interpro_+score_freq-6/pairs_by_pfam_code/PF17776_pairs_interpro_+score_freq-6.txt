@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF17776	Glu	Q	183.0	619.0	True	gnomAD	NLRP12	['NM_144687']	rs139082917	ENST00000324134	P59046	NAL12_HUMAN	p.Glu619Gln									1.71015944158e-05	QK	True
+PF17776	Glu	K	183.0	619.0	True	gnomAD	NLRP12	['NM_144687']	rs139082917	ENST00000324134	P59046	NAL12_HUMAN	p.Glu619Lys								5.25879862745e-05	9.91892476119e-05	QK	True
+PF17776	Val	L	36.0	541.0	True	gnomAD	NLRP12	['NM_144687']	rs142569357	ENST00000324134	P59046	NAL12_HUMAN	p.Val541Leu								7.88104870488e-05	6.1564223798e-06	LM	True
+PF17776	Val	M	36.0	541.0	True	gnomAD	NLRP12	['NM_144687']	rs142569357	ENST00000324134	P59046	NAL12_HUMAN	p.Val541Met								1.31452683606e-05	3.4202346554e-06	LM	True

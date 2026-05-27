@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+157	PF16218	Met	Leu	78.0	155.0	True	gnomAD	OTULIN	['NM_138348']	rs11953822	ENST00000284274	Q96BN8	OTUL_HUMAN	p.Met155Leu								0.0189164708507817	0.0018649398195619
+158	PF16218	Met	Leu	78.0	155.0	True	gnomAD	OTULIN	['NM_138348']		ENST00000284274	Q96BN8	OTUL_HUMAN	p.Met155Leu									4.1296944301e-06
+218	PF16218	Val	Leu	178.0	253.0	True	gnomAD	OTULIN	['NM_138348']	rs781221295	ENST00000284274	Q96BN8	OTUL_HUMAN	p.Val253Leu									1.5904016082e-06
+219	PF16218	Val	Leu	178.0	253.0	True	gnomAD	OTULIN	['NM_138348']		ENST00000284274	Q96BN8	OTUL_HUMAN	p.Val253Leu									1.5904016082e-06

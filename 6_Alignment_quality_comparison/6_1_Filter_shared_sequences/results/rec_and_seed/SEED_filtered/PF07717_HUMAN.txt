@@ -1,0 +1,3 @@
+DHX57_HUMAN/1213-1313              ISAMLCAALYPNVVQVKSPEGKFQKTSTGAVR..........................MQP...........KSAE......LKFV..TKN...........DGYVHIHPSSVNY........QVRHFDSP.......................YLLYHE..KIKT.............SR.VF.IRDCSMVSVY.PLVLFGGGQV
+DHX37_HUMAN/925-1011               LRQIVTAGLGDHLA.................R..........................RVQSEEMLED....KWRN.....AYKTP..L.L...........DDPVFIHPSSVLFK...........ELPE.......................FVVYQE..IVET.............TK.MY.MKGVSSVEVQ.WIPALLPS.Y
+DHX8_HUMAN/1103-1180               VQKAICSGFFRNAA.................K..........................KDP...........QEG.......YRTL..I.D...........QQVVYIHPSSALFN...........RQPE.......................WVVYHE..LVLT.............TK.EY.MREVTTIDPR.WLVEFAPA.F

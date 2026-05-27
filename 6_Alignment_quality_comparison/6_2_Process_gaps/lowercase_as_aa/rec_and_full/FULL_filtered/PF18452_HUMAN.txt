@@ -1,0 +1,6 @@
+IL1AP_HUMAN/55-144                     --------kfnystahsagltl----------------------------------------------IWYWTRQDRDLEEPINFRLPEnrISKEKDVLWFRPTLLNDTGNYTCML------RNTTYCSK--VAFPLEVVQKDSCFNS-------pmkl-------------
+IRPL1_HUMAN/63-152                     -----------nyslaqsagls---------------------------------------------LMWYKSSGPGDFEEPIAFDGSR--MSKEEDSIWFRPTLLQDSGLYACV---I---RNSTYCMKvsISLTVGENDTGLCYNS-------kmkyfe-----------
+IL1R1_HUMAN/18-126                     --leadkckereekiilvssan---------------------------EIDVRP-CPLNPNEHKGTITWYKDDS---KTPVSTEQASR--IHQHKEKLWFVPAKVEDSGHYYCVV-R-----NSSYCLR--IKI--------------------sakfvenepnlcynaqa
+SEM3D_HUMAN/596-700                    -------adekvifgiefnstf----------------------------------LECIPKSQQATIKWYIQRSGDEHREELKPDE-R--IIKTEYGLLIRSLQKKDSGMYYCK---AQEHTFIHTIVK--LTLNVIENEQMENTQRAEHE---eg---------------
+SEM3A_HUMAN/568-674                    sdlhhdnhhghspeeriiygve-----------------------------NSSTfLECSPKSQRALVYWQFQRRNEERKEEIRVDD-H--IIRTDQGLLLRSLQQKDSGNYLCH---AVEHGFIQTLLK--VTLEV------------------idtehle----------
+I18RA_HUMAN/36-165                     ---------------------tRSEEEFVLFCDLPEPQKSHFCHRNRLSPKQVPEhLPFMGSNDLSDVQWYQQPSNGDPLEDIRKSYPH--IIQDKCTLHFLTPGVNNSGSYICRPkMIKSPYDVACCVK--MILEVKPQTNASCEYSASHKQDL-----------------

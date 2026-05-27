@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+51	PF02671	Phe	Leu	55.0	483.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Phe483Leu									1.5905331467e-06
+52	PF02671	Phe	Leu	55.0	147.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Phe147Leu									7.213487490369995e-07
+58	PF02671	Pro	Arg	357.0	512.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']		ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Pro512Arg									2.0545834332e-06
+59	PF02671	Pro	Arg	357.0	176.0	True	gnomAD	SIN3A	['NM_001145358', 'NM_015477']	rs766193825	ENST00000394947	Q96ST3	SIN3A_HUMAN	p.Pro176Arg									4.7722977659e-06

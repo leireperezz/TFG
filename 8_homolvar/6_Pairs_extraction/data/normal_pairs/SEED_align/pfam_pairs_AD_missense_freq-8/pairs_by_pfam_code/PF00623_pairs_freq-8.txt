@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+136	PF00623	Val	Leu	90.0	518.0	True	gnomAD	POLR1A	['NM_015425']	rs780248678	ENST00000263857	O95602	RPA1_HUMAN	p.Val518Leu								6.5717703034e-06	
+137	PF00623	Val	Leu	90.0	518.0	True	gnomAD	POLR1A	['NM_015425']	rs780248678	ENST00000263857	O95602	RPA1_HUMAN	p.Val518Leu								1.31435406069e-05	1.369617233e-06

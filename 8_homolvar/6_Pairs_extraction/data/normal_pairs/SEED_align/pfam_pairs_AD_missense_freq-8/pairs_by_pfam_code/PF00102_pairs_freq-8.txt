@@ -1,0 +1,25 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+39	PF00102	Arg	Ser	24.0	289.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs1566181003	ENST00000351677	Q06124	PTN11_HUMAN	p.Arg289Ser									6.851623971913823e-07
+40	PF00102	Arg	Ser	24.0	289.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs1566181003	ENST00000351677	Q06124	PTN11_HUMAN	p.Arg289Ser									6.851623971913823e-07
+93	PF00102	Gln	Glu	310.0	266.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Gln266Glu									1.2003303309e-06
+94	PF00102	Gln	Glu	310.0	510.0	True	ClinVar	PTPN11	NM_002834	rs397507549			PTN11_HUMAN	p.Gln510Glu	Pathogenic(Last reviewed: May 21, 2023)	not provided|Noonan syndrome 3|RASopathy|Noonan syndrome 1|Cardiovascular phenotype|PTPN11 Related Disorders|See cases|Noonan syndrome with multiple lentigines|Noonan syndrome	criteria provided, multiple submitters, no conflicts	VCV000040566	40566.0	49036.0	NC_000012.12:112489103:C:G		
+95	PF00102	Gln	His	310.0	510.0	True	ClinVar	PTPN11	NM_002834				PTN11_HUMAN	p.Gln510His	Pathogenic(Last reviewed: Mar 1, 2020)	not provided|not specified	criteria provided, multiple submitters, no conflicts	VCV000811634	811634.0	799666.0	NC_000012.12:112489105:G:T		
+96	PF00102	Gln	His	310.0	510.0	True	ClinVar	PTPN11	NM_002834	rs397507550			PTN11_HUMAN	p.Gln510His	Pathogenic(Last reviewed: Apr 3, 2017)	RASopathy	reviewed by expert panel	VCV000040567	40567.0	49037.0	NC_000012.12:112489105:G:C		
+102	PF00102	Gln	Pro	306.0	506.0	True	ClinVar	PTPN11	NM_002834	rs397509345			PTN11_HUMAN	p.Gln506Pro	Pathogenic(Last reviewed: Jan 1, 2007)	RASopathy	criteria provided, single submitter	VCV000055799	55799.0	70455.0	NC_000012.12:112489092:AG:CC		
+103	PF00102	Gln	Pro	306.0	506.0	True	ClinVar	PTPN11	NM_002834	rs397507548			PTN11_HUMAN	p.Gln506Pro	Pathogenic(Last reviewed: Jul 29, 2022)	PTPN11 Related Disorders|Cardiovascular phenotype|not provided|RASopathy|Noonan syndrome|Noonan syndrome with multiple lentigines	criteria provided, multiple submitters, no conflicts	VCV000040563	40563.0	49033.0	NC_000012.12:112489092:A:C		
+113	PF00102	Glu	Gly	142.0	129.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Glu129Gly									3.601725947e-06
+114	PF00102	Glu	Gly	142.0	374.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs780328721	ENST00000351677	Q06124	PTN11_HUMAN	p.Glu374Gly									4.8928056186e-06
+130	PF00102	Gly	Ala	264.0	220.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Gly220Ala									1.2003216862e-06
+131	PF00102	Gly	Ala	264.0	464.0	True	ClinVar	PTPN11	NM_002834	rs121918469			PTN11_HUMAN	p.Gly464Ala	Pathogenic(Last reviewed: Jul 1, 2023)	Noonan syndrome and Noonan-related syndrome|Cardiovascular phenotype|Noonan syndrome 1|Noonan syndrome|Noonan syndrome with multiple lentigines|not provided|RASopathy	criteria provided, multiple submitters, no conflicts	VCV000013343	13343.0	28382.0	NC_000012.12:112488453:G:C		
+135	PF00102	Gly	Arg	253.0	209.0	True	gnomAD	PTPN1	['NM_002827']	rs1224554949	ENST00000371621	P18031	PTN1_HUMAN	p.Gly209Arg									2.7361877243e-06
+136	PF00102	Gly	Arg	253.0	453.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs1464947249	ENST00000351677	Q06124	PTN11_HUMAN	p.Gly453Arg									6.845676544521542e-07
+154	PF00102	His	Pro	22.0	287.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs2038527071	ENST00000351677	Q06124	PTN11_HUMAN	p.His287Pro								6.5741897311e-06	1.5928842674e-06
+155	PF00102	His	Pro	22.0	54.0	True	gnomAD	PTPN1	['NM_002827']	rs753938375	ENST00000371621	P18031	PTN1_HUMAN	p.His54Pro									1.5932903357e-06
+177	PF00102	Ile	Val	92.0	328.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']		ENST00000351677	Q06124	PTN11_HUMAN	p.Ile328Val									3.1808335692e-06
+178	PF00102	Ile	Val	92.0	82.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Ile82Val									2.0562056973e-06
+182	PF00102	Ile	Val	263.0	219.0	True	gnomAD	PTPN1	['NM_002827']	rs2082848820	ENST00000371621	P18031	PTN1_HUMAN	p.Ile219Val								6.5698705735e-06	
+183	PF00102	Ile	Val	263.0	463.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']		ENST00000351677	Q06124	PTN11_HUMAN	p.Ile463Val									3.1819570308e-06
+302	PF00102	Thr	Ser	94.0	84.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Thr84Ser									1.2003562657e-06
+303	PF00102	Thr	Ser	94.0	84.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Thr84Ser									1.6020352255e-06
+309	PF00102	Tyr	Cys	91.0	327.0	True	gnomAD	PTPN11	['NM_002834', 'NM_001374625']	rs1028787542	ENST00000351677	Q06124	PTN11_HUMAN	p.Tyr327Cys								6.5677993931e-06	1.5904673747e-06
+310	PF00102	Tyr	Cys	91.0	81.0	True	gnomAD	PTPN1	['NM_002827']		ENST00000371621	P18031	PTN1_HUMAN	p.Tyr81Cys									1.2003476206e-06

@@ -1,0 +1,4 @@
+RT02_HUMAN/184-260                     ------------------------------------------------------------------------------------------------------RLPDLIIFLHTLNNHVAVRDAAKMNIPTVGIVDTNCNPCLITYPVPGNDDSPLAVHLYCRLFQTAITR
+RT02_HUMAN/84-186                      LFDARVHLGHKAGCRHRFMEPYIFGSRLDHDIIDLEQTATHLQLALNFTAHMAYRKGIILFISRNRQFSYLIENMARDCGEYAHTRYFRGGMLTNAR-------------------------------------------------------------------------
+RSSA_HUMAN/18-118                      -LAAGTHLGGTN--LDFQMEQYIYKRKSGIYIINLKRTWEKLLLAARAIVA-IENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTNQ-I------------------------------------------------------------------------
+RSSA_HUMAN/111-184                     --------------------------------------------------------------------------------------------------QAAFREPRLLVVTDPRADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLAREV--

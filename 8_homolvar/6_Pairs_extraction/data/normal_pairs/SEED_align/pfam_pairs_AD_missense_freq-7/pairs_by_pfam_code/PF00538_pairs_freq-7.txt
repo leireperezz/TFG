@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+39	PF00538	Glu	Asp	19.0	53.0	True	gnomAD	H1-4	['NM_005321']	rs754602998	ENST00000304218	P10412	H14_HUMAN	p.Glu53Asp									1.3681911965e-06
+40	PF00538	Glu	Asp	19.0	53.0	True	gnomAD	H1-4	['NM_005321']	rs754602998	ENST00000304218	P10412	H14_HUMAN	p.Glu53Asp									1.3681911965e-06
+130	PF00538	Thr	Ser	11.0	45.0	True	gnomAD	H1-4	['NM_005321']		ENST00000304218	P10412	H14_HUMAN	p.Thr45Ser									1.5908519648e-06
+131	PF00538	Thr	Ser	11.0	45.0	True	gnomAD	H1-4	['NM_005321']	rs138821617	ENST00000304218	P10412	H14_HUMAN	p.Thr45Ser									2.0523991177e-06
+138	PF00538	Val	Leu	23.0	57.0	True	gnomAD	H1-4	['NM_005321']		ENST00000304218	P10412	H14_HUMAN	p.Val57Leu									5.472712372e-06
+139	PF00538	Val	Leu	23.0	57.0	True	gnomAD	H1-4	['NM_005321']	rs569775913	ENST00000304218	P10412	H14_HUMAN	p.Val57Leu								6.5689211203e-06	2.0522671395e-06

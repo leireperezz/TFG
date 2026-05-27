@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+13	PF16619	Asp	Glu	67.0	329.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']		ENST00000644486	P54252	ATX3_HUMAN	p.Asp329Glu									2.7366594692e-06
+14	PF16619	Asp	Glu	67.0	329.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']	rs1053998390	ENST00000644486	P54252	ATX3_HUMAN	p.Asp329Glu								6.7369101835e-06	1.3683297346e-06
+28	PF16619	Gly	Arg	44.0	306.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']	rs12895357	ENST00000644486	P54252	ATX3_HUMAN	p.Gly306Arg									2.2821393687e-06
+29	PF16619	Gly	Arg	44.0	306.0	True	gnomAD	ATXN3	['NM_001164778', 'NM_004993']	rs12895357	ENST00000644486	P54252	ATX3_HUMAN	p.Gly306Arg								0.0056822970808866	0.039582454949367

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00147	Glu	Q	249.0	4222.0	True	gnomAD	TNXB	['NM_019105', 'NM_001365276']	rs768740465	ENST00000644971	P22105	TENX_HUMAN	p.Glu4222Gln	Likely benign							1.36630687252e-05	1.1668066834e-06	QK	True
+PF00147	Glu	K	249.0	4222.0	True	gnomAD	TNXB	['NM_019105', 'NM_001365276']	rs768740465	ENST00000644971	P22105	TENX_HUMAN	p.Glu4222Lys	Likely benign							4.09561905281e-05	3.26760773769e-05	QK	True
+PF00147	Met	I	37.0	2016.0	True	gnomAD	TNC	['NM_002160']	rs763463262	ENST00000350763	P24821	TENA_HUMAN	p.Met2016Ile								1.31402591259e-05	4.1082215098e-06	IL	True
+PF00147	Met	L	37.0	4062.0	True	gnomAD	TNXB	['NM_019105', 'NM_001365276']	rs776068601	ENST00000644971	P22105	TENX_HUMAN	p.Met4062Leu	Likely benign								1.7112129625e-05	IL	True

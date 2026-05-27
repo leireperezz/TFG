@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF03104	Lys	R	278.0	425.0	True	gnomAD	POLE	['NM_006231']	rs757186755	ENST00000320574	Q07864	DPOE1_HUMAN	p.Lys425Arg								2.62867357131e-05	2.53127492792e-05	RQ	True
+PF03104	Lys	Q	278.0	425.0	True	gnomAD	POLE	['NM_006231']		ENST00000320574	Q07864	DPOE1_HUMAN	p.Lys425Gln									2.60365278782e-05	RQ	True
+PF03104	Val	L	31.0	240.0	True	gnomAD	POLE	['NM_006231']	rs371882716	ENST00000320574	Q07864	DPOE1_HUMAN	p.Val240Leu								5.25265258955e-05	0.0001354444424682	LM	True
+PF03104	Val	M	31.0	240.0	True	gnomAD	POLE	['NM_006231']	rs371882716	ENST00000320574	Q07864	DPOE1_HUMAN	p.Val240Met								4.59607101586e-05	4.44641454812e-05	LM	True

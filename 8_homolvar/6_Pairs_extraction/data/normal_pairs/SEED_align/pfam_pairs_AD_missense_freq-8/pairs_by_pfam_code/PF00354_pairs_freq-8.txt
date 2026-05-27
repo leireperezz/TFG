@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+59	PF00354	Gly	Arg	232.0	419.0	True	gnomAD	NPTX1	['NM_002522']		ENST00000306773	Q15818	NPTX1_HUMAN	p.Gly419Arg									1.3742663135e-06
+60	PF00354	Gly	Arg	232.0	419.0	True	gnomAD	NPTX1	['NM_002522']	rs921403168	ENST00000306773	Q15818	NPTX1_HUMAN	p.Gly419Arg									8.2455978814e-06
+104	PF00354	Met	Ile	87.0	292.0	True	gnomAD	NPTX1	['NM_002522']	rs1218234269	ENST00000306773	Q15818	NPTX1_HUMAN	p.Met292Ile									6.844158510711108e-07
+105	PF00354	Met	Ile	87.0	292.0	True	gnomAD	NPTX1	['NM_002522']		ENST00000306773	Q15818	NPTX1_HUMAN	p.Met292Ile									6.844158510711108e-07
+112	PF00354	Phe	Leu	32.0	253.0	True	gnomAD	NPTX1	['NM_002522']	rs1160906820	ENST00000306773	Q15818	NPTX1_HUMAN	p.Phe253Leu									1.5907102521e-06
+113	PF00354	Phe	Leu	32.0	253.0	True	gnomAD	NPTX1	['NM_002522']	rs1409444670	ENST00000306773	Q15818	NPTX1_HUMAN	p.Phe253Leu									3.181380019e-06

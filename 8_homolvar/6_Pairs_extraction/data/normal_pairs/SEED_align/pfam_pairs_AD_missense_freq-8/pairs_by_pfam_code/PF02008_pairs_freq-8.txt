@@ -1,0 +1,9 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+23	PF02008	Arg	Trp	10.0	1154.0	True	ClinVar	KMT2A	NM_001197104	rs1555038090			KMT2A_HUMAN	p.Arg1154Trp	Pathogenic/Likely pathogenic(Last reviewed: Jul 29, 2022)	Wiedemann-Steiner syndrome|not provided	criteria provided, multiple submitters, no conflicts	VCV000431895	431895.0	425906.0	NC_000011.10:118478091:C:T		
+24	PF02008	Arg	Trp	10.0	56.0	True	gnomAD	TET3	['NM_001287491']	rs1684036808	ENST00000409262	O43151	TET3_HUMAN	p.Arg56Trp									9.260459689218972e-07
+39	PF02008	Cys	Tyr	14.0	1158.0	True	ClinVar	KMT2A	NM_001197104	rs1131691503			KMT2A_HUMAN	p.Cys1158Tyr	Likely pathogenic(Last reviewed: Oct 14, 2015)	Wiedemann-Steiner syndrome	criteria provided, single submitter	VCV000435658	435658.0	429172.0	NC_000011.10:118478104:G:A		
+40	PF02008	Cys	Tyr	14.0	60.0	True	gnomAD	TET3	['NM_001287491']		ENST00000409262	O43151	TET3_HUMAN	p.Cys60Tyr									4.0527506018e-06
+45	PF02008	Gln	His	43.0	82.0	True	gnomAD	TET3	['NM_001287491']	rs1432779465	ENST00000409262	O43151	TET3_HUMAN	p.Gln82His								6.5686622262e-06	
+46	PF02008	Gln	His	43.0	82.0	True	gnomAD	TET3	['NM_001287491']	rs1432779465	ENST00000409262	O43151	TET3_HUMAN	p.Gln82His									8.3348613912e-06
+86	PF02008	Thr	Ala	27.0	73.0	True	gnomAD	TET3	['NM_001287491']	rs969609519	ENST00000409262	O43151	TET3_HUMAN	p.Thr73Ala									9.2607341169e-06
+87	PF02008	Thr	Ala	27.0	1171.0	True	gnomAD	KMT2A	['NM_001197104']		ENST00000534358	Q03164	KMT2A_HUMAN	p.Thr1171Ala									1.2003216862e-06

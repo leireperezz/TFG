@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+53	PF11956	Leu	Met	32.0	800.0	True	gnomAD	KCNQ3	['NM_004519']		ENST00000388996	O43525	KCNQ3_HUMAN	p.Leu800Met	Likely benign								6.840488027777854e-07
+54	PF11956	Leu	Met	32.0	798.0	True	gnomAD	KCNQ2	['NM_172107']		ENST00000359125	O43526	KCNQ2_HUMAN	p.Leu798Met	Likely benign								6.849971915115148e-07
+70	PF11956	Pro	Leu	83.0	847.0	True	gnomAD	KCNQ3	['NM_004519']		ENST00000388996	O43525	KCNQ3_HUMAN	p.Pro847Leu	Benign/Likely benign								1.2003216862e-06
+71	PF11956	Pro	Leu	83.0	848.0	True	gnomAD	KCNQ2	['NM_172107']	rs377633507	ENST00000359125	O43526	KCNQ2_HUMAN	p.Pro848Leu	Likely benign							1.9704692344e-05	1.65040104745e-05

@@ -1,0 +1,4 @@
+F110B_HUMAN/13-118                   -----------kPVSPAGTFTSAVPLRILNKGPDY-FRRQAEPNPKRLSAVERLEADKAKYVKSQEVINAKQEPVKPAVLAKPPVCPAAKRALGSPTL------KVFGNHAKTESGVQRENLKL-------------------------------------------------------
+F110A_HUMAN/4-103                    -----------hTLSPGAPSAPALPCRLRTRVPGYlLRGPADGGARKPSAVERLEADKAKYVKSLHVANTRQEPVQPLLSKQPLFSPETRRTVLTPSRRALPGP--------------------crrpqld------------------------------------------------
+F110D_HUMAN/6-72                     ------pstpsr--------------------------------GRTPSAVERLEADKAKYVKTHQVIARRQEP--------------------------------------------------alrgspgpltphpcnelgppasprtprpvrr------------------------
+F110C_HUMAN/2-105                    ralaalsappne--------------RLLPRDPAA-TRDPDAARPARRSAVERLAADRAKYVRG------------------------------------------------------------rpgtgrgvasegsgpgaikcpgndpgpparapapvarraiarkplrpdsliiyrq

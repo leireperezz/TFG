@@ -1,0 +1,2 @@
+TEDC1_HUMAN/90-229             GYPRLALAQLPEDGSQGSRELLLALSWLLARGPVPEQMLAQARVPLGDEMTVCQCMEAEGPVDVRHVQWLMGKLRFRWRQLVSSQQEQCALLSKIHLYTRGCHSDQSLSHLSVTEAEMLRDPEGGQQ---------------------------------
+TEDC1_HUMAN/296-330            -------------------------------------------------------------------------------------------------------------------------------LLRTLERENQRLEAVLAWRRSELVFWRWMDTVL

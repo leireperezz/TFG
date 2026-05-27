@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF12836	Ile	L	160.0	640.0	True	gnomAD	KIF22	['NM_007317']	rs200193862	ENST00000160827	Q14807	KIF22_HUMAN	p.Ile640Leu								1.31658635489e-05	6.8409372631e-06	LV	True
+PF12836	Ile	V	160.0	640.0	True	gnomAD	KIF22	['NM_007317']	rs200193862	ENST00000160827	Q14807	KIF22_HUMAN	p.Ile640Val								1.31760985572e-05	6.8409372631e-06	LV	True

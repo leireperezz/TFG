@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02078	Val	L	77.0	183.0	True	gnomAD	SYN2	['NM_133625']	rs548591048	ENST00000621198	Q92777	SYN2_HUMAN	p.Val183Leu								4.59510555613e-05	6.841583142339137e-07	LM	True
+PF02078	Val	M	77.0	183.0	True	gnomAD	SYN2	['NM_133625']	rs548591048	ENST00000621198	Q92777	SYN2_HUMAN	p.Val183Met								3.28476264305e-05	1.09465330277e-05	LM	True

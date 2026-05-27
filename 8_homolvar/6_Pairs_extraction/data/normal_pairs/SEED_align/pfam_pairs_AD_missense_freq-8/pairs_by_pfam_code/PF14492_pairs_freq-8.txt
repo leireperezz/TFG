@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+17	PF14492	Asn	Lys	30.0	611.0	True	gnomAD	EFTUD2	['NM_004247']	rs137907318	ENST00000426333	Q15029	U5S1_HUMAN	p.Asn611Lys									1.2003245677e-06
+18	PF14492	Asn	Lys	30.0	611.0	True	gnomAD	EFTUD2	['NM_004247']	rs137907318	ENST00000426333	Q15029	U5S1_HUMAN	p.Asn611Lys									3.6009737032e-06
+30	PF14492	Glu	Lys	46.0	626.0	True	gnomAD	EFTUD2	['NM_004247']	rs764767656	ENST00000426333	Q15029	U5S1_HUMAN	p.Glu626Lys									2.7378320476e-06
+31	PF14492	Glu	Lys	46.0	543.0	True	gnomAD	EEF2	['NM_001961']		ENST00000309311	P13639	EF2_HUMAN	p.Glu543Lys									6.842341504001401e-07
+47	PF14492	Ile	Val	49.0	629.0	True	gnomAD	EFTUD2	['NM_004247']	rs2050610557	ENST00000426333	Q15029	U5S1_HUMAN	p.Ile629Val								1.31488981223e-05	4.8024742347e-06
+48	PF14492	Ile	Val	49.0	546.0	True	gnomAD	EEF2	['NM_001961']	rs2039717189	ENST00000309311	P13639	EF2_HUMAN	p.Ile546Val									2.052441242e-06

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF07678	Ile	L	271.0	1143.0	True	gnomAD	A2ML1	['NM_144670']	rs1469715388	ENST00000299698	A8K2U0	A2ML1_HUMAN	p.Ile1143Leu								1.31530488767e-05		LV	True
+PF07678	Ile	V	271.0	1143.0	True	gnomAD	A2ML1	['NM_144670']	rs1469715388	ENST00000299698	A8K2U0	A2ML1_HUMAN	p.Ile1143Val								1.31530488767e-05	4.788308865e-06	LV	True
+PF07678	Met	L	238.0	1116.0	True	gnomAD	A2ML1	['NM_144670']	rs79889829	ENST00000299698	A8K2U0	A2ML1_HUMAN	p.Met1116Leu								5.91109709962e-05	7.5246191858e-06	LV	True
+PF07678	Met	V	238.0	1116.0	True	gnomAD	A2ML1	['NM_144670']	rs79889829	ENST00000299698	A8K2U0	A2ML1_HUMAN	p.Met1116Val								0.0004400483396385	0.0001067127811813	LV	True

@@ -1,0 +1,8 @@
+F153A_HUMAN/87-150                   -------------------------------------DAGTQTNGDLEDLEEHGPGQTVSEEATEVHTMEGDPDTLAEF-----------------------------------
+F153B_HUMAN/78-150                   MVDKDTERDIEMKRQLRRLRELHLYSTWKKYQEAMKTSLGVPQCER--------------------------------------------------------------------
+F153B_HUMAN/165-227                  ------------------------------------ADTGIQTNGDLEDLEEHGPGQTVSEEATEVHMMEGDPDTLAELL----------------------------------
+F153A_HUMAN/145-211                  -----------------VLQELSSYNGEEEDPEEVKTSLGVPQRGDLEDLEEHVPGQTVSEEATGVHMMQVDPATLAK------------------------------------
+F153A_HUMAN/1-77                     MVDKDTERDIEMKRQLRRLRELHLYSTWKKYQEAMKTSLGVPQCER--------------------------------------------------------------------
+F153A_HUMAN/210-280                  --------------------------------------------SDLEDLEEHVPEQTVSEEATGVHMMQVDPATLAKQLEDSTITGSHQQMSASPSSAPAEEATEKTKVEEEV
+F153B_HUMAN/221-288                  -----------------VLQELSSYNGEEEDPEEVKTSLGVPQRGDLEDLEEHVPGQTVSEEATGVHMMQVDPATPAK------------------------------------
+F153B_HUMAN/285-357                  -----------------------------------------PAKSDLEDLEEHVPGQTVSEEATGVHMMQVDPATLAKQLEDSTITGSHQQMSASPSSAPAEEATEKTKVEEEV

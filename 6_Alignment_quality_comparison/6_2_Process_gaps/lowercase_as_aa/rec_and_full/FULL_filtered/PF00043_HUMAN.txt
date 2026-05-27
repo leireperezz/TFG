@@ -1,0 +1,11 @@
+GSTA2_HUMAN/99-192                     --------------------------------------ia--DLGEMILLLPFSQPE----EQDAKLALIQEKTKNRYFPAFEKVLKshGQDYLVGNKLSRADIHLVELLYYVEELDSSLI--SSFPLLKALKTRISNLP---------------------------
+GSTA1_HUMAN/99-192                     --------------------------------------ia--DLGEMILLLPVCPPE----EKDAKLALIKEKIKNRYFPAFEKVLKshGQDYLVGNKLSRADIHLVELLYYVEELDSSLI--SSFPLLKALKTRISNLP---------------------------
+GSTM3_HUMAN/108-196                    ----------------------------------------VMDFRTQLIRLCYSSDH----EKLKPQYLEELPGQLKQFSMFLGKFS-----WFAGEKLTFVDFLTYDILDQNRIFDPKCL--DEFPNLKAFMCRFEAL-e--------------------------
+SYMC_HUMAN/89-180                      ------------------atelqpalsaalyylvvqgkkg----------------------------EDVLGSVRRALTHIDHSLSrqNCPFLAGETESLADIVLWGALYPLLQDPAYLP--EELSALHSWFQTLSTQE---------------------------
+GSTM2_HUMAN/104-192                    ----------------------------------------FMDSRMQLAKLCYDPDF----EKLKPEYLQALPEMLKLYSQFLGKQP-----WFLGDKITFVDFIAYDVLERNQVFEPSCL--DAFPNLKDFISRFEG--le-------------------------
+SYVC_HUMAN/95-198                      -------------lvqqwvsyadtelipaacgatlpalgl---------------R------SSAQDPQAVLGALGRALSPLEEWLR--LHTYLAGEAPTLADLAAVTALLLPFRYVLDPPaRRIWNNVTRWFVTCVRQP---------------------------
+GSTT2_HUMAN/86-199                     psdlqararvheylgwhadcirgtfgiplwvqvlgpligv---------------------QVPEEKVERNRTAMDQALQWLEDKFL-gDRPFLAGQQVTLADLMALEELMQPVALGYELF--EGRPRLAAWRGRVE---a--------------------------
+GSTT1_HUMAN/111-201                    ----------------------------lralwhkvmfpv------------FLGEP----VSPQ-TLAATLAELDVTLQLLEDKFL-qNKAFLTGPHISLADLVA--ITELMHPVGAGCQvFEGRPKLATWRQRVEA--a--------------------------
+GST2_HUMAN/89-199                      --lqararvheylgwhadcirgtfgiplwvqvlgpligvq----------------------VPKEKVERNRTAMDQALQWLEDKFL-gDRPFLAGQQVTLADLMALEELMQPVALGYELF--EGRPRLAAWRGRVE---a--------------------------
+EF1G_HUMAN/106-198                     --------------------------------------iv--PPASTWVFPTLGIMH----HNKQ-ATENAKEEVRRILGLLDAYLK--TRTFLVGERVTLADITVVCTLLWLYKQVLEPSfRQAFPNTNRWFLTCINQP---------------------------
+GSTT4_HUMAN/102-198                    ----------------------qhtafqlpmkkivwlkll----------IP----KitgeEVSAEKMEHAVEEVKNSLQLFEEYFL-qDKMFITGNQISLADLVAV---------------------------------vemmqpmaanynvflnssklaewrmqv

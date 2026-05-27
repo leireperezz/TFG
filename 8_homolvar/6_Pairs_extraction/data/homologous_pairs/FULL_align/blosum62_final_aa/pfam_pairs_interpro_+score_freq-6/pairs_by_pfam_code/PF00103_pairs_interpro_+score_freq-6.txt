@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00103	Asp	N	495.0	179.0	True	gnomAD	GH1	['NM_000515']	rs151243538	ENST00000323322	P01241	SOMA_HUMAN	p.Asp179Asn								6.5669367866e-06	1.50512151803e-05	NH	True
+PF00103	Asp	H	495.0	179.0	True	gnomAD	GH1	['NM_000515']	rs151243538	ENST00000323322	P01241	SOMA_HUMAN	p.Asp179His								0.0002035750403866	0.0003598613644355	NH	True
+PF00103	Ser	R	313.0	121.0	True	gnomAD	GH1	['NM_000515']	rs137882374	ENST00000323322	P01241	SOMA_HUMAN	p.Ser121Arg								0.0027981880909114	0.0002961923211627	R	True
+PF00103	Ser	R	313.0	121.0	True	gnomAD	GH1	['NM_000515']	rs137882374	ENST00000323322	P01241	SOMA_HUMAN	p.Ser121Arg								6.5839719786e-06	2.12054548638e-05	R	True

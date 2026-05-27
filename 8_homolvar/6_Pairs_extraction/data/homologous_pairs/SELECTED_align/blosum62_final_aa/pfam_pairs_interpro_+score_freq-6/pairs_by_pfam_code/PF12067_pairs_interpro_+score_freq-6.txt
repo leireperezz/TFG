@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF12067	Pro	S	43.0	234.0	True	gnomAD	SOX18	['NM_018419']	rs1288990626	ENST00000340356	P35713	SOX18_HUMAN	p.Pro234Ser								1.31800927878e-05	9.068041139889044e-07	ST	True
+PF12067	Pro	T	43.0	234.0	True	gnomAD	SOX18	['NM_018419']	rs1288990626	ENST00000340356	P35713	SOX18_HUMAN	p.Pro234Thr								1.97701391817e-05	3.44585563315e-05	ST	True
+PF12067	Pro	S	46.0	242.0	True	gnomAD	SOX17	['NM_022454']	rs1335499345	ENST00000297316	Q9H6I2	SOX17_HUMAN	p.Pro242Ser									1.16598359461e-05	S	True
+PF12067	Pro	S	46.0	237.0	True	gnomAD	SOX18	['NM_018419']	rs1226124682	ENST00000340356	P35713	SOX18_HUMAN	p.Pro237Ser								1.31882624464e-05	0.0	S	True

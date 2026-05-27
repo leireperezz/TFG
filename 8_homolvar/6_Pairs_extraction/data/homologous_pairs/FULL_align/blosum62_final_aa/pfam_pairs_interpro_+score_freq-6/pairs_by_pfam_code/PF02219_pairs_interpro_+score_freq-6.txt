@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02219	Gly	A	1466.0	313.0	True	gnomAD	MTHFR	['NM_005957']	rs200890679	ENST00000376590	P42898	MTHR_HUMAN	p.Gly313Ala								0.0001839201261166	6.70442122373e-05	AS	True
+PF02219	Gly	S	1466.0	313.0	True	gnomAD	MTHFR	['NM_005957']	rs979474762	ENST00000376590	P42898	MTHR_HUMAN	p.Gly313Ser									2.32597595214e-05	AS	True
+PF02219	Ile	L	998.0	225.0	True	ClinVar	MTHFR	NM_005957	rs200100285			MTHR_HUMAN	p.Ile225Leu	Pathogenic	Homocystinuria due to methylene tetrahydrofolate reductase deficiency	no assertion criteria provided	VCV000187879	187879.0	185784.0	NC_000001.11:11796312:T:G			LV	True
+PF02219	Ile	V	998.0	225.0	True	gnomAD	MTHFR	['NM_005957']	rs200100285	ENST00000376590	P42898	MTHR_HUMAN	p.Ile225Val								0.0002625843552241	0.0005311517779895	LV	True

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF12316	H	Asn	27.0	527.0	True	gnomAD	DVL1	['NM_001330311']	rs755677662	ENST00000378888	O14640	DVL1_HUMAN	p.His527Asn								3.94492879403e-05	2.0583981271e-06	H	True
+PF12316	H	Asn	27.0	526.0	True	gnomAD	DVL3	['NM_004423']	rs371886763	ENST00000313143	Q92997	DVL3_HUMAN	p.His526Asn								2.62767201397e-05	1.09466079198e-05	H	True
+PF12316	P	Leu	214.0	671.0	True	gnomAD	DVL1	['NM_001330311']	rs925302561	ENST00000378888	O14640	DVL1_HUMAN	p.Pro671Leu	Likely benign							2.62856992653e-05	1.91968875446e-05	P	True
+PF12316	P	Leu	214.0	692.0	True	gnomAD	DVL3	['NM_004423']	rs201792550	ENST00000313143	Q92997	DVL3_HUMAN	p.Pro692Leu								8.55769863735e-05	6.97899732334e-05	P	True

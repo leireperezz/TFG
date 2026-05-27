@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF00498	Ile	T	98.0	594.0	True	gnomAD	KIF1B	['NM_001365951']	rs1650274554	ENST00000676179	O60333	KIF1B_HUMAN	p.Ile594Thr									1.68184330025e-05	T	True
+PF00498	Ile	T	98.0	157.0	True	gnomAD	CHEK2	['NM_007194']	rs17879961	ENST00000404276	O96017	CHK2_HUMAN	p.Ile157Thr								0.0040387722132471	0.00262889665693	T	True
+PF00498	Ile	M	101.0	160.0	True	gnomAD	CHEK2	['NM_007194']	rs575910805	ENST00000404276	O96017	CHK2_HUMAN	p.Ile160Met								3.28195972379e-05	6.70398093333e-05	MV	True
+PF00498	Ile	V	101.0	160.0	True	gnomAD	CHEK2	['NM_007194']	rs876659950	ENST00000404276	O96017	CHK2_HUMAN	p.Ile160Val								1.97072811834e-05	8.8930237648e-06	MV	True

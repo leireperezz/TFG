@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+74	PF16095	Leu	Phe	143.0	1660.0	True	gnomAD	LRRK2	['NM_198578']	rs1945355252	ENST00000298910	Q5S007	LRRK2_HUMAN	p.Leu1660Phe									2.0548564477e-06
+75	PF16095	Leu	Phe	143.0	1660.0	True	gnomAD	LRRK2	['NM_198578']		ENST00000298910	Q5S007	LRRK2_HUMAN	p.Leu1660Phe									6.849521492428539e-07
+104	PF16095	Phe	Leu	133.0	1650.0	True	gnomAD	LRRK2	['NM_198578']		ENST00000298910	Q5S007	LRRK2_HUMAN	p.Phe1650Leu									6.850337927169947e-07
+105	PF16095	Phe	Leu	133.0	1650.0	True	gnomAD	LRRK2	['NM_198578']		ENST00000298910	Q5S007	LRRK2_HUMAN	p.Phe1650Leu									2.0551013781e-06

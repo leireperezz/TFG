@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+32	PF01562	Asp	Glu	199.0	57.0	True	gnomAD	ADAM10	['NM_001320570', 'NM_001110']		ENST00000260408	O14672	ADA10_HUMAN	p.Asp57Glu									6.841517612802942e-07
+33	PF01562	Asp	Glu	199.0	57.0	True	gnomAD	ADAM10	['NM_001320570', 'NM_001110']		ENST00000260408	O14672	ADA10_HUMAN	p.Asp57Glu									6.841517612802942e-07
+90	PF01562	Phe	Leu	618.0	127.0	True	gnomAD	ADAM10	['NM_001320570', 'NM_001110']		ENST00000260408	O14672	ADA10_HUMAN	p.Phe127Leu									1.5906647069e-06
+91	PF01562	Phe	Leu	618.0	127.0	True	gnomAD	ADAM10	['NM_001320570', 'NM_001110']		ENST00000260408	O14672	ADA10_HUMAN	p.Phe127Leu									1.2003360941e-06

@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+6	PF10515	Gln	His	40.0	754.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']		ENST00000346798	P05067	A4_HUMAN	p.Gln754His	Benign/Likely benign								6.841218065194071e-07
+7	PF10515	Gln	His	40.0	754.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']	rs767682190	ENST00000346798	P05067	A4_HUMAN	p.Gln754His	Likely benign								6.841218065194071e-07
+16	PF10515	Ile	Val	1.0	716.0	True	ClinVar	APP	NM_000484	rs63750399			A4_HUMAN	p.Ile716Val	Pathogenic(Last reviewed: Feb 1, 2020)	not provided	criteria provided, single submitter	VCV000018096	18096.0	33135.0	NC_000021.9:25891786:T:C		
+17	PF10515	Ile	Val	1.0	716.0	True	ClinVar	APP	NM_000484				A4_HUMAN	p.Ile716Val	Pathogenic(Last reviewed: Jul 13, 2021)	Alzheimer disease	criteria provided, single submitter	VCV001457308	1457308.0	1478043.0	NC_000021.9:25891786:TC:CA		

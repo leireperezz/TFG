@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF14915	Ile	M	188.0	960.0	True	gnomAD	ANKRD26	['NM_014915']	rs1480873954	ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Ile960Met								1.31418133074e-05	6.842275959937106e-07	MV	True
+PF14915	Ile	V	188.0	960.0	True	gnomAD	ANKRD26	['NM_014915']	rs767581583	ENST00000376087	Q9UPS8	ANR26_HUMAN	p.Ile960Val								1.9716088328e-05	8.2107086799e-06	MV	True

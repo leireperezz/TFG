@@ -1,0 +1,5 @@
+OGG1_HUMAN/143-285             -----------SFICSSNNNIARITGMVERLCQAFGprliqlddvtyhgFPSLQALAGPEvEAHLRKL----GLG-YRARYVSASARAILeeqgglawlqqlressyeeahkalcilpgvgtkvadciclmalDKPQ-AVPVDVHMWHIAQRDYSWHP-----------------tt
+NTH_HUMAN/127-191              -----------SLMLSSQTKDQVTAGAMQRLRAR---------------GLTVDSILQTD-DATLGKLIYPVGFWRSKVKYIKQTSAILQ-------------------------------------------------------------------------------------qh
+NTH_HUMAN/216-263              lamavawgtv-------------------------------------------------------------------------------------------------------------------------------SGIAVDTHVHRIANRLRWTKKAtKSPEETRAALEEWLP--
+MUTYH_HUMAN/129-193            ----------VSEVMLQQTQVATVINYYTGWMQKW---------------PTLQDLASAS-LEEVNQLWAGLGYY-SRGRRLQEGARKVV-------------------------------------------------------------------------------------ee
+MUTYH_HUMAN/224-263            -------afg------------------------------------------------------------------------------------------------------------------------------QATGVVDGNVARVLCRVRAIGAD-PSSTLVSQQLWG---la

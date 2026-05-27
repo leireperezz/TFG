@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+159	PF12925	Met	Ile	136.0	493.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']		ENST00000346798	P05067	A4_HUMAN	p.Met493Ile									1.5904319613e-06
+160	PF12925	Met	Ile	136.0	493.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']		ENST00000346798	P05067	A4_HUMAN	p.Met493Ile									1.5904319613e-06
+163	PF12925	Met	Leu	160.0	517.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']	rs1257288749	ENST00000346798	P05067	A4_HUMAN	p.Met517Leu									4.1043096619e-06
+164	PF12925	Met	Leu	160.0	517.0	True	gnomAD	APP	['NM_001385253', 'NM_000484']	rs1257288749	ENST00000346798	P05067	A4_HUMAN	p.Met517Leu								1.31283559359e-05	4.1043096619e-06

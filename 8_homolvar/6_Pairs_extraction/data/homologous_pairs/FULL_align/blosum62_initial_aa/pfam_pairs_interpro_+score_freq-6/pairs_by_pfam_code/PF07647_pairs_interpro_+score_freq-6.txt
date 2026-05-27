@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_initial_aa	pertain_to_pair
+PF07647	A	Gly	260.0	125.0	True	gnomAD	SAMD12	['NM_001363274', 'NM_207506']	rs147477929	ENST00000314727	Q8N8I0	SAM12_HUMAN	p.Ala125Gly								0.0012214502423199	0.0021107208197122	AS	True
+PF07647	S	Gly	260.0	92.0	True	gnomAD	SAMHD1	['NM_015474']	rs761667582	ENST00000646673	Q9Y3Z3	SAMH1_HUMAN	p.Ser92Gly								6.5694389699e-06	1.11595399718e-05	AS	True
+PF07647	F	Leu	122.0	565.0	True	ClinVar	TP63	NM_003722				P63_HUMAN	p.Phe565Leu	Pathogenic(Last reviewed: Oct 14, 2021)	TP63-Related Spectrum Disorders	criteria provided, single submitter	VCV001451179	1451179.0	1429434.0	NC_000003.12:189890830:C:A			F	True
+PF07647	F	Leu	122.0	565.0	True	ClinVar	TP63	NM_003722				P63_HUMAN	p.Phe565Leu	Likely pathogenic(Last reviewed: Aug 28, 2021)	TP63-Related Spectrum Disorders	criteria provided, single submitter	VCV001475057	1475057.0	1403967.0	NC_000003.12:189890830:C:G			F	True

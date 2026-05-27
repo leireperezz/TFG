@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+19	PF10600	Asp	Glu	72.0	269.0	True	gnomAD	DLG4	['NM_001321075']		ENST00000399506	P78352	DLG4_HUMAN	p.Asp269Glu									1.3706534864e-06
+20	PF10600	Asp	Glu	72.0	269.0	True	gnomAD	DLG4	['NM_001321075']		ENST00000399506	P78352	DLG4_HUMAN	p.Asp269Glu									1.3706534864e-06
+28	PF10600	Gly	Arg	153.0	303.0	True	gnomAD	DLG4	['NM_001321075']	rs201452879	ENST00000399506	P78352	DLG4_HUMAN	p.Gly303Arg								6.5678856662e-06	1.3684570646e-06
+29	PF10600	Gly	Arg	153.0	303.0	True	gnomAD	DLG4	['NM_001321075']	rs201452879	ENST00000399506	P78352	DLG4_HUMAN	p.Gly303Arg									6.842285323297981e-07

@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF13306	Glu	Q	88.0	211.0	True	gnomAD	LHCGR	['NM_000233']	rs934744634	ENST00000294954	P22888	LSHR_HUMAN	p.Glu211Gln								1.31409498278e-05	5.4726824216e-06	QK	True
+PF13306	Glu	K	88.0	211.0	True	gnomAD	LHCGR	['NM_000233']	rs934744634	ENST00000294954	P22888	LSHR_HUMAN	p.Glu211Lys								1.31409498278e-05		QK	True
+PF13306	Tyr	N	89.0	113.0	True	gnomAD	LHCGR	['NM_000233']	rs140691492	ENST00000294954	P22888	LSHR_HUMAN	p.Tyr113Asn								0.001689055968874	0.0018383132962203	NH	True
+PF13306	Tyr	H	89.0	113.0	True	gnomAD	LHCGR	['NM_000233']	rs140691492	ENST00000294954	P22888	LSHR_HUMAN	p.Tyr113His								2.6288808854e-05	2.19005278027e-05	NH	True

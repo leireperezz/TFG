@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+6	PF01545	Ala	Thr	118.0	185.0	True	gnomAD	SLC30A2	['NM_001004434']	rs767551005	ENST00000374276	Q9BRI3	ZNT2_HUMAN	p.Ala185Thr								1.31437133618e-05	7.5255046192e-06
+7	PF01545	Ala	Thr	118.0	185.0	True	gnomAD	SLC30A8	['NM_173851']	rs767594541	ENST00000456015	Q8IWU4	ZNT8_HUMAN	p.Ala185Thr								1.31461324078e-05	1.09454397193e-05
+75	PF01545	Val	Ile	240.0	217.0	True	gnomAD	SLC30A2	['NM_001004434']	rs373747848	ENST00000374276	Q9BRI3	ZNT2_HUMAN	p.Val217Ile								1.31395684965e-05	1.64174632556e-05
+76	PF01545	Val	Ile	240.0	214.0	True	gnomAD	SLC30A8	['NM_173851']	rs115816825	ENST00000456015	Q8IWU4	ZNT8_HUMAN	p.Val214Ile								0.00010509859562	1.57350383729e-05

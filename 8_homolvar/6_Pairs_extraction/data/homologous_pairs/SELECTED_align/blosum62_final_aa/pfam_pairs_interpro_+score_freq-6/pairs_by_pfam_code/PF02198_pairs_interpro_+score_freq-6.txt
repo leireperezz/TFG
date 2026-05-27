@@ -1,0 +1,5 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF02198	Asp	N	53.0	155.0	True	gnomAD	FLI1	['NM_002017']	rs566872436	ENST00000527786	Q01543	FLI1_HUMAN	p.Asp155Asn								7.23779444663e-05	9.03093917662e-05	NH	True
+PF02198	Asp	H	53.0	155.0	True	gnomAD	FLI1	['NM_002017']		ENST00000527786	Q01543	FLI1_HUMAN	p.Asp155His									1.36832411767e-05	NH	True
+PF02198	Gln	H	36.0	68.0	True	gnomAD	ETV6	['NM_001987']	rs202004830	ENST00000396373	P41212	ETV6_HUMAN	p.Gln68His								1.96873646493e-05	7.5246088913e-06	H	True
+PF02198	Gln	H	36.0	68.0	True	gnomAD	ETV6	['NM_001987']	rs202004830	ENST00000396373	P41212	ETV6_HUMAN	p.Gln68His								1.31350811748e-05	1.3681107075e-06	H	True

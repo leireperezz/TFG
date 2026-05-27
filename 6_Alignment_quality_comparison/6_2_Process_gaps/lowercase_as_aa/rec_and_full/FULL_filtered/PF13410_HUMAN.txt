@@ -1,0 +1,6 @@
+GD1L1_HUMAN/179-304                    ------aeirrhlanattdlmkldheeepqlsepylskqkklmakilehddvsylkk-----ILGELAMVLDQIEAELE------------------KRKlenegqkceLWLCGCAFTLADVLLGATLHRLKFL---GLSK--kYWE--DGSrPNLQSFFER--
+CLIC1_HUMAN/123-211                    --------------------------------------------------------pALNDNLEKGLLKALKVLDNYLTsplpeevdetsaedegvsQ-R---------KFLDGNELTLADCNLLPKLHIVQVVckkYRGF---TIP--EAF-RGVHRYL--s-
+GDAP1_HUMAN/158-282                    --------trirsqignteselkklaeenpdlqeayiakqkrlksklldhdnvkylk----KILDELEKVLDQVETELQrrnee--------tpeegQQ----------PWLCGESFTLADVSLAVTLHRLKFL---GFAR---RNWgnGKR-PNLETYYER--
+CLIC5_HUMAN/275-379                    --------------------------------------idifskfsayikntkqqnn---AALERGLTKALKKLDDYLNtplpeeid-antcgedkgSRR---------KFLDGDELTLADCNLLPKLHVVKIVakkYRNY---DIP--AEM-TGLWRYLK-n-
+CLIC3_HUMAN/101-208                    ---------------------------------sntagndvfhkfsafiknpvpaqd---EALYQQLLRALARLDSYLRaplehel---agepqlreSRR---------RFLDGDRLTLADCSLLPKLHIVDTV---CAHFrqaPIP--AEL-RGVRRYLD-s-
+CLIC2_HUMAN/74-218                     vynkelktdfikieefleqtlappryphlspkykesfdvgcnlfakfsayikntqke-ANKNFEKSLLKEFKRLDDYLNtplldeid-pdsaeeppvSRR---------LFLDGDQLTLADCSLLPKLNIIKVAakkYRDF---DIP--AEF-SGVWRYL--hn

@@ -1,0 +1,7 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+43	PF15336	Asn	Lys	562.0	788.0	True	gnomAD	AUTS2	['NM_015570']	rs760502563	ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Asn788Lys								6.5698705735e-06	3.1807526296e-06
+44	PF15336	Asn	Lys	562.0	788.0	True	gnomAD	AUTS2	['NM_015570']	rs760502563	ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Asn788Lys								6.5698705735e-06	
+71	PF15336	Glu	Asp	650.0	816.0	True	gnomAD	AUTS2	['NM_015570']		ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Glu816Asp									4.7887740191e-06
+72	PF15336	Glu	Asp	650.0	816.0	True	gnomAD	AUTS2	['NM_015570']		ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Glu816Asp									1.3682211483e-06
+129	PF15336	Met	Ile	517.0	774.0	True	gnomAD	AUTS2	['NM_015570']	rs537105723	ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Met774Ile								6.5669367866e-06	
+130	PF15336	Met	Ile	517.0	774.0	True	gnomAD	AUTS2	['NM_015570']	rs537105723	ENST00000342771	Q8WXX7	AUTS2_HUMAN	p.Met774Ile									2.0521407932e-06

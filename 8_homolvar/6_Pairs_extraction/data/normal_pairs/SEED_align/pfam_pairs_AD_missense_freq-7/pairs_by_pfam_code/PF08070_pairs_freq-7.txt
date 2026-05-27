@@ -1,0 +1,5 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+17	PF08070	Asp	Glu	73.0	1580.0	True	gnomAD	TOP2B	['NM_001330700']		ENST00000264331	Q02880	TOP2B_HUMAN	p.Asp1580Glu	Likely benign								1.381461614e-06
+18	PF08070	Asp	Glu	73.0	1580.0	True	gnomAD	TOP2B	['NM_001330700']	rs576675356	ENST00000264331	Q02880	TOP2B_HUMAN	p.Asp1580Glu	Benign								3.453654035e-06
+37	PF08070	Lys	Asn	7.0	1514.0	True	gnomAD	TOP2B	['NM_001330700']		ENST00000264331	Q02880	TOP2B_HUMAN	p.Lys1514Asn									1.5913886775e-06
+38	PF08070	Lys	Asn	7.0	1514.0	True	gnomAD	TOP2B	['NM_001330700']	rs757745774	ENST00000264331	Q02880	TOP2B_HUMAN	p.Lys1514Asn									3.1827773551e-06

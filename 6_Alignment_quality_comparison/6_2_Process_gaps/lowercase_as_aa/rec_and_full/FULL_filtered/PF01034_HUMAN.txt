@@ -1,0 +1,7 @@
+SDC4_HUMAN/139-196                     --------NIFERTEVLAALIVGGIVGILFAVFLILLLMYRMKKKDEGSYDLGKKPI-------YKKAPTN--EF------------------------------
+NRX3B_HUMAN/555-633                    iressstt----------GMVVGIVAAAALCILILLYAMYKYRNRDEGSYQVDETRNyiS---------------nsaqsngtlmkekqqssksghkkqknkdr-
+NRX1B_HUMAN/389-468                    iressstt----------GMVVGIVAAAALCILILLYAMYKYRNRDEGSYHVDESRNyiS---------------nsaqsngavvkekqpssakssnknkknkdk
+NRX3A_HUMAN/1561-1627                  iressstt----------GMVVGIVAAAALCILILLYAMYKYRNRDEGSYQVDETRNyiS---------------nsaqsngtlmkekqqss-------------
+SDC3_HUMAN/378-440                     --------SILERKEVLVAVIVGGVVGALFAAFLVTLLIYRMKKKDEGSYTLEEPKQ--ASVT-Y-QKPDKqEEF------------------------------
+SDC1_HUMAN/245-308                     -------g-LLDRKEVLGGVIAGGLVGLIFAVCLVGFMLYRMKKKDEGSYSLEEPKQ--ANGGaY-QKPTKqEEF------------------------------
+SDC2_HUMAN/138-200                     --------SLFKRTEVLAAVIAGGVIGFLFAIFLILLLVYRMRKKDEGSYDLGERKP--SSAA-YQKAPTK--EFy-----------------------------

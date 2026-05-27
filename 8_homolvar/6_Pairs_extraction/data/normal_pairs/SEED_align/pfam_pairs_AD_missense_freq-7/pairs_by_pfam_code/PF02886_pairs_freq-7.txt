@@ -1,0 +1,3 @@
+index	Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af
+186	PF02886	Ser	Arg	240.0	456.0	True	gnomAD	CETP	['NM_000078']		ENST00000200676	P11597	CETP_HUMAN	p.Ser456Arg									3.4202440138e-06
+187	PF02886	Ser	Arg	240.0	456.0	True	gnomAD	CETP	['NM_000078']	rs145328828	ENST00000200676	P11597	CETP_HUMAN	p.Ser456Arg								6.5634886254e-06	6.840469310918484e-07

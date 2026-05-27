@@ -1,0 +1,3 @@
+Pfam_found	initial_aa	final_aa	Pos_align	position	Initial_aa_coincidence	database	gene	NM	rsid	enst	Uniprot_entry	Uniprot_entry_name	prot_change	clinical_significance	Condition(s)	Review status	Accession	VariationID	AlleleID(s)	Canonical SPDI	genome_af	exome_af	Equivalent_final_aa	pertain_to_pair
+PF03764	Pro	A	240.0	659.0	True	gnomAD	EEF2	['NM_001961']	rs979345487	ENST00000309311	P13639	EF2_HUMAN	p.Pro659Ala								6.5708203012e-06	1.08028951759e-05	AS	True
+PF03764	Pro	S	240.0	742.0	True	gnomAD	EFTUD2	['NM_004247']	rs369821280	ENST00000426333	Q15029	U5S1_HUMAN	p.Pro742Ser									1.09449006339e-05	AS	True

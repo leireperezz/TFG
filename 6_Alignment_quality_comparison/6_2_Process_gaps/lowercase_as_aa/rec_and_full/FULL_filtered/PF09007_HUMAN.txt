@@ -1,0 +1,3 @@
+NHRF2_HUMAN/260337                    tspaqlngg---------------------------------------------------------SACSSRSDLPGSDKDTEDG-SAWKQDPFQESGLHLSPTAAEAKEKARAMRVNKRAPQMDWNRKREIFSNF-----------
+NHRF1_HUMAN/235358                    ---------TDEFFKKCRVIPSQEHLNGPLPVPFTNGE-IQKENSREALAEAALESPRPALVRSASSDTSEELNSQDSPPKQDSTAPSST--SSSDPILDFNISLAMAKERAHQKRSSKRAPQMDWSKKNELFSNL-----------
+NHRF2_HUMAN/232284                    ---------TDEHFKRLRVTPTEEHVEGPLPSPVTNGTSPAQLNGGSACSS-------------------------------------------------------------------------------------rsdlpgsdkdt
