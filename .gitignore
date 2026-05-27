@@ -8,10 +8,11 @@ gnomad_r4_GRCh38_AD_missense_genes_freq-*_joined/
 gnomad_r4_GRCh38_AD_missense_genes_joined/
 
 # HomolVar large data files
-8_homolvar/3_Data_filtering/data/
-8_homolvar/3_Split_entries_by_align/data/
+8_homolvar/1_Data_collection/data
+8_homolvar/3_Data_filtering/data
 8_homolvar/4_Align_pos/data/
-8_homolvar/4_Generate_alignments/4_1_Alignment_server/A_Run_hmmpress/data/
+8_homolvar/5_Split_entries_by_align/data
+8_homolvar/6_Pairs_extraction/data
 
 # Python cache
 __pycache__/
