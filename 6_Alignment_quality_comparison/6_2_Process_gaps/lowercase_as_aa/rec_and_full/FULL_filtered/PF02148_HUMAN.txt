@@ -1,0 +1,13 @@
+HDAC6_HUMAN/1133-1195                  --CGDCG------------TI--QE-----------NWVCLS--CYQVYCGRYI------N-GHMLQHHGNSG----------------HPLVLSYIDLS-----AWCYYCQAYVHHQ-al--
+UBP33_HUMAN/61-126                     --CQDCK------------VQ-GPN-----------LWACLEnrCSYVGCGESQ------V-DHSTIHSQETK----------------HYLTVNLTTLR-----VWCYACSKEVF---ldrk
+UBP51_HUMAN/236-297                    --CHVCS------------TH-MNR-----------LHSCLS--CVFFGCFT--------E-KHIHKHAETKQ----------------HHLAVDLYHGV-----IYCFMCKDYVYDKDi---
+UBP22_HUMAN/63-124                     --CHVCG------------VH-LNR-----------LHSCLY--CVFFGCFT--------K-KHIHEHAKAKR----------------HNLAIDLMYGG-----IYCFLCQDYIYDKDm---
+BRAP_HUMAN/317-379                     --CFECG------------VQ--EN-----------LWICLI--CGHIGCGRYV------S-RHAYKHFEETQ----------------HTYAMQLTNHR-----VWDYAGDNYVHR--lva-
+UBP49_HUMAN/25-88                      -cCLECA------------TT--ES-----------VWACLK--CSHVACGRYI------E-DHALKHFEETG----------------HPLAMEVRDLY-----VFCYLCKDYVLNDNp---
+UBP45_HUMAN/60-139                     svCSECL------------KE--RRfydgqlvltsdIWLCLK--CGFQGCGKNS------EsQHSLKHFKSSRt-------------epHCIIINLSTWI-----IWCYECDEKLSTH-cn--
+UBP5_HUMAN/199-272                     --CSKCD------------MR--EN-----------LWLNLT--DGSILCGRRYfdgsggN-NHAVEHYRETG----------------YPLAVKLGTITpdgadVYSYDEDDMVLDPSl---
+UBP44_HUMAN/29-91                      --CVDCN------------TT--ES-----------IWACLS--CSHVACGRYI------E-EHALKHFQESS----------------HPVALEVNEMY-----VFCYLCDDYVLNDNt---
+UBP3_HUMAN/29-107                      --CSVCR------------SN--KS-----------PWVCLT--CSSVHCGRYV------N-GHAKKHYEDAQvpltnhkksekqdkvqHTVCMDCSSYS-----TYCYRCDDFVVNDTk---
+UBP13_HUMAN/211-284                    --CARCD------------LR--EN-----------LWLNLT--DGSVLCGKWFfdssggN-GHALEHYRDMG----------------YPLAVKLGTITpdgadVYSFQEEEPVLDPHl---
+UBP16_HUMAN/48-128                     --CQDCKtdnkvkdkaeeeTEeKPS-----------VWLCLK--CGHQGCGRNS------QeQHALKHYLTPRs-------------epHCLVLSLDNWS-----VWCYVCDNEVQY--css-
+UBP20_HUMAN/30-95                      --CQSCG------------VT-GPN-----------LWACLQvaCPYVGCGESF------A-DHSTIHAQAKK----------------HNLTVNLTTFR-----LWCYACEKEVF---leqr

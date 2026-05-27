@@ -1,0 +1,3 @@
+AIFM3_HUMAN/68-155                     --veaAVCHVKDLENGQMREVELGWGKVLLVKD---------------------------NGEFH--------------------------ALGHKCPHYGAPLVKGVL-SRGRVRCPWHGACFNiSTGDLEDFPGLDSLHKFq----
+UCRIL_HUMAN/161-273                    ieikl-----SDIPEGKNMAFKWRGKPLFVRHRT--------------------------QKEIKqeaavelsqlrdpqhdldrvkkpewvILIGVCTHLGCVPIANAGD-FGGYYCPCHGSHYD-ASGRIRLGPATLNLE--vptye
+UCRI_HUMAN/153-264                     -eikl-----SDIPEGKNMAFKWRGKPLFVRHRTqkeieqeaavelsqlrdpqhdldrvkKPEWV--------------------------ILIGVCTHLGCVPIANAGD-FGGYYCPCHGSHYD-ASGRIRLGPAPLNLEV-ptye-

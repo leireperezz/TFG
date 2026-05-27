@@ -1,0 +1,5 @@
+SELV_HUMAN/264-338                   -l-IRVTYCGLUSYSLR-YILLKKSLEQQFPNHLlFEEDR--------------------------------------------------------------------AA--QATGEFEVFVN-----GRLVHSKKRGD-----GFVNESRLQKIV-sv------
+MIEN1_HUMAN/24-95                    --RIVVEYCEPCGFEAT-YLELASAVKEQYPG---IEIES--------------------------------------------------------------------RL--GGTGAFEIEIN-----GQLVFSKLENG-----GFPYEKDLIEAIRr-------
+SELH_HUMAN/35-119                    --TVVIEHCTSURVYGRnAAALSQALRLEAPE---LPVKV--------------------------------------------------------------------NPtkPRRGSFEVTLLrpdgsSAELWTGIKKGpprklKFPEPQEVVEELKk-------
+SELW_HUMAN/4-78                      -a-VRVVYCGAUGYKSK-YLQLKKKLEDEFPGRLdICGEG--------------------------------------------------------------------TP--QATGFFEVMVA-----GKLIHSKKKGD-----GYVDTE-------skflklva
+SELT_HUMAN/40-179                    ll--KFQICVSUGYRRV-FEEYMRVISQRYPD---IRIEGenylpqpiyrhiasflsvfklvligliivgkdpfaffgmqapsiwqwgqenkvyacmmvfflsnmienQC--MSTGAFEITLN-----DVPVWSKLESG-----HLPSMQQLVQILDn-------

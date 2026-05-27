@@ -1,0 +1,4 @@
+NOB1_HUMAN/152-212                   -l-EFSSFMFWRNPLPNIDH-ELQELLIDRG----E-------DVpSEEEEEEENGFEDRKDD-SDDDG-GGWITPS----------------------------
+CI040_HUMAN/148-194                  -w-QYNTFQYWRNPLPPIDLaDIEDLSE-DT---lTEATLQG-----------------------------------rnegaevdmes-----------------
+PP4R1_HUMAN/451-519                  el--YNSFHFWRTPLPEIDL-DIE-LEQ----------NSGGKPSpEGPEEESEG----------------------pvpsspnitmatrkeleemienlephid
+AF1Q_HUMAN/7-79                      --SQYSSFLFWRMPIPELDLsELEGLGLSDTatykVKDSSVG-KMiGQATAADQEKNPEGDG-LLEYSTFNFWRAPI----------------------------

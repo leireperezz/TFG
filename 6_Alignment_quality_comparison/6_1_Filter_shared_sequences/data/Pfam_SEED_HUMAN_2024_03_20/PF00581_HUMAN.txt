@@ -1,0 +1,2 @@
+DUS2_HUMAN/14-138                   LGTLLRDPR.EAERTL......LLDCR......PFLA................F..............CR.R..............H.V..RAARPV............PWNALLRRRARGPPAAVLACLLPDRAL........RTRLVRGE.....LARAVVLDEGSASVAELRPDSPAHVLLA...................ALLHETR........AG........PTAVYFLRGGFDGFQGC
+Q13649_HUMAN/50-170                 SHGTLGLPS.GGKC.......LLLDCR......PFLA................H..............SA.G..............Y.I..LGSVNVRC..........NTIVRRRAKGSVSLEQILPAEEEVRAR...........LRSGL.....YSAVIVYDERSPR..AES..LR...EDS............TVSLVVQAL....RRN......AE.....R..TD.ICLLKGGYERFSSE

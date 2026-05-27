@@ -1,0 +1,5 @@
+MVD1_HUMAN/111-166                   HVAS.VNNF....PT.AA.....GLASSAAGYACLAYT....L..AR..VY.........................................................GVESD..LS..EVAR....RGSGSA.CRSLYGG
+GALK1_HUMAN/126-194                  SAVV.VSSV....PL.GG.....GLSSSASLEVATYTF....L..QQ..LC.....P............DS......G.......TIAA.............RAQV..CQQAE.HSF..AGMP....CGIMDQ.FISLMGQ
+GALK2_HUMAN/131-198                  NCLV.DGNI....PP.SS.....GLSSSSALVCCAGLV....T..LT..VLG...RN............LS.....KV........EL...............AEI..CAKSE.RYI..G.TE....GGGMDQ.SISFLAE
+FCSK_HUMAN/827-894                   ELHT.WSEL....PH.GS.....GLGTSSILAGTALAA....L..QR..AA..................GR.....VVG.....TEAL...............IHA..VLHLE.QVL...TTG....GGWQDQ.VGGLMPG
+KIME_HUMAN/130-212                   DIVV.WSEL....PP.GA.....GLGSSAAYSVCLAAA....L..LT..VC.....EEIPNPLKDGDCVNR......W.......TKEDL..........ELINKW..AFQGE.RMI..H.GN....PSGVDN.AVSTWGG

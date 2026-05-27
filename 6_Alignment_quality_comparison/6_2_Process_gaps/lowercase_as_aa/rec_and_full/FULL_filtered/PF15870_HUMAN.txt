@@ -1,0 +1,3 @@
+GOR_HUMAN/356-403                      ssmpg----------------------------------------------------------------------------------------------------------------------LSRAALYSRLQEFLLTQDQLKENGYPFPHPERPGGAVLFTG--qg----
+REXO1_HUMAN/802-962                    -----KPIIPKEFGGKVPTVIRQRYLNLFIEECLKFCTSNQEAIEKALNEEKVAYDRSPSKNIYLNVAVNTLKKLRGLAPSAVPGLSKTSGRRVVSHEVVLGGRLAAKTSFSLSRPSSPRVEDLKGAALYSRLREYLLTQDQLKENGYPFPHPERPGGAIIFTAEE------
+GOR_HUMAN/281-363                      -----KPIILRSSGCQVPTVLRRGYLQLFTEECLKFCASKQEAEEKALNEEKVAYDCSPNKNRYLNVVLNTLKRLKGLTPSS------------------------------------------------------------------------------------mpglsr

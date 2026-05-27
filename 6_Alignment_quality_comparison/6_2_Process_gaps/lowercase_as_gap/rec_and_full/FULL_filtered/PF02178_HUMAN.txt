@@ -1,0 +1,3 @@
+HMGA2_HUMAN/2638                      KRGRGRPRKQQ--
+HMGA2_HUMAN/7486                      KRPRGRPRKWPQ-
+HMGA2_HUMAN/4658                      KRPRGRPKGSKNK

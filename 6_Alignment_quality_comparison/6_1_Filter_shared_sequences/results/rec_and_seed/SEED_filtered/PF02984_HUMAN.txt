@@ -1,0 +1,2 @@
+CCNE1_HUMAN/244-366                  LTIVSW....LNV.........Y..MQV......................AYLN.....DLH..E...VLLPQYPQQIFIQIAELLDLCV.LDVD..CLE.FPYGILAASA..LYHFSSS.......................................ELMQKVS.GY...QWCDIENCVKWMVPFAM....VIR...ET.GSSK...LKHFRGVA.....DED..AHN.IQTHRDS
+CCNB3_HUMAN/1259-1375                PIAYHF....LRR.........Y..ARC...................IH.T..N....MKTL.T......LSRY..........ICEMTL.QEYH..YVQ.EKASKLAAAS..LLLALYM......K.......KLGY..............WV.....PFLEHYS.GY...SISELHPLVRQLNKLL......TF...SS.YDSL...KAVYYKYS.....HPV..FFE.VAKIPAL

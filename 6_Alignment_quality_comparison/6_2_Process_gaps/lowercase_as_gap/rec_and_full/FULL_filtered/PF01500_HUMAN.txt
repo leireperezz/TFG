@@ -1,0 +1,15 @@
+KRA13_HUMAN/1-49                     MTCCQTSFCGYPSCSTSGTCGSSCCQPSCCETSCCQPSCCETSCCQPSC-------------------------------------------------------------------------------------------------------------------
+KRA13_HUMAN/68-177                   ----------------------------------------------------SCCQPS---CCETSCCQPSCCQTSSCGTGCGIGGGIGYGQEGSSGAVSTRIRWCRPDCRVEGTCLPPCCVVSCTPPTCCQLHHAEASCCRPSYCGQSCCRPVCCCYSCEPTC
+KRA15_HUMAN/38-83                    --SCQTSFCGFPSFSTSGTCSSSCCQPSCCETSCCQPSCCETSCCQP---------------------------------------------------------------------------------------------------------------------
+KRA11_HUMAN/1-49                     MACCQTSFCGFPSCSTSGTCGSSCCQPSCCETSSCQPRCCETSCCQPSC-------------------------------------------------------------------------------------------------------------------
+KRA24_HUMAN/1-73                     ------SCCG-STLSSLS-YGGGCCQPCCCRPCCCRPVTCQTTVCRPVTCVPRCTRPICEP-----CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA14_HUMAN/18-121                   -------------------------------------------------------------CCETSCCQPSCCQTSSCGTGCGIGGGIGYGQEGSGGSVSTRIRWCHPDCHVEGTCLPPCYLVSCTPPSCCQLHHAEASCCRPSYCGQSCCRPACCCHCCEPTC
+KRA22_HUMAN/1-73                     -SCCG------STFSSLS-YGGGCCQPCCCRPCCCRPVTCQTTVCRPVTCVPRCTRPICEP-----CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA15_HUMAN/1-42                     MTCCQTSFCGYPSFSISGTCGSSCCQPSCCETSCCQPRSCQT--------------------------------------------------------------------------------------------------------------------------
+KRA11_HUMAN/68-177                   ----------------------------------------------------SCCQPS---CCETSCCQPSCYQTSSCGTGCGIGGGIGYGQEGSSGAVSTRIRWCRPDCRVEGTCLPPCCVVSCTPPSCCQLHHAEASCCRPSYCGQSCCRPVCCCYCSEPTC
+KRA11_HUMAN/47-88                    -SCCQTSFCGFPSFSTGGTCDSSCCQPSCCETSCCQPSCYQT--------------------------------------------------------------------------------------------------------------------------
+KRA15_HUMAN/73-174                   ------------------------------------------------------------PCCETSCCQPSCCQISSCGTGCGIGGGISYGQEGSSGAVSTRIRWCRPDSRVEGTYLPPCCVVSCTPPSCCQLHHAQASCCRPSYCGQSCCRPVCC---CEPTC
+KRA13_HUMAN/48-87                    -SCCQTSFCGFPSFSTSGTCSSSCCQPSCCETSCCQPSCCQ---------------------------------------------------------------------------------------------------------------------------
+KRA23_HUMAN/1-73                     ------SCCG-STLSSLS-YGGGCCQPCCCRPCCCRPVTCQTTVCRPVTCVPRCTRPICEP-----CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA49_HUMAN/1-140                    -------SCCGSVCSDQG-CGQDLCQETCCRPSCCETTCCRTTCCRPSCCVSSCCRPQ---CCQSVCCQPTCSRPSCCQTTC--CRTTCY---RPSCCVSS---CCRPQCCQPACCQPTCCRPSCCETTCCHPRCCISSCCRPSCCVSSCCKPQCC--------
+KRA21_HUMAN/1-73                     -SCCG------STFSSLS-YGGGCCQPCCCRPCCCRPVTCQTTVCRPVTCVPRCTRPICEP-----CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------

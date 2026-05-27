@@ -1,0 +1,3 @@
+STAC2_HUMAN/167-295                    -TSFRRNFSSPLLVHEPPPVCatsKESPPTGDSGKVDPVYETLRYGTSLALMN-RSSFSSTSESPTRSLSERDELTEDGEGSIRSSEEGPGDSASPvFTAPAESEGPGPEEKSPGQQLPKATLRKDVGPMY------------------------------------------------------
+STAC3_HUMAN/146-254                    p-GFHRAYSSPLYSNQQYACV---KDLSA---ANRNDPVFETLRTGVIMANKE-RKKGQADKKNPVAAMMEEEPESARPEEGKPQDGNPEGDKKAE-KKTP------------------------------ddkhkqpgfqqshyfva-------------------------------------
+STAC_HUMAN/165-287                     -KGFRRYYSSPLLIHEQFGCI---KEVMPIACGNKVDPVYETLRFGTSLAQRTkKGSSGSGSDSPHRTSTSDL----------------------------------------------------------vevpeeangpgggydlrkrsnsvftypengtddfrdpakninhqgslskdplqm

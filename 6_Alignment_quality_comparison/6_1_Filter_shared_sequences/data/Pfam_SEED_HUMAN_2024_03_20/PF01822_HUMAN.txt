@@ -1,0 +1,3 @@
+WSCD1_HUMAN/248-330                  YRGC......FR................................LPENITHAFPS.SLIQANVT...VGTC.SGFCS....QK...E.FPLAILRGW....ECYCAYPTPRFN.LRDAMDS................SVC..GQD...PEAQRLAEY.CEV
+WSCD2_HUMAN/233-314                  FRGC......FR................................RPDNLSLALPV.TAAMLNMS...VDKC.VDFCT....EK...E.YPLAALA.GT...ACHCGFPTTRFP.LHDREDEQ...........LCA.QKCS.AEEF.ES.........CGT
+PKD1_HUMAN/180-261                   YVAC......LP....................DN..........SSGTVAAVSFS.AAHEGLLQ...PEAC.SAFCF....ST...G.QGLAALSEQG...WCLCGAAQPSSA.SFA.................CL.SLCS.GPPPPPA......PT.CRG

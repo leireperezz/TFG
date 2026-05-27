@@ -1,0 +1,4 @@
+CRIM1_HUMAN/539-564                    ......................C..RP..I...IC...DKY.........CP.L...G..L..LK..N.KH.GCD...I.CRC.
+CRIM1_HUMAN/469-498                    ......................C..GE..L..sNC...TLTg......kdCI.N...G..F..KR..D.HN.GCR...T.CQC.
+CRIM1_HUMAN/505-532                    ......................C..SErkQ...GC...TLN.........CP.F...G..F..LT..D.AQ.NCE...I.CEC.
+CRIM1_HUMAN/567-592                    ......................C..PE..L...SC...SKI.........CP.L...G..F..QQ..D.SH.GCL...I.CKC.

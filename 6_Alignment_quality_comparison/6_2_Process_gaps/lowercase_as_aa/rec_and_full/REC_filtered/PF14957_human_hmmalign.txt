@@ -1,0 +1,6 @@
+BORG1_HUMAN/103-143            --LLKNAISLPVI--GGPQALTLPTAQA-----------PPKPPR--lHLETPQPS------------------------------------------------------------------------------------------------------------------pq
+BORG1_HUMAN/165-201            pe----------------------------------------------------------------------------------------------------------------------------------SGAEEPFLSNASSLLSLH--VDLGPSILDDVLQIMDQ---
+BORG5_HUMAN/115-215            --IIKNAISLPQLnQAAYDSLVVGKLSF---------------------DSSPTSSTDGHSSY--G----LD-SGFCTISR--------L-PRSEKPHDRDRDGS--FP--------------------------SEPGLRRSDSLLSFRldLDLGPSLLSELLGVM---s-
+BORG3_HUMAN/77-109             pq--------------------------------------------------------------------------------------------------------------------------------------SAAPSPADPLLSFH--LDLGPSMLDAVLGVMD--a-
+BORG4_HUMAN/112-228            --FVKNAMSLPQLnEKEAAEKGTSKL-----------------------PKSLSSSPVKKANDGEGGDEEAGTEEAVPRRNGAAGPhSPDPLLDEQAFGDLTDLPVVPK--------------------------ATYGLKHAESIMSFH--IDLGPSMLGDVLSIMDKE--
+BORG2_HUMAN/102-253            --VLKNAISLPTI--GGSQALMLPLLSPvtfnskqesfgPAKLPRlscEPVMEEKAQEKSSLLENGTVHQGDTSWGSSGSA------------SQSSQGRDSHSSSLSEqypdwpaedmfdhptpcelikGKTKSEESLSDLTGSLLSLQ--LDLGPSLLDEVLNVMDKN--

@@ -1,0 +1,5 @@
+TITIN_HUMAN/696719                    --------------------------------------GKKAeAVATVVAAVDQARVREP--------------re
+TITIN_HUMAN/383454                    qeqvtisgaagaaasvsasasyaaeavatga-KEVKQDADKSaAVATVVAAVDMARVREPVISAVEQTAQRT--t-
+TITIN_HUMAN/464506                    -------------------------------QEQVRKEAEKT-AVTKVVVAADKAKEQELKSRTKEVITTKQEQm-
+TITIN_HUMAN/510550                    -------------------------------HEQIRKETEKT-FVPKVVISAAKAKEQET--RISEEITKKQKQv-
+TITIN_HUMAN/552594                    -------------------------------QEAIRQETEIT-AASMVVVATAKSTKLETVPGAQEETTTQQDQm-

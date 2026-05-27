@@ -1,0 +1,11 @@
+TGM5_HUMAN/274-361             ..................r--------------------------------...----------..--------Y....GQCWVFAAVMCTVMRCLGIPTRVITNFDSGHDTdgnliideyydntgrilgnkkkDTIWNFHVWNECWMarkdlppAYGGWQVLDA..
+TGM3L_HUMAN/270-357            ...................--------------------------------...----------..-------KY....GQCWVFAGVLCTVLRCLGIATRVVSNFNSAHDTdqnlsvdkyvdsfgrtledlteDSMWNFHVWNESWFarqdlgpSYNGWQVLDA..
+F13A_HUMAN/311-397             ..................r--------------------------------...----------..--------Y....GQCWVFAGVFNTFLRCLGIPARIVTNYFSAHDNdanlqmdifleedgnvnskltkDSVWNYHCWNEAWMtrpdlpvGFGGWQAVD-..
+EPB42_HUMAN/247-349            gsvpilrqwltgrgrpvyd--------------------------------...----------..---------....GQAWVLAAVACTVLRCLGIPARVVTTFASAQGTggrllideyyneeglqngegqrGRIWIFQTSTECWMtrpalpqGYDGWQ----il
+TGM2_HUMAN/273-359             ...................--------------------------------...----------..-------KY....GQCWVFAAVACTVLRCLGIPTRVVTNYNSAHDQnsnllieyfr.nefgeiqgdksEMIWNFHCWVESWMtrpdlqpGYEGWQALDP..
+TGM1_HUMAN/374-460             ..................y--------------------------------...----------..---------....GQCWVFAGVTTTVLRCLGLATRTVTNFNSAHDTdtsltmdiyfdenmkplehlnhDSVWNFHVWNDCWMkrpdlpsGFDGWQVVDA..
+TGM4_HUMAN/253-351             ..............lqqyy--------------------------------...----------..-----NTKQavcfGQCWVFAGILTTVLRALGIPARSVTGFDSAHDTernltvdtyvnengekitsmthDSVWNFHVWTDAWMkrpdlpkGYDGWQAVDA..
+TGM3_HUMAN/269-355             ..................r--------------------------------...----------..--------Y....GQCWVFAGTLNTALRSLGIPSRVITNFNSAHDTdrnlsvdvyy.dpmgnpldkgsDSVWNFHVWNEGWFvrsdlgpSYGGWQVLDA..
+NGLY1_HUMAN/274-354            ..................g-----------------AKEVEDHYCDACQFS...--NRFPRYNN..PEKLLETRC....GRCGEWANCFTLCCRAVGFEARYVWDYTD----......................------HVWTEVYS......pSQQRWLHCDA..
+TGM7_HUMAN/275-362             ...................--------------------------------...----------..-------KY....GQCWVFASVMCTVMRCLGVPTRVVSNFRSAHNVdrnltidtyydrnaemlstqkrDKIWNFHVWNECWMirkdlppGYNGWQVLDP..
+KY_HUMAN/171-282               ................lvs-----DLLQEAHTDLERVRAIWIWICHHIEYDiaaAQEKDRQ--AfkPTDILRTQK....TNCDGYAGLFERMCRLAGVQCMTVPGYSKGFGYqt.................gqsFSGEFDHAWNAVYL.......-EGRWHLVD-..

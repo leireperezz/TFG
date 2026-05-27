@@ -1,0 +1,2 @@
+PML_HUMAN/57-91                  CQQCQAEAKCPK................LLPCLHT.LCSGCLEASGM............Q..CPIC
+BRCA1_HUMAN/24-64                CPICLELIKEPV................STKCDHI.FCKFCMLKLLNQ......KKGPSQ..CPLC

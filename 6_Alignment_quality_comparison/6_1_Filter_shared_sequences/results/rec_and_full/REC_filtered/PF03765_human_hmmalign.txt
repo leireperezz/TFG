@@ -1,0 +1,6 @@
+RLBP1_HUMAN/65-115             elqemvqaqaasgeelavava-------------------------ERvqEKDSGFFLRFIRARKFNVGRAYELL--r
+TTPA_HUMAN/48-72               ....................t---------------------------..---DSFLLRFLRARDFDLDLAWRLLKN.
+CLVS2_HUMAN/48-72              ....................r---------------------------..-TDDAFILRFLRARKFHHFEAFRLL--.
+CLVS1_HUMAN/71-94              ....................t---------------------------..--DDAFILRFLRARKFHQADAFRLL--.
+S14L1_HUMAN/274-296            ...................ip---------------------------..--KDEHILRFLRARDFNIDKAR-----e
+S14L5_HUMAN/248-286            ....................q----LRHWLQETHKG-----------K..IPKDEHILRFLRAHDFHLDKAREML--r

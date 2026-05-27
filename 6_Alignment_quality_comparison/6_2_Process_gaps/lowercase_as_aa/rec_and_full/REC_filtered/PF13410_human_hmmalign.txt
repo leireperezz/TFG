@@ -1,0 +1,6 @@
+CLIC1_HUMAN/126210            ------------------------ndnlEKGLLKALKVLDNYLTsplpeevdetsaedegvSQR---------kFLDGNELTLADCNLLPKLHIVQVVckkYRGF---TIP-EA-FRGVHRYL--
+CLIC2_HUMAN/169216            --------------------------sr-----------------------------------R---------lFLDGDQLTLADCSLLPKLNIIKVAakkYRDF---DIP-AE-FSGVWRYL--
+CLIC3_HUMAN/126207            --------------------------alYQQLLRALARLDSYLRaplehela-gepqlresR-R---------rFLDGDRLTLADCSLLPKLHIVDTV---CAHFrqaPIP-AE-LRGVRRYLD-
+GDAP1_HUMAN/208282            ---------------------------iLDELEKVLDQVETELQ-----------------RRNeetpeegqqpWLCGESFTLADVSLAVTLHRLKFL---GFAR--rNWGnGK-RPNLETYYER
+CLIC5_HUMAN/301378            tkalkklddylntplpeeidantcgedk-----------------------------------Gsr------rkFLDGDELTLADCNLLPKLHVVKIVakkY--Rn-yDIP-AE-MTGLWRYLK-
+GD1L1_HUMAN/230304            --------------------------il-GELAMVLDQIEAELE-----------------KRKlenegqkcelWLCGCAFTLADVLLGATLHRLKFL---GLSK--kYWE-DGsRPNLQSFFER

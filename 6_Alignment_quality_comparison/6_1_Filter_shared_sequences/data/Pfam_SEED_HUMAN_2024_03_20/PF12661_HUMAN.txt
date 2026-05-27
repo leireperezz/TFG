@@ -1,0 +1,12 @@
+DLL3_HUMAN/224-243                     CSPE.HG.FCE.QP..G.....ECRCLEGW
+SREC_HUMAN/165-185                     CNTA..AARCE.QATGA......CVCKPGW
+WIF1_HUMAN/314-332                     CGAH..G.TCH....EP....NKCQCQEGW
+WIF1_HUMAN/282-300                     CRNG..G.KCI....GK....SKCKCSKGY
+WIF1_HUMAN/186-204                     CRNG..G.FCN....ER....RICECPDGF
+SNED1_HUMAN/358-379                    CQHG..G.QCQ.VENGS....AVCVCQAGY
+DLL4_HUMAN/411-432                     CANG..G.QCL.NRGPS....RMCRCRPGF
+JAG2_HUMAN/507-528                     CHSG..G.LCE.DLADG....FHCHCPQGF
+CRUM2_HUMAN/291-312                    AFPG..A.FSF.RHAAG....FLCHCPPGF
+WIF1_HUMAN/250-268                     CFNG..G.TCF...YPG.....KCICPPGL
+WIF1_HUMAN/218-236                     CMNG..G.LCV....TP....GFCICPPGF
+EYS_HUMAN/1088-1109                    CMNE..G.FCQ.KSAHG....FTCICPRGY

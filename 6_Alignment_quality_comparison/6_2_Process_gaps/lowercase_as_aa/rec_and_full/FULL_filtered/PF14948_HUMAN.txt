@@ -1,0 +1,3 @@
+PTPRN_HUMAN/60160                     ----------------GQCQVGVGQARPLLQVTSPVLQRLQGVLRQLMSQGLSWHDDLTQYVISQEMERIPRLRPPEPRPRDRSGLAPKRPGPAGELLLQDiptgsAPAAQHRLPQp-----------------
+RES18_HUMAN/79166                     ----------------GQDQVGVGQLWPLQGFATPVFQHLQVVLQQIIPQGLFWKDDITQDAMIQKMEHASRLHPQEPCLKDGKALFPTKTTE-----------------------splakvnrdqc-------
+PTPR2_HUMAN/61139                     cqkvpamdfyryevsp------------------VALQRLRVALQKLSGTGFTWQDDYTQYVMDQELADLPKTYLRRPE-------------------------------------assparpskhsvgserry

@@ -1,0 +1,4 @@
+RSSA_HUMAN/19-111              -LAAGTHLGGT--NLDFQMEQYIYKRKSGIYIINLKRTWEKLLLAARAIVA-IENPADVSVISSRNTGQRAVLKFAAATGATPIAGRFTPGTFTN--------------------------------------------------------------------
+RSSA_HUMAN/113-181             ------------------------------------------------------------------------------------------------REPRLLVVTDPRADHQPLTEASYVNLPTIALCNTDSPLRYVDIAIPCNNKGAHSVGLMWWMLA----
+RT02_HUMAN/84-180              LFDARVHLGHKAGCRHRFMEPYIFGSRLDHDIIDLEQTATHLQLALNFTAHMAYRKGIILFISRNRQFSYLIENMARDCGEYAHTRYFRGGMLTNA-------------------------------------------------------------------
+RT02_HUMAN/188-259             -------------------------------------------------------------------------------------------------LPDLIIFLHTLNNHVAVRDAAKMNIPTVGIVDTNCNPCLITYPVPGNDDSPLAVHLYCRLFQTAIT

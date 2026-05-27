@@ -1,0 +1,3 @@
+PROC_HUMAN/140-175                     CSLD..N.G..G...C.T....H..Y..CL.EE.......VG...........W..RR.....C.SCA..PG.Y.K.LG........D.D..LLQ.C
+A6NNA4_HUMAN/219-254                   CNGV..D.H..G...C.E....F..Q..CV.SE.......GL...........S..YR.....C.LCP..EG.R.Q.LQ........A.D..GKS.C
+E9PHY1_HUMAN/299-336                   CEED..N.G..G...C.S....H..L..CL.LS.......PSE.........PF..YT.....C.ACP..TG.V.Q.LQ........D.N..GRT.C

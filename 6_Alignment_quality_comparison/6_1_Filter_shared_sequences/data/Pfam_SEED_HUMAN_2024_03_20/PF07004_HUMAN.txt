@@ -1,0 +1,9 @@
+PIFO_HUMAN/44-80                   HRGPGC.YFSDGYG.......LAYDLSKIPTSIK...GYT...............................LGARTA......VR
+STPG1_HUMAN/147-179                TPAPNY.YNASV...........SCCKQRNNVCT...RAG...............................FMSKTQ......RG
+Q8NBE7_HUMAN/134-168               FPGPGQ.YEIVDY.........LGPCKQRNNVCT...RAG...............................FMSKTQ......RG
+A1L1A8_HUMAN/169-199               TPGPCA.YQVVS...........PGVYKS..RAP...QFT...............................ILARTS......LP
+OD3L1_HUMAN/198-228                GPGPTT.YARPE...........PSIYQN..RSP...TYS...............................MAKRFA......YP
+A1L1A8_HUMAN/53-84                 GPGPGH.LVPARM..........TVRGTD..GAP...AYS...............................IYGRPR......RS
+OD3L2_HUMAN/121-152                TPGPGA.YSPEKV..........PPVRHR..TPP...AFT...............................LGCRLP......LK
+LEXM_HUMAN/122-155                 KLGPGS.YNLKD.............FLEQLREKP...CSTR............................GLLSSGEV......RF
+STPG2_HUMAN/157-205                GPGPGQ.YDIVQKKT.....SYYENVNIKRDQQQ...NYCSFIPR.....................LYEIIVLQEKK......KR

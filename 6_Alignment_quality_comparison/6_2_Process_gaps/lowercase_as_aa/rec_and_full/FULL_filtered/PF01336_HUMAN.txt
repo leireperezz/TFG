@@ -1,0 +1,7 @@
+SYDM_HUMAN/66-149                      -VTLCGWIQYR---------RQN---TFLVLRDFD--GLVQVIIPQde----------------------saASVKKILCE--APVESVVQVS-GTVISR------PAGqenpkmptgEIEIKVKTAELL-----
+RFA1_HUMAN/197-286                     -WTICARVTNKSqirtwsnSRGEGKLFSLELVDES--GEIRATAFN--------------------------EQVDKFFPL--IEVNKVYYFSkGTLKIA------NKQfta---vknDYEMTFN-----netsv
+SYNM_HUMAN/44-118                      i-KIQGWIRSV---------RSQKEVLFLHVNDGSslESLQVVADS-----------------------------GLDSRE--LNFGSSVEVQ-GQLIKS------PSKr-------qNVELKAEKIKVI-----
+SYNC_HUMAN/128-208                     -VKVFGWVHRLR--------RQGKNLMFLVLRDGT--GYLQCVLAD---------------------------ELCQCYNGvlLSTESSVAVY-GMLNLTpkgkqaPGG----------HELSCDFWELI-----
+SYDC_HUMAN/60-145                      -VWVRARVHTS---------RAKGKQCFLVLRQQQ--FNVQALVAVgd---------------------hasKQMVKFAAN--INKESIVDVE-GVVRKV------NQKigs--ctqqDVELHVQKIYVI-----
+SYK_HUMAN/126-206                      l-KVAGRIHAKR--------ASGGKLIFYDLRGEG--VKLQVMANSrny--------------------kseEEFIHINNK--LRRGDIIGVQ-GNPGKT------KKG---------ELSIIPYEITLL-----
+STN1_HUMAN/57-155                      v-DVLGTVIGV---------RERDAFYSYGVDDST--GVINCICWKklntesvsaapsaarelsltsqlkklQETIEQKTK--IEIGDTIRVR-GSIRTY------REE----------REIHATTY---ykv--

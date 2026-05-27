@@ -1,0 +1,4 @@
+RL26_HUMAN/8-50                TSDRSKNRKRHFNAPSHIRRKIMSSPLSKELRQKYNVRSMPIR---------------------------------------
+RL26_HUMAN/84-122              -------------------------------------------RVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERK
+RL26L_HUMAN/8-50               TSDRSKNRKRHFNAPSHVRRKIMSSPLSKELRQKYNVRSMPIR---------------------------------------
+RL26L_HUMAN/84-122             -------------------------------------------RVQREKANGTTVHVGIHPSKVVITRLKLDKDRKKILERK

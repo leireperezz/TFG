@@ -1,0 +1,4 @@
+LRC24_HUMAN/259-349                    PPSVH......VQPLELT.......ANLGE.DLR....V.ACQA....SGYPQP.......LV......TWRK.VPQ...............PREGRPRAQAQL...........EGGLLG.LG...GHSASDTGSGM.........LFLSN...........IT.LAH.AGKYE.CEASN
+CEAM5_HUMAN/502-575                    KPSIS......SNNSKP........VEDKD.AVA....F.TCEP....EAQNT........TY......LWWV.NGQ...............SLPVSPR......................L........QLSNGNRT.........LTLFN...........VT.RND.ARAYV.CGIQN
+TUTLA_HUMAN/226-305                    PPVIV......VPPKNST.......VNASQ.DVS....L.ACHA....EAYPAN......LTY......SWFQ.DNI...............NVFHISRL....................Q.P......RVRILVDGS.........LRLLA...........TQ.PDD.AGCYT.CVPSN
+WFKN1_HUMAN/185-267                    PPALY......SSPSPQA.......VQVGG.TAS....L.HCDV....SGRPPP.......AV......TWEK.QSH...............Q...RENLIMR..............PDQM.Y.....GNVVVTSIGQ.........LVLYN...........AR.PED.AGLYT.CTARN

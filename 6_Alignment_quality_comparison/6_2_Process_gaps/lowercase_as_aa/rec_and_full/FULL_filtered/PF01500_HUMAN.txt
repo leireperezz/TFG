@@ -1,0 +1,15 @@
+KRA13_HUMAN/1-49                     ---MTCCQTSFCGYPSCSTSGTCGSSCCQPSCCE-TSCCQPSCCETSCCQPSC--------------------------------------------------------------------------------------------------------------------
+KRA13_HUMAN/68-177                   --s-----------------------------------------------------SCCQPS----CCETSCCQPSCCQTSSCGTGCGIGGGIGYGQEGSSGAVSTRIRWCRPDCRVEGTCLPPCCVVSCTPPTCCQLHHAEASCCRPSYCGQSCCRPVCCCYSCEPTC
+KRA15_HUMAN/38-83                    --r--SCQTSFCGFPSFSTSGTCSSSCCQPSCCE-TSCCQPSCCETSCCQP----------------------------------------------------------------------------------------------------------------------
+KRA11_HUMAN/1-49                     ---MACCQTSFCGFPSCSTSGTCGSSCCQPSCCE-TSSCQPRCCETSCCQPSC--------------------------------------------------------------------------------------------------------------------
+KRA24_HUMAN/1-73                     mtg------SCCG-STLSSLS-YGGGCCQPCCCRdPCCCRPVTCQTTVCRPVTCVPRCTRPICEP------CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA14_HUMAN/18-121                   --s---------------------------------------------------------------CCETSCCQPSCCQTSSCGTGCGIGGGIGYGQEGSGGSVSTRIRWCHPDCHVEGTCLPPCYLVSCTPPSCCQLHHAEASCCRPSYCGQSCCRPACCCHCCEPTC
+KRA22_HUMAN/1-73                     mtg-SCCG------STFSSLS-YGGGCCQPCCCRdPCCCRPVTCQTTVCRPVTCVPRCTRPICEP------CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA15_HUMAN/1-42                     ---MTCCQTSFCGYPSFSISGTCGSSCCQPSCCE-TSCCQPRSCQT---------------------------------------------------------------------------------------------------------------------------
+KRA11_HUMAN/68-177                   --s-----------------------------------------------------SCCQPS----CCETSCCQPSCYQTSSCGTGCGIGGGIGYGQEGSSGAVSTRIRWCRPDCRVEGTCLPPCCVVSCTPPSCCQLHHAEASCCRPSYCGQSCCRPVCCCYCSEPTC
+KRA11_HUMAN/47-88                    --p-SCCQTSFCGFPSFSTGGTCDSSCCQPSCCE-TSCCQPSCYQT---------------------------------------------------------------------------------------------------------------------------
+KRA15_HUMAN/73-174                   ----------------------------------------------------------------PsCCETSCCQPSCCQISSCGTGCGIGGGISYGQEGSSGAVSTRIRWCRPDSRVEGTYLPPCCVVSCTPPSCCQLHHAQASCCRPSYCGQSCCRPVCC---CEPTC
+KRA13_HUMAN/48-87                    ----SCCQTSFCGFPSFSTSGTCSSSCCQPSCCE-TSCCQPSCCQ----------------------------------------------------------------------------------------------------------------------------
+KRA23_HUMAN/1-73                     mtg------SCCG-STLSSLS-YGGGCCQPCCCRdPCCCRPVTCQTTVCRPVTCVPRCTRPICEP------CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------
+KRA49_HUMAN/1-140                    mvs-------SCCGSVCSDQG-CGQDLCQETCCR-PSCCETTCCRTTCCRPSCCVSSCCRPQ----CCQSVCCQPTCSRPSCCQTTC--CRTTCY---RPSCCVSS---CCRPQCCQPACCQPTCCRPSCCETTCCHPRCCISSCCRPSCCVSSCCKPQCC--------
+KRA21_HUMAN/1-73                     mtg-SCCG------STFSSLS-YGGGCCQPCCCRdPCCCRPVTCQTTVCRPVTCVPRCTRPICEP------CRRPVCCDPCSLQEGC----------------------------------------------------------------------------------

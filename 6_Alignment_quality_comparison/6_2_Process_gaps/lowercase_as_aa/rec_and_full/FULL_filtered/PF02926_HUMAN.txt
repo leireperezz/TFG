@@ -1,0 +1,3 @@
+THUM1_HUMAN/111254                    -------------------------------------------------emrlrrfqsvESGANNVVFIRTLGIEPEKLVHHILQDMYKTKkkktrVILRMLPI------SGTCKAFLEDMKKYAETFLEPWFKAPNKgTFQIVYKSRNNS--HVNREEVIRELAGIVCTLNSeNKVDLTNPQYTVVVEIIKAVCCLSVVk-------
+THUM2_HUMAN/120263                    akkeklsqrddnqlkrkvgeneiiakklkieqmqkieenrdcqlekqikeetleqrdft---------------------------------------------------TKSEKFQEEEFQNDIEKAIDTHNQNDL--TFRVSCRCSGTIGkAFTAQEVGKVIGIAIMKHFG-WKADLRNPQLEIFIHL----------ndiysvvg
+THUM3_HUMAN/134285                    --kinasfkkkkakrkkinqnsskekinngqevkidqrnvkkeftshaldshildyyen--------------------------------------------PaikedvSTLIGDDLASCKDETDESSKEETEPQVL-KFRVTCNRAGEKH-CFTSNEAARDFGGAVQDYFK-WKADMTNFDVEVLLNIHDNEVIVGIAl-------

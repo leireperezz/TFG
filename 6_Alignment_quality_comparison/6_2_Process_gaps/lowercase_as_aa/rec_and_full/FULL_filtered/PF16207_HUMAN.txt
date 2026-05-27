@@ -1,0 +1,7 @@
+BMI1_HUMAN/162-226                     RYLRCPAAMTVMHLRKFLRSKMDIPNT-------------------------------------------------------FQIDVMYEEEP--LKDYYTLmDIAYIYTWR-RNGPLPLKYR-----
+PCGF5_HUMAN/163-221                    KFIRCSTRVTVGTIKKFLSLKLKLPSS-------------------------------------------------------YELDVLCNGEI--MGKDHTM-EFIYMTRWR-----------lrgen
+PCGF2_HUMAN/164-228                    RFLRCPAAMTVMHLAKFLRNKMDVPSK-------------------------------------------------------YKVEVLYEDEP--LKEYYTLmDIAYIYPWR-RNGPLPLKYR-----
+PCGF1_HUMAN/190-253                    KYVRCSVRAEVRHLRRVLCHRLMLNPQ--------------------------------------------------------HVQLLFDNEV--LPDHMTM-KQIWLSRWFgKPSPLLLQYS-----
+RING1_HUMAN/282-400                    RYVKTTGNATVDHLSKYLALRIALERRQQqeagepggpgggasdtggpdgcggegggagggdgpeepalpslegvSEKQYTIYIAP--GGGAFttLNGSLTL-ELVNEKFWK-VSRPLELCYA-----
+RING2_HUMAN/246-330                    RYIKTSGNATVDHLSKYLAVRLALEELRSkgesnq----------------------------------mnldtaSEKQYTIYIAT--ASGQFtvLNGSFSL-ELVSEKYWK-VNKPMELYYA-----
+PCGF3_HUMAN/172-236                    KWIRCSAQATVLHLKKFIAKKLNLSSF-------------------------------------------------------NELDILCNEEI--LGKDHTL-KFVVVTRWRfKKAPLLLHYR-----

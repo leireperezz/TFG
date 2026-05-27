@@ -1,0 +1,5 @@
+FWCH1_HUMAN/480532                  PPDLGGLEALRQREKRPNTAQGSPGGPEFLK-------------------------------
+FWCH1_HUMAN/659684                  QPDLAGLEALRQRERLPTT-------------------------------------------
+FWCH1_HUMAN/568586                  PPDLGGLEALRQREH-----------------------------------------------
+FWCH1_HUMAN/332393                  QPDMEGLEARRQQEKAVETLQAGQDGPGSQVDTLLRGVDSLLYRRGPGPLTLTRPRPRKRAK
+FWCH1_HUMAN/175224                  APDEQGLEARRQREKALPEGLGEPEGPGGRVEEPLEGV------------------------

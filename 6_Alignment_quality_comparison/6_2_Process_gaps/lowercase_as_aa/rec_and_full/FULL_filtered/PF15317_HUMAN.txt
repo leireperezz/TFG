@@ -1,0 +1,3 @@
+LBHD2_HUMAN/32-67                      gprlg----------------------------------------------------------------------------------QRLPSIVVEPSEADPVESGELRWPLE----------------------saqrg
+LBHD1_HUMAN/1-128                      -----MALVPGRSKeDGLWTRNSPGSSQHPESPRLPNPLW-DRGKIGKVEGHQHiqvstssacvwqlayppvwpnlpavpIQDFSQKSHLPSIVVESSEVN-EESGDLHLPHEELLLLTDGeEEDAEAFFQDQSE-----
+LBH_HUMAN/18-104                       -----MTEVMMNTQ-----PMEEIGLSPRKD--GLSYQIFPDPSDFDRCCKLKD----------------------------------RLPSIVVEPTE-GEVESGELRWPPEEFLVQEDE-QDNCEETAKENKE-----

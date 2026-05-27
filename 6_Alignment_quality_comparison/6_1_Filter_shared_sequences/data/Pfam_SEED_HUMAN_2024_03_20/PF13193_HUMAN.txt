@@ -1,0 +1,6 @@
+ACSS3_HUMAN/570-649                  AIEESILSHGT.VADCA...VV..GKEDP.LKG....HV.PLALCV..L...R.K........D...I.....N..ATEE...........QVLEEIVKHV.....RQ......NIGP..V.A.AFR.NAV.FV.K.Q..LPK..TRSGK
+DIP2C_HUMAN/1458-1532                DIETSVIRAHKSVTECA...VF........TWT....NL.LVVVVE..L.....D........G...S....EQ..EAL.............DLVPLVTNV.............VLEE..H.YLIVG.VVV.VV.D.IGVIPI..NSRGE
+ACSL5_HUMAN/557-632                  KIENIYNRSQP.VLQIF...VH..GESLR........SS.LVGVVV..P..............D.........T....................DVLPSFAAKLGVKG......SFEE..L...CQNQVVREAILE.D..LQKIGKESGL
+ACSL1_HUMAN/572-643                  KIENIYMRSEP.VAQVF...VH..GESLQ........AF.LIAIVV..P..............D.........V....................ETLCSWAQK.RGFE......G..S..FEELCRNKDVKKAI...L..EDM..VRLGK
+ACSL6_HUMAN/572-643                  KIENIYIRSQP.VAQIY...VH..GDSLK........AF.LVGIVV..P..............D.........P....................EVMPSWAQ...KRG......IEGT..YADLCTNKDLKKAILE.D....M..VRLGK
+S27A6_HUMAN/495-571                  EVADVIGMLDF.IQEAN...VY..GVAISGYEG....RA.GMASII..L...KPN........T.SLD.....L....................EKVYEQV.....VT......FLPA..Y.A.CPR.FLR.IQ.E.K..MEA..TGTFK

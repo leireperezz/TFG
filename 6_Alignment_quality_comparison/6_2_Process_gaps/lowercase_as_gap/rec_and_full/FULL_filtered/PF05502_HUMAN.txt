@@ -1,0 +1,2 @@
+DCTN4_HUMAN/135-375                    -----------------------------------------------------------------------------------------------------LTEVTTLQQRLLQPDFQPVCASQLYPRHKHLLIKRSLRCRKCEHNLSKPEFNPTSIKFKIQLVAVNYIPEVRIMSIPNLRYMKESQVLLTLTNPVENLTHVT
+DCTN4_HUMAN/23-177                     PLSQLYFCRYCSELRSLECVSHEVDSHYCPSCLENMPSAEAKLKKNRCANCFDCPGCMHTLSTRATSISTQLDDPAKTTMKKAYYLACGFCRWTSRDVGMA------------------------------------------------------------------------------------------------------

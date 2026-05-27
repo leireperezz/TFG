@@ -1,0 +1,11 @@
+THYG_HUMAN/45-92               --------qad-----------------------YVPQCA-EDGSFQTVQCQN----DGRSCWCVGAN-GSEVLGSRQPGRP-VAC-----
+THYG_HUMAN/96-160              -----------CQLQKQQILLSG--YINST-DTSYLPQCQ-DSGDYAPVQCDV----QQVQCWCVDAE-GMEVYGTRQLGRP-KRC-----
+THYG_HUMAN/312-358             --------ghp-----------------------YVPSCR-RNGDYQAVQCQT-----EGPCWCVDAQ-GKEMHGTRQQGEP-PSC-----
+THYG_HUMAN/603-658             -----lssqtc---------------EQTP-ERLFVPSCT-TEGSYEDVQCFS------GECWCVNSW-GKELPGSRVRGGQ-PRC-----
+THYG_HUMAN/662-724             -----------CEKQRARMQSLM--GSQPAgSTLFVPACT-SEGHFLPVQCFN------SECYCVDAE-GQAIPGTRSAIGK-P--k----
+THYG_HUMAN/750-776             -----smlptl--------------------SDTYIPQCS-TDGQWRQVQCNG--------------------------------------
+THYG_HUMAN/896-921             ----------r-------------------------------------------------NCWCVDEA-GQELEGMRSEPSKlPTC-----
+THYG_HUMAN/1024-1067           ----------s---------------------GPYMPQCD-AFGSWEPVQCHA----GTGHCWCVDEK-GGFIPGSLTA-------rs---
+THYG_HUMAN/1091-1141           ------qarsq--------------ENPSP-KDLFVPACL-ETGEYARLQASG------AGTWCVDPAsGEELR------------pgsss
+THYG_HUMAN/1159-1210           ------rrvsp----------------------GYVPACRaEDGGFSPVQCDQ----AQGSCWCVMDS-GEEVPGTRVTGGQ-PAC-----
+IBP1_HUMAN/177-251             rielyrvvesl--------AKAQEtSGEEI-SKFYLPNCN-KNGFYHSRQCETsmdgEAGLCWCVYPWnGKRIPGSPEIRGD-PNC-----

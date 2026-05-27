@@ -1,0 +1,14 @@
+BORG3_HUMAN/22-52                      s-ISAPlGDFRHTLHVGRGGDAFGDT---------------SFL--------------------------------srh------
+BORG1_HUMAN/29-87                      -MISPPlGDFRHTIHIGSGGGSDMFGd-------------iSFLQGKFHLLPGT---MVEGPEEDGTFDLPFQFT-r--------
+PAK5_HUMAN/10-66                       -EISGP-SNFEHRVHTGFDPQEQKFT---------------GLPQQWHSLLADT-ANRPKPMVDPSCITPI-----qlap-----
+PAK6_HUMAN/11-66                       -EISAP-QNFQHRVHTSFDPKEGKFV---------------GLPPQWQNILDTL--RRPKPVVDPSRITRVQ----lqp------
+PAK4_HUMAN/10-65                       -EISAP-SNFEHRVHTGFDQHEQKFT---------------GLPRQWQSLIEES-ARRPKPLVDPACITSIQ----pg-------
+PAK2_HUMAN/73-131                      -EISPP-SDFEHTIHVGFDAVTGEFT---------------GMPEQWARLLQTSNITKLEQKKNPQAVLDVLKFY-d--------
+WASL_HUMAN/202-261                     -DIGTP-SNFQHIGHVGWDPNTGFDL--------------nNLDPELKNLFDMCGISEAQLKDRETSKVIYDFIE-k--------
+PAK1_HUMAN/74-132                      -EISLP-SDFEHTIHVGFDAVTGEFT---------------GMPEQWARLLQTSNITKSEQKKNPQAVLDVLEFYN---------
+WASP_HUMAN/237-296                     -DIGAP-SGFKHVSHVGWDPQNGFDV--------------nNLDPDLRSLFSRAGISEAQLTDAETSKLIYDFI--ed-------
+C42S2_HUMAN/28-52                      -MIGEP-TNFVHTAHVGS----------------------------------------------------------gdlfsgmns
+PAK3_HUMAN/69-142                      -EISLP-SDFEHTIHVGFDAVTGEFTpdlygsqmcpgklpeGIPEQWARLLQTSNITKLEQKKNPQAVLDVLKFY-d--------
+BORG5_HUMAN/37-67                      -MISHPlGDFRHTMHVGRGGDVFGDT---------------SFL--------------------------------snh------
+BORG4_HUMAN/26-85                      -MISAPlGDFRHTMHVGRAGDAFGDT---------------SFLNSKAGEPDGESLDEQPSSSSSKRSLLSRKFR-g--------
+BORG2_HUMAN/30-86                      -MISPPlGDFRHTIHIGKEGQHDVFGd-------------iSFLQGNYELLPGN-----QEKAHLGQFPGHNEF--fr-------

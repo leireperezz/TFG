@@ -1,0 +1,7 @@
+TSHR_HUMAN/61-127              eth--------------------------------LRTIPSHAFSNLpNISRIYVSIdvT--LQQLESHSFYNLSKVTHIEIRNtrN-LTYIDPDALK-------------elpl-------------
+TSHR_HUMAN/164-221             --m-TSIPVNAFQGlCNETLTLKL---YN--N--gFTSVQGYAFNGT-KLDAVYLNK--NkyLTVIDKDAF---------------------------------------------------------
+LSHR_HUMAN/61-133              --v-KVIPSQAFRG-LNEVIKIEI---SQidS---LERIEANAFDNLlNLSEILIQNtkN--LRYIEPGAFINLPRLKYLSIC----------------------------nt---------------
+LSHR_HUMAN/160-240             --hITTIPGNAFQG-M-NNESVTLklyGN--G---FEEVQSHAFNGT-TLTSLELKEnvH--LEKMHNGAFRGATGPKTLDISS--T------------------------klqalpsy---------
+FSHR_HUMAN/57-130              --kLRVIQKGAFSG-FGDLEKIEI---SQ--Nd-vLEVIEADVFSNLpKLHEIRIEKanN--LLYINPEAFQNLPNLQYLLIS----------------------------nt---------------
+FSHR_HUMAN/156-227             --nIHTIERNSFVG-L-SFESVILwlnKN--G---IQEIHNCAFNGT-QLDELNLSDnnN--LEELPNDVFHG--------------------------------------asgpvildisr------
+PODN_HUMAN/106-218             -nqLEKIYPEELSR-LHRLETLNL---QN--NrltSRGLPEKAFEHLtNLNYLYLAN--N--KLTLAPRFLP--NALISVDFAA--NyLTKIYGLTFGQKpNLRSVYLHNNkladaglpdnmfngssn

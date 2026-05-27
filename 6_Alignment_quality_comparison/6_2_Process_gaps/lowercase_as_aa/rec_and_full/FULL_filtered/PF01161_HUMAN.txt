@@ -1,0 +1,3 @@
+RM38_HUMAN/184312                     ------lmpvycgnevtpteaaQA--PE-VTYEA--EEGSLWTLLLTSLDGhlleP-DAE-----YLHWLLTNIPGNRVAEG-----------QVTCPYLPPFPARGSGIHRLAFLLF---KQDQPId---fsE---------------------------darpspcyqlaqrtfrtfdfykkhqetmt
+PEBP1_HUMAN/25169                     lhvtyagaavdelgkvltptqv-KnrPTsISWDGLDS-GKLYTLVLTDPDA----PSRKDpKyreWHHFLVVNMK-----------GNDISSgTVLSDYVGSGPPKGTGLHRYVWLVY---EQDRPLkcdepiLSNRSGDHRGKFKVAsFRkKYELRAPVAgtcy-------------------------
+PEBP4_HUMAN/63200                     --------dcnnyrqkitswme----PI-VKFPGA-VDGATYILVMVDPDA----PSRAEpRqrfWRHWLVTDIKGADLKKGKIQGQEL-------SAYQAPSPPAHSGFHRYQFFVYlqeG-KVISll--pkENKTR-----------------------gswkmdrflnrfhlgepeastqfmtqny-

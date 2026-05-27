@@ -1,0 +1,15 @@
+DEN2C_HUMAN/510-578                    --PQVIQQFP-----------GKDdhgykqskdmeERL-KVIPKFCFPDSK----------DwmptselKSETFSFVLTGEDGSRW-FGYCK--kl
+MTMR5_HUMAN/25-85                      -g-QILQRFP-----------EKDwe-------dnPFP-QGIELFCQPSGWQLC----PERN-------PPTFFVAVLTDINSERH-YCACLTF--
+DEN4B_HUMAN/213-278                    -a-ELLGRYP-----------EEDne-------afPLP-ESVPVFCLPMGATIEcwpaQ--Tk----ypVPVFSTFVLTGAAGDKV-YGAALQF--
+MADD_HUMAN/32-97                       --PELLRRYP-----------LEDht-------efPLP-PDVVFFCQPEGCLSV----RQRRms---lrDDTSFVFTLTDKDTGVTrYGICVNF--
+DEN1A_HUMAN/31-90                      --PEVQRQFP-----------EDYs--------dqEVL-QTLTKFCFPFYVDSL-------Tv----sqVGQNFTFVLTDIDSKQR-FGFCR--ls
+DEN2D_HUMAN/73-141                     --PIITYQFPkrenllrgqqeEEE-----------RLL-KAIPLFCFPDGNEWA---sL--Te-----yPRETFSFVLTNVDGSRK-IGYCRR-l-
+MTMRD_HUMAN/25-85                      -g-KIIQRFP-----------QKDwd-------dtPFP-QGIELFCQPGGWQLS----RE-R------kQPTFFVVVLTDIDSDRH-YCSCLTF--
+DEN5A_HUMAN/75-137                     -s-KVLARYP-----------ENVe--------wnPFDqDAVGMLCMPKGLAFK---tQ-ADp-----rEPQFHAFIITREDGSRT-FGFALTF--
+DEN4C_HUMAN/209-275                    ag--LIFRYP-----------EEDye-------sfPLSeSDVPLFCLPMGATIEc--wDPETk----ypLPVFSTFVLTGSSAKKV-YGAAIQF--
+DEN1B_HUMAN/29-88                      --PVVLWKFP-----------EDFg--------dqEIL-QSVPKFCFPFDVERV----S-QN------qVGQHFTFVLTDIESKQR-FGFCR--lt
+DEN5B_HUMAN/57-119                     -s-KVLAHYP-----------QNIe--------wnPFDqDAVNMLCMPKGLSFR---tQTDN------kDPQFHSFIITREDGSRT-YGFVLTF--
+DEN1C_HUMAN/29-87                      --PPILRQFP-----------PDFr--------dqEAM-QMVPKFCFPFDVERE---pP-SP-------AVQHFTFALTDLAGNRR-FGFCR--l-
+DEN2B_HUMAN/716-783                    --PEVSYQFPkl------drpT-Kqmr-----eaeERL-KAIPQFCFPDAK----------DwlpvseySSETFSFMLTGEDGSRR-FGYCRR-l-
+MYCPP_HUMAN/210-275                    ag--LICRYP-----------QEDye-------sfSLP-ESVPLFCLPMGATIEc--wPSNSk----ypLPVFSTFVLTGASAEKV-YGAAIQF--
+DEN2A_HUMAN/584-652                    --PELTQQFPlklersfkfmrEAE-----------DQL-KAIPQFCFPDAK----------DwvpvqqfTSETFSFVLTGEDGSRR-FGYCRR-l-

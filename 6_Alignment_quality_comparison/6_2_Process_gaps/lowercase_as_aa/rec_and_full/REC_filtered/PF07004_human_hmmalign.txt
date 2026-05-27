@@ -1,0 +1,12 @@
+STPG1_HUMAN/147-178            TPAPNYYNASV-----SCCKQRNNVCTRAGFMSKTQR-------
+STPG1_HUMAN/187-217            GPPPGHYDINE------SLVKQSPNTLMSCFKSKTNR-------
+STPG1_HUMAN/225-257            GPGPGYYNPSDc--tkVPKKTLFPKNPILNF------saqp---
+STPG1_HUMAN/267-290            -PGPGQYEIVD----yL--GPRKH-------------fissasf
+STPG4_HUMAN/176-202            GPGPGHYNVKMp--ptS--------SVTSCFQSR---vpr----
+STPG4_HUMAN/210-237            TPGPGAYTTLR------QFPKQ--SPTIAKMGQ----ehs----
+STPG2_HUMAN/62-82              VPGPGHYNVSE--------AQKISRSP----------tl-----
+STPG2_HUMAN/157-172            GPGPGQYDIVQ-------K------------------ktsy---
+STPG2_HUMAN/213-232            TPAPGTYNEPR------TALKSLK-------------kt-----
+STPG2_HUMAN/257-291            -PGPGFYNVLNntiiaSVRNICSKKQKKSAFGS----svp----
+STPG2_HUMAN/351-371            -PAPGSYDVHKsy-emSQVKH----------------ky-----
+STPG2_HUMAN/400-412            GPGPAAYNPV---------------------------lrk----

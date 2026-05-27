@@ -1,0 +1,4 @@
+D6REX0_HUMAN/53-146                 HVVGPV....RVDA..SGHFLSY....GLHYP...................ITSSRR.KRDL........DGSE......................................DWVYYRISHEEKDLFFNLTVN.QGFLSNSYIME.KRYGNLSHVK..MM..ASSA.........................PLCHLSGT.VL
+Q2XQZ0_HUMAN/61-152                 DLVSAY....EVDH..RGDYVSH....EIM......................HHQRR.RRAV........PVSEV.....................................ESLHLRLKGSRHDFHMDLRTSS.SLVAPGFIVQTLGKTGTKSVQ..TL..PPED..........................FCFYQGS.LR
+H7BY08_HUMAN/46-140                 EVTEPS....RLVR.............................................ESS........GGEVRKQQLDTRV...........RQEPPGG.PP.....VHLAQVSFVIPAFNSNFTLDLELN.HHLLSSQYVER.HFSREGTTQH..ST..GAGD..........................HCYYQGK.LR
+ADAM7_HUMAN/28-114                  QLVRPK....KLPL.........................................IQ.KRDT........GHTHDDDI....................LKT.Y........EEELLYEIKLNRKTLVLHLLRS.REFLGSNYSETFYSMKGEAFTR..HP..QIMD..........................HCFYQGS.IV

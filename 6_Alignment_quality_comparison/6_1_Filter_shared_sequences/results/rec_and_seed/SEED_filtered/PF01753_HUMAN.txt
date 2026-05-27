@@ -1,0 +1,6 @@
+ZMY15_HUMAN/313-359                C..HVCHR...................HSFEAKLTPC.PQC...........S...AV....LYCGEACLRADW.QRCPDDVS....HRFWC
+ANKY2_HUMAN/320-357                C..TTCGE....................KGASK..RC.SVC...........K...MV....IYCDQTCQKTHW.F......T....HKKIC
+MSS51_HUMAN/105-149                C..AHCRALPS.............GLSDSKVLR..HC.KRC...........R...NV....YYCGPECQKSDW.P......A....HRRVC
+TDRD1_HUMAN/170-206                C..HRCGL.....................FGSL..RC.SQC...........K...QT....YYCSTACQRRDW.S......A....HSIVC
+EGLN1_HUMAN/21-58                  C..ELCGK....................MENLL..RC.SRC...........R...SS....FYCCKEHQRQDW.K......K....HKLVC
+ZMY10_HUMAN/394-430                C..AYCSA.....................EASK..RC.SRC...........Q...NE....WYCCRECQVKHW.E......K....HGKTC

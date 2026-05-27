@@ -1,0 +1,6 @@
+SYAC_HUMAN/694-753                     -VRVVSIGVpvsellddpsgpagslTSVEFCGGTHLRNSSHAGAFVIV-------TEEAIAKGIRRIV------
+SYAM_HUMAN/721-778                     -VRVVSVGVpvahald-pasqaalqTSVELCCGTHLLRTGAVGDLVII-------GDRQLSKGTTRL-------
+AASD1_HUMAN/196-241                    -IRVVNIEG----------------VDSNMCCGTHVSNLSDLQVIKILg----teKGKKNR-------tnlifl
+SYTC2_HUMAN/328-377                    t-TVYRCGP-----------------LIDLCKGPHVRHTGKIKTIKIFknsstywEGNPEMETLQRIY------
+SYTC_HUMAN/249-298                     t-TVYRCGP-----------------LIDLCRGPHVRHTGKIKALKIHknsstywEGKADMETLQRIY------
+SYTM_HUMAN/228-277                     a-TVYGCGT-----------------LVDLCQGPHLRHTGQIGGLKLLsnssslwRSSGAPETLQRV-s-----

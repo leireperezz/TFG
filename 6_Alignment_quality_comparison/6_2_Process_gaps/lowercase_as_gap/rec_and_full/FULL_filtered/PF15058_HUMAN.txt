@@ -1,0 +1,4 @@
+SPERI_HUMAN/1-144                    MSLLTNYEGLRHQIERLVRENEELKKLVRLIRENHELKSALGEATAGLSSRQNNGVFLPPSPAVANERVLEEVGIMALAPLAEMLTSLQPSATPGSLMSPLTGTLSTLLSGPAPTSQSSPLTSFLT-------------------------------------------------------------------------------
+SPC1L_HUMAN/1-103                    ----------GELMSRLLSENADLKKQVRLLKENQMLRRLLSQSCQEGGGHD---LLPPRAHAYP-EAGSPGSGVPDFGRFTSVADTPSQLQ---------TSSLEDLLCSHAPLSSED--------------------------------------------------------------------------------------
+SPERI_HUMAN/133-228                  ------------------------------------------------------------------------------------------------------------------------------SSPLTSFLTSPIAGPLTGTLASSLGLPSTGTLTPSSPVMGTVAVSLSSPLLSSTATPPGVSQNLLANPMSNLVLPEAPR
+SPC1L_HUMAN/98-153                   ------------------------------------------------------------------------------------------------------------------------------------------DTSPG--CAAPSQAPFKAFLSPPEPHSHRGTDRKLSPLLSP-----------LQDSLVDKTLLE-PR

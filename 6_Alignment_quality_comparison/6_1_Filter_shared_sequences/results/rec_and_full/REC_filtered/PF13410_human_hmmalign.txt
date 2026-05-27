@@ -1,0 +1,6 @@
+CLIC1_HUMAN/126-210            ........................ndnl-------EKGLLKALKVLDNYLTsplpeevdetsaedegvSQR.........kFLDGNELTLADCNLLPKLHIVQVVckkYRGF...TIP.EA.FRGVHRYL--
+CLIC2_HUMAN/169-216            ..........................sr-----------------------.................--R.........lFLDGDQLTLADCSLLPKLNIIKVAakkYRDF...DIP.AE.FSGVWRYL--
+CLIC3_HUMAN/126-207            ..........................al-------YQQLLRALARLDSYLRaplehela.gepqlresR-R.........rFLDGDRLTLADCSLLPKLHIVDTV...CAHFrqaPIP.AE.LRGVRRYLD-
+GDAP1_HUMAN/208-282            ...........................i-------LDELEKVLDQVETELQ.................RRNeetpeegqqpWLCGESFTLADVSLAVTLHRLKFL...GFAR..rNWGnGK.RPNLETYYER
+CLIC5_HUMAN/301-378            tkalkklddylntplpeeidantcgedk-----------------------.................--Gsr......rkFLDGDELTLADCNLLPKLHVVKIVakkY--Rn.yDIP.AE.MTGLWRYLK-
+GD1L1_HUMAN/230-304            ..........................il--------GELAMVLDQIEAELE.................KRKlenegqkcelWLCGCAFTLADVLLGATLHRLKFL...GLSK..kYWE.DGsRPNLQSFFER

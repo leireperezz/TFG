@@ -1,0 +1,7 @@
+B8ZZW4_HUMAN/225-316                   RPVIV......SPANETM......EVDLGS.QIQ....L.ICNV....TGQLSD......IA.......YWKW.NGSV.............IDEDDPVLGEDY.............YSVEN.PA....NKRRSTLITV.........LNISE...........IE.SRFYKHPFT.CFAKN
+C9JIE7_HUMAN/28-101                    PPSCR......LQGVPH..........VGA.NVT....L.SCQS....PRSKPA......VQY......QWDR.QLPSF..........QTFFAPAL...................................DVIRGS.........LSLTN...........LS.SSM.AGVYV.CKAHN
+LRC24_HUMAN/259-349                    PPSVH......VQPLELT.......ANLGE.DLR....V.ACQA....SGYPQP.......LV......TWRK.VPQ...............PREGRPRAQAQL...........EGGLLG.LG...GHSASDTGSGM.........LFLSN...........IT.LAH.AGKYE.CEASN
+CEAM5_HUMAN/502-575                    KPSIS......SNNSKP........VEDKD.AVA....F.TCEP....EAQNT........TY......LWWV.NGQ...............SLPVSPR......................L........QLSNGNRT.........LTLFN...........VT.RND.ARAYV.CGIQN
+TUTLA_HUMAN/226-305                    PPVIV......VPPKNST.......VNASQ.DVS....L.ACHA....EAYPAN......LTY......SWFQ.DNI...............NVFHISRL....................Q.P......RVRILVDGS.........LRLLA...........TQ.PDD.AGCYT.CVPSN
+LIGO3_HUMAN/406-484                    KPKIRE...RRLQRVTA.........TAGE.DVR....F.LCRA....EGEPAP.......TV......AWVT.PQHRPV........TATSAGRAR...................................VLPGGT.........LEIQD...........AR.PQD.SGTYT.CVASN
+WFKN1_HUMAN/185-267                    PPALY......SSPSPQA.......VQVGG.TAS....L.HCDV....SGRPPP.......AV......TWEK.QSH...............Q...RENLIMR..............PDQM.Y.....GNVVVTSIGQ.........LVLYN...........AR.PED.AGLYT.CTARN

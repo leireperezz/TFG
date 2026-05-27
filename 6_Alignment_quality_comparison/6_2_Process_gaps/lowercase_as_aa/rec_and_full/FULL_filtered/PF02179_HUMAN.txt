@@ -1,0 +1,7 @@
+BAG5_HUMAN/369-441                     ---------------------vwnvlgnl--------S-EIQGEVLSFDGNR----------------------TDKNYIR--LEELLTKQLLALDAVDPQGE-EKCKAARKQAVRLAQNILSYLDL-k
+BAG5_HUMAN/176-259                     sedahpsvakinfvmcevnkargvliall-------------------MGVN----------------------NNETCRH--LSCVLSGLIADLDALDVCGR-TEIRNYRREVVEDINKLLKYLDL-e
+BAG5_HUMAN/13-85                       -----------------------------LQEIQKEVKSV-EQQVIGFSGLS----------------------DDKNYKK--LERILTKQLFEIDSVDTEGK-GDIQQARKRAAQETERLLKELEQ-n
+BAG5_HUMAN/279-349                     -----------------------------IEKVLKRMREIKNELLQAQNP-------------------------SELYLS--SKTELQGLIGQLDEVSLEKN-PCIREARRRAVIEVQTLITYIDL-k
+BAG1_HUMAN/227-325                     ------------------evelkklkhle-----KSVEKI-ADQLEELN---KeltgiqqgflpkdlqaealckLDRR--VkaTIEQFMKILEEIDTLILPENfKDSRLKRKGLVKKVQAFLAECDT-v
+BAG3_HUMAN/425-497                     -----------------------------VEAILEKVQGL-EQAVDNFEGKK----------------------TDKKYLM--IEEYLTKELLALDSVDPEGR-ADVRQARRDGVRKVQTILEKLEQK-
+BAG4_HUMAN/383-455                     ---------------------------ii--HVLEKVQYL-EQEVEEFVGKK----------------------TDKAYWL--LEEMLTKELLELDSVETGGQ-DSVRQARKEAVCKIQAILEKLEK-k

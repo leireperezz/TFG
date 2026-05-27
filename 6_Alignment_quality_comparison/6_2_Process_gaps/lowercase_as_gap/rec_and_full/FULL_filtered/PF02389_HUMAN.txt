@@ -1,0 +1,6 @@
+SPRR3_HUMAN/67167                     ----------------------------------TKVPEPGCTKVPEPGCTKVPEPGCTKVPEPGCTKVPEPGYTKVPEPGSIKVPDQGFIKFPEPGAIKVPEQGYTKVPVPGYTKLPEPCPSTVTPGPAQQKTK
+SPR1B_HUMAN/6587                      ----------------------------------------------------------------------------------------------------------------CHPKVPEPCPSIVTPAPAQQKTK
+SPRR3_HUMAN/1789                      QQQQVKQPSQPPPQEIFVPTTKEPCHSKVPQPGNTKIPEPGCTKVPEPGCTKVPEPGCTKVPEPGCTKVPEPG--------------------------------------------------------------
+SPR1A_HUMAN/5987                      ----------------------------------------------------------------------------------------------------------PKVPEPCQPKVPEPCPSTVTPAPAQQKTK
+SPR1A_HUMAN/1773                      QQQQVKQPCQPPPQEPCIPKTKEPCHPKVPEPCHPKVPEPCQPKVPEPCQPKVPEPC------------------------------------------------------------------------------
+SPR1B_HUMAN/1774                      QQQQVKQPCQPPPQEPCIPKTKEPCHPKVPEPCHPKVPEPCQPKVPEPCHPKVPEPC------------------------------------------------------------------------------

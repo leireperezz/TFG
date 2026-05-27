@@ -1,0 +1,5 @@
+VGLL1_HUMAN/21-51                      .......TEWNSRCVLFTYFQGDISSVVDEHFSRALSN..
+H7C571_HUMAN/28-46                     ......q-------------QGDIGSVVDEHFSRALGQ..
+VGLL3_HUMAN/82-112                     .......EYLNSRCVLFTYFQGDIGSVVDEHFSRALGQ..
+VGLL2_HUMAN/79-109                     .......EYINSRCVLFTYFQGDISSVVDEHFSRALSQ..
+H0Y5G3_HUMAN/1-16                      ......x----------------ISSVVDEHFSRALSN..

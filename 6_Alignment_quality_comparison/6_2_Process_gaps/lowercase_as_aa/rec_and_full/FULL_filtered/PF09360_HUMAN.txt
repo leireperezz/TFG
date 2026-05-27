@@ -1,0 +1,4 @@
+CISD2_HUMAN/70115                     -----------------------linlkiqkeNPKVVNEINIEDLcltkAAYCRCWRSKTFPACDGSHN-
+CISD3_HUMAN/3876                      -----------------rsvvalktpikvelv--------AGKT-----YRWCVCGRSKKQPFCDGSH-f
+CISD3_HUMAN/81114                     -----------------------glsplkfka-------Q-ETRM----VALCTCKATQRPPYCDGTHR-
+CISD1_HUMAN/3388                      rfyvkdhrnkaminlhiqkdnpkivhafdmed------------Lg-dkAVYCRCWRSKKFPFCDGAH-t
